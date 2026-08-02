@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T01:24:23.284326+08:00",
+  "generated_at": "2026-08-02T10:40:09.668528+08:00",
   "trade_date": "20260731",
   "pump_suspicion": [
     {
@@ -12,10 +12,10 @@
       "sell_lot": 35949,
       "buy_amt_wan": 50706,
       "daytrade_ratio": 0.75,
-      "amt_vs_median_x": 49.6,
+      "amt_vs_median_x": 49.3,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 75% (> 70%) + 漲停 + 買金額 50,706 萬 (中位數 1,022 萬 × 49.6)"
+      "reasoning": "當沖比 75% (> 70%) + 漲停 + 買金額 50,706 萬 (中位數 1,029 萬 × 49.3)"
     },
     {
       "stock_code": "3481",
@@ -27,10 +27,10 @@
       "sell_lot": 3671,
       "buy_amt_wan": 21403,
       "daytrade_ratio": 0.78,
-      "amt_vs_median_x": 6.0,
+      "amt_vs_median_x": 5.9,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 78% (> 70%) + 漲停 + 買金額 21,403 萬 (中位數 3,555 萬 × 6.0)"
+      "reasoning": "當沖比 78% (> 70%) + 漲停 + 買金額 21,403 萬 (中位數 3,603 萬 × 5.9)"
     },
     {
       "stock_code": "00991A",
@@ -57,10 +57,10 @@
       "sell_lot": 1322,
       "buy_amt_wan": 2927,
       "daytrade_ratio": 0.73,
-      "amt_vs_median_x": 13.5,
+      "amt_vs_median_x": 13.7,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 73% (> 70%) + 漲停 + 買金額 2,927 萬 (中位數 216 萬 × 13.5)"
+      "reasoning": "當沖比 73% (> 70%) + 漲停 + 買金額 2,927 萬 (中位數 213 萬 × 13.7)"
     },
     {
       "stock_code": "3481",
@@ -72,10 +72,10 @@
       "sell_lot": 12981,
       "buy_amt_wan": 60866,
       "daytrade_ratio": 0.96,
-      "amt_vs_median_x": 17.1,
+      "amt_vs_median_x": 16.9,
       "rule": "A_pump",
       "severity": "high",
-      "reasoning": "當沖比 96% (> 70%) + 漲停 + 買金額 60,866 萬 (中位數 3,555 萬 × 17.1)"
+      "reasoning": "當沖比 96% (> 70%) + 漲停 + 買金額 60,866 萬 (中位數 3,603 萬 × 16.9)"
     },
     {
       "stock_code": "3362",
@@ -102,10 +102,10 @@
       "sell_lot": 157,
       "buy_amt_wan": 112054,
       "daytrade_ratio": 0.75,
-      "amt_vs_median_x": 20.6,
+      "amt_vs_median_x": 16.2,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 75% (> 70%) + 漲停 + 買金額 112,054 萬 (中位數 5,442 萬 × 20.6)"
+      "reasoning": "當沖比 75% (> 70%) + 漲停 + 買金額 112,054 萬 (中位數 6,928 萬 × 16.2)"
     },
     {
       "stock_code": "6488",
@@ -147,10 +147,10 @@
       "sell_lot": 8580,
       "buy_amt_wan": 184695,
       "daytrade_ratio": 0.81,
-      "amt_vs_median_x": 19.0,
+      "amt_vs_median_x": 17.1,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 81% (> 70%) + 漲停 + 買金額 184,695 萬 (中位數 9,720 萬 × 19.0)"
+      "reasoning": "當沖比 81% (> 70%) + 漲停 + 買金額 184,695 萬 (中位數 10,788 萬 × 17.1)"
     },
     {
       "stock_code": "2330",
@@ -180,7 +180,7 @@
       "amt_vs_median_x": 15.5,
       "rule": "A_pump",
       "severity": "high",
-      "reasoning": "當沖比 99% (> 70%) + 漲停 + 買金額 32,525 萬 (中位數 2,100 萬 × 15.5)"
+      "reasoning": "當沖比 99% (> 70%) + 漲停 + 買金額 32,525 萬 (中位數 2,101 萬 × 15.5)"
     }
   ],
   "wash_trade": [
@@ -695,178 +695,12 @@
       "reasoning": "7000 買 115 張 vs 779Z 賣 83 張 (匹配 72%)"
     }
   ],
-  "distribution": [
-    {
-      "stock_code": "3167",
-      "stock_name": "大量",
-      "branch_code": "1260",
-      "branch_name": "宏遠證券",
-      "master": "林滄海",
-      "sell_lot": 921,
-      "sell_amt_wan": 44108,
-      "avg_30d_sell_lot": 158.5,
-      "sell_vs_avg_x": 5.8,
-      "recent_5d_limit_up_count": 18,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 921 張 (30 天均 158 張 × 5.8) + 近 5 天漲停 18 次"
-    },
-    {
-      "stock_code": "00981A",
-      "stock_name": "主動統一台股增長",
-      "branch_code": "9100",
-      "branch_name": "群益金鼎證券",
-      "master": "張濬安(航海王)",
-      "sell_lot": 135809,
-      "sell_amt_wan": 354148,
-      "avg_30d_sell_lot": 25085.6,
-      "sell_vs_avg_x": 5.4,
-      "recent_5d_limit_up_count": 64,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 135,809 張 (30 天均 25086 張 × 5.4) + 近 5 天漲停 64 次"
-    },
-    {
-      "stock_code": "0052",
-      "stock_name": "富邦科技",
-      "branch_code": "9100",
-      "branch_name": "群益金鼎證券",
-      "master": "張濬安(航海王)",
-      "sell_lot": 21145,
-      "sell_amt_wan": 125327,
-      "avg_30d_sell_lot": 3567.8,
-      "sell_vs_avg_x": 5.9,
-      "recent_5d_limit_up_count": 26,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 21,145 張 (30 天均 3568 張 × 5.9) + 近 5 天漲停 26 次"
-    },
-    {
-      "stock_code": "00991A",
-      "stock_name": "主動復華未來50",
-      "branch_code": "9100",
-      "branch_name": "群益金鼎證券",
-      "master": "張濬安(航海王)",
-      "sell_lot": 50822,
-      "sell_amt_wan": 78273,
-      "avg_30d_sell_lot": 10084.1,
-      "sell_vs_avg_x": 5.0,
-      "recent_5d_limit_up_count": 54,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 50,822 張 (30 天均 10084 張 × 5.0) + 近 5 天漲停 54 次"
-    },
-    {
-      "stock_code": "00992A",
-      "stock_name": "主動群益科技創新",
-      "branch_code": "9100",
-      "branch_name": "群益金鼎證券",
-      "master": "張濬安(航海王)",
-      "sell_lot": 36774,
-      "sell_amt_wan": 54462,
-      "avg_30d_sell_lot": 6592.9,
-      "sell_vs_avg_x": 5.6,
-      "recent_5d_limit_up_count": 25,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 36,774 張 (30 天均 6593 張 × 5.6) + 近 5 天漲停 25 次"
-    },
-    {
-      "stock_code": "00631L",
-      "stock_name": "元大台灣50正2",
-      "branch_code": "9A9g",
-      "branch_name": "永豐金-內湖",
-      "master": "陳族元",
-      "sell_lot": 1999,
-      "sell_amt_wan": 6564,
-      "avg_30d_sell_lot": 356.8,
-      "sell_vs_avg_x": 5.6,
-      "recent_5d_limit_up_count": 64,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 1,999 張 (30 天均 357 張 × 5.6) + 近 5 天漲停 64 次"
-    },
-    {
-      "stock_code": "00981A",
-      "stock_name": "主動統一台股增長",
-      "branch_code": "9600",
-      "branch_name": "富邦證券",
-      "master": "富邦證券",
-      "sell_lot": 96498,
-      "sell_amt_wan": 251887,
-      "avg_30d_sell_lot": 16712.1,
-      "sell_vs_avg_x": 5.8,
-      "recent_5d_limit_up_count": 64,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 96,498 張 (30 天均 16712 張 × 5.8) + 近 5 天漲停 64 次"
-    },
-    {
-      "stock_code": "00991A",
-      "stock_name": "主動復華未來50",
-      "branch_code": "9600",
-      "branch_name": "富邦證券",
-      "master": "富邦證券",
-      "sell_lot": 76702,
-      "sell_amt_wan": 118148,
-      "avg_30d_sell_lot": 15323.0,
-      "sell_vs_avg_x": 5.0,
-      "recent_5d_limit_up_count": 54,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 76,702 張 (30 天均 15323 張 × 5.0) + 近 5 天漲停 54 次"
-    },
-    {
-      "stock_code": "00992A",
-      "stock_name": "主動群益科技創新",
-      "branch_code": "9600",
-      "branch_name": "富邦證券",
-      "master": "富邦證券",
-      "sell_lot": 26222,
-      "sell_amt_wan": 38858,
-      "avg_30d_sell_lot": 4822.5,
-      "sell_vs_avg_x": 5.4,
-      "recent_5d_limit_up_count": 25,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 26,222 張 (30 天均 4822 張 × 5.4) + 近 5 天漲停 25 次"
-    },
-    {
-      "stock_code": "00981A",
-      "stock_name": "主動統一台股增長",
-      "branch_code": "9227",
-      "branch_name": "凱基-城中",
-      "master": "蔣承翰",
-      "sell_lot": 75853,
-      "sell_amt_wan": 197158,
-      "avg_30d_sell_lot": 8610.3,
-      "sell_vs_avg_x": 8.8,
-      "recent_5d_limit_up_count": 64,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 75,853 張 (30 天均 8610 張 × 8.8) + 近 5 天漲停 64 次"
-    },
-    {
-      "stock_code": "00631L",
-      "stock_name": "元大台灣50正2",
-      "branch_code": "9347",
-      "branch_name": "華南永昌-敦南",
-      "master": "謝明彧大哥(華南永昌)",
-      "sell_lot": 980,
-      "sell_amt_wan": 3147,
-      "avg_30d_sell_lot": 178.4,
-      "sell_vs_avg_x": 5.5,
-      "recent_5d_limit_up_count": 64,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 980 張 (30 天均 178 張 × 5.5) + 近 5 天漲停 64 次"
-    }
-  ],
+  "distribution": [],
   "summary": {
     "pump_count": 12,
     "wash_count": 30,
-    "distribution_count": 11,
-    "total": 53
+    "distribution_count": 0,
+    "total": 42
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
