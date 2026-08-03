@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T00:07:02.934757+08:00",
+  "generated_at": "2026-08-04T01:12:59.355279+08:00",
   "window_days": 2,
   "trade_date_range": [
     "20260731",
@@ -1942,41 +1942,41 @@
         "swing"
       ],
       "operation_metrics": {
-        "trades_count": 433,
-        "unique_stocks": 218,
-        "daytrade_ratio": 0.032,
-        "partial_ratio": 0.227,
-        "overnight_ratio": 0.741,
-        "limit_up_hit_ratio": 0.295,
-        "concentration_top5_pct": 39.2,
-        "consistency": 0.741,
-        "total_buy_amt_wan": 3157223,
-        "limit_up_locked_trades_count": 128,
-        "limit_up_locked_ratio_amt": 0.385,
-        "limit_up_locked_ratio_lot": 0.448,
+        "trades_count": 443,
+        "unique_stocks": 219,
+        "daytrade_ratio": 0.036,
+        "partial_ratio": 0.234,
+        "overnight_ratio": 0.73,
+        "limit_up_hit_ratio": 0.286,
+        "concentration_top5_pct": 38.7,
+        "consistency": 0.73,
+        "total_buy_amt_wan": 3151841,
+        "limit_up_locked_trades_count": 132,
+        "limit_up_locked_ratio_amt": 0.393,
+        "limit_up_locked_ratio_lot": 0.45,
         "long_term_stocks_count": 0,
         "long_term_amt_ratio": 0.0,
         "decay_applied": true,
         "decay_half_life": 20,
         "top_industry": "半導體業",
-        "top_industry_pct": 43.2,
-        "industry_count": 25,
+        "top_industry_pct": 43.0,
+        "industry_count": 24,
         "top3_industries": [
           {
             "name": "半導體業",
-            "pct": 43.2
+            "pct": 43.0
           },
           {
             "name": "電子零組件業",
-            "pct": 21.7
+            "pct": 21.8
           },
           {
             "name": "未分類",
-            "pct": 9.7
+            "pct": 9.8
           }
         ],
         "disposal_stocks_count": 9,
-        "disposal_amt_ratio": 0.014,
+        "disposal_amt_ratio": 0.015,
         "consecutive_accumulation": {
           "accumulation_stocks": [],
           "has_active_accumulation": false,
@@ -1988,7 +1988,7 @@
         "active_days": 2,
         "total_window_days": 2,
         "active_days_ratio": 1.0,
-        "avg_trades_per_active_day": 216.5,
+        "avg_trades_per_active_day": 221.5,
         "weekday_distribution": {
           "週一": 1,
           "週二": 0,
@@ -2021,16 +2021,16 @@
         },
         "level2_strategy": "漲停鎖定策略",
         "level3_dna": {
-          "locked_pct": 0.385,
-          "limit_up_pct": 0.295,
-          "concentration_pct": 39.2,
+          "locked_pct": 0.393,
+          "limit_up_pct": 0.286,
+          "concentration_pct": 38.7,
           "top_industry": "半導體業",
-          "top_industry_pct": 43.2,
-          "disposal_pct": 0.014,
-          "consistency": 0.741
+          "top_industry_pct": 43.0,
+          "disposal_pct": 0.015,
+          "consistency": 0.73
         }
       },
-      "narrative": "陳族元 近 2/2 交易日出手 433 次 (218 檔), 風格分布: 隔日沖近似 23% / 留倉 74%, 漲停命中 30% (其中 🔒鎖漲停 38%), 前 5 大集中 39%, ⚠️ 處置股部位 1% (9 檔)。 主軸: 漲停獵手/🔒 鎖漲停/集中投資/風格純粹。",
+      "narrative": "陳族元 近 2/2 交易日出手 443 次 (219 檔), 風格分布: 隔日沖近似 23% / 留倉 73%, 漲停命中 29% (其中 🔒鎖漲停 39%), 前 5 大集中 39%, ⚠️ 處置股部位 2% (9 檔)。 主軸: 漲停獵手/🔒 鎖漲停/集中投資/風格純粹。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -2065,12 +2065,12 @@
         },
         {
           "month": "2026-08",
-          "total_amt_wan": 1913162,
-          "trades_count": 221,
+          "total_amt_wan": 1907780,
+          "trades_count": 231,
           "top": [
             {
               "name": "半導體業",
-              "pct": 40.1
+              "pct": 39.7
             },
             {
               "name": "電子零組件業",
@@ -2090,17 +2090,17 @@
         "high_count": 0,
         "watch_count": 2,
         "bought_during_disposal_count": 3,
-        "total_exposure_wan": 13622,
+        "total_exposure_wan": 13754,
         "positions": [
           {
             "stock_code": "6531",
             "stock_name": "愛普*",
             "status": "active",
             "risk": "trapped",
-            "net_lots": 42,
-            "net_amt_wan": 3437,
-            "buy_lot": 131,
-            "sell_lot": 89,
+            "net_lots": 43,
+            "net_amt_wan": 3569,
+            "buy_lot": 133,
+            "sell_lot": 90,
             "buy_days": 2,
             "last_buy_date": "20260803",
             "bought_during_disposal": true
@@ -2574,41 +2574,41 @@
             "swing"
           ],
           "operation_metrics": {
-            "trades_count": 82,
-            "unique_stocks": 75,
-            "daytrade_ratio": 0.048,
-            "partial_ratio": 0.281,
-            "overnight_ratio": 0.671,
-            "limit_up_hit_ratio": 0.252,
-            "concentration_top5_pct": 44.0,
-            "consistency": 0.671,
-            "total_buy_amt_wan": 109011,
-            "limit_up_locked_trades_count": 18,
-            "limit_up_locked_ratio_amt": 0.184,
-            "limit_up_locked_ratio_lot": 0.197,
+            "trades_count": 92,
+            "unique_stocks": 79,
+            "daytrade_ratio": 0.065,
+            "partial_ratio": 0.306,
+            "overnight_ratio": 0.629,
+            "limit_up_hit_ratio": 0.212,
+            "concentration_top5_pct": 31.5,
+            "consistency": 0.629,
+            "total_buy_amt_wan": 103630,
+            "limit_up_locked_trades_count": 22,
+            "limit_up_locked_ratio_amt": 0.437,
+            "limit_up_locked_ratio_lot": 0.253,
             "long_term_stocks_count": 0,
             "long_term_amt_ratio": 0.0,
             "decay_applied": true,
             "decay_half_life": 20,
             "top_industry": "半導體業",
-            "top_industry_pct": 48.6,
-            "industry_count": 17,
+            "top_industry_pct": 41.6,
+            "industry_count": 16,
             "top3_industries": [
               {
                 "name": "半導體業",
-                "pct": 48.6
+                "pct": 41.6
               },
               {
                 "name": "電子零組件業",
-                "pct": 13.8
+                "pct": 14.5
               },
               {
                 "name": "未分類",
-                "pct": 9.3
+                "pct": 11.8
               }
             ],
             "disposal_stocks_count": 1,
-            "disposal_amt_ratio": 0.005,
+            "disposal_amt_ratio": 0.007,
             "consecutive_accumulation": {
               "accumulation_stocks": [],
               "has_active_accumulation": false,
@@ -2620,7 +2620,7 @@
             "active_days": 2,
             "total_window_days": 2,
             "active_days_ratio": 1.0,
-            "avg_trades_per_active_day": 41.0,
+            "avg_trades_per_active_day": 46.0,
             "weekday_distribution": {
               "週一": 1,
               "週二": 0,
@@ -2635,8 +2635,6 @@
           "strategy_labels": [
             "漲停獵手",
             "🔒 鎖漲停",
-            "集中投資",
-            "風格純粹",
             "高頻交易"
           ],
           "label_hierarchy": {
@@ -2645,24 +2643,20 @@
                 "漲停獵手",
                 "🔒 鎖漲停",
                 "高頻交易"
-              ],
-              "防守型": [
-                "集中投資",
-                "風格純粹"
               ]
             },
             "level2_strategy": "漲停鎖定策略",
             "level3_dna": {
-              "locked_pct": 0.184,
-              "limit_up_pct": 0.252,
-              "concentration_pct": 44.0,
+              "locked_pct": 0.437,
+              "limit_up_pct": 0.212,
+              "concentration_pct": 31.5,
               "top_industry": "半導體業",
-              "top_industry_pct": 48.6,
-              "disposal_pct": 0.005,
-              "consistency": 0.671
+              "top_industry_pct": 41.6,
+              "disposal_pct": 0.007,
+              "consistency": 0.629
             }
           },
-          "narrative": "陳族元 近 2/2 交易日出手 82 次 (75 檔), 風格分布: 隔日沖近似 28% / 留倉 67%, 漲停命中 25% (其中 🔒鎖漲停 18%), 前 5 大集中 44%, ⚠️ 處置股部位 0% (1 檔)。 主軸: 漲停獵手/🔒 鎖漲停/集中投資/風格純粹。",
+          "narrative": "陳族元 近 2/2 交易日出手 92 次 (79 檔), 風格分布: 隔日沖近似 31% / 留倉 63%, 漲停命中 21% (其中 🔒鎖漲停 44%), 前 5 大集中 32%, ⚠️ 處置股部位 1% (1 檔)。 主軸: 漲停獵手/🔒 鎖漲停/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -2679,10 +2673,10 @@
       },
       "per_branch_count": 5,
       "cross_day": {
-        "total_buy_events": 433,
+        "total_buy_events": 443,
         "confirmed_flips": 0,
         "confirmed_holds": 0,
-        "unknown": 433,
+        "unknown": 443,
         "actual_flip_ratio": 0,
         "actual_hold_ratio": 0,
         "top_flip_stocks": [],
@@ -10134,12 +10128,12 @@
       },
       {
         "month": "2026-08",
-        "total_amt_wan": 10084227,
-        "trades_count": 2657,
+        "total_amt_wan": 10078846,
+        "trades_count": 2667,
         "top": [
           {
             "name": "半導體業",
-            "pct": 33.2
+            "pct": 33.1
           },
           {
             "name": "電子零組件業",
@@ -10151,7 +10145,7 @@
           },
           {
             "name": "未分類",
-            "pct": 11.0
+            "pct": 11.1
           },
           {
             "name": "塑膠工業",
@@ -10178,8 +10172,8 @@
       {
         "industry": "半導體業",
         "prev_pct": 46.7,
-        "curr_pct": 33.2,
-        "delta_pp": -13.5
+        "curr_pct": 33.1,
+        "delta_pp": -13.6
       },
       {
         "industry": "電子零組件業",
@@ -10202,8 +10196,8 @@
       {
         "industry": "未分類",
         "prev_pct": 15.7,
-        "curr_pct": 11.0,
-        "delta_pp": -4.7
+        "curr_pct": 11.1,
+        "delta_pp": -4.6
       },
       {
         "industry": "塑膠工業",
@@ -10349,10 +10343,10 @@
         "stock_name": "愛普*",
         "status": "active",
         "risk": "trapped",
-        "net_lots": 42,
-        "net_amt_wan": 3437,
-        "buy_lot": 131,
-        "sell_lot": 89,
+        "net_lots": 43,
+        "net_amt_wan": 3569,
+        "buy_lot": 133,
+        "sell_lot": 90,
         "buy_days": 2,
         "last_buy_date": "20260803",
         "bought_during_disposal": true
@@ -10933,10 +10927,10 @@
       "top_hold_stocks": []
     },
     "陳族元": {
-      "total_buy_events": 433,
+      "total_buy_events": 443,
       "confirmed_flips": 0,
       "confirmed_holds": 0,
-      "unknown": 433,
+      "unknown": 443,
       "actual_flip_ratio": 0,
       "actual_hold_ratio": 0,
       "top_flip_stocks": [],
