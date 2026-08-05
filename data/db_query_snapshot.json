@@ -240,7 +240,7 @@
     },
     {
      "name": "陳族元",
-     "total_buy_wan": 2265474,
+     "total_buy_wan": 2277698,
      "active_days": 1
     }
    ],
@@ -432,7 +432,7 @@
     {
      "name": "陳族元",
      "limit_up_hits": 34,
-     "lu_buy_wan": 56125
+     "lu_buy_wan": 55793
     },
     {
      "name": "蔣承翰",
@@ -559,7 +559,7 @@
    "rows": [
     {
      "date": "20260805",
-     "row_count": 7442,
+     "row_count": 7480,
      "traders_active": 51,
      "branches_active": 77
     }
@@ -601,14 +601,14 @@
     {
      "master_a": "強森",
      "master_b": "陳族元",
-     "co_buy_count": 1147,
-     "distinct_stocks": 149
+     "co_buy_count": 1161,
+     "distinct_stocks": 148
     },
     {
      "master_a": "陳族元",
      "master_b": "張濬安(航海王)",
-     "co_buy_count": 963,
-     "distinct_stocks": 148
+     "co_buy_count": 978,
+     "distinct_stocks": 152
     },
     {
      "master_a": "強森",
@@ -662,7 +662,7 @@
      "master_a": "林滄海",
      "master_b": "陳族元",
      "co_buy_count": 635,
-     "distinct_stocks": 128
+     "distinct_stocks": 125
     },
     {
      "master_a": "張濬安(航海王)",
@@ -689,6 +689,12 @@
      "distinct_stocks": 112
     },
     {
+     "master_a": "陳族元",
+     "master_b": "陳律師",
+     "co_buy_count": 538,
+     "distinct_stocks": 105
+    },
+    {
      "master_a": "強森",
      "master_b": "竹科主力分點",
      "co_buy_count": 531,
@@ -696,15 +702,9 @@
     },
     {
      "master_a": "陳族元",
-     "master_b": "陳律師",
-     "co_buy_count": 531,
-     "distinct_stocks": 102
-    },
-    {
-     "master_a": "陳族元",
      "master_b": "蔣承翰",
-     "co_buy_count": 503,
-     "distinct_stocks": 115
+     "co_buy_count": 504,
+     "distinct_stocks": 114
     },
     {
      "master_a": "強森",
@@ -1030,8 +1030,8 @@
     {
      "date": "20260805",
      "top_master": "陳族元",
-     "day_buy_wan": 2265474,
-     "row_count": 403
+     "day_buy_wan": 2277698,
+     "row_count": 419
     },
     {
      "date": "20260805",
@@ -1143,15 +1143,15 @@
     },
     {
      "date": "20260805",
-     "top_master": "竹科強勢地緣",
-     "day_buy_wan": 121616,
-     "row_count": 77
+     "top_master": "永豐天母(老錢)",
+     "day_buy_wan": 126147,
+     "row_count": 96
     },
     {
      "date": "20260805",
-     "top_master": "永豐天母(老錢)",
-     "day_buy_wan": 113923,
-     "row_count": 80
+     "top_master": "竹科強勢地緣",
+     "day_buy_wan": 121616,
+     "row_count": 77
     },
     {
      "date": "20260805",
@@ -1354,9 +1354,9 @@
      "code": "3481",
      "stock_name": "群創",
      "distinct_masters": 43,
-     "buy_wan": 484034,
-     "sell_wan": 670754,
-     "net_wan": -186719,
+     "buy_wan": 483336,
+     "sell_wan": 671624,
+     "net_wan": -188287,
      "days_active": 1
     },
     {
@@ -1381,9 +1381,9 @@
      "code": "00403A",
      "stock_name": "主動統一升級50",
      "distinct_masters": 42,
-     "buy_wan": 189049,
-     "sell_wan": 65452,
-     "net_wan": 123597,
+     "buy_wan": 189159,
+     "sell_wan": 64902,
+     "net_wan": 124257,
      "days_active": 1
     },
     {
@@ -1441,6 +1441,15 @@
      "days_active": 1
     },
     {
+     "code": "00981A",
+     "stock_name": "主動統一台股增長",
+     "distinct_masters": 41,
+     "buy_wan": 306094,
+     "sell_wan": 173504,
+     "net_wan": 132590,
+     "days_active": 1
+    },
+    {
      "code": "00631L",
      "stock_name": "元大台灣50正2",
      "distinct_masters": 41,
@@ -1459,21 +1468,12 @@
      "days_active": 1
     },
     {
-     "code": "00981A",
-     "stock_name": "主動統一台股增長",
-     "distinct_masters": 40,
-     "buy_wan": 305776,
-     "sell_wan": 172810,
-     "net_wan": 132966,
-     "days_active": 1
-    },
-    {
      "code": "00685L",
      "stock_name": "群益臺灣加權正2",
      "distinct_masters": 40,
-     "buy_wan": 74760,
-     "sell_wan": 77470,
-     "net_wan": -2709,
+     "buy_wan": 74580,
+     "sell_wan": 77833,
+     "net_wan": -3252,
      "days_active": 1
     }
    ],
@@ -1511,8 +1511,8 @@
     {
      "master": "陳族元",
      "active_days": 1,
-     "avg_day_wan": 2265475.0,
-     "total_wan": 2265474
+     "avg_day_wan": 2277699.0,
+     "total_wan": 2277698
     },
     {
      "master": "陳律師",
@@ -1619,8 +1619,8 @@
     {
      "master": "永豐天母(老錢)",
      "active_days": 1,
-     "avg_day_wan": 113923.0,
-     "total_wan": 113923
+     "avg_day_wan": 126148.0,
+     "total_wan": 126147
     },
     {
      "master": "民哥",
