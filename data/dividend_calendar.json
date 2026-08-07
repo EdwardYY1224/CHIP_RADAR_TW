@@ -1,13 +1,6 @@
 {
- "count": 125,
+ "count": 117,
  "by_code": {
-  "00400A": {
-   "ex_date": "20260805",
-   "name": "主動國泰動能高息",
-   "type": "息",
-   "cash_dividend": 0.12,
-   "stock_dividend_pct": 0.0
-  },
   "00401A": {
    "ex_date": "20260814",
    "name": "主動摩根台灣鑫收",
@@ -159,7 +152,7 @@
    "ex_date": "20260811",
    "name": "元大台灣價值高息",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.05,
    "stock_dividend_pct": 0.0
   },
   "00943": {
@@ -183,25 +176,11 @@
    "cash_dividend": null,
    "stock_dividend_pct": 0.0
   },
-  "00946": {
-   "ex_date": "20260804",
-   "name": "群益科技高息成長",
-   "type": "息",
-   "cash_dividend": 0.058,
-   "stock_dividend_pct": 0.0
-  },
   "00952": {
    "ex_date": "20260818",
    "name": "凱基台灣AI50",
    "type": "息",
    "cash_dividend": null,
-   "stock_dividend_pct": 0.0
-  },
-  "00953B": {
-   "ex_date": "20260804",
-   "name": "群益優選非投等債",
-   "type": "息",
-   "cash_dividend": 0.061,
    "stock_dividend_pct": 0.0
   },
   "00961": {
@@ -281,13 +260,6 @@
    "cash_dividend": null,
    "stock_dividend_pct": 0.0
   },
-  "00985B": {
-   "ex_date": "20260804",
-   "name": "群益ESG投等債0-5",
-   "type": "息",
-   "cash_dividend": 0.053,
-   "stock_dividend_pct": 0.0
-  },
   "1210": {
    "ex_date": "20260807",
    "name": "大成",
@@ -309,13 +281,6 @@
    "cash_dividend": 1.8,
    "stock_dividend_pct": 0.0
   },
-  "1437": {
-   "ex_date": "20260805",
-   "name": "勤益控",
-   "type": "息",
-   "cash_dividend": 0.481191,
-   "stock_dividend_pct": 0.0
-  },
   "1439": {
    "ex_date": "20260806",
    "name": "雋揚",
@@ -323,11 +288,11 @@
    "cash_dividend": 0.5,
    "stock_dividend_pct": 0.0
   },
-  "1474": {
-   "ex_date": "20260804",
-   "name": "弘裕",
+  "1454": {
+   "ex_date": "20260824",
+   "name": "台富",
    "type": "息",
-   "cash_dividend": 0.25,
+   "cash_dividend": 0.1,
    "stock_dividend_pct": 0.0
   },
   "1477": {
@@ -337,18 +302,18 @@
    "cash_dividend": 6.0,
    "stock_dividend_pct": 0.0
   },
-  "1519": {
-   "ex_date": "20260805",
-   "name": "華城",
-   "type": "權息",
-   "cash_dividend": 11.0,
-   "stock_dividend_pct": 0.1
-  },
   "1537": {
    "ex_date": "20260819",
    "name": "廣隆",
    "type": "息",
    "cash_dividend": 7.2,
+   "stock_dividend_pct": 0.0
+  },
+  "1597": {
+   "ex_date": "20260820",
+   "name": "直得",
+   "type": "息",
+   "cash_dividend": 0.7,
    "stock_dividend_pct": 0.0
   },
   "1618": {
@@ -372,18 +337,18 @@
    "cash_dividend": 0.18,
    "stock_dividend_pct": 0.0
   },
-  "1736": {
-   "ex_date": "20260804",
-   "name": "喬山",
-   "type": "息",
-   "cash_dividend": 4.5,
-   "stock_dividend_pct": 0.0
-  },
   "1737": {
    "ex_date": "20260824",
    "name": "臺鹽",
    "type": "息",
    "cash_dividend": 1.4,
+   "stock_dividend_pct": 0.0
+  },
+  "2012": {
+   "ex_date": "20260825",
+   "name": "春雨",
+   "type": "息",
+   "cash_dividend": 0.3,
    "stock_dividend_pct": 0.0
   },
   "2201": {
@@ -412,27 +377,6 @@
    "name": "光寶科",
    "type": "息",
    "cash_dividend": 2.5,
-   "stock_dividend_pct": 0.0
-  },
-  "2348": {
-   "ex_date": "20260804",
-   "name": "海悅",
-   "type": "權息",
-   "cash_dividend": 5.0,
-   "stock_dividend_pct": 0.05
-  },
-  "2348A": {
-   "ex_date": "20260804",
-   "name": "海悅甲特",
-   "type": "息",
-   "cash_dividend": 1.6,
-   "stock_dividend_pct": 0.0
-  },
-  "2351": {
-   "ex_date": "20260804",
-   "name": "順德",
-   "type": "息",
-   "cash_dividend": 1.028839,
    "stock_dividend_pct": 0.0
   },
   "2363": {
@@ -470,18 +414,25 @@
    "cash_dividend": 25.0,
    "stock_dividend_pct": 0.0
   },
-  "2393": {
-   "ex_date": "20260804",
-   "name": "億光",
+  "2413": {
+   "ex_date": "20260824",
+   "name": "環科",
    "type": "息",
-   "cash_dividend": 4.5,
+   "cash_dividend": 0.5,
    "stock_dividend_pct": 0.0
   },
-  "2427": {
-   "ex_date": "20260805",
-   "name": "三商電",
+  "2420": {
+   "ex_date": "20260826",
+   "name": "新巨",
    "type": "息",
-   "cash_dividend": 0.7,
+   "cash_dividend": 3.0,
+   "stock_dividend_pct": 0.0
+  },
+  "2458": {
+   "ex_date": "20260821",
+   "name": "義隆",
+   "type": "息",
+   "cash_dividend": 4.426,
    "stock_dividend_pct": 0.0
   },
   "2472": {
@@ -498,6 +449,20 @@
    "cash_dividend": 2.973128,
    "stock_dividend_pct": 0.0
   },
+  "2484": {
+   "ex_date": "20260824",
+   "name": "希華",
+   "type": "息",
+   "cash_dividend": 0.7,
+   "stock_dividend_pct": 0.0
+  },
+  "2496": {
+   "ex_date": "20260819",
+   "name": "卓越",
+   "type": "權息",
+   "cash_dividend": 1.5,
+   "stock_dividend_pct": 0.05
+  },
   "2505": {
    "ex_date": "20260820",
    "name": "國揚",
@@ -512,18 +477,25 @@
    "cash_dividend": 1.615933,
    "stock_dividend_pct": 0.0
   },
+  "2527": {
+   "ex_date": "20260824",
+   "name": "宏璟",
+   "type": "息",
+   "cash_dividend": 1.5,
+   "stock_dividend_pct": 0.0
+  },
+  "2539": {
+   "ex_date": "20260820",
+   "name": "櫻花建",
+   "type": "權息",
+   "cash_dividend": 0.6,
+   "stock_dividend_pct": 0.22
+  },
   "2540": {
    "ex_date": "20260810",
    "name": "愛山林",
    "type": "息",
    "cash_dividend": 6.0,
-   "stock_dividend_pct": 0.0
-  },
-  "2543": {
-   "ex_date": "20260804",
-   "name": "皇昌",
-   "type": "息",
-   "cash_dividend": 1.027678,
    "stock_dividend_pct": 0.0
   },
   "2546": {
@@ -546,27 +518,6 @@
    "type": "息",
    "cash_dividend": 3.636991,
    "stock_dividend_pct": 0.0
-  },
-  "2801": {
-   "ex_date": "20260805",
-   "name": "彰銀",
-   "type": "權息",
-   "cash_dividend": 0.8,
-   "stock_dividend_pct": 0.02499999
-  },
-  "2812": {
-   "ex_date": "20260804",
-   "name": "台中銀",
-   "type": "權息",
-   "cash_dividend": 0.39,
-   "stock_dividend_pct": 0.067
-  },
-  "2834": {
-   "ex_date": "20260804",
-   "name": "臺企銀",
-   "type": "權息",
-   "cash_dividend": 0.3,
-   "stock_dividend_pct": 0.07
   },
   "2880": {
    "ex_date": "20260813",
@@ -652,20 +603,6 @@
    "cash_dividend": 3.999665,
    "stock_dividend_pct": 0.0
   },
-  "3533": {
-   "ex_date": "20260804",
-   "name": "嘉澤",
-   "type": "息",
-   "cash_dividend": 34.93436,
-   "stock_dividend_pct": 0.0
-  },
-  "3545": {
-   "ex_date": "20260804",
-   "name": "敦泰",
-   "type": "息",
-   "cash_dividend": 0.81494,
-   "stock_dividend_pct": 0.0
-  },
   "3605": {
    "ex_date": "20260812",
    "name": "宏致",
@@ -673,11 +610,11 @@
    "cash_dividend": 1.572032,
    "stock_dividend_pct": 0.0
   },
-  "4190": {
-   "ex_date": "20260804",
-   "name": "佐登-KY",
+  "4441": {
+   "ex_date": "20260820",
+   "name": "振大環球",
    "type": "息",
-   "cash_dividend": 0.499953,
+   "cash_dividend": 10.8,
    "stock_dividend_pct": 0.0
   },
   "4569": {
@@ -701,6 +638,13 @@
    "cash_dividend": 3.0,
    "stock_dividend_pct": 0.0
   },
+  "4764": {
+   "ex_date": "20260820",
+   "name": "雙鍵",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
+  },
   "4967": {
    "ex_date": "20260817",
    "name": "十銓",
@@ -714,6 +658,13 @@
    "type": "息",
    "cash_dividend": 3.693092,
    "stock_dividend_pct": 0.0
+  },
+  "5222": {
+   "ex_date": "20260820",
+   "name": "全訊",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.09996664
   },
   "5284": {
    "ex_date": "20260825",
@@ -764,25 +715,11 @@
    "cash_dividend": 3.0,
    "stock_dividend_pct": 0.0
   },
-  "6201": {
-   "ex_date": "20260805",
-   "name": "亞弘電",
-   "type": "息",
-   "cash_dividend": 3.1,
-   "stock_dividend_pct": 0.0
-  },
   "6202": {
    "ex_date": "20260813",
    "name": "盛群",
    "type": "息",
    "cash_dividend": 0.68,
-   "stock_dividend_pct": 0.0
-  },
-  "6209": {
-   "ex_date": "20260804",
-   "name": "今國光",
-   "type": "息",
-   "cash_dividend": 0.495687,
    "stock_dividend_pct": 0.0
   },
   "6225": {
@@ -806,18 +743,25 @@
    "cash_dividend": 10.00513,
    "stock_dividend_pct": 0.0
   },
+  "6666": {
+   "ex_date": "20260820",
+   "name": "羅麗芬-KY",
+   "type": "息",
+   "cash_dividend": 2.0,
+   "stock_dividend_pct": 0.0
+  },
+  "6691": {
+   "ex_date": "20260820",
+   "name": "洋基工程",
+   "type": "權息",
+   "cash_dividend": 21.0,
+   "stock_dividend_pct": 0.1
+  },
   "6698": {
    "ex_date": "20260817",
    "name": "旭暉應材",
    "type": "權",
    "cash_dividend": 0.0,
-   "stock_dividend_pct": 0.0
-  },
-  "6743": {
-   "ex_date": "20260804",
-   "name": "安普新",
-   "type": "息",
-   "cash_dividend": 3.0,
    "stock_dividend_pct": 0.0
   },
   "6799": {
@@ -848,13 +792,6 @@
    "cash_dividend": 0.0,
    "stock_dividend_pct": 0.05024919
   },
-  "8404": {
-   "ex_date": "20260804",
-   "name": "百和興業-KY",
-   "type": "息",
-   "cash_dividend": 0.5,
-   "stock_dividend_pct": 0.0
-  },
   "8478": {
    "ex_date": "20260810",
    "name": "東哥遊艇",
@@ -869,23 +806,22 @@
    "cash_dividend": 2.8,
    "stock_dividend_pct": 0.0
   },
-  "9938": {
-   "ex_date": "20260804",
-   "name": "百和",
+  "9921": {
+   "ex_date": "20260825",
+   "name": "巨大",
    "type": "息",
-   "cash_dividend": 3.0,
+   "cash_dividend": 1.818553,
+   "stock_dividend_pct": 0.0
+  },
+  "9958": {
+   "ex_date": "20260824",
+   "name": "世紀鋼",
+   "type": "權",
+   "cash_dividend": 0.0,
    "stock_dividend_pct": 0.0
   }
  },
  "by_date": {
-  "20260805": [
-   "00400A",
-   "1437",
-   "1519",
-   "2427",
-   "2801",
-   "6201"
-  ],
   "20260814": [
    "00401A"
   ],
@@ -929,11 +865,13 @@
    "2301",
    "2363",
    "2374",
+   "2496",
    "3017"
   ],
   "20260821": [
    "00771",
-   "00850"
+   "00850",
+   "2458"
   ],
   "20260817": [
    "00775B",
@@ -948,8 +886,10 @@
   ],
   "20260825": [
    "00907",
+   "2012",
    "2201",
-   "5284"
+   "5284",
+   "9921"
   ],
   "20260811": [
    "00940",
@@ -957,27 +897,6 @@
    "5880",
    "6005",
    "6958"
-  ],
-  "20260804": [
-   "00946",
-   "00953B",
-   "00985B",
-   "1474",
-   "1736",
-   "2348",
-   "2348A",
-   "2351",
-   "2393",
-   "2543",
-   "2812",
-   "2834",
-   "3533",
-   "3545",
-   "4190",
-   "6209",
-   "6743",
-   "8404",
-   "9938"
   ],
   "20260807": [
    "1210",
@@ -999,20 +918,33 @@
    "5525",
    "9914"
   ],
+  "20260824": [
+   "1454",
+   "1737",
+   "2413",
+   "2484",
+   "2527",
+   "4746",
+   "9958"
+  ],
   "20260820": [
+   "1597",
    "1714",
    "2377",
    "2472",
    "2505",
+   "2539",
+   "4441",
+   "4764",
+   "5222",
    "6177",
+   "6666",
+   "6691",
    "6805"
   ],
-  "20260824": [
-   "1737",
-   "4746"
-  ],
   "20260826": [
-   "2227"
+   "2227",
+   "2420"
   ],
   "20260828": [
    "2383"
@@ -1045,94 +977,6 @@
   ]
  },
  "upcoming_30d": [
-  {
-   "code": "1419",
-   "ex_date": "20260806",
-   "name": "新紡",
-   "type": "息",
-   "cash_dividend": 1.8,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "1439",
-   "ex_date": "20260806",
-   "name": "雋揚",
-   "type": "息",
-   "cash_dividend": 0.5,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "1713",
-   "ex_date": "20260806",
-   "name": "國化",
-   "type": "息",
-   "cash_dividend": 3.1,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "2375",
-   "ex_date": "20260806",
-   "name": "凱美",
-   "type": "息",
-   "cash_dividend": 1.2,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "2762",
-   "ex_date": "20260806",
-   "name": "世界健身-KY",
-   "type": "息",
-   "cash_dividend": 3.636991,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "3003",
-   "ex_date": "20260806",
-   "name": "健和興",
-   "type": "息",
-   "cash_dividend": 1.0,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "3033",
-   "ex_date": "20260806",
-   "name": "威健",
-   "type": "息",
-   "cash_dividend": 1.919856,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "3376",
-   "ex_date": "20260806",
-   "name": "新日興",
-   "type": "息",
-   "cash_dividend": 3.999665,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "5288",
-   "ex_date": "20260806",
-   "name": "豐祥-KY",
-   "type": "息",
-   "cash_dividend": 6.502918,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "5525",
-   "ex_date": "20260806",
-   "name": "順天",
-   "type": "息",
-   "cash_dividend": 1.2,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "9914",
-   "ex_date": "20260806",
-   "name": "美利達",
-   "type": "息",
-   "cash_dividend": 2.8,
-   "stock_dividend_pct": 0.0
-  },
   {
    "code": "1210",
    "ex_date": "20260807",
@@ -1202,7 +1046,7 @@
    "ex_date": "20260811",
    "name": "元大台灣價值高息",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.05,
    "stock_dividend_pct": 0.0
   },
   {
@@ -1702,11 +1546,27 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "2496",
+   "ex_date": "20260819",
+   "name": "卓越",
+   "type": "權息",
+   "cash_dividend": 1.5,
+   "stock_dividend_pct": 0.05
+  },
+  {
    "code": "3017",
    "ex_date": "20260819",
    "name": "奇鋐",
    "type": "息",
    "cash_dividend": 20.881604,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "1597",
+   "ex_date": "20260820",
+   "name": "直得",
+   "type": "息",
+   "cash_dividend": 0.7,
    "stock_dividend_pct": 0.0
   },
   {
@@ -1742,12 +1602,60 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "2539",
+   "ex_date": "20260820",
+   "name": "櫻花建",
+   "type": "權息",
+   "cash_dividend": 0.6,
+   "stock_dividend_pct": 0.22
+  },
+  {
+   "code": "4441",
+   "ex_date": "20260820",
+   "name": "振大環球",
+   "type": "息",
+   "cash_dividend": 10.8,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "4764",
+   "ex_date": "20260820",
+   "name": "雙鍵",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "5222",
+   "ex_date": "20260820",
+   "name": "全訊",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.09996664
+  },
+  {
    "code": "6177",
    "ex_date": "20260820",
    "name": "達麗",
    "type": "息",
    "cash_dividend": 3.0,
    "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "6666",
+   "ex_date": "20260820",
+   "name": "羅麗芬-KY",
+   "type": "息",
+   "cash_dividend": 2.0,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "6691",
+   "ex_date": "20260820",
+   "name": "洋基工程",
+   "type": "權息",
+   "cash_dividend": 21.0,
+   "stock_dividend_pct": 0.1
   },
   {
    "code": "6805",
@@ -1774,11 +1682,51 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "2458",
+   "ex_date": "20260821",
+   "name": "義隆",
+   "type": "息",
+   "cash_dividend": 4.426,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "1454",
+   "ex_date": "20260824",
+   "name": "台富",
+   "type": "息",
+   "cash_dividend": 0.1,
+   "stock_dividend_pct": 0.0
+  },
+  {
    "code": "1737",
    "ex_date": "20260824",
    "name": "臺鹽",
    "type": "息",
    "cash_dividend": 1.4,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "2413",
+   "ex_date": "20260824",
+   "name": "環科",
+   "type": "息",
+   "cash_dividend": 0.5,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "2484",
+   "ex_date": "20260824",
+   "name": "希華",
+   "type": "息",
+   "cash_dividend": 0.7,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "2527",
+   "ex_date": "20260824",
+   "name": "宏璟",
+   "type": "息",
+   "cash_dividend": 1.5,
    "stock_dividend_pct": 0.0
   },
   {
@@ -1790,11 +1738,27 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "9958",
+   "ex_date": "20260824",
+   "name": "世紀鋼",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
+  },
+  {
    "code": "00907",
    "ex_date": "20260825",
    "name": "永豐優息存股",
    "type": "息",
    "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "2012",
+   "ex_date": "20260825",
+   "name": "春雨",
+   "type": "息",
+   "cash_dividend": 0.3,
    "stock_dividend_pct": 0.0
   },
   {
@@ -1814,11 +1778,27 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "9921",
+   "ex_date": "20260825",
+   "name": "巨大",
+   "type": "息",
+   "cash_dividend": 1.818553,
+   "stock_dividend_pct": 0.0
+  },
+  {
    "code": "2227",
    "ex_date": "20260826",
    "name": "裕日車",
    "type": "息",
    "cash_dividend": 0.84,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "2420",
+   "ex_date": "20260826",
+   "name": "新巨",
+   "type": "息",
+   "cash_dividend": 3.0,
    "stock_dividend_pct": 0.0
   },
   {
@@ -1838,6 +1818,6 @@
    "stock_dividend_pct": 0.0
   }
  ],
- "fetched_at": "2026-08-06T01:23:51.673462+08:00",
+ "fetched_at": "2026-08-07T22:33:10.287265+08:00",
  "source": "https://www.twse.com.tw/exchangeReport/TWT48U?response=json"
 }
