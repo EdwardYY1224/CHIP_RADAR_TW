@@ -1,6 +1,6 @@
 {
   "date": "20260807",
-  "generated_at": "2026-08-07T22:33:05.779384+08:00",
+  "generated_at": "2026-08-07T23:44:31.699883+08:00",
   "anomalies": [
     {
       "master": "陳光裕",
@@ -788,8 +788,8 @@
           "buy_amt_wan": 1780
         },
         {
-          "code": "6197",
-          "buy_amt_wan": 1027
+          "code": "00646",
+          "buy_amt_wan": 853
         }
       ],
       "description": "陳族元 今日買進 24 檔新標的 (過去從沒買過)"
@@ -905,21 +905,6 @@
         "林滄海",
         "陳族元"
       ],
-      "stock_code": "1303",
-      "buyers": [
-        "林滄海",
-        "陳族元"
-      ],
-      "buyer_count": 2,
-      "total_buy_amt_wan": 68512,
-      "description": "派系2 共識: 林滄海/陳族元 同買 1303 (合計 68,512 萬)"
-    },
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "陳族元"
-      ],
       "stock_code": "2454",
       "buyers": [
         "林滄海",
@@ -943,6 +928,21 @@
       "buyer_count": 2,
       "total_buy_amt_wan": 63246,
       "description": "派系1 共識: 張濬安(航海王)/強森 同買 6669 (合計 63,246 萬)"
+    },
+    {
+      "faction_id": 2,
+      "faction_members": [
+        "林滄海",
+        "陳族元"
+      ],
+      "stock_code": "1303",
+      "buyers": [
+        "林滄海",
+        "陳族元"
+      ],
+      "buyer_count": 2,
+      "total_buy_amt_wan": 62214,
+      "description": "派系2 共識: 林滄海/陳族元 同買 1303 (合計 62,214 萬)"
     },
     {
       "faction_id": 1,
@@ -1101,18 +1101,18 @@
       "description": "張濬安(航海王) 連續 6 天加碼 3017 (累計 323,054 萬)"
     },
     {
-      "master": "陳族元",
-      "stock_code": "1303",
-      "consecutive_days": 6,
-      "total_buy_amt_wan": 292197,
-      "description": "陳族元 連續 6 天加碼 1303 (累計 292,197 萬)"
-    },
-    {
       "master": "張濬安(航海王)",
       "stock_code": "2454",
       "consecutive_days": 6,
       "total_buy_amt_wan": 288148,
       "description": "張濬安(航海王) 連續 6 天加碼 2454 (累計 288,148 萬)"
+    },
+    {
+      "master": "陳族元",
+      "stock_code": "1303",
+      "consecutive_days": 6,
+      "total_buy_amt_wan": 285899,
+      "description": "陳族元 連續 6 天加碼 1303 (累計 285,899 萬)"
     },
     {
       "master": "蔣承翰",
