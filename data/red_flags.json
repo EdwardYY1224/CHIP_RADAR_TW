@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:40:55.089753+08:00",
+  "generated_at": "2026-08-08T00:44:33.444827+08:00",
   "trade_date": "20260807",
   "pump_suspicion": [],
   "wash_trade": [
@@ -514,12 +514,43 @@
       "reasoning": "779c 買 223 張 vs 700I 賣 217 張 (匹配 97%)"
     }
   ],
-  "distribution": [],
+  "distribution": [
+    {
+      "stock_code": "3037",
+      "stock_name": "欣興",
+      "branch_code": "9A9g",
+      "branch_name": "永豐金-內湖",
+      "master": "陳族元",
+      "sell_lot": 188,
+      "sell_amt_wan": 17989,
+      "avg_30d_sell_lot": 37.2,
+      "sell_vs_avg_x": 5.0,
+      "recent_5d_limit_up_count": 64,
+      "rule": "C_distribution",
+      "severity": "medium",
+      "reasoning": "當日賣 188 張 (30 天均 37 張 × 5.0) + 近 5 天漲停 64 次"
+    },
+    {
+      "stock_code": "3037",
+      "stock_name": "欣興",
+      "branch_code": "9A9G",
+      "branch_name": "永豐金-天母",
+      "master": "永豐天母(老錢)",
+      "sell_lot": 188,
+      "sell_amt_wan": 17989,
+      "avg_30d_sell_lot": 32.2,
+      "sell_vs_avg_x": 5.8,
+      "recent_5d_limit_up_count": 64,
+      "rule": "C_distribution",
+      "severity": "medium",
+      "reasoning": "當日賣 188 張 (30 天均 32 張 × 5.8) + 近 5 天漲停 64 次"
+    }
+  ],
   "summary": {
     "pump_count": 0,
     "wash_count": 30,
-    "distribution_count": 0,
-    "total": 30
+    "distribution_count": 2,
+    "total": 32
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }

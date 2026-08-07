@@ -1,6 +1,6 @@
 {
   "date": "20260807",
-  "generated_at": "2026-08-07T23:44:31.699883+08:00",
+  "generated_at": "2026-08-08T00:46:59.060691+08:00",
   "anomalies": [
     {
       "master": "陳光裕",
@@ -769,7 +769,7 @@
     {
       "master": "陳族元",
       "type": "new_stocks",
-      "count": 24,
+      "count": 26,
       "top_new": [
         {
           "code": "8039",
@@ -781,18 +781,18 @@
         },
         {
           "code": "6715",
-          "buy_amt_wan": 1794
+          "buy_amt_wan": 2507
+        },
+        {
+          "code": "6271",
+          "buy_amt_wan": 1861
         },
         {
           "code": "2103",
           "buy_amt_wan": 1780
-        },
-        {
-          "code": "00646",
-          "buy_amt_wan": 853
         }
       ],
-      "description": "陳族元 今日買進 24 檔新標的 (過去從沒買過)"
+      "description": "陳族元 今日買進 26 檔新標的 (過去從沒買過)"
     },
     {
       "master": "陳泊澔",
@@ -866,8 +866,8 @@
         "陳族元"
       ],
       "buyer_count": 2,
-      "total_buy_amt_wan": 90626,
-      "description": "派系2 共識: 林滄海/陳族元 同買 2308 (合計 90,626 萬)"
+      "total_buy_amt_wan": 91690,
+      "description": "派系2 共識: 林滄海/陳族元 同買 2308 (合計 91,690 萬)"
     },
     {
       "faction_id": 2,
@@ -883,6 +883,21 @@
       "buyer_count": 2,
       "total_buy_amt_wan": 88748,
       "description": "派系2 共識: 林滄海/陳族元 同買 3653 (合計 88,748 萬)"
+    },
+    {
+      "faction_id": 2,
+      "faction_members": [
+        "林滄海",
+        "陳族元"
+      ],
+      "stock_code": "2454",
+      "buyers": [
+        "林滄海",
+        "陳族元"
+      ],
+      "buyer_count": 2,
+      "total_buy_amt_wan": 76409,
+      "description": "派系2 共識: 林滄海/陳族元 同買 2454 (合計 76,409 萬)"
     },
     {
       "faction_id": 1,
@@ -905,14 +920,14 @@
         "林滄海",
         "陳族元"
       ],
-      "stock_code": "2454",
+      "stock_code": "1303",
       "buyers": [
         "林滄海",
         "陳族元"
       ],
       "buyer_count": 2,
-      "total_buy_amt_wan": 67277,
-      "description": "派系2 共識: 林滄海/陳族元 同買 2454 (合計 67,277 萬)"
+      "total_buy_amt_wan": 68495,
+      "description": "派系2 共識: 林滄海/陳族元 同買 1303 (合計 68,495 萬)"
     },
     {
       "faction_id": 1,
@@ -928,21 +943,6 @@
       "buyer_count": 2,
       "total_buy_amt_wan": 63246,
       "description": "派系1 共識: 張濬安(航海王)/強森 同買 6669 (合計 63,246 萬)"
-    },
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "陳族元"
-      ],
-      "stock_code": "1303",
-      "buyers": [
-        "林滄海",
-        "陳族元"
-      ],
-      "buyer_count": 2,
-      "total_buy_amt_wan": 62214,
-      "description": "派系2 共識: 林滄海/陳族元 同買 1303 (合計 62,214 萬)"
     },
     {
       "faction_id": 1,
@@ -1101,18 +1101,18 @@
       "description": "張濬安(航海王) 連續 6 天加碼 3017 (累計 323,054 萬)"
     },
     {
+      "master": "陳族元",
+      "stock_code": "1303",
+      "consecutive_days": 6,
+      "total_buy_amt_wan": 292181,
+      "description": "陳族元 連續 6 天加碼 1303 (累計 292,181 萬)"
+    },
+    {
       "master": "張濬安(航海王)",
       "stock_code": "2454",
       "consecutive_days": 6,
       "total_buy_amt_wan": 288148,
       "description": "張濬安(航海王) 連續 6 天加碼 2454 (累計 288,148 萬)"
-    },
-    {
-      "master": "陳族元",
-      "stock_code": "1303",
-      "consecutive_days": 6,
-      "total_buy_amt_wan": 285899,
-      "description": "陳族元 連續 6 天加碼 1303 (累計 285,899 萬)"
     },
     {
       "master": "蔣承翰",
@@ -1132,8 +1132,8 @@
       "master": "陳族元",
       "stock_code": "3008",
       "consecutive_days": 6,
-      "total_buy_amt_wan": 222762,
-      "description": "陳族元 連續 6 天加碼 3008 (累計 222,762 萬)"
+      "total_buy_amt_wan": 224590,
+      "description": "陳族元 連續 6 天加碼 3008 (累計 224,590 萬)"
     },
     {
       "master": "陳族元",
