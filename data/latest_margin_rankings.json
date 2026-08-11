@@ -1,6 +1,6 @@
 {
  "trade_date": "20260811",
- "updated_at": "2026-08-11T22:45:36.848502+08:00",
+ "updated_at": "2026-08-11T23:46:04.705590+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5016,9 +5016,9 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1115,
-   "watch": 139,
-   "high_risk": 12,
+   "healthy": 1131,
+   "watch": 125,
+   "high_risk": 10,
    "margin_call": 3,
    "insufficient_data": 939
   },
@@ -5026,137 +5026,119 @@
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 22.5,
+    "ratio": 23.1,
     "risk_level": "margin_call",
     "margin_balance": 4785,
     "today_close": 87.1,
-    "estimated_cost": 645.07
+    "estimated_cost": 627.38
    },
    {
     "code": "00685L",
     "name": "群益臺灣加權正2",
-    "ratio": 27.6,
+    "ratio": 32.4,
     "risk_level": "margin_call",
     "margin_balance": 186751,
     "today_close": 11.42,
-    "estimated_cost": 68.96
+    "estimated_cost": 58.72
    },
    {
     "code": "4503",
     "name": "金雨",
-    "ratio": 109.2,
+    "ratio": 110.6,
     "risk_level": "margin_call",
     "margin_balance": 1781,
     "today_close": 24.45,
-    "estimated_cost": 37.3
+    "estimated_cost": 36.83
    },
    {
     "code": "6182",
     "name": "合晶",
-    "ratio": 120.5,
+    "ratio": 121.1,
     "risk_level": "high_risk",
     "margin_balance": 59974,
     "today_close": 94.0,
-    "estimated_cost": 130.01
+    "estimated_cost": 129.41
    },
    {
     "code": "2483",
     "name": "百容",
-    "ratio": 121.1,
+    "ratio": 121.4,
     "risk_level": "high_risk",
     "margin_balance": 1845,
     "today_close": 35.05,
-    "estimated_cost": 48.23
+    "estimated_cost": 48.12
    },
    {
     "code": "3532",
     "name": "台勝科",
-    "ratio": 123.3,
+    "ratio": 123.9,
     "risk_level": "high_risk",
     "margin_balance": 7569,
     "today_close": 284.0,
-    "estimated_cost": 383.75
+    "estimated_cost": 382.02
    },
    {
     "code": "8261",
     "name": "富鼎",
-    "ratio": 124.1,
+    "ratio": 125.1,
     "risk_level": "high_risk",
     "margin_balance": 6459,
     "today_close": 184.0,
-    "estimated_cost": 247.2
+    "estimated_cost": 245.13
    },
    {
     "code": "4551",
     "name": "智伸科",
-    "ratio": 124.9,
+    "ratio": 126.3,
     "risk_level": "high_risk",
     "margin_balance": 2507,
     "today_close": 157.0,
-    "estimated_cost": 209.43
+    "estimated_cost": 207.13
    },
    {
     "code": "3054",
     "name": "立萬利",
-    "ratio": 125.0,
+    "ratio": 127.1,
     "risk_level": "high_risk",
     "margin_balance": 965,
     "today_close": 48.0,
-    "estimated_cost": 64.01
+    "estimated_cost": 62.94
    },
    {
     "code": "5464",
     "name": "霖宏",
-    "ratio": 125.6,
+    "ratio": 127.3,
     "risk_level": "high_risk",
     "margin_balance": 8564,
     "today_close": 61.4,
-    "estimated_cost": 81.48
-   },
-   {
-    "code": "2429",
-    "name": "銘旺科",
-    "ratio": 126.2,
-    "risk_level": "high_risk",
-    "margin_balance": 510,
-    "today_close": 31.75,
-    "estimated_cost": 41.92
+    "estimated_cost": 80.4
    },
    {
     "code": "6488",
     "name": "環球晶",
-    "ratio": 127.2,
+    "ratio": 127.5,
     "risk_level": "high_risk",
     "margin_balance": 10659,
     "today_close": 849.0,
-    "estimated_cost": 1112.13
+    "estimated_cost": 1109.93
    },
    {
-    "code": "2478",
-    "name": "大毅",
-    "ratio": 127.5,
+    "code": "2429",
+    "name": "銘旺科",
+    "ratio": 128.2,
     "risk_level": "high_risk",
-    "margin_balance": 7497,
-    "today_close": 121.0,
-    "estimated_cost": 158.18
+    "margin_balance": 510,
+    "today_close": 31.75,
+    "estimated_cost": 41.27
    },
    {
-    "code": "6862",
-    "name": "三集瑞-KY",
-    "ratio": 129.0,
+    "code": "3055",
+    "name": "蔚華科",
+    "ratio": 129.7,
     "risk_level": "high_risk",
-    "margin_balance": 919,
-    "today_close": 148.0,
-    "estimated_cost": 191.18
-   },
-   {
-    "code": "6016",
-    "name": "康和證",
-    "ratio": 129.2,
-    "risk_level": "high_risk",
-    "margin_balance": 5155,
-    "today_close": 18.65,
-    "estimated_cost": 24.06
+    "margin_balance": 5643,
+    "today_close": 106.5,
+    "estimated_cost": 136.81
    }
   ],
   "thresholds": {
