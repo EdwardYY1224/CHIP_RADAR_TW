@@ -1,50 +1,34 @@
 {
-  "date": "20260810",
-  "generated_at": "2026-08-11T00:50:40.279954+08:00",
+  "date": "20260811",
+  "generated_at": "2026-08-11T22:45:51.732605+08:00",
   "anomalies": [
-    {
-      "master": "林適中",
-      "type": "volume_spike",
-      "today_buy_amt_wan": 28201,
-      "avg_buy_amt_wan": 17301,
-      "z_score": 6.75,
-      "description": "林適中 今日買進 28,201 萬 (平均 17,301 萬, 偏離 6.7σ)"
-    },
-    {
-      "master": "謝明彧大哥(華南永昌)",
-      "type": "volume_spike",
-      "today_buy_amt_wan": 180910,
-      "avg_buy_amt_wan": 92221,
-      "z_score": 5.05,
-      "description": "謝明彧大哥(華南永昌) 今日買進 180,910 萬 (平均 92,221 萬, 偏離 5.1σ)"
-    },
     {
       "master": "Krenz(再多一位數本人)",
       "type": "new_stocks",
-      "count": 21,
+      "count": 14,
       "top_new": [
         {
-          "code": "2368",
-          "buy_amt_wan": 16730
+          "code": "4979",
+          "buy_amt_wan": 1700
         },
         {
-          "code": "6182",
-          "buy_amt_wan": 1236
+          "code": "3026",
+          "buy_amt_wan": 1163
         },
         {
-          "code": "2449",
-          "buy_amt_wan": 1158
+          "code": "6805",
+          "buy_amt_wan": 452
         },
         {
-          "code": "3260",
-          "buy_amt_wan": 893
+          "code": "5904",
+          "buy_amt_wan": 451
         },
         {
-          "code": "3081",
-          "buy_amt_wan": 757
+          "code": "1717",
+          "buy_amt_wan": 396
         }
       ],
-      "description": "Krenz(再多一位數本人) 今日買進 21 檔新標的 (過去從沒買過)"
+      "description": "Krenz(再多一位數本人) 今日買進 14 檔新標的 (過去從沒買過)"
     },
     {
       "master": "Tradow",
@@ -52,24 +36,24 @@
       "count": 20,
       "top_new": [
         {
-          "code": "5904",
-          "buy_amt_wan": 6011
+          "code": "3498",
+          "buy_amt_wan": 920
         },
         {
-          "code": "2317",
-          "buy_amt_wan": 2771
+          "code": "6121",
+          "buy_amt_wan": 508
         },
         {
-          "code": "3167",
-          "buy_amt_wan": 2709
+          "code": "6239",
+          "buy_amt_wan": 499
         },
         {
-          "code": "6933",
-          "buy_amt_wan": 2004
+          "code": "2498",
+          "buy_amt_wan": 468
         },
         {
-          "code": "3234",
-          "buy_amt_wan": 1428
+          "code": "8033",
+          "buy_amt_wan": 402
         }
       ],
       "description": "Tradow 今日買進 20 檔新標的 (過去從沒買過)"
@@ -77,338 +61,338 @@
     {
       "master": "丁凌全",
       "type": "new_stocks",
-      "count": 17,
+      "count": 22,
       "top_new": [
         {
-          "code": "3704",
-          "buy_amt_wan": 8823
+          "code": "2408",
+          "buy_amt_wan": 6788
         },
         {
-          "code": "3363",
-          "buy_amt_wan": 1784
+          "code": "3026",
+          "buy_amt_wan": 2676
         },
         {
-          "code": "6182",
-          "buy_amt_wan": 1448
+          "code": "4979",
+          "buy_amt_wan": 1684
         },
         {
-          "code": "8039",
-          "buy_amt_wan": 1357
+          "code": "4991",
+          "buy_amt_wan": 1043
         },
         {
-          "code": "2881",
-          "buy_amt_wan": 756
+          "code": "3624",
+          "buy_amt_wan": 766
         }
       ],
-      "description": "丁凌全 今日買進 17 檔新標的 (過去從沒買過)"
+      "description": "丁凌全 今日買進 22 檔新標的 (過去從沒買過)"
     },
     {
       "master": "何莎",
       "type": "new_stocks",
-      "count": 20,
+      "count": 17,
       "top_new": [
         {
-          "code": "3163",
-          "buy_amt_wan": 464
+          "code": "5864",
+          "buy_amt_wan": 901
         },
         {
-          "code": "6446",
-          "buy_amt_wan": 402
+          "code": "4991",
+          "buy_amt_wan": 770
         },
         {
-          "code": "2484",
-          "buy_amt_wan": 374
+          "code": "8150",
+          "buy_amt_wan": 487
         },
         {
-          "code": "3265",
-          "buy_amt_wan": 202
+          "code": "3026",
+          "buy_amt_wan": 305
         },
         {
-          "code": "6116",
-          "buy_amt_wan": 153
+          "code": "7740",
+          "buy_amt_wan": 230
         }
       ],
-      "description": "何莎 今日買進 20 檔新標的 (過去從沒買過)"
+      "description": "何莎 今日買進 17 檔新標的 (過去從沒買過)"
     },
     {
       "master": "優式資本",
       "type": "new_stocks",
-      "count": 13,
+      "count": 14,
       "top_new": [
         {
-          "code": "6510",
-          "buy_amt_wan": 13484
+          "code": "3026",
+          "buy_amt_wan": 7821
         },
         {
-          "code": "4979",
-          "buy_amt_wan": 8982
+          "code": "2883",
+          "buy_amt_wan": 5253
         },
         {
-          "code": "5347",
-          "buy_amt_wan": 5512
+          "code": "2645",
+          "buy_amt_wan": 3298
         },
         {
-          "code": "3293",
-          "buy_amt_wan": 4777
+          "code": "2855",
+          "buy_amt_wan": 2291
         },
         {
-          "code": "3376",
-          "buy_amt_wan": 2227
+          "code": "2478",
+          "buy_amt_wan": 1698
         }
       ],
-      "description": "優式資本 今日買進 13 檔新標的 (過去從沒買過)"
+      "description": "優式資本 今日買進 14 檔新標的 (過去從沒買過)"
     },
     {
       "master": "劉子豪",
       "type": "new_stocks",
-      "count": 22,
+      "count": 15,
       "top_new": [
         {
-          "code": "6515",
-          "buy_amt_wan": 3417
+          "code": "8033",
+          "buy_amt_wan": 2401
         },
         {
-          "code": "2371",
-          "buy_amt_wan": 2161
+          "code": "6415",
+          "buy_amt_wan": 2376
         },
         {
-          "code": "7740",
-          "buy_amt_wan": 1576
+          "code": "2408",
+          "buy_amt_wan": 2258
         },
         {
-          "code": "8039",
-          "buy_amt_wan": 1284
+          "code": "3019",
+          "buy_amt_wan": 2193
         },
         {
-          "code": "2345",
-          "buy_amt_wan": 1248
+          "code": "2634",
+          "buy_amt_wan": 1839
         }
       ],
-      "description": "劉子豪 今日買進 22 檔新標的 (過去從沒買過)"
+      "description": "劉子豪 今日買進 15 檔新標的 (過去從沒買過)"
     },
     {
       "master": "呂金發",
       "type": "new_stocks",
-      "count": 21,
+      "count": 17,
       "top_new": [
         {
-          "code": "2376",
-          "buy_amt_wan": 1843
+          "code": "2408",
+          "buy_amt_wan": 1300
         },
         {
-          "code": "2880",
-          "buy_amt_wan": 1457
+          "code": "4979",
+          "buy_amt_wan": 430
         },
         {
-          "code": "6187",
-          "buy_amt_wan": 1150
+          "code": "4551",
+          "buy_amt_wan": 424
         },
         {
-          "code": "1605",
-          "buy_amt_wan": 1118
+          "code": "3481",
+          "buy_amt_wan": 334
         },
         {
-          "code": "2345",
-          "buy_amt_wan": 1109
+          "code": "5314",
+          "buy_amt_wan": 306
         }
       ],
-      "description": "呂金發 今日買進 21 檔新標的 (過去從沒買過)"
+      "description": "呂金發 今日買進 17 檔新標的 (過去從沒買過)"
     },
     {
       "master": "嘉義幫",
       "type": "new_stocks",
-      "count": 18,
+      "count": 11,
       "top_new": [
         {
-          "code": "2467",
-          "buy_amt_wan": 3569
+          "code": "3026",
+          "buy_amt_wan": 9385
         },
         {
-          "code": "6672",
-          "buy_amt_wan": 2855
+          "code": "6173",
+          "buy_amt_wan": 4630
         },
         {
-          "code": "2368",
-          "buy_amt_wan": 2118
+          "code": "2493",
+          "buy_amt_wan": 3993
         },
         {
-          "code": "3653",
-          "buy_amt_wan": 1713
+          "code": "8150",
+          "buy_amt_wan": 3288
         },
         {
-          "code": "3532",
-          "buy_amt_wan": 1167
+          "code": "6223",
+          "buy_amt_wan": 1891
         }
       ],
-      "description": "嘉義幫 今日買進 18 檔新標的 (過去從沒買過)"
+      "description": "嘉義幫 今日買進 11 檔新標的 (過去從沒買過)"
     },
     {
       "master": "大牌分析師",
       "type": "new_stocks",
-      "count": 21,
+      "count": 15,
       "top_new": [
         {
-          "code": "3017",
-          "buy_amt_wan": 2085
+          "code": "4979",
+          "buy_amt_wan": 4628
         },
         {
-          "code": "5371",
-          "buy_amt_wan": 1900
+          "code": "2408",
+          "buy_amt_wan": 4484
         },
         {
-          "code": "5289",
-          "buy_amt_wan": 1765
+          "code": "6257",
+          "buy_amt_wan": 2639
         },
         {
-          "code": "3006",
-          "buy_amt_wan": 1728
+          "code": "2301",
+          "buy_amt_wan": 2040
         },
         {
-          "code": "2049",
-          "buy_amt_wan": 846
+          "code": "3034",
+          "buy_amt_wan": 923
         }
       ],
-      "description": "大牌分析師 今日買進 21 檔新標的 (過去從沒買過)"
+      "description": "大牌分析師 今日買進 15 檔新標的 (過去從沒買過)"
     },
     {
       "master": "宋福祥",
       "type": "new_stocks",
-      "count": 29,
+      "count": 12,
       "top_new": [
         {
-          "code": "2059",
-          "buy_amt_wan": 9777
+          "code": "2478",
+          "buy_amt_wan": 947
         },
         {
-          "code": "2368",
-          "buy_amt_wan": 4515
+          "code": "3163",
+          "buy_amt_wan": 903
         },
         {
-          "code": "2474",
-          "buy_amt_wan": 3123
+          "code": "6213",
+          "buy_amt_wan": 843
         },
         {
-          "code": "00407A",
-          "buy_amt_wan": 2286
+          "code": "1519",
+          "buy_amt_wan": 710
         },
         {
-          "code": "9939",
-          "buy_amt_wan": 1528
+          "code": "5536",
+          "buy_amt_wan": 471
         }
       ],
-      "description": "宋福祥 今日買進 29 檔新標的 (過去從沒買過)"
+      "description": "宋福祥 今日買進 12 檔新標的 (過去從沒買過)"
     },
     {
       "master": "巨人傑",
       "type": "new_stocks",
-      "count": 31,
+      "count": 26,
       "top_new": [
         {
-          "code": "1815",
-          "buy_amt_wan": 2110
+          "code": "3090",
+          "buy_amt_wan": 3372
         },
         {
-          "code": "6525",
-          "buy_amt_wan": 877
+          "code": "3702",
+          "buy_amt_wan": 2447
         },
         {
-          "code": "6279",
-          "buy_amt_wan": 774
+          "code": "3022",
+          "buy_amt_wan": 1072
         },
         {
-          "code": "2634",
-          "buy_amt_wan": 726
+          "code": "6143",
+          "buy_amt_wan": 768
         },
         {
-          "code": "2359",
-          "buy_amt_wan": 659
+          "code": "4991",
+          "buy_amt_wan": 663
         }
       ],
-      "description": "巨人傑 今日買進 31 檔新標的 (過去從沒買過)"
+      "description": "巨人傑 今日買進 26 檔新標的 (過去從沒買過)"
     },
     {
       "master": "布哥/n_nchang",
       "type": "new_stocks",
-      "count": 21,
+      "count": 13,
       "top_new": [
         {
-          "code": "2455",
-          "buy_amt_wan": 2932
+          "code": "6213",
+          "buy_amt_wan": 3691
         },
         {
-          "code": "6217",
-          "buy_amt_wan": 2732
+          "code": "4931",
+          "buy_amt_wan": 2133
         },
         {
-          "code": "3260",
-          "buy_amt_wan": 1387
+          "code": "2059",
+          "buy_amt_wan": 1520
         },
         {
-          "code": "6727",
-          "buy_amt_wan": 1200
+          "code": "8069",
+          "buy_amt_wan": 1437
         },
         {
-          "code": "6426",
-          "buy_amt_wan": 1156
+          "code": "2409",
+          "buy_amt_wan": 1206
         }
       ],
-      "description": "布哥/n_nchang 今日買進 21 檔新標的 (過去從沒買過)"
+      "description": "布哥/n_nchang 今日買進 13 檔新標的 (過去從沒買過)"
     },
     {
       "master": "張濬安(航海王)",
       "type": "new_stocks",
-      "count": 40,
+      "count": 29,
       "top_new": [
         {
-          "code": "2474",
-          "buy_amt_wan": 14267
+          "code": "8043",
+          "buy_amt_wan": 5218
         },
         {
-          "code": "3406",
-          "buy_amt_wan": 6127
+          "code": "6173",
+          "buy_amt_wan": 3488
         },
         {
-          "code": "6285",
-          "buy_amt_wan": 5162
+          "code": "2478",
+          "buy_amt_wan": 2257
         },
         {
-          "code": "6456",
-          "buy_amt_wan": 3280
+          "code": "5904",
+          "buy_amt_wan": 2142
         },
         {
-          "code": "2351",
-          "buy_amt_wan": 2244
+          "code": "1513",
+          "buy_amt_wan": 1761
         }
       ],
-      "description": "張濬安(航海王) 今日買進 40 檔新標的 (過去從沒買過)"
+      "description": "張濬安(航海王) 今日買進 29 檔新標的 (過去從沒買過)"
     },
     {
       "master": "強森",
       "type": "new_stocks",
-      "count": 54,
+      "count": 29,
       "top_new": [
         {
-          "code": "3605",
-          "buy_amt_wan": 2189
+          "code": "3702",
+          "buy_amt_wan": 3034
         },
         {
-          "code": "2610",
-          "buy_amt_wan": 1353
+          "code": "8070",
+          "buy_amt_wan": 1435
         },
         {
-          "code": "6426",
-          "buy_amt_wan": 1010
+          "code": "3703",
+          "buy_amt_wan": 1007
         },
         {
-          "code": "2484",
-          "buy_amt_wan": 1010
+          "code": "6643",
+          "buy_amt_wan": 900
         },
         {
-          "code": "6525",
-          "buy_amt_wan": 877
+          "code": "2465",
+          "buy_amt_wan": 739
         }
       ],
-      "description": "強森 今日買進 54 檔新標的 (過去從沒買過)"
+      "description": "強森 今日買進 29 檔新標的 (過去從沒買過)"
     },
     {
       "master": "志誠資本",
@@ -416,24 +400,24 @@
       "count": 20,
       "top_new": [
         {
-          "code": "3714",
-          "buy_amt_wan": 617
+          "code": "4979",
+          "buy_amt_wan": 3716
         },
         {
-          "code": "3026",
-          "buy_amt_wan": 612
+          "code": "4991",
+          "buy_amt_wan": 3037
         },
         {
-          "code": "3008",
-          "buy_amt_wan": 448
+          "code": "2492",
+          "buy_amt_wan": 963
         },
         {
-          "code": "2486",
-          "buy_amt_wan": 432
+          "code": "5439",
+          "buy_amt_wan": 711
         },
         {
-          "code": "3006",
-          "buy_amt_wan": 388
+          "code": "3357",
+          "buy_amt_wan": 394
         }
       ],
       "description": "志誠資本 今日買進 20 檔新標的 (過去從沒買過)"
@@ -441,759 +425,789 @@
     {
       "master": "東億資本",
       "type": "new_stocks",
-      "count": 18,
+      "count": 14,
       "top_new": [
         {
-          "code": "6182",
-          "buy_amt_wan": 4992
+          "code": "3715",
+          "buy_amt_wan": 1331
         },
         {
-          "code": "2059",
-          "buy_amt_wan": 3683
+          "code": "6213",
+          "buy_amt_wan": 1296
         },
         {
-          "code": "8039",
-          "buy_amt_wan": 1129
+          "code": "6805",
+          "buy_amt_wan": 894
         },
         {
-          "code": "3167",
-          "buy_amt_wan": 1076
+          "code": "4931",
+          "buy_amt_wan": 860
         },
         {
-          "code": "00738U",
-          "buy_amt_wan": 1008
+          "code": "6279",
+          "buy_amt_wan": 548
         }
       ],
-      "description": "東億資本 今日買進 18 檔新標的 (過去從沒買過)"
+      "description": "東億資本 今日買進 14 檔新標的 (過去從沒買過)"
     },
     {
       "master": "林滄海",
       "type": "new_stocks",
-      "count": 33,
+      "count": 20,
       "top_new": [
         {
-          "code": "6278",
-          "buy_amt_wan": 4487
+          "code": "6672",
+          "buy_amt_wan": 1561
         },
         {
-          "code": "009805",
-          "buy_amt_wan": 3722
+          "code": "6187",
+          "buy_amt_wan": 1210
         },
         {
-          "code": "3167",
-          "buy_amt_wan": 1743
+          "code": "5426",
+          "buy_amt_wan": 911
         },
         {
-          "code": "6533",
-          "buy_amt_wan": 1580
+          "code": "3229",
+          "buy_amt_wan": 503
         },
         {
-          "code": "6907",
-          "buy_amt_wan": 1448
+          "code": "00635U",
+          "buy_amt_wan": 463
         }
       ],
-      "description": "林滄海 今日買進 33 檔新標的 (過去從沒買過)"
+      "description": "林滄海 今日買進 20 檔新標的 (過去從沒買過)"
     },
     {
       "master": "林適中",
       "type": "new_stocks",
-      "count": 18,
+      "count": 19,
       "top_new": [
         {
-          "code": "3003",
-          "buy_amt_wan": 13730
+          "code": "2408",
+          "buy_amt_wan": 1864
         },
         {
-          "code": "3587",
-          "buy_amt_wan": 977
+          "code": "4991",
+          "buy_amt_wan": 647
         },
         {
-          "code": "6217",
-          "buy_amt_wan": 655
+          "code": "3529",
+          "buy_amt_wan": 546
         },
         {
-          "code": "2610",
-          "buy_amt_wan": 503
+          "code": "4931",
+          "buy_amt_wan": 485
         },
         {
-          "code": "3491",
-          "buy_amt_wan": 374
+          "code": "2474",
+          "buy_amt_wan": 332
         }
       ],
-      "description": "林適中 今日買進 18 檔新標的 (過去從沒買過)"
+      "description": "林適中 今日買進 19 檔新標的 (過去從沒買過)"
     },
     {
       "master": "民哥",
       "type": "new_stocks",
-      "count": 37,
+      "count": 27,
       "top_new": [
         {
-          "code": "5351",
-          "buy_amt_wan": 3658
+          "code": "5274",
+          "buy_amt_wan": 1624
         },
         {
-          "code": "2486",
-          "buy_amt_wan": 1475
+          "code": "00720B",
+          "buy_amt_wan": 972
         },
         {
-          "code": "2610",
-          "buy_amt_wan": 1314
+          "code": "5536",
+          "buy_amt_wan": 723
         },
         {
-          "code": "00680L",
-          "buy_amt_wan": 975
+          "code": "4931",
+          "buy_amt_wan": 673
         },
         {
-          "code": "3653",
-          "buy_amt_wan": 692
+          "code": "7855",
+          "buy_amt_wan": 534
         }
       ],
-      "description": "民哥 今日買進 37 檔新標的 (過去從沒買過)"
+      "description": "民哥 今日買進 27 檔新標的 (過去從沒買過)"
     },
     {
       "master": "江士勳",
       "type": "new_stocks",
-      "count": 25,
+      "count": 20,
       "top_new": [
         {
-          "code": "6531",
-          "buy_amt_wan": 1431
+          "code": "6834",
+          "buy_amt_wan": 1610
         },
         {
-          "code": "4566",
-          "buy_amt_wan": 1324
+          "code": "2359",
+          "buy_amt_wan": 1209
         },
         {
-          "code": "8016",
-          "buy_amt_wan": 1186
+          "code": "5351",
+          "buy_amt_wan": 1089
         },
         {
-          "code": "6693",
-          "buy_amt_wan": 858
+          "code": "0056",
+          "buy_amt_wan": 796
         },
         {
-          "code": "2426",
-          "buy_amt_wan": 844
+          "code": "00722B",
+          "buy_amt_wan": 720
         }
       ],
-      "description": "江士勳 今日買進 25 檔新標的 (過去從沒買過)"
+      "description": "江士勳 今日買進 20 檔新標的 (過去從沒買過)"
     },
     {
       "master": "竹科主力分點",
       "type": "new_stocks",
-      "count": 21,
+      "count": 16,
       "top_new": [
         {
-          "code": "6805",
-          "buy_amt_wan": 2766
+          "code": "8069",
+          "buy_amt_wan": 7333
         },
         {
-          "code": "3016",
-          "buy_amt_wan": 2314
+          "code": "2301",
+          "buy_amt_wan": 1909
         },
         {
-          "code": "6182",
-          "buy_amt_wan": 2172
+          "code": "1802",
+          "buy_amt_wan": 1096
         },
         {
-          "code": "3017",
-          "buy_amt_wan": 2146
+          "code": "3715",
+          "buy_amt_wan": 843
         },
         {
-          "code": "2464",
-          "buy_amt_wan": 1783
+          "code": "00935",
+          "buy_amt_wan": 788
         }
       ],
-      "description": "竹科主力分點 今日買進 21 檔新標的 (過去從沒買過)"
+      "description": "竹科主力分點 今日買進 16 檔新標的 (過去從沒買過)"
     },
     {
       "master": "蔣承翰",
       "type": "new_stocks",
-      "count": 29,
+      "count": 27,
       "top_new": [
         {
-          "code": "5443",
-          "buy_amt_wan": 12718
+          "code": "5904",
+          "buy_amt_wan": 63513
         },
         {
-          "code": "3715",
-          "buy_amt_wan": 11822
+          "code": "3044",
+          "buy_amt_wan": 59954
         },
         {
-          "code": "3234",
-          "buy_amt_wan": 7670
+          "code": "8150",
+          "buy_amt_wan": 15902
         },
         {
-          "code": "1409",
-          "buy_amt_wan": 5898
+          "code": "8043",
+          "buy_amt_wan": 4688
         },
         {
-          "code": "4772",
-          "buy_amt_wan": 3354
+          "code": "8112",
+          "buy_amt_wan": 3438
         }
       ],
-      "description": "蔣承翰 今日買進 29 檔新標的 (過去從沒買過)"
+      "description": "蔣承翰 今日買進 27 檔新標的 (過去從沒買過)"
     },
     {
       "master": "謝孟恭(股癌)",
       "type": "new_stocks",
-      "count": 14,
+      "count": 15,
       "top_new": [
         {
-          "code": "3491",
-          "buy_amt_wan": 5139
+          "code": "2408",
+          "buy_amt_wan": 19227
         },
         {
-          "code": "5469",
-          "buy_amt_wan": 3460
+          "code": "2912",
+          "buy_amt_wan": 4610
         },
         {
-          "code": "2449",
-          "buy_amt_wan": 1416
+          "code": "3661",
+          "buy_amt_wan": 3198
         },
         {
-          "code": "6672",
-          "buy_amt_wan": 1380
+          "code": "8150",
+          "buy_amt_wan": 1950
         },
         {
-          "code": "2610",
-          "buy_amt_wan": 943
+          "code": "3081",
+          "buy_amt_wan": 1885
         }
       ],
-      "description": "謝孟恭(股癌) 今日買進 14 檔新標的 (過去從沒買過)"
+      "description": "謝孟恭(股癌) 今日買進 15 檔新標的 (過去從沒買過)"
     },
     {
       "master": "謝明彧大哥(華南永昌)",
       "type": "new_stocks",
-      "count": 27,
+      "count": 21,
       "top_new": [
         {
-          "code": "3653",
-          "buy_amt_wan": 2451
+          "code": "2478",
+          "buy_amt_wan": 1124
         },
         {
-          "code": "5274",
-          "buy_amt_wan": 1680
+          "code": "4722",
+          "buy_amt_wan": 432
         },
         {
-          "code": "6213",
-          "buy_amt_wan": 1624
+          "code": "6716",
+          "buy_amt_wan": 277
         },
         {
-          "code": "6282",
-          "buy_amt_wan": 663
+          "code": "8064",
+          "buy_amt_wan": 206
         },
         {
-          "code": "1802",
-          "buy_amt_wan": 528
+          "code": "2892",
+          "buy_amt_wan": 196
         }
       ],
-      "description": "謝明彧大哥(華南永昌) 今日買進 27 檔新標的 (過去從沒買過)"
+      "description": "謝明彧大哥(華南永昌) 今日買進 21 檔新標的 (過去從沒買過)"
     },
     {
       "master": "迷你哥/松山哥",
       "type": "new_stocks",
-      "count": 20,
+      "count": 21,
       "top_new": [
         {
-          "code": "6781",
-          "buy_amt_wan": 19884
+          "code": "3026",
+          "buy_amt_wan": 41631
         },
         {
-          "code": "3406",
-          "buy_amt_wan": 18606
+          "code": "8033",
+          "buy_amt_wan": 22228
         },
         {
-          "code": "2458",
-          "buy_amt_wan": 11248
+          "code": "8043",
+          "buy_amt_wan": 15933
         },
         {
-          "code": "1711",
-          "buy_amt_wan": 6111
+          "code": "4763",
+          "buy_amt_wan": 14547
         },
         {
-          "code": "2425",
-          "buy_amt_wan": 5961
+          "code": "4931",
+          "buy_amt_wan": 9398
         }
       ],
-      "description": "迷你哥/松山哥 今日買進 20 檔新標的 (過去從沒買過)"
+      "description": "迷你哥/松山哥 今日買進 21 檔新標的 (過去從沒買過)"
     },
     {
       "master": "陳光裕",
       "type": "new_stocks",
-      "count": 23,
+      "count": 15,
       "top_new": [
         {
-          "code": "3231",
-          "buy_amt_wan": 1280
+          "code": "2301",
+          "buy_amt_wan": 815
         },
         {
-          "code": "8039",
-          "buy_amt_wan": 665
+          "code": "3026",
+          "buy_amt_wan": 622
         },
         {
-          "code": "7750",
-          "buy_amt_wan": 484
+          "code": "2478",
+          "buy_amt_wan": 608
         },
         {
-          "code": "3017",
-          "buy_amt_wan": 310
+          "code": "4979",
+          "buy_amt_wan": 482
         },
         {
-          "code": "3532",
-          "buy_amt_wan": 290
+          "code": "4991",
+          "buy_amt_wan": 427
         }
       ],
-      "description": "陳光裕 今日買進 23 檔新標的 (過去從沒買過)"
+      "description": "陳光裕 今日買進 15 檔新標的 (過去從沒買過)"
     },
     {
       "master": "陳律師",
       "type": "new_stocks",
-      "count": 30,
+      "count": 35,
       "top_new": [
         {
-          "code": "3702",
-          "buy_amt_wan": 4210
+          "code": "8150",
+          "buy_amt_wan": 9011
         },
         {
-          "code": "2478",
-          "buy_amt_wan": 2662
+          "code": "3019",
+          "buy_amt_wan": 1431
         },
         {
-          "code": "7740",
-          "buy_amt_wan": 2383
+          "code": "2371",
+          "buy_amt_wan": 1296
         },
         {
-          "code": "7795",
-          "buy_amt_wan": 1864
+          "code": "6257",
+          "buy_amt_wan": 844
         },
         {
-          "code": "2317",
-          "buy_amt_wan": 1641
+          "code": "2645",
+          "buy_amt_wan": 663
         }
       ],
-      "description": "陳律師 今日買進 30 檔新標的 (過去從沒買過)"
+      "description": "陳律師 今日買進 35 檔新標的 (過去從沒買過)"
     },
     {
       "master": "陳族元",
       "type": "new_stocks",
-      "count": 29,
+      "count": 27,
       "top_new": [
         {
-          "code": "6278",
-          "buy_amt_wan": 23236
+          "code": "4938",
+          "buy_amt_wan": 15287
         },
         {
-          "code": "5904",
-          "buy_amt_wan": 7017
+          "code": "2912",
+          "buy_amt_wan": 6620
         },
         {
-          "code": "4979",
-          "buy_amt_wan": 5217
+          "code": "6456",
+          "buy_amt_wan": 2206
         },
         {
-          "code": "3006",
-          "buy_amt_wan": 4518
+          "code": "3149",
+          "buy_amt_wan": 1943
         },
         {
-          "code": "1605",
-          "buy_amt_wan": 2143
+          "code": "9914",
+          "buy_amt_wan": 1886
         }
       ],
-      "description": "陳族元 今日買進 29 檔新標的 (過去從沒買過)"
+      "description": "陳族元 今日買進 27 檔新標的 (過去從沒買過)"
     },
     {
       "master": "陳泊澔",
       "type": "new_stocks",
-      "count": 23,
+      "count": 15,
       "top_new": [
         {
-          "code": "3105",
-          "buy_amt_wan": 1912
+          "code": "5471",
+          "buy_amt_wan": 571
         },
         {
-          "code": "3443",
-          "buy_amt_wan": 739
+          "code": "6239",
+          "buy_amt_wan": 566
         },
         {
-          "code": "3003",
-          "buy_amt_wan": 694
+          "code": "3090",
+          "buy_amt_wan": 327
         },
         {
-          "code": "2603",
-          "buy_amt_wan": 532
+          "code": "4991",
+          "buy_amt_wan": 304
         },
         {
-          "code": "6182",
-          "buy_amt_wan": 458
+          "code": "6415",
+          "buy_amt_wan": 284
         }
       ],
-      "description": "陳泊澔 今日買進 23 檔新標的 (過去從沒買過)"
+      "description": "陳泊澔 今日買進 15 檔新標的 (過去從沒買過)"
     }
   ],
   "consensus": [
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "stock_code": "2344",
-      "buyers": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 481496,
-      "description": "派系2 共識: 林滄海/迷你哥/松山哥/陳族元 同買 2344 (合計 481,496 萬)"
-    },
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "stock_code": "3481",
-      "buyers": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 192158,
-      "description": "派系2 共識: 林滄海/迷你哥/松山哥/陳族元 同買 3481 (合計 192,158 萬)"
-    },
     {
       "faction_id": 1,
       "faction_members": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
       "stock_code": "2308",
       "buyers": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 182582,
-      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森 同買 2308 (合計 182,582 萬)"
-    },
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "stock_code": "3711",
-      "buyers": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 136620,
-      "description": "派系2 共識: 林滄海/迷你哥/松山哥/陳族元 同買 3711 (合計 136,620 萬)"
-    },
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "stock_code": "0050",
-      "buyers": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 135859,
-      "description": "派系2 共識: 林滄海/迷你哥/松山哥/陳族元 同買 0050 (合計 135,859 萬)"
+      "buyer_count": 4,
+      "total_buy_amt_wan": 150975,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 2308 (合計 150,975 萬)"
     },
     {
       "faction_id": 1,
       "faction_members": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "stock_code": "2330",
+      "stock_code": "3026",
       "buyers": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 122416,
-      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森 同買 2330 (合計 122,416 萬)"
-    },
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "stock_code": "1303",
-      "buyers": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 113763,
-      "description": "派系2 共識: 林滄海/迷你哥/松山哥/陳族元 同買 1303 (合計 113,763 萬)"
-    },
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "stock_code": "6805",
-      "buyers": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 92398,
-      "description": "派系2 共識: 林滄海/迷你哥/松山哥/陳族元 同買 6805 (合計 92,398 萬)"
-    },
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "stock_code": "6223",
-      "buyers": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 85812,
-      "description": "派系2 共識: 林滄海/迷你哥/松山哥/陳族元 同買 6223 (合計 85,812 萬)"
+      "buyer_count": 4,
+      "total_buy_amt_wan": 112346,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 3026 (合計 112,346 萬)"
     },
     {
       "faction_id": 1,
       "faction_members": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "stock_code": "2303",
+      "stock_code": "3653",
       "buyers": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 84990,
-      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森 同買 2303 (合計 84,990 萬)"
-    },
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "stock_code": "2330",
-      "buyers": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 77215,
-      "description": "派系2 共識: 林滄海/迷你哥/松山哥/陳族元 同買 2330 (合計 77,215 萬)"
-    },
-    {
-      "faction_id": 2,
-      "faction_members": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "stock_code": "3081",
-      "buyers": [
-        "林滄海",
-        "迷你哥/松山哥",
-        "陳族元"
-      ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 54217,
-      "description": "派系2 共識: 林滄海/迷你哥/松山哥/陳族元 同買 3081 (合計 54,217 萬)"
+      "buyer_count": 4,
+      "total_buy_amt_wan": 30834,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 3653 (合計 30,834 萬)"
     },
     {
       "faction_id": 1,
       "faction_members": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "stock_code": "3081",
+      "stock_code": "2409",
       "buyers": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 54132,
-      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森 同買 3081 (合計 54,132 萬)"
+      "buyer_count": 4,
+      "total_buy_amt_wan": 27598,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 2409 (合計 27,598 萬)"
     },
     {
       "faction_id": 1,
       "faction_members": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "stock_code": "2454",
+      "stock_code": "2337",
       "buyers": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 52242,
-      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森 同買 2454 (合計 52,242 萬)"
+      "buyer_count": 4,
+      "total_buy_amt_wan": 19857,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 2337 (合計 19,857 萬)"
     },
     {
       "faction_id": 1,
       "faction_members": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "stock_code": "4958",
+      "stock_code": "3481",
       "buyers": [
         "巨人傑",
         "張濬安(航海王)",
-        "強森"
+        "強森",
+        "民哥"
       ],
-      "buyer_count": 3,
-      "total_buy_amt_wan": 51177,
-      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森 同買 4958 (合計 51,177 萬)"
+      "buyer_count": 4,
+      "total_buy_amt_wan": 19812,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 3481 (合計 19,812 萬)"
+    },
+    {
+      "faction_id": 1,
+      "faction_members": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "stock_code": "00685L",
+      "buyers": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "buyer_count": 4,
+      "total_buy_amt_wan": 18150,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 00685L (合計 18,150 萬)"
+    },
+    {
+      "faction_id": 1,
+      "faction_members": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "stock_code": "6239",
+      "buyers": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "buyer_count": 4,
+      "total_buy_amt_wan": 15980,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 6239 (合計 15,980 萬)"
+    },
+    {
+      "faction_id": 1,
+      "faction_members": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "stock_code": "3374",
+      "buyers": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "buyer_count": 4,
+      "total_buy_amt_wan": 13054,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 3374 (合計 13,054 萬)"
+    },
+    {
+      "faction_id": 1,
+      "faction_members": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "stock_code": "2345",
+      "buyers": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "buyer_count": 4,
+      "total_buy_amt_wan": 8214,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 2345 (合計 8,214 萬)"
+    },
+    {
+      "faction_id": 1,
+      "faction_members": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "stock_code": "8299",
+      "buyers": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "buyer_count": 4,
+      "total_buy_amt_wan": 8122,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 8299 (合計 8,122 萬)"
+    },
+    {
+      "faction_id": 1,
+      "faction_members": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "stock_code": "2317",
+      "buyers": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "buyer_count": 4,
+      "total_buy_amt_wan": 7345,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 2317 (合計 7,345 萬)"
+    },
+    {
+      "faction_id": 1,
+      "faction_members": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "stock_code": "3105",
+      "buyers": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "buyer_count": 4,
+      "total_buy_amt_wan": 6765,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 3105 (合計 6,765 萬)"
+    },
+    {
+      "faction_id": 1,
+      "faction_members": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "stock_code": "5289",
+      "buyers": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "buyer_count": 4,
+      "total_buy_amt_wan": 5198,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 5289 (合計 5,198 萬)"
+    },
+    {
+      "faction_id": 1,
+      "faction_members": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "stock_code": "4991",
+      "buyers": [
+        "巨人傑",
+        "張濬安(航海王)",
+        "強森",
+        "民哥"
+      ],
+      "buyer_count": 4,
+      "total_buy_amt_wan": 2891,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/民哥 同買 4991 (合計 2,891 萬)"
     }
   ],
   "accumulations": [
     {
       "master": "張濬安(航海王)",
       "stock_code": "2330",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 770282,
-      "description": "張濬安(航海王) 連續 7 天加碼 2330 (累計 770,282 萬)"
-    },
-    {
-      "master": "陳族元",
-      "stock_code": "1303",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 393929,
-      "description": "陳族元 連續 7 天加碼 1303 (累計 393,929 萬)"
-    },
-    {
-      "master": "陳族元",
-      "stock_code": "2383",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 386504,
-      "description": "陳族元 連續 7 天加碼 2383 (累計 386,504 萬)"
-    },
-    {
-      "master": "迷你哥/松山哥",
-      "stock_code": "4958",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 363634,
-      "description": "迷你哥/松山哥 連續 7 天加碼 4958 (累計 363,634 萬)"
-    },
-    {
-      "master": "陳族元",
-      "stock_code": "3653",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 334750,
-      "description": "陳族元 連續 7 天加碼 3653 (累計 334,750 萬)"
-    },
-    {
-      "master": "張濬安(航海王)",
-      "stock_code": "3017",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 333738,
-      "description": "張濬安(航海王) 連續 7 天加碼 3017 (累計 333,738 萬)"
-    },
-    {
-      "master": "張濬安(航海王)",
-      "stock_code": "2454",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 317992,
-      "description": "張濬安(航海王) 連續 7 天加碼 2454 (累計 317,992 萬)"
-    },
-    {
-      "master": "張濬安(航海王)",
-      "stock_code": "3231",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 267281,
-      "description": "張濬安(航海王) 連續 7 天加碼 3231 (累計 267,281 萬)"
-    },
-    {
-      "master": "蔣承翰",
-      "stock_code": "2454",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 256182,
-      "description": "蔣承翰 連續 7 天加碼 2454 (累計 256,182 萬)"
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 791251,
+      "description": "張濬安(航海王) 連續 8 天加碼 2330 (累計 791,251 萬)"
     },
     {
       "master": "迷你哥/松山哥",
       "stock_code": "2327",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 242720,
-      "description": "迷你哥/松山哥 連續 7 天加碼 2327 (累計 242,720 萬)"
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 513430,
+      "description": "迷你哥/松山哥 連續 8 天加碼 2327 (累計 513,430 萬)"
+    },
+    {
+      "master": "陳族元",
+      "stock_code": "1303",
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 435294,
+      "description": "陳族元 連續 8 天加碼 1303 (累計 435,294 萬)"
+    },
+    {
+      "master": "迷你哥/松山哥",
+      "stock_code": "4958",
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 411258,
+      "description": "迷你哥/松山哥 連續 8 天加碼 4958 (累計 411,258 萬)"
+    },
+    {
+      "master": "陳族元",
+      "stock_code": "2383",
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 390895,
+      "description": "陳族元 連續 8 天加碼 2383 (累計 390,895 萬)"
     },
     {
       "master": "張濬安(航海王)",
       "stock_code": "2308",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 241725,
-      "description": "張濬安(航海王) 連續 7 天加碼 2308 (累計 241,725 萬)"
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 378891,
+      "description": "張濬安(航海王) 連續 8 天加碼 2308 (累計 378,891 萬)"
+    },
+    {
+      "master": "張濬安(航海王)",
+      "stock_code": "3017",
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 354765,
+      "description": "張濬安(航海王) 連續 8 天加碼 3017 (累計 354,765 萬)"
+    },
+    {
+      "master": "陳族元",
+      "stock_code": "3653",
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 347540,
+      "description": "陳族元 連續 8 天加碼 3653 (累計 347,540 萬)"
+    },
+    {
+      "master": "張濬安(航海王)",
+      "stock_code": "2454",
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 345047,
+      "description": "張濬安(航海王) 連續 8 天加碼 2454 (累計 345,047 萬)"
+    },
+    {
+      "master": "陳族元",
+      "stock_code": "3008",
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 240904,
+      "description": "陳族元 連續 8 天加碼 3008 (累計 240,904 萬)"
     },
     {
       "master": "張濬安(航海王)",
       "stock_code": "2303",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 230655,
-      "description": "張濬安(航海王) 連續 7 天加碼 2303 (累計 230,655 萬)"
-    },
-    {
-      "master": "陳族元",
-      "stock_code": "3008",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 229983,
-      "description": "陳族元 連續 7 天加碼 3008 (累計 229,983 萬)"
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 231376,
+      "description": "張濬安(航海王) 連續 8 天加碼 2303 (累計 231,376 萬)"
     },
     {
       "master": "陳族元",
       "stock_code": "0050",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 224592,
-      "description": "陳族元 連續 7 天加碼 0050 (累計 224,592 萬)"
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 226461,
+      "description": "陳族元 連續 8 天加碼 0050 (累計 226,461 萬)"
+    },
+    {
+      "master": "張濬安(航海王)",
+      "stock_code": "00981A",
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 223622,
+      "description": "張濬安(航海王) 連續 8 天加碼 00981A (累計 223,622 萬)"
+    },
+    {
+      "master": "陳族元",
+      "stock_code": "2368",
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 170227,
+      "description": "陳族元 連續 8 天加碼 2368 (累計 170,227 萬)"
     },
     {
       "master": "強森",
-      "stock_code": "3008",
-      "consecutive_days": 7,
-      "total_buy_amt_wan": 219575,
-      "description": "強森 連續 7 天加碼 3008 (累計 219,575 萬)"
+      "stock_code": "2327",
+      "consecutive_days": 8,
+      "total_buy_amt_wan": 153939,
+      "description": "強森 連續 8 天加碼 2327 (累計 153,939 萬)"
     }
   ],
-  "summary": "20260810 實戰信號: 31 異常行為 / 15 派系共識 / 15 連續加碼"
+  "summary": "20260811 實戰信號: 29 異常行為 / 15 派系共識 / 15 連續加碼"
 }
