@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-11T23:43:57.290888+08:00",
+  "generated_at": "2026-08-12T00:46:01.472371+08:00",
   "trade_date": "20260811",
   "pump_suspicion": [
     {
@@ -12,10 +12,10 @@
       "sell_lot": 791,
       "buy_amt_wan": 60540,
       "daytrade_ratio": 0.84,
-      "amt_vs_median_x": 18.5,
+      "amt_vs_median_x": 15.6,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 84% (> 70%) + 漲停 + 買金額 60,540 萬 (中位數 3,280 萬 × 18.5)"
+      "reasoning": "當沖比 84% (> 70%) + 漲停 + 買金額 60,540 萬 (中位數 3,885 萬 × 15.6)"
     },
     {
       "stock_code": "2492",
@@ -42,10 +42,10 @@
       "sell_lot": 537,
       "buy_amt_wan": 37960,
       "daytrade_ratio": 0.91,
-      "amt_vs_median_x": 11.6,
+      "amt_vs_median_x": 9.8,
       "rule": "A_pump",
       "severity": "high",
-      "reasoning": "當沖比 91% (> 70%) + 漲停 + 買金額 37,960 萬 (中位數 3,280 萬 × 11.6)"
+      "reasoning": "當沖比 91% (> 70%) + 漲停 + 買金額 37,960 萬 (中位數 3,885 萬 × 9.8)"
     },
     {
       "stock_code": "8358",
@@ -225,7 +225,7 @@
       "buy_lot": 92,
       "sell_lot": 122,
       "buy_amt_wan": 1642,
-      "sell_amt_wan": 2165,
+      "sell_amt_wan": 2172,
       "lot_match_ratio": 0.75,
       "same_master": false,
       "rule": "B_wash",
@@ -259,7 +259,7 @@
       "buy_lot": 143,
       "sell_lot": 122,
       "buy_amt_wan": 2546,
-      "sell_amt_wan": 2165,
+      "sell_amt_wan": 2172,
       "lot_match_ratio": 0.85,
       "same_master": false,
       "rule": "B_wash",
@@ -327,7 +327,7 @@
       "buy_lot": 137,
       "sell_lot": 122,
       "buy_amt_wan": 2429,
-      "sell_amt_wan": 2165,
+      "sell_amt_wan": 2172,
       "lot_match_ratio": 0.89,
       "same_master": false,
       "rule": "B_wash",
@@ -480,7 +480,7 @@
       "buy_lot": 155,
       "sell_lot": 122,
       "buy_amt_wan": 2748,
-      "sell_amt_wan": 2165,
+      "sell_amt_wan": 2172,
       "lot_match_ratio": 0.79,
       "same_master": true,
       "rule": "B_wash",
@@ -541,6 +541,40 @@
     {
       "stock_code": "2344",
       "stock_name": "華邦電",
+      "buy_branch_code": "9A9g",
+      "buy_master": "陳族元",
+      "sell_branch_code": "779W",
+      "sell_master": "民哥",
+      "buy_lot": 59,
+      "sell_lot": 56,
+      "buy_amt_wan": 1046,
+      "sell_amt_wan": 994,
+      "lot_match_ratio": 0.95,
+      "same_master": false,
+      "rule": "B_wash",
+      "severity": "medium",
+      "reasoning": "9A9g 買 59 張 vs 779W 賣 56 張 (匹配 95%)"
+    },
+    {
+      "stock_code": "2344",
+      "stock_name": "華邦電",
+      "buy_branch_code": "9A9g",
+      "buy_master": "陳族元",
+      "sell_branch_code": "700I",
+      "sell_master": "兆豐北高雄(強勢地緣)",
+      "buy_lot": 59,
+      "sell_lot": 71,
+      "buy_amt_wan": 1046,
+      "sell_amt_wan": 1252,
+      "lot_match_ratio": 0.83,
+      "same_master": false,
+      "rule": "B_wash",
+      "severity": "medium",
+      "reasoning": "9A9g 買 59 張 vs 700I 賣 71 張 (匹配 83%)"
+    },
+    {
+      "stock_code": "2344",
+      "stock_name": "華邦電",
       "buy_branch_code": "700c",
       "buy_master": "陳律師",
       "sell_branch_code": "9874",
@@ -554,40 +588,6 @@
       "rule": "B_wash",
       "severity": "medium",
       "reasoning": "700c 買 265 張 vs 9874 賣 203 張 (匹配 77%)"
-    },
-    {
-      "stock_code": "2344",
-      "stock_name": "華邦電",
-      "buy_branch_code": "700c",
-      "buy_master": "陳律師",
-      "sell_branch_code": "700S",
-      "sell_master": "何莎",
-      "buy_lot": 265,
-      "sell_lot": 338,
-      "buy_amt_wan": 4684,
-      "sell_amt_wan": 5978,
-      "lot_match_ratio": 0.78,
-      "same_master": false,
-      "rule": "B_wash",
-      "severity": "medium",
-      "reasoning": "700c 買 265 張 vs 700S 賣 338 張 (匹配 78%)"
-    },
-    {
-      "stock_code": "2344",
-      "stock_name": "華邦電",
-      "buy_branch_code": "700c",
-      "buy_master": "陳律師",
-      "sell_branch_code": "9359",
-      "sell_master": "華南永昌中正(未知大哥)",
-      "buy_lot": 265,
-      "sell_lot": 304,
-      "buy_amt_wan": 4684,
-      "sell_amt_wan": 5386,
-      "lot_match_ratio": 0.87,
-      "same_master": false,
-      "rule": "B_wash",
-      "severity": "medium",
-      "reasoning": "700c 買 265 張 vs 9359 賣 304 張 (匹配 87%)"
     }
   ],
   "distribution": [
