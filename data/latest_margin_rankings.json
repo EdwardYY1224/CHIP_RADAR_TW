@@ -1,6 +1,6 @@
 {
  "trade_date": "20260812",
- "updated_at": "2026-08-12T22:48:15.806070+08:00",
+ "updated_at": "2026-08-12T23:48:05.975427+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5015,66 +5015,66 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1121,
-   "watch": 94,
-   "high_risk": 3,
-   "margin_call": 3,
-   "insufficient_data": 988
+   "healthy": 1141,
+   "watch": 78,
+   "high_risk": 4,
+   "margin_call": 2,
+   "insufficient_data": 984
   },
   "high_risk_stocks": [
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 21.9,
+    "ratio": 22.6,
     "risk_level": "margin_call",
     "margin_balance": 5423,
     "today_close": 82.5,
-    "estimated_cost": 627.38
+    "estimated_cost": 609.29
    },
    {
     "code": "00685L",
     "name": "群益臺灣加權正2",
-    "ratio": 32.9,
+    "ratio": 39.5,
     "risk_level": "margin_call",
     "margin_balance": 183671,
     "today_close": 11.6,
-    "estimated_cost": 58.72
+    "estimated_cost": 48.97
    },
    {
     "code": "4503",
     "name": "金雨",
-    "ratio": 118.8,
-    "risk_level": "margin_call",
+    "ratio": 120.5,
+    "risk_level": "high_risk",
     "margin_balance": 1627,
     "today_close": 26.25,
-    "estimated_cost": 36.83
+    "estimated_cost": 36.32
    },
    {
     "code": "8261",
     "name": "富鼎",
-    "ratio": 125.1,
+    "ratio": 126.6,
     "risk_level": "high_risk",
     "margin_balance": 6140,
     "today_close": 184.0,
-    "estimated_cost": 245.13
+    "estimated_cost": 242.25
    },
    {
     "code": "2429",
     "name": "銘旺科",
-    "ratio": 126.2,
+    "ratio": 127.9,
     "risk_level": "high_risk",
     "margin_balance": 388,
     "today_close": 31.25,
-    "estimated_cost": 41.27
+    "estimated_cost": 40.71
    },
    {
     "code": "6155",
     "name": "鈞寶",
-    "ratio": 127.6,
+    "ratio": 128.7,
     "risk_level": "high_risk",
     "margin_balance": 2800,
     "today_close": 58.4,
-    "estimated_cost": 76.29
+    "estimated_cost": 75.65
    }
   ],
   "thresholds": {
