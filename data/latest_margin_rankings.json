@@ -1,6 +1,6 @@
 {
  "trade_date": "20260813",
- "updated_at": "2026-08-13T22:58:15.636393+08:00",
+ "updated_at": "2026-08-13T23:54:55.426340+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5006,9 +5006,9 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1155,
-   "watch": 68,
-   "high_risk": 1,
+   "healthy": 1166,
+   "watch": 58,
+   "high_risk": 0,
    "margin_call": 2,
    "insufficient_data": 986
   },
@@ -5016,29 +5016,20 @@
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 22.4,
+    "ratio": 23.1,
     "risk_level": "margin_call",
     "margin_balance": 5755,
     "today_close": 81.8,
-    "estimated_cost": 609.29
+    "estimated_cost": 590.82
    },
    {
     "code": "00685L",
     "name": "群益臺灣加權正2",
-    "ratio": 40.5,
+    "ratio": 50.6,
     "risk_level": "margin_call",
     "margin_balance": 179148,
     "today_close": 11.91,
-    "estimated_cost": 48.97
-   },
-   {
-    "code": "2429",
-    "name": "銘旺科",
-    "ratio": 130.0,
-    "risk_level": "high_risk",
-    "margin_balance": 386,
-    "today_close": 31.75,
-    "estimated_cost": 40.71
+    "estimated_cost": 39.2
    }
   ],
   "thresholds": {
