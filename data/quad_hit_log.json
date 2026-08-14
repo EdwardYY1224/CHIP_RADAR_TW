@@ -1,23 +1,175 @@
 {
-  "trigger_days": [],
+  "trigger_days": [
+    {
+      "date": "20260813",
+      "next_date": "20260814",
+      "q5_direction": "偏多",
+      "q5_confidence": 95,
+      "taifex_change": 1.11,
+      "vol_spike_masters": [
+        "迷你哥/松山哥"
+      ],
+      "quad_picks": [
+        {
+          "code": "2449",
+          "name": "京元電子",
+          "matched_masters": [
+            "迷你哥/松山哥"
+          ],
+          "next_change_pct": -2.56,
+          "hit": false,
+          "leader_pct": 0.257,
+          "excess_return": -3.67,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2317",
+          "name": "鴻海",
+          "matched_masters": [
+            "迷你哥/松山哥"
+          ],
+          "next_change_pct": -0.95,
+          "hit": false,
+          "leader_pct": 0.302,
+          "excess_return": -2.06,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "3533",
+          "name": "嘉澤",
+          "matched_masters": [
+            "迷你哥/松山哥"
+          ],
+          "next_change_pct": -4.97,
+          "hit": false,
+          "leader_pct": 0.266,
+          "excess_return": -6.08,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "8358",
+          "name": "金居",
+          "matched_masters": [
+            "迷你哥/松山哥"
+          ],
+          "next_change_pct": 1.78,
+          "hit": true,
+          "leader_pct": 0.232,
+          "excess_return": 0.67,
+          "failure_reasons": []
+        },
+        {
+          "code": "3105",
+          "name": "穩懋",
+          "matched_masters": [
+            "迷你哥/松山哥"
+          ],
+          "next_change_pct": -2.33,
+          "hit": false,
+          "leader_pct": 0.546,
+          "excess_return": -3.44,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)",
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "matched_masters": [
+            "迷你哥/松山哥"
+          ],
+          "next_change_pct": 7.41,
+          "hit": true,
+          "leader_pct": 0.29,
+          "excess_return": 6.3,
+          "failure_reasons": []
+        },
+        {
+          "code": "3026",
+          "name": "禾伸堂",
+          "matched_masters": [
+            "迷你哥/松山哥"
+          ],
+          "next_change_pct": -6.37,
+          "hit": false,
+          "leader_pct": 0.446,
+          "excess_return": -7.48,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2880",
+          "name": "華南金",
+          "matched_masters": [
+            "迷你哥/松山哥"
+          ],
+          "next_change_pct": -0.38,
+          "hit": false,
+          "leader_pct": 0.349,
+          "excess_return": -1.49,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "6442",
+          "name": "光聖",
+          "matched_masters": [
+            "迷你哥/松山哥"
+          ],
+          "next_change_pct": -0.32,
+          "hit": false,
+          "leader_pct": 0.228,
+          "excess_return": -1.43,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "3481",
+          "name": "群創",
+          "matched_masters": [
+            "迷你哥/松山哥"
+          ],
+          "next_change_pct": 1.42,
+          "hit": true,
+          "leader_pct": 0.173,
+          "excess_return": 0.31,
+          "failure_reasons": []
+        }
+      ],
+      "n": 10,
+      "hits": 3,
+      "hit_rate": 0.3,
+      "mean_change": -0.73
+    }
+  ],
   "rolling_30d": {
-    "trigger_days": 0,
-    "n": 0,
-    "hits": 0,
-    "hit_rate": 0,
-    "mean_change": 0
+    "trigger_days": 1,
+    "n": 10,
+    "hits": 3,
+    "hit_rate": 0.3,
+    "mean_change": -0.73
   },
   "rolling_all": {
-    "trigger_days": 0,
-    "n": 0,
-    "hits": 0,
-    "hit_rate": 0,
-    "mean_change": 0
+    "trigger_days": 1,
+    "n": 10,
+    "hits": 3,
+    "hit_rate": 0.3,
+    "mean_change": -0.73
   },
   "vs_expected": {
     "expected_hit_rate": 0.789,
-    "actual_hit_rate": 0,
-    "delta_pp": -78.9
+    "actual_hit_rate": 0.3,
+    "delta_pp": -48.9
   },
-  "updated_at": "2026-08-13T15:55:31.276297"
+  "updated_at": "2026-08-14T14:33:39.020428"
 }
