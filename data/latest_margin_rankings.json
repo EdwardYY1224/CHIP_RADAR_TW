@@ -1,6 +1,6 @@
 {
  "trade_date": "20260817",
- "updated_at": "2026-08-17T22:06:48.494460+08:00",
+ "updated_at": "2026-08-17T23:12:12.234378+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5002,57 +5002,48 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1126,
-   "watch": 82,
+   "healthy": 1138,
+   "watch": 71,
    "high_risk": 1,
-   "margin_call": 4,
+   "margin_call": 3,
    "insufficient_data": 999
   },
   "high_risk_stocks": [
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 22.3,
+    "ratio": 23.1,
     "risk_level": "margin_call",
     "margin_balance": 6161,
     "today_close": 76.5,
-    "estimated_cost": 571.25
+    "estimated_cost": 551.87
    },
    {
     "code": "5314",
     "name": "世紀*",
-    "ratio": 50.5,
+    "ratio": 52.1,
     "risk_level": "margin_call",
     "margin_balance": 13663,
     "today_close": 17.8,
-    "estimated_cost": 58.78
+    "estimated_cost": 56.99
    },
    {
     "code": "00685L",
     "name": "群益臺灣加權正2",
-    "ratio": 65.2,
+    "ratio": 93.9,
     "risk_level": "margin_call",
     "margin_balance": 165128,
     "today_close": 11.84,
-    "estimated_cost": 30.24
+    "estimated_cost": 21.03
    },
    {
     "code": "4503",
     "name": "金雨",
-    "ratio": 119.1,
-    "risk_level": "margin_call",
+    "ratio": 121.5,
+    "risk_level": "high_risk",
     "margin_balance": 1682,
     "today_close": 25.2,
-    "estimated_cost": 35.27
-   },
-   {
-    "code": "2483",
-    "name": "百容",
-    "ratio": 129.8,
-    "risk_level": "high_risk",
-    "margin_balance": 1899,
-    "today_close": 37.65,
-    "estimated_cost": 48.33
+    "estimated_cost": 34.58
    }
   ],
   "thresholds": {
