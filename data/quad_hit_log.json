@@ -150,19 +150,169 @@
       "hits": 3,
       "hit_rate": 0.3,
       "mean_change": -0.73
+    },
+    {
+      "date": "20260814",
+      "next_date": "20260817",
+      "q5_direction": "偏多",
+      "q5_confidence": 95,
+      "taifex_change": -0.46,
+      "vol_spike_masters": [
+        "巨人傑"
+      ],
+      "quad_picks": [
+        {
+          "code": "8299",
+          "name": "群聯",
+          "matched_masters": [
+            "巨人傑"
+          ],
+          "next_change_pct": 0.24,
+          "hit": true,
+          "leader_pct": 0.183,
+          "excess_return": 0.7,
+          "failure_reasons": []
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "matched_masters": [
+            "巨人傑"
+          ],
+          "next_change_pct": -2.25,
+          "hit": false,
+          "leader_pct": 0.351,
+          "excess_return": -1.79,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "6182",
+          "name": "合晶",
+          "matched_masters": [
+            "巨人傑"
+          ],
+          "next_change_pct": 9.87,
+          "hit": true,
+          "leader_pct": 0.258,
+          "excess_return": 10.33,
+          "failure_reasons": []
+        },
+        {
+          "code": "3533",
+          "name": "嘉澤",
+          "matched_masters": [
+            "巨人傑"
+          ],
+          "next_change_pct": -1.16,
+          "hit": false,
+          "leader_pct": 0.573,
+          "excess_return": -0.7,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)"
+          ]
+        },
+        {
+          "code": "2492",
+          "name": "華新科",
+          "matched_masters": [
+            "巨人傑"
+          ],
+          "next_change_pct": -3.64,
+          "hit": false,
+          "leader_pct": 0.268,
+          "excess_return": -3.18,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2377",
+          "name": "微星",
+          "matched_masters": [
+            "巨人傑"
+          ],
+          "next_change_pct": -5.97,
+          "hit": false,
+          "leader_pct": 0.197,
+          "excess_return": -5.51,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2317",
+          "name": "鴻海",
+          "matched_masters": [
+            "巨人傑"
+          ],
+          "next_change_pct": -1.73,
+          "hit": false,
+          "leader_pct": 0.354,
+          "excess_return": -1.27,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "2002",
+          "name": "中鋼",
+          "matched_masters": [
+            "巨人傑"
+          ],
+          "next_change_pct": -0.79,
+          "hit": false,
+          "leader_pct": 0.567,
+          "excess_return": -0.33,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)"
+          ]
+        },
+        {
+          "code": "8358",
+          "name": "金居",
+          "matched_masters": [
+            "巨人傑"
+          ],
+          "next_change_pct": -2.1,
+          "hit": false,
+          "leader_pct": 0.269,
+          "excess_return": -1.64,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "matched_masters": [
+            "巨人傑"
+          ],
+          "next_change_pct": 0.21,
+          "hit": true,
+          "leader_pct": 0.53,
+          "excess_return": 0.67,
+          "failure_reasons": []
+        }
+      ],
+      "n": 10,
+      "hits": 3,
+      "hit_rate": 0.3,
+      "mean_change": -0.73
     }
   ],
   "rolling_30d": {
-    "trigger_days": 1,
-    "n": 10,
-    "hits": 3,
+    "trigger_days": 2,
+    "n": 20,
+    "hits": 6,
     "hit_rate": 0.3,
     "mean_change": -0.73
   },
   "rolling_all": {
-    "trigger_days": 1,
-    "n": 10,
-    "hits": 3,
+    "trigger_days": 2,
+    "n": 20,
+    "hits": 6,
     "hit_rate": 0.3,
     "mean_change": -0.73
   },
@@ -171,5 +321,5 @@
     "actual_hit_rate": 0.3,
     "delta_pp": -48.9
   },
-  "updated_at": "2026-08-14T16:45:29.064829"
+  "updated_at": "2026-08-17T14:07:52.914873"
 }
