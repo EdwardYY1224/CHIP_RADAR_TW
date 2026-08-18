@@ -300,26 +300,234 @@
       "hits": 3,
       "hit_rate": 0.3,
       "mean_change": -0.73
+    },
+    {
+      "date": "20260817",
+      "next_date": "20260818",
+      "q5_direction": "偏多",
+      "q5_confidence": 95,
+      "taifex_change": 0.1,
+      "vol_spike_masters": [
+        "Tradow",
+        "林滄海"
+      ],
+      "quad_picks": [
+        {
+          "code": "1303",
+          "name": "南亞",
+          "matched_masters": [
+            "林滄海"
+          ],
+          "next_change_pct": -0.25,
+          "hit": false,
+          "leader_pct": 0.205,
+          "excess_return": -0.35,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "matched_masters": [
+            "Tradow",
+            "林滄海"
+          ],
+          "next_change_pct": -4.07,
+          "hit": false,
+          "leader_pct": 0.526,
+          "excess_return": -4.17,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)",
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2317",
+          "name": "鴻海",
+          "matched_masters": [
+            "Tradow",
+            "林滄海"
+          ],
+          "next_change_pct": -2.35,
+          "hit": false,
+          "leader_pct": 0.18,
+          "excess_return": -2.45,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2376",
+          "name": "技嘉",
+          "matched_masters": [
+            "Tradow",
+            "林滄海"
+          ],
+          "next_change_pct": -2.79,
+          "hit": false,
+          "leader_pct": 0.321,
+          "excess_return": -2.89,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2337",
+          "name": "旺宏",
+          "matched_masters": [
+            "Tradow",
+            "林滄海"
+          ],
+          "next_change_pct": -5.79,
+          "hit": false,
+          "leader_pct": 0.277,
+          "excess_return": -5.89,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "matched_masters": [
+            "林滄海"
+          ],
+          "next_change_pct": -5.26,
+          "hit": false,
+          "leader_pct": 0.367,
+          "excess_return": -5.36,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "6770",
+          "name": "力積電",
+          "matched_masters": [
+            "Tradow",
+            "林滄海"
+          ],
+          "next_change_pct": -6.57,
+          "hit": false,
+          "leader_pct": 0.201,
+          "excess_return": -6.67,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2324",
+          "name": "仁寶",
+          "matched_masters": [
+            "林滄海"
+          ],
+          "next_change_pct": -2.52,
+          "hit": false,
+          "leader_pct": 0.219,
+          "excess_return": -2.62,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "3189",
+          "name": "景碩",
+          "matched_masters": [
+            "林滄海"
+          ],
+          "next_change_pct": -4.42,
+          "hit": false,
+          "leader_pct": 0.423,
+          "excess_return": -4.52,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "matched_masters": [
+            "Tradow",
+            "林滄海"
+          ],
+          "next_change_pct": -3.44,
+          "hit": false,
+          "leader_pct": 0.402,
+          "excess_return": -3.54,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "4958",
+          "name": "臻鼎-KY",
+          "matched_masters": [
+            "Tradow",
+            "林滄海"
+          ],
+          "next_change_pct": -5.77,
+          "hit": false,
+          "leader_pct": 0.32,
+          "excess_return": -5.87,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "8299",
+          "name": "群聯",
+          "matched_masters": [
+            "林滄海"
+          ],
+          "next_change_pct": -4.08,
+          "hit": false,
+          "leader_pct": 0.362,
+          "excess_return": -4.18,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2344",
+          "name": "華邦電",
+          "matched_masters": [
+            "Tradow",
+            "林滄海"
+          ],
+          "next_change_pct": -2.75,
+          "hit": false,
+          "leader_pct": 0.275,
+          "excess_return": -2.85,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        }
+      ],
+      "n": 13,
+      "hits": 0,
+      "hit_rate": 0.0,
+      "mean_change": -3.85
     }
   ],
   "rolling_30d": {
-    "trigger_days": 2,
-    "n": 20,
+    "trigger_days": 3,
+    "n": 33,
     "hits": 6,
-    "hit_rate": 0.3,
-    "mean_change": -0.73
+    "hit_rate": 0.1818,
+    "mean_change": -1.96
   },
   "rolling_all": {
-    "trigger_days": 2,
-    "n": 20,
+    "trigger_days": 3,
+    "n": 33,
     "hits": 6,
-    "hit_rate": 0.3,
-    "mean_change": -0.73
+    "hit_rate": 0.1818,
+    "mean_change": -1.96
   },
   "vs_expected": {
     "expected_hit_rate": 0.789,
-    "actual_hit_rate": 0.3,
-    "delta_pp": -48.9
+    "actual_hit_rate": 0.1818,
+    "delta_pp": -60.7
   },
-  "updated_at": "2026-08-17T16:13:33.611459"
+  "updated_at": "2026-08-18T14:11:25.893283"
 }
