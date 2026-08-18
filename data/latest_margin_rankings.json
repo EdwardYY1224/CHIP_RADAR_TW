@@ -1,6 +1,6 @@
 {
  "trade_date": "20260818",
- "updated_at": "2026-08-18T22:10:53.409783+08:00",
+ "updated_at": "2026-08-18T23:20:17.476208+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5009,120 +5009,84 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1116,
-   "watch": 116,
-   "high_risk": 7,
-   "margin_call": 5,
-   "insufficient_data": 968
+   "healthy": 1140,
+   "watch": 97,
+   "high_risk": 4,
+   "margin_call": 4,
+   "insufficient_data": 967
   },
   "high_risk_stocks": [
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 23.8,
+    "ratio": 24.6,
     "risk_level": "margin_call",
     "margin_balance": 6397,
     "today_close": 78.7,
-    "estimated_cost": 551.87
+    "estimated_cost": 532.49
    },
    {
     "code": "5314",
     "name": "世紀*",
-    "ratio": 57.2,
+    "ratio": 58.8,
     "risk_level": "margin_call",
     "margin_balance": 13605,
     "today_close": 19.55,
-    "estimated_cost": 56.99
-   },
-   {
-    "code": "00685L",
-    "name": "群益臺灣加權正2",
-    "ratio": 90.7,
-    "risk_level": "margin_call",
-    "margin_balance": 159077,
-    "today_close": 11.44,
-    "estimated_cost": 21.03
-   },
-   {
-    "code": "4503",
-    "name": "金雨",
-    "ratio": 116.2,
-    "risk_level": "margin_call",
-    "margin_balance": 1656,
-    "today_close": 24.1,
-    "estimated_cost": 34.58
+    "estimated_cost": 55.39
    },
    {
     "code": "3021",
     "name": "鴻名",
-    "ratio": 116.6,
+    "ratio": 116.3,
     "risk_level": "margin_call",
     "margin_balance": 614,
     "today_close": 19.95,
-    "estimated_cost": 28.53
+    "estimated_cost": 28.59
+   },
+   {
+    "code": "4503",
+    "name": "金雨",
+    "ratio": 118.7,
+    "risk_level": "margin_call",
+    "margin_balance": 1656,
+    "today_close": 24.1,
+    "estimated_cost": 33.84
    },
    {
     "code": "4764",
     "name": "雙鍵",
-    "ratio": 122.3,
+    "ratio": 123.6,
     "risk_level": "high_risk",
     "margin_balance": 4202,
     "today_close": 206.0,
-    "estimated_cost": 280.83
+    "estimated_cost": 277.7
    },
    {
     "code": "8105",
     "name": "凌巨",
-    "ratio": 124.5,
+    "ratio": 126.5,
     "risk_level": "high_risk",
     "margin_balance": 8061,
     "today_close": 13.8,
-    "estimated_cost": 18.47
+    "estimated_cost": 18.18
    },
    {
     "code": "4720",
     "name": "德淵",
-    "ratio": 125.2,
+    "ratio": 126.6,
     "risk_level": "high_risk",
     "margin_balance": 3141,
     "today_close": 18.25,
-    "estimated_cost": 24.29
+    "estimated_cost": 24.02
    },
    {
     "code": "4556",
     "name": "旭然",
-    "ratio": 129.0,
+    "ratio": 129.2,
     "risk_level": "high_risk",
     "margin_balance": 652,
     "today_close": 77.7,
-    "estimated_cost": 100.38
-   },
-   {
-    "code": "3528",
-    "name": "安馳",
-    "ratio": 129.7,
-    "risk_level": "high_risk",
-    "margin_balance": 2033,
-    "today_close": 86.1,
-    "estimated_cost": 110.61
-   },
-   {
-    "code": "2483",
-    "name": "百容",
-    "ratio": 129.8,
-    "risk_level": "high_risk",
-    "margin_balance": 1899,
-    "today_close": 37.6,
-    "estimated_cost": 48.27
-   },
-   {
-    "code": "5386",
-    "name": "青雲",
-    "ratio": 129.9,
-    "risk_level": "high_risk",
-    "margin_balance": 1821,
-    "today_close": 228.5,
-    "estimated_cost": 293.08
+    "estimated_cost": 100.22
    }
   ],
   "thresholds": {

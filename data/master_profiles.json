@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-18T22:11:08.057194+08:00",
+  "generated_at": "2026-08-18T23:20:35.796014+08:00",
   "window_days": 13,
   "trade_date_range": [
     "20260731",
@@ -494,7 +494,7 @@
         "trapped_count": 4,
         "high_count": 0,
         "watch_count": 0,
-        "bought_during_disposal_count": 3,
+        "bought_during_disposal_count": 4,
         "total_exposure_wan": 10052,
         "positions": [
           {
@@ -534,7 +534,7 @@
             "sell_lot": 117,
             "buy_days": 3,
             "last_buy_date": "20260818",
-            "bought_during_disposal": false
+            "bought_during_disposal": true
           },
           {
             "stock_code": "8033",
@@ -1046,11 +1046,11 @@
         "actual_hold_ratio": 0.632,
         "top_flip_stocks": [
           {
-            "code": "2344",
+            "code": "2308",
             "count": 13
           },
           {
-            "code": "2308",
+            "code": "2344",
             "count": 13
           },
           {
@@ -1058,11 +1058,11 @@
             "count": 12
           },
           {
-            "code": "2330",
+            "code": "3711",
             "count": 11
           },
           {
-            "code": "3711",
+            "code": "2330",
             "count": 11
           }
         ],
@@ -1639,7 +1639,7 @@
         "trapped_count": 6,
         "high_count": 0,
         "watch_count": 1,
-        "bought_during_disposal_count": 6,
+        "bought_during_disposal_count": 7,
         "total_exposure_wan": 19804,
         "positions": [
           {
@@ -1666,7 +1666,7 @@
             "sell_lot": 5,
             "buy_days": 1,
             "last_buy_date": "20260818",
-            "bought_during_disposal": false
+            "bought_during_disposal": true
           },
           {
             "stock_code": "4991",
@@ -5348,7 +5348,7 @@
         "trapped_count": 5,
         "high_count": 1,
         "watch_count": 1,
-        "bought_during_disposal_count": 6,
+        "bought_during_disposal_count": 7,
         "total_exposure_wan": 73984,
         "positions": [
           {
@@ -5414,7 +5414,7 @@
             "sell_lot": 5,
             "buy_days": 2,
             "last_buy_date": "20260818",
-            "bought_during_disposal": false
+            "bought_during_disposal": true
           },
           {
             "stock_code": "6538",
@@ -9064,11 +9064,11 @@
             "count": 13
           },
           {
-            "code": "2454",
+            "code": "2408",
             "count": 12
           },
           {
-            "code": "2408",
+            "code": "2454",
             "count": 12
           }
         ],
@@ -9381,19 +9381,19 @@
         "actual_hold_ratio": 0.786,
         "top_flip_stocks": [
           {
-            "code": "2330",
-            "count": 3
-          },
-          {
             "code": "6274",
             "count": 3
           },
           {
-            "code": "8358",
+            "code": "2330",
             "count": 3
           },
           {
             "code": "2337",
+            "count": 3
+          },
+          {
+            "code": "8358",
             "count": 3
           },
           {
@@ -9403,11 +9403,11 @@
         ],
         "top_hold_stocks": [
           {
-            "code": "00881",
+            "code": "00891",
             "count": 9
           },
           {
-            "code": "00891",
+            "code": "00881",
             "count": 9
           },
           {
@@ -11584,11 +11584,11 @@
             "count": 38
           },
           {
-            "code": "00632R",
+            "code": "2327",
             "count": 24
           },
           {
-            "code": "2327",
+            "code": "00632R",
             "count": 24
           },
           {
@@ -11826,11 +11826,11 @@
             "count": 6
           },
           {
-            "code": "8358",
+            "code": "00923",
             "count": 5
           },
           {
-            "code": "00923",
+            "code": "8358",
             "count": 5
           }
         ]
@@ -14372,15 +14372,15 @@
         ],
         "top_hold_stocks": [
           {
+            "code": "009826",
+            "count": 7
+          },
+          {
             "code": "3045",
             "count": 7
           },
           {
             "code": "2106",
-            "count": 7
-          },
-          {
-            "code": "009826",
             "count": 7
           },
           {
@@ -14749,11 +14749,11 @@
             "count": 5
           },
           {
-            "code": "2303",
+            "code": "3037",
             "count": 3
           },
           {
-            "code": "3037",
+            "code": "2303",
             "count": 3
           },
           {
@@ -14761,7 +14761,7 @@
             "count": 3
           },
           {
-            "code": "8299",
+            "code": "2344",
             "count": 3
           }
         ],
@@ -14771,7 +14771,7 @@
             "count": 8
           },
           {
-            "code": "3008",
+            "code": "3653",
             "count": 6
           },
           {
@@ -14779,11 +14779,11 @@
             "count": 6
           },
           {
-            "code": "3653",
+            "code": "3008",
             "count": 6
           },
           {
-            "code": "00981A",
+            "code": "3017",
             "count": 5
           }
         ]
@@ -15287,7 +15287,7 @@
             "count": 3
           },
           {
-            "code": "3481",
+            "code": "00632R",
             "count": 3
           }
         ],
@@ -15305,11 +15305,11 @@
             "count": 7
           },
           {
-            "code": "4958",
+            "code": "1310",
             "count": 4
           },
           {
-            "code": "1310",
+            "code": "4958",
             "count": 4
           }
         ]
@@ -15559,11 +15559,11 @@
         "actual_hold_ratio": 0.783,
         "top_flip_stocks": [
           {
-            "code": "6770",
+            "code": "00405A",
             "count": 3
           },
           {
-            "code": "00405A",
+            "code": "6770",
             "count": 3
           },
           {
@@ -15571,11 +15571,11 @@
             "count": 3
           },
           {
-            "code": "3481",
+            "code": "2408",
             "count": 3
           },
           {
-            "code": "2408",
+            "code": "3481",
             "count": 3
           }
         ],
@@ -15792,15 +15792,15 @@
             "count": 3
           },
           {
+            "code": "3105",
+            "count": 2
+          },
+          {
             "code": "6770",
             "count": 2
           },
           {
             "code": "2308",
-            "count": 2
-          },
-          {
-            "code": "3105",
             "count": 2
           }
         ],
@@ -16639,11 +16639,11 @@
             "count": 7
           },
           {
-            "code": "00631L",
+            "code": "00685L",
             "count": 6
           },
           {
-            "code": "00685L",
+            "code": "00631L",
             "count": 6
           }
         ],
@@ -16665,7 +16665,7 @@
             "count": 14
           },
           {
-            "code": "2303",
+            "code": "00632R",
             "count": 11
           }
         ]
@@ -17971,11 +17971,11 @@
             "count": 6
           },
           {
-            "code": "2308",
+            "code": "3704",
             "count": 5
           },
           {
-            "code": "3704",
+            "code": "2308",
             "count": 5
           },
           {
@@ -18165,7 +18165,7 @@
             "count": 2
           },
           {
-            "code": "2330",
+            "code": "3711",
             "count": 2
           }
         ],
@@ -18175,11 +18175,11 @@
             "count": 6
           },
           {
-            "code": "2308",
+            "code": "2727",
             "count": 5
           },
           {
-            "code": "2727",
+            "code": "2308",
             "count": 5
           },
           {
@@ -18416,23 +18416,23 @@
         "actual_hold_ratio": 0.773,
         "top_flip_stocks": [
           {
-            "code": "2308",
-            "count": 4
-          },
-          {
             "code": "00632R",
             "count": 4
           },
           {
-            "code": "2368",
-            "count": 3
+            "code": "2308",
+            "count": 4
           },
           {
             "code": "2408",
             "count": 3
           },
           {
-            "code": "8358",
+            "code": "2368",
+            "count": 3
+          },
+          {
+            "code": "2337",
             "count": 3
           }
         ],
@@ -18442,11 +18442,11 @@
             "count": 7
           },
           {
-            "code": "00881",
+            "code": "009826",
             "count": 6
           },
           {
-            "code": "009826",
+            "code": "00881",
             "count": 6
           },
           {
@@ -18454,7 +18454,7 @@
             "count": 6
           },
           {
-            "code": "6606",
+            "code": "00984D",
             "count": 5
           }
         ]
@@ -19002,15 +19002,15 @@
             "count": 3
           },
           {
+            "code": "00632R",
+            "count": 3
+          },
+          {
             "code": "4958",
             "count": 3
           },
           {
             "code": "3481",
-            "count": 3
-          },
-          {
-            "code": "00632R",
             "count": 3
           },
           {
@@ -19020,15 +19020,15 @@
         ],
         "top_hold_stocks": [
           {
+            "code": "00881",
+            "count": 8
+          },
+          {
             "code": "2303",
             "count": 8
           },
           {
             "code": "00878",
-            "count": 8
-          },
-          {
-            "code": "00881",
             "count": 8
           },
           {
@@ -19268,7 +19268,7 @@
             "count": 3
           },
           {
-            "code": "00981A",
+            "code": "3481",
             "count": 3
           },
           {
@@ -19276,11 +19276,11 @@
             "count": 3
           },
           {
-            "code": "3481",
+            "code": "00981A",
             "count": 3
           },
           {
-            "code": "6770",
+            "code": "6187",
             "count": 2
           }
         ],
@@ -19290,11 +19290,11 @@
             "count": 9
           },
           {
-            "code": "1442",
+            "code": "1598",
             "count": 8
           },
           {
-            "code": "1598",
+            "code": "1442",
             "count": 8
           },
           {
@@ -20083,11 +20083,11 @@
             "count": 12
           },
           {
-            "code": "00878",
+            "code": "00881",
             "count": 11
           },
           {
-            "code": "00881",
+            "code": "00878",
             "count": 11
           },
           {
@@ -20381,7 +20381,7 @@
             "count": 2
           },
           {
-            "code": "6770",
+            "code": "2360",
             "count": 2
           }
         ],
@@ -20395,15 +20395,15 @@
             "count": 7
           },
           {
+            "code": "009826",
+            "count": 6
+          },
+          {
             "code": "00937B",
             "count": 6
           },
           {
             "code": "8358",
-            "count": 6
-          },
-          {
-            "code": "009826",
             "count": 6
           }
         ]
@@ -20652,11 +20652,11 @@
             "count": 4
           },
           {
-            "code": "2330",
+            "code": "00685L",
             "count": 3
           },
           {
-            "code": "00685L",
+            "code": "2330",
             "count": 3
           },
           {
@@ -20674,11 +20674,11 @@
             "count": 8
           },
           {
-            "code": "00937B",
+            "code": "009826",
             "count": 7
           },
           {
-            "code": "009826",
+            "code": "00937B",
             "count": 7
           },
           {
@@ -20943,15 +20943,15 @@
         "actual_hold_ratio": 0.714,
         "top_flip_stocks": [
           {
+            "code": "6274",
+            "count": 3
+          },
+          {
             "code": "2834",
             "count": 3
           },
           {
             "code": "6770",
-            "count": 3
-          },
-          {
-            "code": "6274",
             "count": 3
           },
           {
@@ -20981,7 +20981,7 @@
             "count": 7
           },
           {
-            "code": "00919",
+            "code": "00712",
             "count": 6
           }
         ]
@@ -21099,16 +21099,16 @@
         "delta_pp": 3.6
       },
       {
-        "industry": "通信網路業",
-        "prev_pct": 1.1,
-        "curr_pct": 3.8,
-        "delta_pp": 2.7
-      },
-      {
         "industry": "其他電子業",
         "prev_pct": 6.1,
         "curr_pct": 3.4,
         "delta_pp": -2.7
+      },
+      {
+        "industry": "通信網路業",
+        "prev_pct": 1.1,
+        "curr_pct": 3.8,
+        "delta_pp": 2.7
       },
       {
         "industry": "光電業",
@@ -21546,7 +21546,7 @@
       }
     ],
     "masters_with_exposure": 22,
-    "snapshot_days": 33,
+    "snapshot_days": 34,
     "note": "持倉 = 窗口內可見淨累積 (TWSE Top30 榜 + 跨券商賣出盲點, 非真實庫存) — 大額命中才列入, 買/賣組成可人眼複核"
   },
   "alliance": {
@@ -21648,11 +21648,11 @@
       "actual_hold_ratio": 0.783,
       "top_flip_stocks": [
         {
-          "code": "6770",
+          "code": "00405A",
           "count": 3
         },
         {
-          "code": "00405A",
+          "code": "6770",
           "count": 3
         },
         {
@@ -21660,11 +21660,11 @@
           "count": 3
         },
         {
-          "code": "3481",
+          "code": "2408",
           "count": 3
         },
         {
-          "code": "2408",
+          "code": "3481",
           "count": 3
         }
       ],
@@ -21734,11 +21734,11 @@
           "count": 6
         },
         {
-          "code": "8358",
+          "code": "00923",
           "count": 5
         },
         {
-          "code": "00923",
+          "code": "8358",
           "count": 5
         }
       ]
@@ -21756,15 +21756,15 @@
           "count": 3
         },
         {
+          "code": "00632R",
+          "count": 3
+        },
+        {
           "code": "4958",
           "count": 3
         },
         {
           "code": "3481",
-          "count": 3
-        },
-        {
-          "code": "00632R",
           "count": 3
         },
         {
@@ -21774,15 +21774,15 @@
       ],
       "top_hold_stocks": [
         {
+          "code": "00881",
+          "count": 8
+        },
+        {
           "code": "2303",
           "count": 8
         },
         {
           "code": "00878",
-          "count": 8
-        },
-        {
-          "code": "00881",
           "count": 8
         },
         {
@@ -21808,7 +21808,7 @@
           "count": 3
         },
         {
-          "code": "00981A",
+          "code": "3481",
           "count": 3
         },
         {
@@ -21816,11 +21816,11 @@
           "count": 3
         },
         {
-          "code": "3481",
+          "code": "00981A",
           "count": 3
         },
         {
-          "code": "6770",
+          "code": "6187",
           "count": 2
         }
       ],
@@ -21830,11 +21830,11 @@
           "count": 9
         },
         {
-          "code": "1442",
+          "code": "1598",
           "count": 8
         },
         {
-          "code": "1598",
+          "code": "1442",
           "count": 8
         },
         {
@@ -21860,11 +21860,11 @@
           "count": 5
         },
         {
-          "code": "2303",
+          "code": "3037",
           "count": 3
         },
         {
-          "code": "3037",
+          "code": "2303",
           "count": 3
         },
         {
@@ -21872,7 +21872,7 @@
           "count": 3
         },
         {
-          "code": "8299",
+          "code": "2344",
           "count": 3
         }
       ],
@@ -21882,7 +21882,7 @@
           "count": 8
         },
         {
-          "code": "3008",
+          "code": "3653",
           "count": 6
         },
         {
@@ -21890,11 +21890,11 @@
           "count": 6
         },
         {
-          "code": "3653",
+          "code": "3008",
           "count": 6
         },
         {
-          "code": "00981A",
+          "code": "3017",
           "count": 5
         }
       ]
@@ -21924,7 +21924,7 @@
           "count": 2
         },
         {
-          "code": "6770",
+          "code": "2360",
           "count": 2
         }
       ],
@@ -21938,15 +21938,15 @@
           "count": 7
         },
         {
+          "code": "009826",
+          "count": 6
+        },
+        {
           "code": "00937B",
           "count": 6
         },
         {
           "code": "8358",
-          "count": 6
-        },
-        {
-          "code": "009826",
           "count": 6
         }
       ]
@@ -21976,7 +21976,7 @@
           "count": 2
         },
         {
-          "code": "2330",
+          "code": "3711",
           "count": 2
         }
       ],
@@ -21986,11 +21986,11 @@
           "count": 6
         },
         {
-          "code": "2308",
+          "code": "2727",
           "count": 5
         },
         {
-          "code": "2727",
+          "code": "2308",
           "count": 5
         },
         {
@@ -22012,15 +22012,15 @@
       "actual_hold_ratio": 0.714,
       "top_flip_stocks": [
         {
+          "code": "6274",
+          "count": 3
+        },
+        {
           "code": "2834",
           "count": 3
         },
         {
           "code": "6770",
-          "count": 3
-        },
-        {
-          "code": "6274",
           "count": 3
         },
         {
@@ -22050,7 +22050,7 @@
           "count": 7
         },
         {
-          "code": "00919",
+          "code": "00712",
           "count": 6
         }
       ]
@@ -22086,15 +22086,15 @@
       ],
       "top_hold_stocks": [
         {
+          "code": "009826",
+          "count": 7
+        },
+        {
           "code": "3045",
           "count": 7
         },
         {
           "code": "2106",
-          "count": 7
-        },
-        {
-          "code": "009826",
           "count": 7
         },
         {
@@ -22146,11 +22146,11 @@
           "count": 6
         },
         {
-          "code": "2308",
+          "code": "3704",
           "count": 5
         },
         {
-          "code": "3704",
+          "code": "2308",
           "count": 5
         },
         {
@@ -22220,19 +22220,19 @@
       "actual_hold_ratio": 0.786,
       "top_flip_stocks": [
         {
-          "code": "2330",
-          "count": 3
-        },
-        {
           "code": "6274",
           "count": 3
         },
         {
-          "code": "8358",
+          "code": "2330",
           "count": 3
         },
         {
           "code": "2337",
+          "count": 3
+        },
+        {
+          "code": "8358",
           "count": 3
         },
         {
@@ -22242,11 +22242,11 @@
       ],
       "top_hold_stocks": [
         {
-          "code": "00881",
+          "code": "00891",
           "count": 9
         },
         {
-          "code": "00891",
+          "code": "00881",
           "count": 9
         },
         {
@@ -22354,11 +22354,11 @@
           "count": 38
         },
         {
-          "code": "00632R",
+          "code": "2327",
           "count": 24
         },
         {
-          "code": "2327",
+          "code": "00632R",
           "count": 24
         },
         {
@@ -22392,7 +22392,7 @@
           "count": 3
         },
         {
-          "code": "3481",
+          "code": "00632R",
           "count": 3
         }
       ],
@@ -22410,11 +22410,11 @@
           "count": 7
         },
         {
-          "code": "4958",
+          "code": "1310",
           "count": 4
         },
         {
-          "code": "1310",
+          "code": "4958",
           "count": 4
         }
       ]
@@ -22540,15 +22540,15 @@
           "count": 3
         },
         {
+          "code": "3105",
+          "count": 2
+        },
+        {
           "code": "6770",
           "count": 2
         },
         {
           "code": "2308",
-          "count": 2
-        },
-        {
-          "code": "3105",
           "count": 2
         }
       ],
@@ -22584,11 +22584,11 @@
       "actual_hold_ratio": 0.632,
       "top_flip_stocks": [
         {
-          "code": "2344",
+          "code": "2308",
           "count": 13
         },
         {
-          "code": "2308",
+          "code": "2344",
           "count": 13
         },
         {
@@ -22596,11 +22596,11 @@
           "count": 12
         },
         {
-          "code": "2330",
+          "code": "3711",
           "count": 11
         },
         {
-          "code": "3711",
+          "code": "2330",
           "count": 11
         }
       ],
@@ -22666,11 +22666,11 @@
           "count": 12
         },
         {
-          "code": "00878",
+          "code": "00881",
           "count": 11
         },
         {
-          "code": "00881",
+          "code": "00878",
           "count": 11
         },
         {
@@ -22700,11 +22700,11 @@
           "count": 7
         },
         {
-          "code": "00631L",
+          "code": "00685L",
           "count": 6
         },
         {
-          "code": "00685L",
+          "code": "00631L",
           "count": 6
         }
       ],
@@ -22726,7 +22726,7 @@
           "count": 14
         },
         {
-          "code": "2303",
+          "code": "00632R",
           "count": 11
         }
       ]
@@ -22908,11 +22908,11 @@
           "count": 13
         },
         {
-          "code": "2454",
+          "code": "2408",
           "count": 12
         },
         {
-          "code": "2408",
+          "code": "2454",
           "count": 12
         }
       ],
@@ -22948,23 +22948,23 @@
       "actual_hold_ratio": 0.773,
       "top_flip_stocks": [
         {
-          "code": "2308",
-          "count": 4
-        },
-        {
           "code": "00632R",
           "count": 4
         },
         {
-          "code": "2368",
-          "count": 3
+          "code": "2308",
+          "count": 4
         },
         {
           "code": "2408",
           "count": 3
         },
         {
-          "code": "8358",
+          "code": "2368",
+          "count": 3
+        },
+        {
+          "code": "2337",
           "count": 3
         }
       ],
@@ -22974,11 +22974,11 @@
           "count": 7
         },
         {
-          "code": "00881",
+          "code": "009826",
           "count": 6
         },
         {
-          "code": "009826",
+          "code": "00881",
           "count": 6
         },
         {
@@ -22986,7 +22986,7 @@
           "count": 6
         },
         {
-          "code": "6606",
+          "code": "00984D",
           "count": 5
         }
       ]
@@ -23112,11 +23112,11 @@
           "count": 4
         },
         {
-          "code": "2330",
+          "code": "00685L",
           "count": 3
         },
         {
-          "code": "00685L",
+          "code": "2330",
           "count": 3
         },
         {
@@ -23134,11 +23134,11 @@
           "count": 8
         },
         {
-          "code": "00937B",
+          "code": "009826",
           "count": 7
         },
         {
-          "code": "009826",
+          "code": "00937B",
           "count": 7
         },
         {
