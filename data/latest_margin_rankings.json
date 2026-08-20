@@ -1,6 +1,6 @@
 {
  "trade_date": "20260820",
- "updated_at": "2026-08-20T22:14:19.729330+08:00",
+ "updated_at": "2026-08-20T23:22:07.584564+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5002,102 +5002,93 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1162,
-   "watch": 86,
-   "high_risk": 8,
+   "healthy": 1169,
+   "watch": 79,
+   "high_risk": 7,
    "margin_call": 2,
-   "insufficient_data": 954
+   "insufficient_data": 955
   },
   "high_risk_stocks": [
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 24.6,
+    "ratio": 25.5,
     "risk_level": "margin_call",
     "margin_balance": 7317,
     "today_close": 75.9,
-    "estimated_cost": 513.89
+    "estimated_cost": 495.16
    },
    {
     "code": "5314",
     "name": "世紀*",
-    "ratio": 73.2,
+    "ratio": 75.2,
     "risk_level": "margin_call",
     "margin_balance": 12723,
     "today_close": 23.65,
-    "estimated_cost": 53.84
-   },
-   {
-    "code": "4503",
-    "name": "金雨",
-    "ratio": 122.2,
-    "risk_level": "high_risk",
-    "margin_balance": 1665,
-    "today_close": 24.35,
-    "estimated_cost": 33.21
+    "estimated_cost": 52.39
    },
    {
     "code": "2483",
     "name": "百容",
-    "ratio": 123.6,
+    "ratio": 124.5,
     "risk_level": "high_risk",
     "margin_balance": 1978,
     "today_close": 35.5,
-    "estimated_cost": 47.87
+    "estimated_cost": 47.52
    },
    {
-    "code": "4720",
-    "name": "德淵",
-    "ratio": 124.5,
+    "code": "4503",
+    "name": "金雨",
+    "ratio": 124.6,
     "risk_level": "high_risk",
-    "margin_balance": 3181,
-    "today_close": 17.9,
-    "estimated_cost": 23.96
+    "margin_balance": 1665,
+    "today_close": 24.35,
+    "estimated_cost": 32.57
    },
    {
     "code": "4556",
     "name": "旭然",
-    "ratio": 124.7,
+    "ratio": 125.5,
     "risk_level": "high_risk",
     "margin_balance": 629,
     "today_close": 74.8,
-    "estimated_cost": 99.96
+    "estimated_cost": 99.36
+   },
+   {
+    "code": "4720",
+    "name": "德淵",
+    "ratio": 125.8,
+    "risk_level": "high_risk",
+    "margin_balance": 3181,
+    "today_close": 17.9,
+    "estimated_cost": 23.71
    },
    {
     "code": "6861",
     "name": "睿生光電",
-    "ratio": 126.8,
+    "ratio": 129.1,
     "risk_level": "high_risk",
     "margin_balance": 1778,
     "today_close": 196.5,
-    "estimated_cost": 258.37
-   },
-   {
-    "code": "6155",
-    "name": "鈞寶",
-    "ratio": 128.1,
-    "risk_level": "high_risk",
-    "margin_balance": 3301,
-    "today_close": 56.7,
-    "estimated_cost": 73.79
-   },
-   {
-    "code": "4764",
-    "name": "雙鍵",
-    "ratio": 128.3,
-    "risk_level": "high_risk",
-    "margin_balance": 3780,
-    "today_close": 211.0,
-    "estimated_cost": 274.2
+    "estimated_cost": 253.67
    },
    {
     "code": "3055",
     "name": "蔚華科",
-    "ratio": 129.7,
+    "ratio": 129.6,
     "risk_level": "high_risk",
     "margin_balance": 6297,
     "today_close": 108.5,
-    "estimated_cost": 139.41
+    "estimated_cost": 139.51
+   },
+   {
+    "code": "4764",
+    "name": "雙鍵",
+    "ratio": 129.6,
+    "risk_level": "high_risk",
+    "margin_balance": 3780,
+    "today_close": 211.0,
+    "estimated_cost": 271.33
    }
   ],
   "thresholds": {
