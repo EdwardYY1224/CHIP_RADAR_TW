@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-21T22:13:53.323125+08:00",
+  "generated_at": "2026-08-21T23:21:09.348267+08:00",
   "window_days": 16,
   "trade_date_range": [
     "20260731",
@@ -48,8 +48,8 @@
             "pct": 15.3
           }
         ],
-        "disposal_stocks_count": 16,
-        "disposal_amt_ratio": 0.036,
+        "disposal_stocks_count": 13,
+        "disposal_amt_ratio": 0.019,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -480,11 +480,11 @@
           "concentration_pct": 32.8,
           "top_industry": "半導體業",
           "top_industry_pct": 43.7,
-          "disposal_pct": 0.036,
+          "disposal_pct": 0.019,
           "consistency": 0.704
         }
       },
-      "narrative": "民哥 近 16/16 交易日出手 2196 次 (529 檔), 風格分布: 隔日沖近似 24% / 留倉 70%, 漲停命中 7% (其中 🔒鎖漲停 15%), 前 5 大集中 33%, ⚠️ 處置股部位 4% (16 檔), 📦 連續囤貨 54 檔 (最長 13 天 2327, 23 檔仍 active)。 主軸: 混合進出/風格純粹/高頻交易/持續進場。",
+      "narrative": "民哥 近 16/16 交易日出手 2196 次 (529 檔), 風格分布: 隔日沖近似 24% / 留倉 70%, 漲停命中 7% (其中 🔒鎖漲停 15%), 前 5 大集中 33%, ⚠️ 處置股部位 2% (13 檔), 📦 連續囤貨 54 檔 (最長 13 天 2327, 23 檔仍 active)。 主軸: 混合進出/風格純粹/高頻交易/持續進場。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -540,11 +540,11 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 1,
-        "high_count": 1,
-        "watch_count": 1,
+        "trapped_count": 2,
+        "high_count": 0,
+        "watch_count": 2,
         "bought_during_disposal_count": 3,
-        "total_exposure_wan": 4370,
+        "total_exposure_wan": 5896,
         "positions": [
           {
             "stock_code": "8033",
@@ -562,8 +562,8 @@
           {
             "stock_code": "2455",
             "stock_name": "全新",
-            "status": "imminent_1",
-            "risk": "high",
+            "status": "active",
+            "risk": "trapped",
             "net_lots": 49,
             "net_amt_wan": 1468,
             "buy_lot": 155,
@@ -571,6 +571,19 @@
             "buy_days": 8,
             "last_buy_date": "20260821",
             "bought_during_disposal": true
+          },
+          {
+            "stock_code": "2615",
+            "stock_name": "萬海",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 110,
+            "net_amt_wan": 1526,
+            "buy_lot": 407,
+            "sell_lot": 297,
+            "buy_days": 5,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": false
           },
           {
             "stock_code": "3081",
@@ -627,8 +640,8 @@
                 "pct": 10.4
               }
             ],
-            "disposal_stocks_count": 10,
-            "disposal_amt_ratio": 0.012,
+            "disposal_stocks_count": 7,
+            "disposal_amt_ratio": 0.007,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -802,11 +815,11 @@
               "concentration_pct": 52.0,
               "top_industry": "半導體業",
               "top_industry_pct": 49.6,
-              "disposal_pct": 0.012,
+              "disposal_pct": 0.007,
               "consistency": 0.724
             }
           },
-          "narrative": "民哥 近 16/16 交易日出手 717 次 (284 檔), 風格分布: 隔日沖近似 23% / 留倉 72%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 52%, ⚠️ 處置股部位 1% (10 檔), 📦 連續囤貨 17 檔 (最長 8 天 8299, 5 檔仍 active)。 主軸: 混合進出/集中投資/風格純粹/高頻交易。",
+          "narrative": "民哥 近 16/16 交易日出手 717 次 (284 檔), 風格分布: 隔日沖近似 23% / 留倉 72%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 52%, ⚠️ 處置股部位 1% (7 檔), 📦 連續囤貨 17 檔 (最長 8 天 8299, 5 檔仍 active)。 主軸: 混合進出/集中投資/風格純粹/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -859,8 +872,8 @@
                 "pct": 11.1
               }
             ],
-            "disposal_stocks_count": 13,
-            "disposal_amt_ratio": 0.059,
+            "disposal_stocks_count": 10,
+            "disposal_amt_ratio": 0.032,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -981,11 +994,11 @@
               "concentration_pct": 22.9,
               "top_industry": "半導體業",
               "top_industry_pct": 39.0,
-              "disposal_pct": 0.059,
+              "disposal_pct": 0.032,
               "consistency": 0.631
             }
           },
-          "narrative": "民哥 近 16/16 交易日出手 741 次 (277 檔), 風格分布: 隔日沖近似 29% / 留倉 63%, 漲停命中 9% (其中 🔒鎖漲停 25%), 前 5 大集中 23%, ⚠️ 處置股部位 6% (13 檔), 📦 連續囤貨 10 檔 (最長 7 天 00881, 2 檔仍 active)。 主軸: 🔒 鎖漲停/混合進出/高頻交易/持續進場。",
+          "narrative": "民哥 近 16/16 交易日出手 741 次 (277 檔), 風格分布: 隔日沖近似 29% / 留倉 63%, 漲停命中 9% (其中 🔒鎖漲停 25%), 前 5 大集中 23%, ⚠️ 處置股部位 3% (10 檔), 📦 連續囤貨 10 檔 (最長 7 天 00881, 2 檔仍 active)。 主軸: 🔒 鎖漲停/混合進出/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -1038,8 +1051,8 @@
                 "pct": 9.2
               }
             ],
-            "disposal_stocks_count": 10,
-            "disposal_amt_ratio": 0.045,
+            "disposal_stocks_count": 5,
+            "disposal_amt_ratio": 0.013,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -1113,11 +1126,11 @@
               "concentration_pct": 22.9,
               "top_industry": "半導體業",
               "top_industry_pct": 35.5,
-              "disposal_pct": 0.045,
+              "disposal_pct": 0.013,
               "consistency": 0.758
             }
           },
-          "narrative": "民哥 近 16/16 交易日出手 738 次 (347 檔), 風格分布: 隔日沖近似 19% / 留倉 76%, 漲停命中 9% (其中 🔒鎖漲停 15%), 前 5 大集中 23%, ⚠️ 處置股部位 4% (10 檔), 📦 連續囤貨 3 檔 (最長 6 天 8299, 1 檔仍 active)。 主軸: 混合進出/風格純粹/高頻交易/持續進場。",
+          "narrative": "民哥 近 16/16 交易日出手 738 次 (347 檔), 風格分布: 隔日沖近似 19% / 留倉 76%, 漲停命中 9% (其中 🔒鎖漲停 15%), 前 5 大集中 23%, ⚠️ 處置股部位 1% (5 檔), 📦 連續囤貨 3 檔 (最長 6 天 8299, 1 檔仍 active)。 主軸: 混合進出/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -1226,8 +1239,8 @@
             "pct": 10.0
           }
         ],
-        "disposal_stocks_count": 19,
-        "disposal_amt_ratio": 0.04,
+        "disposal_stocks_count": 16,
+        "disposal_amt_ratio": 0.025,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -1716,11 +1729,11 @@
           "concentration_pct": 29.6,
           "top_industry": "半導體業",
           "top_industry_pct": 37.1,
-          "disposal_pct": 0.04,
+          "disposal_pct": 0.025,
           "consistency": 0.713
         }
       },
-      "narrative": "林滄海 近 16/16 交易日出手 2115 次 (459 檔), 風格分布: 隔日沖近似 23% / 留倉 71%, 漲停命中 8% (其中 🔒鎖漲停 31%), 前 5 大集中 30%, ⚠️ 處置股部位 4% (19 檔), 📦 連續囤貨 62 檔 (最長 14 天 3443, 18 檔仍 active)。 主軸: 🔒 鎖漲停/混合進出/風格純粹/高頻交易。",
+      "narrative": "林滄海 近 16/16 交易日出手 2115 次 (459 檔), 風格分布: 隔日沖近似 23% / 留倉 71%, 漲停命中 8% (其中 🔒鎖漲停 31%), 前 5 大集中 30%, ⚠️ 處置股部位 2% (16 檔), 📦 連續囤貨 62 檔 (最長 14 天 3443, 18 檔仍 active)。 主軸: 🔒 鎖漲停/混合進出/風格純粹/高頻交易。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -1776,23 +1789,23 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 4,
-        "high_count": 3,
-        "watch_count": 2,
-        "bought_during_disposal_count": 9,
-        "total_exposure_wan": 67810,
+        "trapped_count": 3,
+        "high_count": 1,
+        "watch_count": 3,
+        "bought_during_disposal_count": 6,
+        "total_exposure_wan": 64892,
         "positions": [
           {
-            "stock_code": "4991",
-            "stock_name": "環宇-KY",
+            "stock_code": "2455",
+            "stock_name": "全新",
             "status": "active",
             "risk": "trapped",
-            "net_lots": 72,
-            "net_amt_wan": 3293,
-            "buy_lot": 221,
-            "sell_lot": 149,
-            "buy_days": 6,
-            "last_buy_date": "20260821",
+            "net_lots": 1040,
+            "net_amt_wan": 39774,
+            "buy_lot": 1558,
+            "sell_lot": 518,
+            "buy_days": 11,
+            "last_buy_date": "20260820",
             "bought_during_disposal": true
           },
           {
@@ -1822,55 +1835,16 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "4979",
-            "stock_name": "華星光",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 37,
-            "net_amt_wan": 1590,
-            "buy_lot": 594,
-            "sell_lot": 557,
-            "buy_days": 13,
+            "stock_code": "4971",
+            "stock_name": "IET-KY",
+            "status": "imminent_1",
+            "risk": "high",
+            "net_lots": 70,
+            "net_amt_wan": 3962,
+            "buy_lot": 224,
+            "sell_lot": 154,
+            "buy_days": 5,
             "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2455",
-            "stock_name": "全新",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 1040,
-            "net_amt_wan": 39774,
-            "buy_lot": 1558,
-            "sell_lot": 518,
-            "buy_days": 11,
-            "last_buy_date": "20260820",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2493",
-            "stock_name": "揚博",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 87,
-            "net_amt_wan": 1977,
-            "buy_lot": 126,
-            "sell_lot": 39,
-            "buy_days": 6,
-            "last_buy_date": "20260819",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "6834",
-            "stock_name": "天二科技",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 172,
-            "net_amt_wan": 1930,
-            "buy_lot": 371,
-            "sell_lot": 199,
-            "buy_days": 3,
-            "last_buy_date": "20260814",
             "bought_during_disposal": true
           },
           {
@@ -1887,16 +1861,29 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "4971",
-            "stock_name": "IET-KY",
+            "stock_code": "7751",
+            "stock_name": "竑騰",
             "status": "imminent_2",
             "risk": "watch",
-            "net_lots": 70,
-            "net_amt_wan": 3962,
-            "buy_lot": 224,
-            "sell_lot": 154,
+            "net_lots": 33,
+            "net_amt_wan": 3942,
+            "buy_lot": 70,
+            "sell_lot": 37,
             "buy_days": 5,
-            "last_buy_date": "20260821",
+            "last_buy_date": "20260819",
+            "bought_during_disposal": false
+          },
+          {
+            "stock_code": "6834",
+            "stock_name": "天二科技",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 172,
+            "net_amt_wan": 1930,
+            "buy_lot": 371,
+            "sell_lot": 199,
+            "buy_days": 3,
+            "last_buy_date": "20260814",
             "bought_during_disposal": true
           }
         ]
@@ -1942,8 +1929,8 @@
                 "pct": 9.6
               }
             ],
-            "disposal_stocks_count": 12,
-            "disposal_amt_ratio": 0.027,
+            "disposal_stocks_count": 8,
+            "disposal_amt_ratio": 0.014,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -2118,11 +2105,11 @@
               "concentration_pct": 27.2,
               "top_industry": "半導體業",
               "top_industry_pct": 35.6,
-              "disposal_pct": 0.027,
+              "disposal_pct": 0.014,
               "consistency": 0.599
             }
           },
-          "narrative": "林滄海 近 16/16 交易日出手 778 次 (282 檔), 風格分布: 隔日沖近似 34% / 留倉 60%, 漲停命中 4% (其中 🔒鎖漲停 3%), 前 5 大集中 27%, ⚠️ 處置股部位 3% (12 檔), 📦 連續囤貨 18 檔 (最長 10 天 6274, 4 檔仍 active)。 主軸: 混合進出/高頻交易/持續進場/📦 連續囤貨。",
+          "narrative": "林滄海 近 16/16 交易日出手 778 次 (282 檔), 風格分布: 隔日沖近似 34% / 留倉 60%, 漲停命中 4% (其中 🔒鎖漲停 3%), 前 5 大集中 27%, ⚠️ 處置股部位 1% (8 檔), 📦 連續囤貨 18 檔 (最長 10 天 6274, 4 檔仍 active)。 主軸: 混合進出/高頻交易/持續進場/📦 連續囤貨。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -2176,8 +2163,8 @@
                 "pct": 6.0
               }
             ],
-            "disposal_stocks_count": 11,
-            "disposal_amt_ratio": 0.018,
+            "disposal_stocks_count": 10,
+            "disposal_amt_ratio": 0.015,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -2288,11 +2275,11 @@
               "concentration_pct": 37.5,
               "top_industry": "半導體業",
               "top_industry_pct": 47.0,
-              "disposal_pct": 0.018,
+              "disposal_pct": 0.015,
               "consistency": 0.814
             }
           },
-          "narrative": "林滄海 近 16/16 交易日出手 673 次 (274 檔), 風格分布: 隔日沖近似 15% / 留倉 81%, 漲停命中 7% (其中 🔒鎖漲停 10%), 前 5 大集中 38%, ⚠️ 處置股部位 2% (11 檔), 📦 連續囤貨 8 檔 (最長 8 天 3008, 1 檔仍 active)。 主軸: 混合進出/集中投資/風格純粹/高頻交易。",
+          "narrative": "林滄海 近 16/16 交易日出手 673 次 (274 檔), 風格分布: 隔日沖近似 15% / 留倉 81%, 漲停命中 7% (其中 🔒鎖漲停 10%), 前 5 大集中 38%, ⚠️ 處置股部位 2% (10 檔), 📦 連續囤貨 8 檔 (最長 8 天 3008, 1 檔仍 active)。 主軸: 混合進出/集中投資/風格純粹/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -2346,8 +2333,8 @@
                 "pct": 13.2
               }
             ],
-            "disposal_stocks_count": 14,
-            "disposal_amt_ratio": 0.062,
+            "disposal_stocks_count": 11,
+            "disposal_amt_ratio": 0.039,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -2467,11 +2454,11 @@
               "concentration_pct": 38.5,
               "top_industry": "電子零組件業",
               "top_industry_pct": 39.5,
-              "disposal_pct": 0.062,
+              "disposal_pct": 0.039,
               "consistency": 0.743
             }
           },
-          "narrative": "林滄海 近 16/16 交易日出手 664 次 (239 檔), 風格分布: 隔日沖近似 18% / 留倉 74%, 漲停命中 15% (其中 🔒鎖漲停 61%), 前 5 大集中 38%, ⚠️ 處置股部位 6% (14 檔), 📦 連續囤貨 9 檔 (最長 12 天 3443, 2 檔仍 active)。 主軸: 🔒 鎖漲停/混合進出/集中投資/風格純粹。",
+          "narrative": "林滄海 近 16/16 交易日出手 664 次 (239 檔), 風格分布: 隔日沖近似 18% / 留倉 74%, 漲停命中 15% (其中 🔒鎖漲停 61%), 前 5 大集中 38%, ⚠️ 處置股部位 4% (11 檔), 📦 連續囤貨 9 檔 (最長 12 天 3443, 2 檔仍 active)。 主軸: 🔒 鎖漲停/混合進出/集中投資/風格純粹。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -2579,8 +2566,8 @@
             "pct": 19.2
           }
         ],
-        "disposal_stocks_count": 20,
-        "disposal_amt_ratio": 0.043,
+        "disposal_stocks_count": 17,
+        "disposal_amt_ratio": 0.029,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -3575,11 +3562,11 @@
           "concentration_pct": 17.0,
           "top_industry": "半導體業",
           "top_industry_pct": 28.7,
-          "disposal_pct": 0.043,
+          "disposal_pct": 0.029,
           "consistency": 0.676
         }
       },
-      "narrative": "張濬安(航海王) 近 16/16 交易日出手 4409 次 (656 檔), 風格分布: 隔日沖近似 25% / 留倉 68%, 漲停命中 8% (其中 🔒鎖漲停 23%), 前 5 大集中 17%, 長線部位 27% (21 檔), ⚠️ 處置股部位 4% (20 檔), 📦 連續囤貨 134 檔 (最長 16 天 3017, 69 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/分散布局/風格純粹。",
+      "narrative": "張濬安(航海王) 近 16/16 交易日出手 4409 次 (656 檔), 風格分布: 隔日沖近似 25% / 留倉 68%, 漲停命中 8% (其中 🔒鎖漲停 23%), 前 5 大集中 17%, 長線部位 27% (21 檔), ⚠️ 處置股部位 3% (17 檔), 📦 連續囤貨 134 檔 (最長 16 天 3017, 69 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/分散布局/風格純粹。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -3635,38 +3622,12 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 3,
+        "trapped_count": 1,
         "high_count": 1,
-        "watch_count": 3,
-        "bought_during_disposal_count": 5,
-        "total_exposure_wan": 130588,
+        "watch_count": 4,
+        "bought_during_disposal_count": 3,
+        "total_exposure_wan": 122342,
         "positions": [
-          {
-            "stock_code": "4979",
-            "stock_name": "華星光",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 540,
-            "net_amt_wan": 29181,
-            "buy_lot": 4302,
-            "sell_lot": 3762,
-            "buy_days": 9,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "6213",
-            "stock_name": "聯茂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 311,
-            "net_amt_wan": 14078,
-            "buy_lot": 4232,
-            "sell_lot": 3921,
-            "buy_days": 14,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "3163",
             "stock_name": "波若威",
@@ -3681,17 +3642,30 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "2493",
-            "stock_name": "揚博",
+            "stock_code": "3625",
+            "stock_name": "西勝",
             "status": "imminent_1",
             "risk": "high",
-            "net_lots": 1634,
-            "net_amt_wan": 35501,
-            "buy_lot": 1940,
-            "sell_lot": 306,
-            "buy_days": 10,
-            "last_buy_date": "20260818",
-            "bought_during_disposal": true
+            "net_lots": 155,
+            "net_amt_wan": 193,
+            "buy_lot": 188,
+            "sell_lot": 33,
+            "buy_days": 6,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": false
+          },
+          {
+            "stock_code": "2615",
+            "stock_name": "萬海",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 6248,
+            "net_amt_wan": 68635,
+            "buy_lot": 25365,
+            "sell_lot": 19117,
+            "buy_days": 9,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": false
           },
           {
             "stock_code": "3081",
@@ -3720,17 +3694,17 @@
             "bought_during_disposal": false
           },
           {
-            "stock_code": "3625",
-            "stock_name": "西勝",
+            "stock_code": "6683",
+            "stock_name": "雍智科技",
             "status": "imminent_2",
             "risk": "watch",
-            "net_lots": 155,
-            "net_amt_wan": 193,
-            "buy_lot": 188,
-            "sell_lot": 33,
-            "buy_days": 6,
+            "net_lots": 11,
+            "net_amt_wan": 1879,
+            "buy_lot": 69,
+            "sell_lot": 58,
+            "buy_days": 7,
             "last_buy_date": "20260821",
-            "bought_during_disposal": false
+            "bought_during_disposal": true
           }
         ]
       },
@@ -3774,8 +3748,8 @@
                 "pct": 10.7
               }
             ],
-            "disposal_stocks_count": 14,
-            "disposal_amt_ratio": 0.065,
+            "disposal_stocks_count": 12,
+            "disposal_amt_ratio": 0.039,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -3893,11 +3867,11 @@
               "concentration_pct": 20.7,
               "top_industry": "半導體業",
               "top_industry_pct": 33.2,
-              "disposal_pct": 0.065,
+              "disposal_pct": 0.039,
               "consistency": 0.755
             }
           },
-          "narrative": "張濬安(航海王) 近 16/16 交易日出手 678 次 (257 檔), 風格分布: 隔日沖近似 19% / 留倉 76%, 漲停命中 17% (其中 🔒鎖漲停 39%), 前 5 大集中 21%, ⚠️ 處置股部位 6% (14 檔), 📦 連續囤貨 9 檔 (最長 8 天 3653, 1 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/風格純粹/高頻交易。",
+          "narrative": "張濬安(航海王) 近 16/16 交易日出手 678 次 (257 檔), 風格分布: 隔日沖近似 19% / 留倉 76%, 漲停命中 17% (其中 🔒鎖漲停 39%), 前 5 大集中 21%, ⚠️ 處置股部位 4% (12 檔), 📦 連續囤貨 9 檔 (最長 8 天 3653, 1 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/風格純粹/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -3950,8 +3924,8 @@
                 "pct": 6.7
               }
             ],
-            "disposal_stocks_count": 16,
-            "disposal_amt_ratio": 0.06,
+            "disposal_stocks_count": 11,
+            "disposal_amt_ratio": 0.045,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -4056,11 +4030,11 @@
               "concentration_pct": 22.4,
               "top_industry": "半導體業",
               "top_industry_pct": 40.7,
-              "disposal_pct": 0.06,
+              "disposal_pct": 0.045,
               "consistency": 0.633
             }
           },
-          "narrative": "張濬安(航海王) 近 16/16 交易日出手 755 次 (311 檔), 風格分布: 隔日沖近似 26% / 當沖 11% / 留倉 63%, 漲停命中 5% (其中 🔒鎖漲停 7%), 前 5 大集中 22%, ⚠️ 處置股部位 6% (16 檔), 📦 連續囤貨 8 檔 (最長 7 天 00981A, 4 檔仍 active)。 主軸: 隔日沖(verified)/高頻交易/持續進場/📦 連續囤貨。",
+          "narrative": "張濬安(航海王) 近 16/16 交易日出手 755 次 (311 檔), 風格分布: 隔日沖近似 26% / 當沖 11% / 留倉 63%, 漲停命中 5% (其中 🔒鎖漲停 7%), 前 5 大集中 22%, ⚠️ 處置股部位 4% (11 檔), 📦 連續囤貨 8 檔 (最長 7 天 00981A, 4 檔仍 active)。 主軸: 隔日沖(verified)/高頻交易/持續進場/📦 連續囤貨。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -4113,8 +4087,8 @@
                 "pct": 8.3
               }
             ],
-            "disposal_stocks_count": 13,
-            "disposal_amt_ratio": 0.053,
+            "disposal_stocks_count": 10,
+            "disposal_amt_ratio": 0.059,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -4221,11 +4195,11 @@
               "concentration_pct": 32.8,
               "top_industry": "半導體業",
               "top_industry_pct": 34.2,
-              "disposal_pct": 0.053,
+              "disposal_pct": 0.059,
               "consistency": 0.591
             }
           },
-          "narrative": "張濬安(航海王) 近 16/16 交易日出手 755 次 (313 檔), 風格分布: 隔日沖近似 31% / 留倉 59%, 漲停命中 13% (其中 🔒鎖漲停 43%), 前 5 大集中 33%, ⚠️ 處置股部位 5% (13 檔), 📦 連續囤貨 8 檔 (最長 8 天 0050, 2 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/高頻交易/持續進場。",
+          "narrative": "張濬安(航海王) 近 16/16 交易日出手 755 次 (313 檔), 風格分布: 隔日沖近似 31% / 留倉 59%, 漲停命中 13% (其中 🔒鎖漲停 43%), 前 5 大集中 33%, ⚠️ 處置股部位 6% (10 檔), 📦 連續囤貨 8 檔 (最長 8 天 0050, 2 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -4278,8 +4252,8 @@
                 "pct": 9.7
               }
             ],
-            "disposal_stocks_count": 12,
-            "disposal_amt_ratio": 0.041,
+            "disposal_stocks_count": 10,
+            "disposal_amt_ratio": 0.032,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -4402,11 +4376,11 @@
               "concentration_pct": 28.9,
               "top_industry": "半導體業",
               "top_industry_pct": 36.8,
-              "disposal_pct": 0.041,
+              "disposal_pct": 0.032,
               "consistency": 0.689
             }
           },
-          "narrative": "張濬安(航海王) 近 16/16 交易日出手 738 次 (299 檔), 風格分布: 隔日沖近似 24% / 留倉 69%, 漲停命中 4% (其中 🔒鎖漲停 4%), 前 5 大集中 29%, ⚠️ 處置股部位 4% (12 檔), 📦 連續囤貨 10 檔 (最長 11 天 00878, 4 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+          "narrative": "張濬安(航海王) 近 16/16 交易日出手 738 次 (299 檔), 風格分布: 隔日沖近似 24% / 留倉 69%, 漲停命中 4% (其中 🔒鎖漲停 4%), 前 5 大集中 29%, ⚠️ 處置股部位 3% (10 檔), 📦 連續囤貨 10 檔 (最長 11 天 00878, 4 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -4459,8 +4433,8 @@
                 "pct": 9.2
               }
             ],
-            "disposal_stocks_count": 13,
-            "disposal_amt_ratio": 0.03,
+            "disposal_stocks_count": 11,
+            "disposal_amt_ratio": 0.02,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -4571,11 +4545,11 @@
               "concentration_pct": 17.2,
               "top_industry": "半導體業",
               "top_industry_pct": 37.6,
-              "disposal_pct": 0.03,
+              "disposal_pct": 0.02,
               "consistency": 0.673
             }
           },
-          "narrative": "張濬安(航海王) 近 16/16 交易日出手 749 次 (307 檔), 風格分布: 隔日沖近似 26% / 留倉 67%, 漲停命中 4% (其中 🔒鎖漲停 4%), 前 5 大集中 17%, ⚠️ 處置股部位 3% (13 檔), 📦 連續囤貨 8 檔 (最長 10 天 00881, 2 檔仍 active)。 主軸: 隔日沖(verified)/分散布局/風格純粹/高頻交易。",
+          "narrative": "張濬安(航海王) 近 16/16 交易日出手 749 次 (307 檔), 風格分布: 隔日沖近似 26% / 留倉 67%, 漲停命中 4% (其中 🔒鎖漲停 4%), 前 5 大集中 17%, ⚠️ 處置股部位 2% (11 檔), 📦 連續囤貨 8 檔 (最長 10 天 00881, 2 檔仍 active)。 主軸: 隔日沖(verified)/分散布局/風格純粹/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -4628,8 +4602,8 @@
                 "pct": 17.6
               }
             ],
-            "disposal_stocks_count": 7,
-            "disposal_amt_ratio": 0.032,
+            "disposal_stocks_count": 4,
+            "disposal_amt_ratio": 0.014,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -4871,11 +4845,11 @@
               "concentration_pct": 18.8,
               "top_industry": "未分類",
               "top_industry_pct": 33.2,
-              "disposal_pct": 0.032,
+              "disposal_pct": 0.014,
               "consistency": 0.726
             }
           },
-          "narrative": "張濬安(航海王) 近 16/16 交易日出手 734 次 (210 檔), 風格分布: 隔日沖近似 23% / 留倉 73%, 漲停命中 7% (其中 🔒鎖漲停 13%), 前 5 大集中 19%, 長線部位 1% (1 檔), ⚠️ 處置股部位 3% (7 檔), 📦 連續囤貨 27 檔 (最長 16 天 00940, 7 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+          "narrative": "張濬安(航海王) 近 16/16 交易日出手 734 次 (210 檔), 風格分布: 隔日沖近似 23% / 留倉 73%, 漲停命中 7% (其中 🔒鎖漲停 13%), 前 5 大集中 19%, 長線部位 1% (1 檔), ⚠️ 處置股部位 1% (4 檔), 📦 連續囤貨 27 檔 (最長 16 天 00940, 7 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -4916,7 +4890,7 @@
             "count": 33
           },
           {
-            "code": "00631L",
+            "code": "3017",
             "count": 32
           }
         ],
@@ -4926,11 +4900,11 @@
             "count": 18
           },
           {
-            "code": "0050",
+            "code": "2834",
             "count": 13
           },
           {
-            "code": "2834",
+            "code": "0050",
             "count": 13
           },
           {
@@ -4950,29 +4924,29 @@
         "swing"
       ],
       "operation_metrics": {
-        "trades_count": 3646,
+        "trades_count": 3655,
         "unique_stocks": 544,
-        "daytrade_ratio": 0.056,
+        "daytrade_ratio": 0.055,
         "partial_ratio": 0.25,
-        "overnight_ratio": 0.694,
+        "overnight_ratio": 0.695,
         "limit_up_hit_ratio": 0.086,
-        "concentration_top5_pct": 24.7,
-        "consistency": 0.694,
-        "total_buy_amt_wan": 21800300,
-        "limit_up_locked_trades_count": 375,
-        "limit_up_locked_ratio_amt": 0.168,
+        "concentration_top5_pct": 24.6,
+        "consistency": 0.695,
+        "total_buy_amt_wan": 21837307,
+        "limit_up_locked_trades_count": 377,
+        "limit_up_locked_ratio_amt": 0.169,
         "limit_up_locked_ratio_lot": 0.201,
         "long_term_stocks_count": 18,
         "long_term_amt_ratio": 0.348,
         "decay_applied": true,
         "decay_half_life": 20,
         "top_industry": "半導體業",
-        "top_industry_pct": 33.6,
+        "top_industry_pct": 33.5,
         "industry_count": 35,
         "top3_industries": [
           {
             "name": "半導體業",
-            "pct": 33.6
+            "pct": 33.5
           },
           {
             "name": "電子零組件業",
@@ -4983,29 +4957,22 @@
             "pct": 7.2
           }
         ],
-        "disposal_stocks_count": 21,
-        "disposal_amt_ratio": 0.03,
+        "disposal_stocks_count": 17,
+        "disposal_amt_ratio": 0.021,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
               "stock_code": "3008",
               "max_consecutive_days": 16,
               "latest_date": "20260821",
-              "total_buy_amt": 7118769.0,
-              "is_active": true
-            },
-            {
-              "stock_code": "2368",
-              "max_consecutive_days": 16,
-              "latest_date": "20260821",
-              "total_buy_amt": 6469408.0,
+              "total_buy_amt": 7091138.0,
               "is_active": true
             },
             {
               "stock_code": "3653",
               "max_consecutive_days": 16,
               "latest_date": "20260821",
-              "total_buy_amt": 5956069.0,
+              "total_buy_amt": 5967090.0,
               "is_active": true
             },
             {
@@ -5044,6 +5011,13 @@
               "is_active": true
             },
             {
+              "stock_code": "2368",
+              "max_consecutive_days": 15,
+              "latest_date": "20260820",
+              "total_buy_amt": 6458181.0,
+              "is_active": false
+            },
+            {
               "stock_code": "3443",
               "max_consecutive_days": 15,
               "latest_date": "20260821",
@@ -5054,21 +5028,21 @@
               "stock_code": "6488",
               "max_consecutive_days": 15,
               "latest_date": "20260821",
-              "total_buy_amt": 3991006.0,
+              "total_buy_amt": 3982129.0,
               "is_active": true
             },
             {
               "stock_code": "6274",
               "max_consecutive_days": 15,
               "latest_date": "20260821",
-              "total_buy_amt": 3188846.0,
+              "total_buy_amt": 3270488.0,
               "is_active": true
             },
             {
               "stock_code": "3042",
               "max_consecutive_days": 15,
               "latest_date": "20260821",
-              "total_buy_amt": 2397282.0,
+              "total_buy_amt": 2418177.0,
               "is_active": true
             },
             {
@@ -5117,7 +5091,7 @@
               "stock_code": "3017",
               "max_consecutive_days": 14,
               "latest_date": "20260821",
-              "total_buy_amt": 1649954.0,
+              "total_buy_amt": 1646243.0,
               "is_active": true
             },
             {
@@ -5152,14 +5126,14 @@
               "stock_code": "4958",
               "max_consecutive_days": 13,
               "latest_date": "20260821",
-              "total_buy_amt": 1613297.0,
+              "total_buy_amt": 1587509.0,
               "is_active": true
             },
             {
               "stock_code": "2324",
               "max_consecutive_days": 12,
               "latest_date": "20260821",
-              "total_buy_amt": 1322944.0,
+              "total_buy_amt": 1334994.0,
               "is_active": true
             },
             {
@@ -5180,7 +5154,7 @@
               "stock_code": "1303",
               "max_consecutive_days": 11,
               "latest_date": "20260821",
-              "total_buy_amt": 6776891.0,
+              "total_buy_amt": 6793389.0,
               "is_active": false
             },
             {
@@ -5189,6 +5163,13 @@
               "latest_date": "20260819",
               "total_buy_amt": 1485370.0,
               "is_active": false
+            },
+            {
+              "stock_code": "5289",
+              "max_consecutive_days": 11,
+              "latest_date": "20260821",
+              "total_buy_amt": 573812.0,
+              "is_active": true
             },
             {
               "stock_code": "00937B",
@@ -5224,13 +5205,6 @@
               "latest_date": "20260821",
               "total_buy_amt": 816172.0,
               "is_active": true
-            },
-            {
-              "stock_code": "5289",
-              "max_consecutive_days": 10,
-              "latest_date": "20260819",
-              "total_buy_amt": 553428.0,
-              "is_active": false
             },
             {
               "stock_code": "009826",
@@ -5275,18 +5249,18 @@
               "is_active": false
             },
             {
+              "stock_code": "8039",
+              "max_consecutive_days": 9,
+              "latest_date": "20260821",
+              "total_buy_amt": 990432.0,
+              "is_active": true
+            },
+            {
               "stock_code": "2455",
               "max_consecutive_days": 9,
               "latest_date": "20260820",
               "total_buy_amt": 975775.0,
               "is_active": false
-            },
-            {
-              "stock_code": "8039",
-              "max_consecutive_days": 9,
-              "latest_date": "20260821",
-              "total_buy_amt": 971276.0,
-              "is_active": true
             },
             {
               "stock_code": "00981A",
@@ -5299,7 +5273,7 @@
               "stock_code": "6213",
               "max_consecutive_days": 9,
               "latest_date": "20260821",
-              "total_buy_amt": 623207.0,
+              "total_buy_amt": 653323.0,
               "is_active": false
             },
             {
@@ -5327,7 +5301,14 @@
               "stock_code": "8046",
               "max_consecutive_days": 8,
               "latest_date": "20260821",
-              "total_buy_amt": 2964501.0,
+              "total_buy_amt": 2971846.0,
+              "is_active": true
+            },
+            {
+              "stock_code": "8996",
+              "max_consecutive_days": 8,
+              "latest_date": "20260821",
+              "total_buy_amt": 2542297.0,
               "is_active": true
             },
             {
@@ -5361,8 +5342,8 @@
             {
               "stock_code": "8021",
               "max_consecutive_days": 8,
-              "latest_date": "20260814",
-              "total_buy_amt": 412560.0,
+              "latest_date": "20260821",
+              "total_buy_amt": 433261.0,
               "is_active": false
             },
             {
@@ -5390,15 +5371,8 @@
               "stock_code": "6669",
               "max_consecutive_days": 7,
               "latest_date": "20260821",
-              "total_buy_amt": 3015841.0,
+              "total_buy_amt": 3035992.0,
               "is_active": true
-            },
-            {
-              "stock_code": "8996",
-              "max_consecutive_days": 7,
-              "latest_date": "20260820",
-              "total_buy_amt": 2529789.0,
-              "is_active": false
             },
             {
               "stock_code": "2360",
@@ -5411,15 +5385,15 @@
               "stock_code": "2345",
               "max_consecutive_days": 7,
               "latest_date": "20260821",
-              "total_buy_amt": 1289130.0,
+              "total_buy_amt": 1286969.0,
               "is_active": false
             },
             {
               "stock_code": "3661",
               "max_consecutive_days": 7,
-              "latest_date": "20260821",
-              "total_buy_amt": 1226455.0,
-              "is_active": true
+              "latest_date": "20260820",
+              "total_buy_amt": 1218909.0,
+              "is_active": false
             },
             {
               "stock_code": "3036",
@@ -5467,7 +5441,7 @@
               "stock_code": "2359",
               "max_consecutive_days": 7,
               "latest_date": "20260821",
-              "total_buy_amt": 111711.0,
+              "total_buy_amt": 109358.0,
               "is_active": true
             },
             {
@@ -5488,14 +5462,14 @@
               "stock_code": "3037",
               "max_consecutive_days": 6,
               "latest_date": "20260821",
-              "total_buy_amt": 10911469.0,
+              "total_buy_amt": 10895078.0,
               "is_active": false
             },
             {
               "stock_code": "3189",
               "max_consecutive_days": 6,
               "latest_date": "20260821",
-              "total_buy_amt": 4646840.0,
+              "total_buy_amt": 4696289.0,
               "is_active": true
             },
             {
@@ -5508,15 +5482,15 @@
             {
               "stock_code": "2337",
               "max_consecutive_days": 6,
-              "latest_date": "20260819",
-              "total_buy_amt": 1126139.0,
+              "latest_date": "20260821",
+              "total_buy_amt": 1139715.0,
               "is_active": false
             },
             {
               "stock_code": "8299",
               "max_consecutive_days": 6,
               "latest_date": "20260821",
-              "total_buy_amt": 695098.0,
+              "total_buy_amt": 706161.0,
               "is_active": true
             },
             {
@@ -5565,21 +5539,21 @@
               "stock_code": "3665",
               "max_consecutive_days": 5,
               "latest_date": "20260821",
-              "total_buy_amt": 3104701.0,
+              "total_buy_amt": 3095340.0,
               "is_active": false
             },
             {
               "stock_code": "2492",
               "max_consecutive_days": 5,
               "latest_date": "20260821",
-              "total_buy_amt": 1958515.0,
+              "total_buy_amt": 1973966.0,
               "is_active": false
             },
             {
               "stock_code": "6223",
               "max_consecutive_days": 5,
               "latest_date": "20260821",
-              "total_buy_amt": 1020832.0,
+              "total_buy_amt": 1043591.0,
               "is_active": true
             },
             {
@@ -5592,8 +5566,8 @@
             {
               "stock_code": "3105",
               "max_consecutive_days": 5,
-              "latest_date": "20260821",
-              "total_buy_amt": 684040.0,
+              "latest_date": "20260820",
+              "total_buy_amt": 681359.0,
               "is_active": false
             },
             {
@@ -5614,7 +5588,7 @@
               "stock_code": "2634",
               "max_consecutive_days": 5,
               "latest_date": "20260821",
-              "total_buy_amt": 466014.0,
+              "total_buy_amt": 465951.0,
               "is_active": true
             },
             {
@@ -5718,7 +5692,7 @@
         "active_days": 16,
         "total_window_days": 16,
         "active_days_ratio": 1.0,
-        "avg_trades_per_active_day": 227.9,
+        "avg_trades_per_active_day": 228.4,
         "weekday_distribution": {
           "週一": 3,
           "週二": 3,
@@ -5755,16 +5729,16 @@
         },
         "level2_strategy": "漲停追擊策略",
         "level3_dna": {
-          "locked_pct": 0.168,
+          "locked_pct": 0.169,
           "limit_up_pct": 0.086,
-          "concentration_pct": 24.7,
+          "concentration_pct": 24.6,
           "top_industry": "半導體業",
-          "top_industry_pct": 33.6,
-          "disposal_pct": 0.03,
-          "consistency": 0.694
+          "top_industry_pct": 33.5,
+          "disposal_pct": 0.021,
+          "consistency": 0.695
         }
       },
-      "narrative": "陳族元 近 16/16 交易日出手 3646 次 (544 檔), 風格分布: 隔日沖近似 25% / 留倉 69%, 漲停命中 9% (其中 🔒鎖漲停 17%), 前 5 大集中 25%, 長線部位 35% (18 檔), ⚠️ 處置股部位 3% (21 檔), 📦 連續囤貨 103 檔 (最長 16 天 3008, 49 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/風格純粹/高頻交易。",
+      "narrative": "陳族元 近 16/16 交易日出手 3655 次 (544 檔), 風格分布: 隔日沖近似 25% / 留倉 70%, 漲停命中 9% (其中 🔒鎖漲停 17%), 前 5 大集中 25%, 長線部位 35% (18 檔), ⚠️ 處置股部位 2% (17 檔), 📦 連續囤貨 103 檔 (最長 16 天 3008, 49 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/風格純粹/高頻交易。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -5799,8 +5773,8 @@
         },
         {
           "month": "2026-08",
-          "total_amt_wan": 20556239,
-          "trades_count": 3434,
+          "total_amt_wan": 20593247,
+          "trades_count": 3443,
           "top": [
             {
               "name": "半導體業",
@@ -5821,22 +5795,22 @@
       ],
       "disposal_holdings": {
         "trapped_count": 4,
-        "high_count": 4,
-        "watch_count": 1,
-        "bought_during_disposal_count": 7,
-        "total_exposure_wan": 122618,
+        "high_count": 0,
+        "watch_count": 4,
+        "bought_during_disposal_count": 5,
+        "total_exposure_wan": 140448,
         "positions": [
           {
-            "stock_code": "6213",
-            "stock_name": "聯茂",
+            "stock_code": "2455",
+            "stock_name": "全新",
             "status": "active",
             "risk": "trapped",
-            "net_lots": 365,
-            "net_amt_wan": 8804,
-            "buy_lot": 2025,
-            "sell_lot": 1660,
-            "buy_days": 15,
-            "last_buy_date": "20260821",
+            "net_lots": 1237,
+            "net_amt_wan": 48199,
+            "buy_lot": 2583,
+            "sell_lot": 1346,
+            "buy_days": 13,
+            "last_buy_date": "20260820",
             "bought_during_disposal": true
           },
           {
@@ -5866,62 +5840,10 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "4979",
-            "stock_name": "華星光",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 9,
-            "net_amt_wan": 1486,
-            "buy_lot": 932,
-            "sell_lot": 923,
-            "buy_days": 11,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2455",
-            "stock_name": "全新",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 1237,
-            "net_amt_wan": 48199,
-            "buy_lot": 2583,
-            "sell_lot": 1346,
-            "buy_days": 13,
-            "last_buy_date": "20260820",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "6834",
-            "stock_name": "天二科技",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 172,
-            "net_amt_wan": 1930,
-            "buy_lot": 371,
-            "sell_lot": 199,
-            "buy_days": 3,
-            "last_buy_date": "20260814",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "7792",
-            "stock_name": "安葆",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 55,
-            "net_amt_wan": 1569,
-            "buy_lot": 170,
-            "sell_lot": 115,
-            "buy_days": 3,
-            "last_buy_date": "20260820",
-            "bought_during_disposal": false
-          },
-          {
             "stock_code": "5314",
             "stock_name": "世紀*",
-            "status": "imminent_1",
-            "risk": "high",
+            "status": "active",
+            "risk": "trapped",
             "net_lots": 573,
             "net_amt_wan": 707,
             "buy_lot": 964,
@@ -5941,6 +5863,45 @@
             "sell_lot": 701,
             "buy_days": 14,
             "last_buy_date": "20260821",
+            "bought_during_disposal": true
+          },
+          {
+            "stock_code": "7751",
+            "stock_name": "竑騰",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 123,
+            "net_amt_wan": 18016,
+            "buy_lot": 218,
+            "sell_lot": 95,
+            "buy_days": 6,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": false
+          },
+          {
+            "stock_code": "2615",
+            "stock_name": "萬海",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 858,
+            "net_amt_wan": 11673,
+            "buy_lot": 2667,
+            "sell_lot": 1809,
+            "buy_days": 6,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": false
+          },
+          {
+            "stock_code": "6834",
+            "stock_name": "天二科技",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 172,
+            "net_amt_wan": 1930,
+            "buy_lot": 371,
+            "sell_lot": 199,
+            "buy_days": 3,
+            "last_buy_date": "20260814",
             "bought_during_disposal": true
           }
         ]
@@ -5985,8 +5946,8 @@
                 "pct": 13.2
               }
             ],
-            "disposal_stocks_count": 14,
-            "disposal_amt_ratio": 0.062,
+            "disposal_stocks_count": 11,
+            "disposal_amt_ratio": 0.039,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -6106,11 +6067,11 @@
               "concentration_pct": 38.5,
               "top_industry": "電子零組件業",
               "top_industry_pct": 39.5,
-              "disposal_pct": 0.062,
+              "disposal_pct": 0.039,
               "consistency": 0.743
             }
           },
-          "narrative": "陳族元 近 16/16 交易日出手 664 次 (239 檔), 風格分布: 隔日沖近似 18% / 留倉 74%, 漲停命中 15% (其中 🔒鎖漲停 61%), 前 5 大集中 38%, ⚠️ 處置股部位 6% (14 檔), 📦 連續囤貨 9 檔 (最長 12 天 3443, 2 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/集中投資/風格純粹。",
+          "narrative": "陳族元 近 16/16 交易日出手 664 次 (239 檔), 風格分布: 隔日沖近似 18% / 留倉 74%, 漲停命中 15% (其中 🔒鎖漲停 61%), 前 5 大集中 38%, ⚠️ 處置股部位 4% (11 檔), 📦 連續囤貨 9 檔 (最長 12 天 3443, 2 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/集中投資/風格純粹。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -6164,7 +6125,7 @@
               }
             ],
             "disposal_stocks_count": 8,
-            "disposal_amt_ratio": 0.019,
+            "disposal_amt_ratio": 0.014,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -6371,11 +6332,11 @@
               "concentration_pct": 31.9,
               "top_industry": "半導體業",
               "top_industry_pct": 33.3,
-              "disposal_pct": 0.019,
+              "disposal_pct": 0.014,
               "consistency": 0.83
             }
           },
-          "narrative": "陳族元 近 16/16 交易日出手 706 次 (224 檔), 風格分布: 隔日沖近似 14% / 留倉 83%, 漲停命中 8% (其中 🔒鎖漲停 5%), 前 5 大集中 32%, 長線部位 4% (4 檔), ⚠️ 處置股部位 2% (8 檔), 📦 連續囤貨 22 檔 (最長 16 天 00878, 7 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+          "narrative": "陳族元 近 16/16 交易日出手 706 次 (224 檔), 風格分布: 隔日沖近似 14% / 留倉 83%, 漲停命中 8% (其中 🔒鎖漲停 5%), 前 5 大集中 32%, 長線部位 4% (4 檔), ⚠️ 處置股部位 1% (8 檔), 📦 連續囤貨 22 檔 (最長 16 天 00878, 7 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -6428,8 +6389,8 @@
                 "pct": 6.5
               }
             ],
-            "disposal_stocks_count": 12,
-            "disposal_amt_ratio": 0.033,
+            "disposal_stocks_count": 10,
+            "disposal_amt_ratio": 0.022,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -6601,11 +6562,11 @@
               "concentration_pct": 24.4,
               "top_industry": "電子零組件業",
               "top_industry_pct": 33.2,
-              "disposal_pct": 0.033,
+              "disposal_pct": 0.022,
               "consistency": 0.654
             }
           },
-          "narrative": "陳族元 近 16/16 交易日出手 725 次 (277 檔), 風格分布: 隔日沖近似 31% / 留倉 65%, 漲停命中 11% (其中 🔒鎖漲停 12%), 前 5 大集中 24%, ⚠️ 處置股部位 3% (12 檔), 📦 連續囤貨 17 檔 (最長 10 天 2330, 7 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+          "narrative": "陳族元 近 16/16 交易日出手 725 次 (277 檔), 風格分布: 隔日沖近似 31% / 留倉 65%, 漲停命中 11% (其中 🔒鎖漲停 12%), 前 5 大集中 24%, ⚠️ 處置股部位 2% (10 檔), 📦 連續囤貨 17 檔 (最長 10 天 2330, 7 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -6658,8 +6619,8 @@
                 "pct": 12.7
               }
             ],
-            "disposal_stocks_count": 10,
-            "disposal_amt_ratio": 0.029,
+            "disposal_stocks_count": 8,
+            "disposal_amt_ratio": 0.03,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -6770,11 +6731,11 @@
               "concentration_pct": 35.8,
               "top_industry": "半導體業",
               "top_industry_pct": 35.3,
-              "disposal_pct": 0.029,
+              "disposal_pct": 0.03,
               "consistency": 0.566
             }
           },
-          "narrative": "陳族元 近 16/16 交易日出手 737 次 (299 檔), 風格分布: 隔日沖近似 37% / 留倉 57%, 漲停命中 5% (其中 🔒鎖漲停 20%), 前 5 大集中 36%, ⚠️ 處置股部位 3% (10 檔), 📦 連續囤貨 8 檔 (最長 11 天 00881, 1 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/集中投資/高頻交易。",
+          "narrative": "陳族元 近 16/16 交易日出手 737 次 (299 檔), 風格分布: 隔日沖近似 37% / 留倉 57%, 漲停命中 5% (其中 🔒鎖漲停 20%), 前 5 大集中 36%, ⚠️ 處置股部位 3% (8 檔), 📦 連續囤貨 8 檔 (最長 11 天 00881, 1 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/集中投資/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -6794,55 +6755,55 @@
             "swing"
           ],
           "operation_metrics": {
-            "trades_count": 814,
-            "unique_stocks": 318,
-            "daytrade_ratio": 0.068,
+            "trades_count": 823,
+            "unique_stocks": 320,
+            "daytrade_ratio": 0.065,
             "partial_ratio": 0.243,
-            "overnight_ratio": 0.689,
-            "limit_up_hit_ratio": 0.045,
-            "concentration_top5_pct": 26.6,
-            "consistency": 0.689,
-            "total_buy_amt_wan": 1245198,
-            "limit_up_locked_trades_count": 58,
-            "limit_up_locked_ratio_amt": 0.078,
-            "limit_up_locked_ratio_lot": 0.059,
+            "overnight_ratio": 0.692,
+            "limit_up_hit_ratio": 0.046,
+            "concentration_top5_pct": 25.9,
+            "consistency": 0.692,
+            "total_buy_amt_wan": 1282206,
+            "limit_up_locked_trades_count": 60,
+            "limit_up_locked_ratio_amt": 0.087,
+            "limit_up_locked_ratio_lot": 0.065,
             "long_term_stocks_count": 0,
             "long_term_amt_ratio": 0.0,
             "decay_applied": true,
             "decay_half_life": 20,
             "top_industry": "半導體業",
-            "top_industry_pct": 45.4,
+            "top_industry_pct": 44.4,
             "industry_count": 31,
             "top3_industries": [
               {
                 "name": "半導體業",
-                "pct": 45.4
+                "pct": 44.4
               },
               {
                 "name": "電子零組件業",
-                "pct": 22.0
+                "pct": 23.2
               },
               {
                 "name": "電腦及週邊設備業",
-                "pct": 6.5
+                "pct": 6.8
               }
             ],
-            "disposal_stocks_count": 11,
-            "disposal_amt_ratio": 0.025,
+            "disposal_stocks_count": 8,
+            "disposal_amt_ratio": 0.022,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
                   "stock_code": "3653",
-                  "max_consecutive_days": 7,
-                  "latest_date": "20260819",
-                  "total_buy_amt": 506182.0,
-                  "is_active": false
+                  "max_consecutive_days": 8,
+                  "latest_date": "20260821",
+                  "total_buy_amt": 517203.0,
+                  "is_active": true
                 },
                 {
                   "stock_code": "2368",
                   "max_consecutive_days": 7,
-                  "latest_date": "20260821",
-                  "total_buy_amt": 284147.0,
+                  "latest_date": "20260813",
+                  "total_buy_amt": 272920.0,
                   "is_active": false
                 },
                 {
@@ -6856,15 +6817,8 @@
                   "stock_code": "8039",
                   "max_consecutive_days": 6,
                   "latest_date": "20260821",
-                  "total_buy_amt": 316681.0,
+                  "total_buy_amt": 335837.0,
                   "is_active": true
-                },
-                {
-                  "stock_code": "4958",
-                  "max_consecutive_days": 6,
-                  "latest_date": "20260821",
-                  "total_buy_amt": 223468.0,
-                  "is_active": false
                 },
                 {
                   "stock_code": "3036",
@@ -6874,10 +6828,24 @@
                   "is_active": false
                 },
                 {
+                  "stock_code": "4958",
+                  "max_consecutive_days": 6,
+                  "latest_date": "20260821",
+                  "total_buy_amt": 197680.0,
+                  "is_active": false
+                },
+                {
+                  "stock_code": "6274",
+                  "max_consecutive_days": 5,
+                  "latest_date": "20260821",
+                  "total_buy_amt": 255056.0,
+                  "is_active": true
+                },
+                {
                   "stock_code": "1303",
                   "max_consecutive_days": 5,
-                  "latest_date": "20260820",
-                  "total_buy_amt": 157083.0,
+                  "latest_date": "20260821",
+                  "total_buy_amt": 173581.0,
                   "is_active": false
                 },
                 {
@@ -6889,7 +6857,7 @@
                 }
               ],
               "has_active_accumulation": true,
-              "max_consecutive_days_overall": 7,
+              "max_consecutive_days_overall": 8,
               "min_threshold": 5
             }
           },
@@ -6897,7 +6865,7 @@
             "active_days": 16,
             "total_window_days": 16,
             "active_days_ratio": 1.0,
-            "avg_trades_per_active_day": 50.9,
+            "avg_trades_per_active_day": 51.4,
             "weekday_distribution": {
               "週一": 3,
               "週二": 3,
@@ -6932,16 +6900,16 @@
             },
             "level2_strategy": "一般操作",
             "level3_dna": {
-              "locked_pct": 0.078,
-              "limit_up_pct": 0.045,
-              "concentration_pct": 26.6,
+              "locked_pct": 0.087,
+              "limit_up_pct": 0.046,
+              "concentration_pct": 25.9,
               "top_industry": "半導體業",
-              "top_industry_pct": 45.4,
-              "disposal_pct": 0.025,
-              "consistency": 0.689
+              "top_industry_pct": 44.4,
+              "disposal_pct": 0.022,
+              "consistency": 0.692
             }
           },
-          "narrative": "陳族元 近 16/16 交易日出手 814 次 (318 檔), 風格分布: 隔日沖近似 24% / 留倉 69%, 漲停命中 4% (其中 🔒鎖漲停 8%), 前 5 大集中 27%, ⚠️ 處置股部位 2% (11 檔), 📦 連續囤貨 8 檔 (最長 7 天 3653, 1 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+          "narrative": "陳族元 近 16/16 交易日出手 823 次 (320 檔), 風格分布: 隔日沖近似 24% / 留倉 69%, 漲停命中 5% (其中 🔒鎖漲停 9%), 前 5 大集中 26%, ⚠️ 處置股部位 2% (8 檔), 📦 連續囤貨 9 檔 (最長 8 天 3653, 3 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -6958,12 +6926,12 @@
       },
       "per_branch_count": 5,
       "cross_day": {
-        "total_buy_events": 3645,
-        "confirmed_flips": 1703,
-        "confirmed_holds": 1493,
-        "unknown": 449,
-        "actual_flip_ratio": 0.533,
-        "actual_hold_ratio": 0.467,
+        "total_buy_events": 3654,
+        "confirmed_flips": 1712,
+        "confirmed_holds": 1484,
+        "unknown": 458,
+        "actual_flip_ratio": 0.536,
+        "actual_hold_ratio": 0.464,
         "top_flip_stocks": [
           {
             "code": "2327",
@@ -7049,8 +7017,8 @@
             "pct": 5.5
           }
         ],
-        "disposal_stocks_count": 18,
-        "disposal_amt_ratio": 0.048,
+        "disposal_stocks_count": 16,
+        "disposal_amt_ratio": 0.028,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -7628,11 +7596,11 @@
           "concentration_pct": 22.9,
           "top_industry": "半導體業",
           "top_industry_pct": 41.1,
-          "disposal_pct": 0.048,
+          "disposal_pct": 0.028,
           "consistency": 0.768
         }
       },
-      "narrative": "陳律師 近 16/16 交易日出手 2713 次 (581 檔), 風格分布: 隔日沖近似 18% / 留倉 77%, 漲停命中 8% (其中 🔒鎖漲停 8%), 前 5 大集中 23%, 長線部位 2% (2 檔), ⚠️ 處置股部位 5% (18 檔), 📦 連續囤貨 75 檔 (最長 15 天 4958, 33 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+      "narrative": "陳律師 近 16/16 交易日出手 2713 次 (581 檔), 風格分布: 隔日沖近似 18% / 留倉 77%, 漲停命中 8% (其中 🔒鎖漲停 8%), 前 5 大集中 23%, 長線部位 2% (2 檔), ⚠️ 處置股部位 3% (16 檔), 📦 連續囤貨 75 檔 (最長 15 天 4958, 33 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -7688,22 +7656,22 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 4,
-        "high_count": 1,
-        "watch_count": 1,
-        "bought_during_disposal_count": 6,
-        "total_exposure_wan": 39857,
+        "trapped_count": 2,
+        "high_count": 0,
+        "watch_count": 2,
+        "bought_during_disposal_count": 3,
+        "total_exposure_wan": 25749,
         "positions": [
           {
-            "stock_code": "6213",
-            "stock_name": "聯茂",
+            "stock_code": "2455",
+            "stock_name": "全新",
             "status": "active",
             "risk": "trapped",
-            "net_lots": 198,
-            "net_amt_wan": 8817,
-            "buy_lot": 462,
-            "sell_lot": 264,
-            "buy_days": 9,
+            "net_lots": 335,
+            "net_amt_wan": 13903,
+            "buy_lot": 720,
+            "sell_lot": 385,
+            "buy_days": 10,
             "last_buy_date": "20260821",
             "bought_during_disposal": true
           },
@@ -7721,45 +7689,6 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "4979",
-            "stock_name": "華星光",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 63,
-            "net_amt_wan": 3440,
-            "buy_lot": 1145,
-            "sell_lot": 1082,
-            "buy_days": 15,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "4991",
-            "stock_name": "環宇-KY",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 60,
-            "net_amt_wan": 3241,
-            "buy_lot": 577,
-            "sell_lot": 517,
-            "buy_days": 12,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2455",
-            "stock_name": "全新",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 335,
-            "net_amt_wan": 13903,
-            "buy_lot": 720,
-            "sell_lot": 385,
-            "buy_days": 10,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
             "stock_code": "3081",
             "stock_name": "聯亞",
             "status": "imminent_2",
@@ -7771,6 +7700,19 @@
             "buy_days": 13,
             "last_buy_date": "20260821",
             "bought_during_disposal": true
+          },
+          {
+            "stock_code": "7751",
+            "stock_name": "竑騰",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 11,
+            "net_amt_wan": 1390,
+            "buy_lot": 17,
+            "sell_lot": 6,
+            "buy_days": 5,
+            "last_buy_date": "20260820",
+            "bought_during_disposal": false
           }
         ]
       },
@@ -7814,8 +7756,8 @@
                 "pct": 8.9
               }
             ],
-            "disposal_stocks_count": 11,
-            "disposal_amt_ratio": 0.077,
+            "disposal_stocks_count": 9,
+            "disposal_amt_ratio": 0.063,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -7938,11 +7880,11 @@
               "concentration_pct": 30.1,
               "top_industry": "半導體業",
               "top_industry_pct": 44.9,
-              "disposal_pct": 0.077,
+              "disposal_pct": 0.063,
               "consistency": 0.746
             }
           },
-          "narrative": "陳律師 近 16/16 交易日出手 694 次 (290 檔), 風格分布: 隔日沖近似 18% / 留倉 75%, 漲停命中 7% (其中 🔒鎖漲停 7%), 前 5 大集中 30%, ⚠️ 處置股部位 8% (11 檔), 📦 連續囤貨 10 檔 (最長 9 天 2327, 1 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+          "narrative": "陳律師 近 16/16 交易日出手 694 次 (290 檔), 風格分布: 隔日沖近似 18% / 留倉 75%, 漲停命中 7% (其中 🔒鎖漲停 7%), 前 5 大集中 30%, ⚠️ 處置股部位 6% (9 檔), 📦 連續囤貨 10 檔 (最長 9 天 2327, 1 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -7995,8 +7937,8 @@
                 "pct": 5.6
               }
             ],
-            "disposal_stocks_count": 10,
-            "disposal_amt_ratio": 0.029,
+            "disposal_stocks_count": 6,
+            "disposal_amt_ratio": 0.009,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -8126,11 +8068,11 @@
               "concentration_pct": 30.3,
               "top_industry": "半導體業",
               "top_industry_pct": 42.0,
-              "disposal_pct": 0.029,
+              "disposal_pct": 0.009,
               "consistency": 0.855
             }
           },
-          "narrative": "陳律師 近 16/16 交易日出手 671 次 (247 檔), 風格分布: 隔日沖近似 12% / 留倉 86%, 漲停命中 8% (其中 🔒鎖漲停 8%), 前 5 大集中 30%, ⚠️ 處置股部位 3% (10 檔), 📦 連續囤貨 11 檔 (最長 14 天 00940, 4 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+          "narrative": "陳律師 近 16/16 交易日出手 671 次 (247 檔), 風格分布: 隔日沖近似 12% / 留倉 86%, 漲停命中 8% (其中 🔒鎖漲停 8%), 前 5 大集中 30%, ⚠️ 處置股部位 1% (6 檔), 📦 連續囤貨 11 檔 (最長 14 天 00940, 4 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -8183,8 +8125,8 @@
                 "pct": 11.6
               }
             ],
-            "disposal_stocks_count": 12,
-            "disposal_amt_ratio": 0.082,
+            "disposal_stocks_count": 10,
+            "disposal_amt_ratio": 0.05,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -8267,11 +8209,11 @@
               "concentration_pct": 14.5,
               "top_industry": "半導體業",
               "top_industry_pct": 33.3,
-              "disposal_pct": 0.082,
+              "disposal_pct": 0.05,
               "consistency": 0.787
             }
           },
-          "narrative": "陳律師 近 16/16 交易日出手 655 次 (291 檔), 風格分布: 隔日沖近似 18% / 留倉 79%, 漲停命中 10% (其中 🔒鎖漲停 9%), 前 5 大集中 14%, ⚠️ 處置股部位 8% (12 檔), 📦 連續囤貨 4 檔 (最長 8 天 1303, 1 檔仍 active)。 主軸: 隔日沖(verified)/分散布局/風格純粹/高頻交易。",
+          "narrative": "陳律師 近 16/16 交易日出手 655 次 (291 檔), 風格分布: 隔日沖近似 18% / 留倉 79%, 漲停命中 10% (其中 🔒鎖漲停 9%), 前 5 大集中 14%, ⚠️ 處置股部位 5% (10 檔), 📦 連續囤貨 4 檔 (最長 8 天 1303, 1 檔仍 active)。 主軸: 隔日沖(verified)/分散布局/風格純粹/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -8324,8 +8266,8 @@
                 "pct": 6.0
               }
             ],
-            "disposal_stocks_count": 11,
-            "disposal_amt_ratio": 0.05,
+            "disposal_stocks_count": 10,
+            "disposal_amt_ratio": 0.035,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -8434,11 +8376,11 @@
               "concentration_pct": 25.6,
               "top_industry": "半導體業",
               "top_industry_pct": 42.5,
-              "disposal_pct": 0.05,
+              "disposal_pct": 0.035,
               "consistency": 0.689
             }
           },
-          "narrative": "陳律師 近 16/16 交易日出手 693 次 (310 檔), 風格分布: 隔日沖近似 23% / 留倉 69%, 漲停命中 6% (其中 🔒鎖漲停 8%), 前 5 大集中 26%, ⚠️ 處置股部位 5% (11 檔), 📦 連續囤貨 8 檔 (最長 9 天 3131, 2 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+          "narrative": "陳律師 近 16/16 交易日出手 693 次 (310 檔), 風格分布: 隔日沖近似 23% / 留倉 69%, 漲停命中 6% (其中 🔒鎖漲停 8%), 前 5 大集中 26%, ⚠️ 處置股部位 4% (10 檔), 📦 連續囤貨 8 檔 (最長 9 天 3131, 2 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -8471,15 +8413,15 @@
             "count": 20
           },
           {
-            "code": "00632R",
-            "count": 19
-          },
-          {
-            "code": "3374",
-            "count": 19
-          },
-          {
             "code": "2303",
+            "count": 19
+          },
+          {
+            "code": "00981A",
+            "count": 19
+          },
+          {
+            "code": "00632R",
             "count": 19
           }
         ],
@@ -8546,8 +8488,8 @@
             "pct": 9.1
           }
         ],
-        "disposal_stocks_count": 14,
-        "disposal_amt_ratio": 0.031,
+        "disposal_stocks_count": 10,
+        "disposal_amt_ratio": 0.02,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -9150,11 +9092,11 @@
           "concentration_pct": 28.4,
           "top_industry": "半導體業",
           "top_industry_pct": 37.6,
-          "disposal_pct": 0.031,
+          "disposal_pct": 0.02,
           "consistency": 0.758
         }
       },
-      "narrative": "迷你哥/松山哥 近 16/16 交易日出手 2166 次 (454 檔), 風格分布: 隔日沖近似 20% / 留倉 76%, 漲停命中 9% (其中 🔒鎖漲停 21%), 前 5 大集中 28%, 長線部位 19% (6 檔), ⚠️ 處置股部位 3% (14 檔), 📦 連續囤貨 78 檔 (最長 15 天 2308, 28 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/風格純粹。",
+      "narrative": "迷你哥/松山哥 近 16/16 交易日出手 2166 次 (454 檔), 風格分布: 隔日沖近似 20% / 留倉 76%, 漲停命中 9% (其中 🔒鎖漲停 21%), 前 5 大集中 28%, 長線部位 19% (6 檔), ⚠️ 處置股部位 2% (10 檔), 📦 連續囤貨 78 檔 (最長 15 天 2308, 28 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/風格純粹。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -9210,51 +9152,12 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 7,
-        "high_count": 1,
-        "watch_count": 1,
-        "bought_during_disposal_count": 8,
-        "total_exposure_wan": 518734,
+        "trapped_count": 3,
+        "high_count": 0,
+        "watch_count": 3,
+        "bought_during_disposal_count": 3,
+        "total_exposure_wan": 393728,
         "positions": [
-          {
-            "stock_code": "6213",
-            "stock_name": "聯茂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 2060,
-            "net_amt_wan": 71343,
-            "buy_lot": 3620,
-            "sell_lot": 1560,
-            "buy_days": 9,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 737,
-            "net_amt_wan": 60657,
-            "buy_lot": 2705,
-            "sell_lot": 1968,
-            "buy_days": 6,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "4979",
-            "stock_name": "華星光",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 107,
-            "net_amt_wan": 22216,
-            "buy_lot": 3696,
-            "sell_lot": 3589,
-            "buy_days": 12,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "4931",
             "stock_name": "新盛力",
@@ -9282,19 +9185,6 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "4991",
-            "stock_name": "環宇-KY",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 67,
-            "net_amt_wan": 3377,
-            "buy_lot": 390,
-            "sell_lot": 323,
-            "buy_days": 4,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
             "stock_code": "8033",
             "stock_name": "雷虎",
             "status": "active",
@@ -9305,19 +9195,6 @@
             "sell_lot": 1304,
             "buy_days": 2,
             "last_buy_date": "20260812",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2493",
-            "stock_name": "揚博",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 67,
-            "net_amt_wan": 1249,
-            "buy_lot": 69,
-            "sell_lot": 2,
-            "buy_days": 2,
-            "last_buy_date": "20260820",
             "bought_during_disposal": true
           },
           {
@@ -9332,6 +9209,32 @@
             "buy_days": 10,
             "last_buy_date": "20260821",
             "bought_during_disposal": true
+          },
+          {
+            "stock_code": "2615",
+            "stock_name": "萬海",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 2598,
+            "net_amt_wan": 28518,
+            "buy_lot": 5642,
+            "sell_lot": 3044,
+            "buy_days": 6,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": false
+          },
+          {
+            "stock_code": "7751",
+            "stock_name": "竑騰",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 34,
+            "net_amt_wan": 5318,
+            "buy_lot": 35,
+            "sell_lot": 1,
+            "buy_days": 1,
+            "last_buy_date": "20260820",
+            "bought_during_disposal": false
           }
         ]
       },
@@ -9375,8 +9278,8 @@
                 "pct": 6.2
               }
             ],
-            "disposal_stocks_count": 12,
-            "disposal_amt_ratio": 0.024,
+            "disposal_stocks_count": 7,
+            "disposal_amt_ratio": 0.011,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -9468,11 +9371,11 @@
               "concentration_pct": 35.7,
               "top_industry": "半導體業",
               "top_industry_pct": 41.5,
-              "disposal_pct": 0.024,
+              "disposal_pct": 0.011,
               "consistency": 0.634
             }
           },
-          "narrative": "迷你哥/松山哥 近 16/16 交易日出手 735 次 (304 檔), 風格分布: 隔日沖近似 28% / 留倉 63%, 漲停命中 4% (其中 🔒鎖漲停 19%), 前 5 大集中 36%, ⚠️ 處置股部位 2% (12 檔), 📦 連續囤貨 5 檔 (最長 6 天 2330, 2 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/集中投資。",
+          "narrative": "迷你哥/松山哥 近 16/16 交易日出手 735 次 (304 檔), 風格分布: 隔日沖近似 28% / 留倉 63%, 漲停命中 4% (其中 🔒鎖漲停 19%), 前 5 大集中 36%, ⚠️ 處置股部位 1% (7 檔), 📦 連續囤貨 5 檔 (最長 6 天 2330, 2 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/集中投資。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -9525,8 +9428,8 @@
                 "pct": 10.4
               }
             ],
-            "disposal_stocks_count": 5,
-            "disposal_amt_ratio": 0.038,
+            "disposal_stocks_count": 4,
+            "disposal_amt_ratio": 0.028,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -9742,11 +9645,11 @@
               "concentration_pct": 22.0,
               "top_industry": "半導體業",
               "top_industry_pct": 28.5,
-              "disposal_pct": 0.038,
+              "disposal_pct": 0.028,
               "consistency": 0.839
             }
           },
-          "narrative": "迷你哥/松山哥 近 16/16 交易日出手 722 次 (242 檔), 風格分布: 隔日沖近似 14% / 留倉 84%, 漲停命中 8% (其中 🔒鎖漲停 10%), 前 5 大集中 22%, ⚠️ 處置股部位 4% (5 檔), 📦 連續囤貨 23 檔 (最長 10 天 00687B, 5 檔仍 active)。 主軸: 當沖客(declared)/混合進出/風格純粹/高頻交易。",
+          "narrative": "迷你哥/松山哥 近 16/16 交易日出手 722 次 (242 檔), 風格分布: 隔日沖近似 14% / 留倉 84%, 漲停命中 8% (其中 🔒鎖漲停 10%), 前 5 大集中 22%, ⚠️ 處置股部位 3% (4 檔), 📦 連續囤貨 23 檔 (最長 10 天 00687B, 5 檔仍 active)。 主軸: 當沖客(declared)/混合進出/風格純粹/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -9799,8 +9702,8 @@
                 "pct": 9.2
               }
             ],
-            "disposal_stocks_count": 10,
-            "disposal_amt_ratio": 0.028,
+            "disposal_stocks_count": 7,
+            "disposal_amt_ratio": 0.017,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -9955,11 +9858,11 @@
               "concentration_pct": 33.8,
               "top_industry": "半導體業",
               "top_industry_pct": 41.5,
-              "disposal_pct": 0.028,
+              "disposal_pct": 0.017,
               "consistency": 0.804
             }
           },
-          "narrative": "迷你哥/松山哥 近 16/16 交易日出手 709 次 (242 檔), 風格分布: 隔日沖近似 17% / 留倉 80%, 漲停命中 16% (其中 🔒鎖漲停 26%), 前 5 大集中 34%, ⚠️ 處置股部位 3% (10 檔), 📦 連續囤貨 14 檔 (最長 11 天 00991A, 4 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/風格純粹。",
+          "narrative": "迷你哥/松山哥 近 16/16 交易日出手 709 次 (242 檔), 風格分布: 隔日沖近似 17% / 留倉 80%, 漲停命中 16% (其中 🔒鎖漲停 26%), 前 5 大集中 34%, ⚠️ 處置股部位 2% (7 檔), 📦 連續囤貨 14 檔 (最長 11 天 00991A, 4 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/風格純粹。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -10067,8 +9970,8 @@
             "pct": 7.2
           }
         ],
-        "disposal_stocks_count": 11,
-        "disposal_amt_ratio": 0.047,
+        "disposal_stocks_count": 8,
+        "disposal_amt_ratio": 0.029,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -10220,11 +10123,11 @@
           "concentration_pct": 19.9,
           "top_industry": "半導體業",
           "top_industry_pct": 37.5,
-          "disposal_pct": 0.047,
+          "disposal_pct": 0.029,
           "consistency": 0.616
         }
       },
-      "narrative": "布哥/n_nchang 近 16/16 交易日出手 775 次 (278 檔), 風格分布: 隔日沖近似 29% / 留倉 62%, 漲停命中 5% (其中 🔒鎖漲停 6%), 前 5 大集中 20%, ⚠️ 處置股部位 5% (11 檔), 📦 連續囤貨 15 檔 (最長 11 天 00881, 3 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "布哥/n_nchang 近 16/16 交易日出手 775 次 (278 檔), 風格分布: 隔日沖近似 29% / 留倉 62%, 漲停命中 5% (其中 🔒鎖漲停 6%), 前 5 大集中 20%, ⚠️ 處置股部位 3% (8 檔), 📦 連續囤貨 15 檔 (最長 11 天 00881, 3 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -10280,12 +10183,25 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 3,
-        "high_count": 2,
-        "watch_count": 0,
-        "bought_during_disposal_count": 5,
-        "total_exposure_wan": 23138,
+        "trapped_count": 2,
+        "high_count": 0,
+        "watch_count": 1,
+        "bought_during_disposal_count": 3,
+        "total_exposure_wan": 16663,
         "positions": [
+          {
+            "stock_code": "2455",
+            "stock_name": "全新",
+            "status": "active",
+            "risk": "trapped",
+            "net_lots": 296,
+            "net_amt_wan": 11850,
+            "buy_lot": 387,
+            "sell_lot": 91,
+            "buy_days": 5,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": true
+          },
           {
             "stock_code": "4931",
             "stock_name": "新盛力",
@@ -10300,55 +10216,16 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 33,
-            "net_amt_wan": 2227,
-            "buy_lot": 42,
-            "sell_lot": 9,
-            "buy_days": 1,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "4979",
-            "stock_name": "華星光",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 26,
-            "net_amt_wan": 1477,
-            "buy_lot": 153,
-            "sell_lot": 127,
-            "buy_days": 7,
-            "last_buy_date": "20260813",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2455",
-            "stock_name": "全新",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 296,
-            "net_amt_wan": 11850,
-            "buy_lot": 387,
-            "sell_lot": 91,
-            "buy_days": 5,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2493",
-            "stock_name": "揚博",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 213,
-            "net_amt_wan": 4584,
-            "buy_lot": 462,
-            "sell_lot": 249,
-            "buy_days": 7,
-            "last_buy_date": "20260817",
+            "stock_code": "6683",
+            "stock_name": "雍智科技",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 12,
+            "net_amt_wan": 1813,
+            "buy_lot": 23,
+            "sell_lot": 11,
+            "buy_days": 3,
+            "last_buy_date": "20260818",
             "bought_during_disposal": true
           }
         ]
@@ -10374,11 +10251,11 @@
             "count": 3
           },
           {
-            "code": "00631L",
+            "code": "0050",
             "count": 3
           },
           {
-            "code": "0050",
+            "code": "00631L",
             "count": 3
           }
         ],
@@ -10396,11 +10273,11 @@
             "count": 9
           },
           {
-            "code": "2883B",
+            "code": "009826",
             "count": 8
           },
           {
-            "code": "009826",
+            "code": "2883B",
             "count": 8
           }
         ]
@@ -10445,8 +10322,8 @@
             "pct": 8.5
           }
         ],
-        "disposal_stocks_count": 20,
-        "disposal_amt_ratio": 0.07,
+        "disposal_stocks_count": 18,
+        "disposal_amt_ratio": 0.026,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -11388,11 +11265,11 @@
           "concentration_pct": 22.3,
           "top_industry": "半導體業",
           "top_industry_pct": 38.7,
-          "disposal_pct": 0.07,
+          "disposal_pct": 0.026,
           "consistency": 0.651
         }
       },
-      "narrative": "強森 近 16/16 交易日出手 5213 次 (727 檔), 風格分布: 隔日沖近似 27% / 留倉 65%, 漲停命中 4% (其中 🔒鎖漲停 9%), 前 5 大集中 22%, 長線部位 11% (10 檔), ⚠️ 處置股部位 7% (20 檔), 📦 連續囤貨 127 檔 (最長 16 天 2308, 63 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+      "narrative": "強森 近 16/16 交易日出手 5213 次 (727 檔), 風格分布: 隔日沖近似 27% / 留倉 65%, 漲停命中 4% (其中 🔒鎖漲停 9%), 前 5 大集中 22%, 長線部位 11% (10 檔), ⚠️ 處置股部位 3% (18 檔), 📦 連續囤貨 127 檔 (最長 16 天 2308, 63 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -11448,25 +11325,12 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 7,
+        "trapped_count": 5,
         "high_count": 1,
         "watch_count": 2,
-        "bought_during_disposal_count": 9,
-        "total_exposure_wan": 183527,
+        "bought_during_disposal_count": 7,
+        "total_exposure_wan": 31774,
         "positions": [
-          {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 2567,
-            "net_amt_wan": 151121,
-            "buy_lot": 3243,
-            "sell_lot": 676,
-            "buy_days": 14,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "4931",
             "stock_name": "新盛力",
@@ -11481,6 +11345,19 @@
             "bought_during_disposal": true
           },
           {
+            "stock_code": "2455",
+            "stock_name": "全新",
+            "status": "active",
+            "risk": "trapped",
+            "net_lots": 123,
+            "net_amt_wan": 4571,
+            "buy_lot": 750,
+            "sell_lot": 627,
+            "buy_days": 14,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": true
+          },
+          {
             "stock_code": "7795",
             "stock_name": "長廣",
             "status": "active",
@@ -11491,19 +11368,6 @@
             "sell_lot": 47,
             "buy_days": 5,
             "last_buy_date": "20260819",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "4991",
-            "stock_name": "環宇-KY",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 35,
-            "net_amt_wan": 1646,
-            "buy_lot": 93,
-            "sell_lot": 58,
-            "buy_days": 7,
-            "last_buy_date": "20260821",
             "bought_during_disposal": true
           },
           {
@@ -11533,30 +11397,17 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "6213",
-            "stock_name": "聯茂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 186,
-            "net_amt_wan": 890,
-            "buy_lot": 2641,
-            "sell_lot": 2455,
-            "buy_days": 13,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2455",
-            "stock_name": "全新",
+            "stock_code": "3625",
+            "stock_name": "西勝",
             "status": "imminent_1",
             "risk": "high",
-            "net_lots": 123,
-            "net_amt_wan": 4571,
-            "buy_lot": 750,
-            "sell_lot": 627,
-            "buy_days": 14,
+            "net_lots": 130,
+            "net_amt_wan": 155,
+            "buy_lot": 170,
+            "sell_lot": 40,
+            "buy_days": 6,
             "last_buy_date": "20260821",
-            "bought_during_disposal": true
+            "bought_during_disposal": false
           },
           {
             "stock_code": "3081",
@@ -11572,17 +11423,17 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "3625",
-            "stock_name": "西勝",
+            "stock_code": "6683",
+            "stock_name": "雍智科技",
             "status": "imminent_2",
             "risk": "watch",
-            "net_lots": 130,
-            "net_amt_wan": 155,
-            "buy_lot": 170,
-            "sell_lot": 40,
-            "buy_days": 6,
+            "net_lots": 10,
+            "net_amt_wan": 1904,
+            "buy_lot": 54,
+            "sell_lot": 44,
+            "buy_days": 5,
             "last_buy_date": "20260821",
-            "bought_during_disposal": false
+            "bought_during_disposal": true
           }
         ]
       },
@@ -11626,8 +11477,8 @@
                 "pct": 10.4
               }
             ],
-            "disposal_stocks_count": 10,
-            "disposal_amt_ratio": 0.012,
+            "disposal_stocks_count": 7,
+            "disposal_amt_ratio": 0.007,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -11801,11 +11652,11 @@
               "concentration_pct": 52.0,
               "top_industry": "半導體業",
               "top_industry_pct": 49.6,
-              "disposal_pct": 0.012,
+              "disposal_pct": 0.007,
               "consistency": 0.724
             }
           },
-          "narrative": "強森 近 16/16 交易日出手 717 次 (284 檔), 風格分布: 隔日沖近似 23% / 留倉 72%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 52%, ⚠️ 處置股部位 1% (10 檔), 📦 連續囤貨 17 檔 (最長 8 天 8299, 5 檔仍 active)。 主軸: 隔日沖(verified)/集中投資/風格純粹/高頻交易。",
+          "narrative": "強森 近 16/16 交易日出手 717 次 (284 檔), 風格分布: 隔日沖近似 23% / 留倉 72%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 52%, ⚠️ 處置股部位 1% (7 檔), 📦 連續囤貨 17 檔 (最長 8 天 8299, 5 檔仍 active)。 主軸: 隔日沖(verified)/集中投資/風格純粹/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -11858,8 +11709,8 @@
                 "pct": 6.7
               }
             ],
-            "disposal_stocks_count": 16,
-            "disposal_amt_ratio": 0.06,
+            "disposal_stocks_count": 11,
+            "disposal_amt_ratio": 0.045,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -11964,11 +11815,11 @@
               "concentration_pct": 22.4,
               "top_industry": "半導體業",
               "top_industry_pct": 40.7,
-              "disposal_pct": 0.06,
+              "disposal_pct": 0.045,
               "consistency": 0.633
             }
           },
-          "narrative": "強森 近 16/16 交易日出手 755 次 (311 檔), 風格分布: 隔日沖近似 26% / 當沖 11% / 留倉 63%, 漲停命中 5% (其中 🔒鎖漲停 7%), 前 5 大集中 22%, ⚠️ 處置股部位 6% (16 檔), 📦 連續囤貨 8 檔 (最長 7 天 00981A, 4 檔仍 active)。 主軸: 隔日沖(verified)/高頻交易/持續進場/📦 連續囤貨。",
+          "narrative": "強森 近 16/16 交易日出手 755 次 (311 檔), 風格分布: 隔日沖近似 26% / 當沖 11% / 留倉 63%, 漲停命中 5% (其中 🔒鎖漲停 7%), 前 5 大集中 22%, ⚠️ 處置股部位 4% (11 檔), 📦 連續囤貨 8 檔 (最長 7 天 00981A, 4 檔仍 active)。 主軸: 隔日沖(verified)/高頻交易/持續進場/📦 連續囤貨。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -12021,8 +11872,8 @@
                 "pct": 8.2
               }
             ],
-            "disposal_stocks_count": 10,
-            "disposal_amt_ratio": 0.051,
+            "disposal_stocks_count": 7,
+            "disposal_amt_ratio": 0.025,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -12141,11 +11992,11 @@
               "concentration_pct": 28.0,
               "top_industry": "半導體業",
               "top_industry_pct": 42.0,
-              "disposal_pct": 0.051,
+              "disposal_pct": 0.025,
               "consistency": 0.627
             }
           },
-          "narrative": "強森 近 16/16 交易日出手 762 次 (285 檔), 風格分布: 隔日沖近似 30% / 留倉 63%, 漲停命中 5% (其中 🔒鎖漲停 8%), 前 5 大集中 28%, ⚠️ 處置股部位 5% (10 檔), 📦 連續囤貨 10 檔 (最長 10 天 2323, 2 檔仍 active)。 主軸: 隔日沖(verified)/高頻交易/持續進場/📦 連續囤貨。",
+          "narrative": "強森 近 16/16 交易日出手 762 次 (285 檔), 風格分布: 隔日沖近似 30% / 留倉 63%, 漲停命中 5% (其中 🔒鎖漲停 8%), 前 5 大集中 28%, ⚠️ 處置股部位 2% (7 檔), 📦 連續囤貨 10 檔 (最長 10 天 2323, 2 檔仍 active)。 主軸: 隔日沖(verified)/高頻交易/持續進場/📦 連續囤貨。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -12198,8 +12049,8 @@
                 "pct": 6.8
               }
             ],
-            "disposal_stocks_count": 12,
-            "disposal_amt_ratio": 0.129,
+            "disposal_stocks_count": 11,
+            "disposal_amt_ratio": 0.022,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -12369,11 +12220,11 @@
               "concentration_pct": 33.2,
               "top_industry": "電子零組件業",
               "top_industry_pct": 38.6,
-              "disposal_pct": 0.129,
+              "disposal_pct": 0.022,
               "consistency": 0.639
             }
           },
-          "narrative": "強森 近 16/16 交易日出手 726 次 (297 檔), 風格分布: 隔日沖近似 24% / 當沖 12% / 留倉 64%, 漲停命中 6% (其中 🔒鎖漲停 20%), 前 5 大集中 33%, ⚠️ 處置股部位 13% (12 檔), 📦 連續囤貨 17 檔 (最長 9 天 6173, 6 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/高頻交易/持續進場。",
+          "narrative": "強森 近 16/16 交易日出手 726 次 (297 檔), 風格分布: 隔日沖近似 24% / 當沖 12% / 留倉 64%, 漲停命中 6% (其中 🔒鎖漲停 20%), 前 5 大集中 33%, ⚠️ 處置股部位 2% (11 檔), 📦 連續囤貨 17 檔 (最長 9 天 6173, 6 檔仍 active)。 主軸: 🔒 鎖漲停/隔日沖(verified)/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -12426,8 +12277,8 @@
                 "pct": 6.7
               }
             ],
-            "disposal_stocks_count": 10,
-            "disposal_amt_ratio": 0.103,
+            "disposal_stocks_count": 7,
+            "disposal_amt_ratio": 0.029,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -12546,11 +12397,11 @@
               "concentration_pct": 22.3,
               "top_industry": "電子零組件業",
               "top_industry_pct": 33.8,
-              "disposal_pct": 0.103,
+              "disposal_pct": 0.029,
               "consistency": 0.642
             }
           },
-          "narrative": "強森 近 16/16 交易日出手 750 次 (301 檔), 風格分布: 隔日沖近似 27% / 留倉 64%, 漲停命中 4% (其中 🔒鎖漲停 6%), 前 5 大集中 22%, ⚠️ 處置股部位 10% (10 檔), 📦 連續囤貨 10 檔 (最長 13 天 00881, 4 檔仍 active)。 主軸: 隔日沖(verified)/高頻交易/持續進場/📦 連續囤貨。",
+          "narrative": "強森 近 16/16 交易日出手 750 次 (301 檔), 風格分布: 隔日沖近似 27% / 留倉 64%, 漲停命中 4% (其中 🔒鎖漲停 6%), 前 5 大集中 22%, ⚠️ 處置股部位 3% (7 檔), 📦 連續囤貨 10 檔 (最長 13 天 00881, 4 檔仍 active)。 主軸: 隔日沖(verified)/高頻交易/持續進場/📦 連續囤貨。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -12603,8 +12454,8 @@
                 "pct": 9.8
               }
             ],
-            "disposal_stocks_count": 8,
-            "disposal_amt_ratio": 0.024,
+            "disposal_stocks_count": 6,
+            "disposal_amt_ratio": 0.019,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -12716,11 +12567,11 @@
               "concentration_pct": 29.2,
               "top_industry": "半導體業",
               "top_industry_pct": 41.6,
-              "disposal_pct": 0.024,
+              "disposal_pct": 0.019,
               "consistency": 0.626
             }
           },
-          "narrative": "強森 近 16/16 交易日出手 755 次 (310 檔), 風格分布: 隔日沖近似 29% / 留倉 63%, 漲停命中 2% (其中 🔒鎖漲停 4%), 前 5 大集中 29%, ⚠️ 處置股部位 2% (8 檔), 📦 連續囤貨 9 檔 (最長 14 天 00881, 2 檔仍 active)。 主軸: 隔日沖(verified)/高頻交易/持續進場/📦 連續囤貨。",
+          "narrative": "強森 近 16/16 交易日出手 755 次 (310 檔), 風格分布: 隔日沖近似 29% / 留倉 63%, 漲停命中 2% (其中 🔒鎖漲停 4%), 前 5 大集中 29%, ⚠️ 處置股部位 2% (6 檔), 📦 連續囤貨 9 檔 (最長 14 天 00881, 2 檔仍 active)。 主軸: 隔日沖(verified)/高頻交易/持續進場/📦 連續囤貨。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -12773,8 +12624,8 @@
                 "pct": 7.8
               }
             ],
-            "disposal_stocks_count": 11,
-            "disposal_amt_ratio": 0.083,
+            "disposal_stocks_count": 7,
+            "disposal_amt_ratio": 0.056,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -12890,11 +12741,11 @@
               "concentration_pct": 21.0,
               "top_industry": "半導體業",
               "top_industry_pct": 32.0,
-              "disposal_pct": 0.083,
+              "disposal_pct": 0.056,
               "consistency": 0.667
             }
           },
-          "narrative": "強森 近 16/16 交易日出手 748 次 (316 檔), 風格分布: 隔日沖近似 28% / 留倉 67%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 21%, ⚠️ 處置股部位 8% (11 檔), 📦 連續囤貨 9 檔 (最長 9 天 2834, 1 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
+          "narrative": "強森 近 16/16 交易日出手 748 次 (316 檔), 風格分布: 隔日沖近似 28% / 留倉 67%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 21%, ⚠️ 處置股部位 6% (7 檔), 📦 連續囤貨 9 檔 (最長 9 天 2834, 1 檔仍 active)。 主軸: 隔日沖(verified)/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -13002,8 +12853,8 @@
             "pct": 8.7
           }
         ],
-        "disposal_stocks_count": 13,
-        "disposal_amt_ratio": 0.065,
+        "disposal_stocks_count": 12,
+        "disposal_amt_ratio": 0.054,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -13098,11 +12949,11 @@
           "concentration_pct": 14.4,
           "top_industry": "半導體業",
           "top_industry_pct": 38.2,
-          "disposal_pct": 0.065,
+          "disposal_pct": 0.054,
           "consistency": 0.64
         }
       },
-      "narrative": "Tradow 近 16/16 交易日出手 780 次 (341 檔), 風格分布: 隔日沖近似 29% / 留倉 64%, 漲停命中 16% (其中 🔒鎖漲停 21%), 前 5 大集中 14%, ⚠️ 處置股部位 6% (13 檔), 📦 連續囤貨 6 檔 (最長 8 天 00881, 1 檔仍 active)。 主軸: 🔒 鎖漲停/短打型(declared)/分散布局/高頻交易。",
+      "narrative": "Tradow 近 16/16 交易日出手 780 次 (341 檔), 風格分布: 隔日沖近似 29% / 留倉 64%, 漲停命中 16% (其中 🔒鎖漲停 21%), 前 5 大集中 14%, ⚠️ 處置股部位 5% (12 檔), 📦 連續囤貨 6 檔 (最長 8 天 00881, 1 檔仍 active)。 主軸: 🔒 鎖漲停/短打型(declared)/分散布局/高頻交易。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -13159,29 +13010,16 @@
       ],
       "disposal_holdings": {
         "trapped_count": 1,
-        "high_count": 1,
-        "watch_count": 1,
-        "bought_during_disposal_count": 2,
-        "total_exposure_wan": 8003,
+        "high_count": 0,
+        "watch_count": 2,
+        "bought_during_disposal_count": 1,
+        "total_exposure_wan": 8239,
         "positions": [
-          {
-            "stock_code": "4979",
-            "stock_name": "華星光",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 24,
-            "net_amt_wan": 1156,
-            "buy_lot": 152,
-            "sell_lot": 128,
-            "buy_days": 4,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "5314",
             "stock_name": "世紀*",
-            "status": "imminent_1",
-            "risk": "high",
+            "status": "active",
+            "risk": "trapped",
             "net_lots": 2001,
             "net_amt_wan": 4753,
             "buy_lot": 2495,
@@ -13202,6 +13040,19 @@
             "buy_days": 7,
             "last_buy_date": "20260821",
             "bought_during_disposal": true
+          },
+          {
+            "stock_code": "7751",
+            "stock_name": "竑騰",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 10,
+            "net_amt_wan": 1392,
+            "buy_lot": 54,
+            "sell_lot": 44,
+            "buy_days": 8,
+            "last_buy_date": "20260820",
+            "bought_during_disposal": false
           }
         ]
       },
@@ -13218,11 +13069,11 @@
             "count": 4
           },
           {
-            "code": "2301",
+            "code": "7750",
             "count": 4
           },
           {
-            "code": "7750",
+            "code": "2301",
             "count": 4
           },
           {
@@ -13252,7 +13103,7 @@
             "count": 7
           },
           {
-            "code": "2883",
+            "code": "009826",
             "count": 6
           }
         ]
@@ -13298,8 +13149,8 @@
             "pct": 6.0
           }
         ],
-        "disposal_stocks_count": 19,
-        "disposal_amt_ratio": 0.088,
+        "disposal_stocks_count": 15,
+        "disposal_amt_ratio": 0.024,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -13727,11 +13578,11 @@
           "concentration_pct": 23.0,
           "top_industry": "半導體業",
           "top_industry_pct": 36.2,
-          "disposal_pct": 0.088,
+          "disposal_pct": 0.024,
           "consistency": 0.678
         }
       },
-      "narrative": "巨人傑 近 16/16 交易日出手 2196 次 (527 檔), 風格分布: 隔日沖近似 24% / 留倉 68%, 漲停命中 6% (其中 🔒鎖漲停 17%), 前 5 大集中 23%, 長線部位 0% (1 檔), ⚠️ 處置股部位 9% (19 檔), 📦 連續囤貨 53 檔 (最長 15 天 00881, 21 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/風格純粹。",
+      "narrative": "巨人傑 近 16/16 交易日出手 2196 次 (527 檔), 風格分布: 隔日沖近似 24% / 留倉 68%, 漲停命中 6% (其中 🔒鎖漲停 17%), 前 5 大集中 23%, 長線部位 0% (1 檔), ⚠️ 處置股部位 2% (15 檔), 📦 連續囤貨 53 檔 (最長 15 天 00881, 21 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/風格純粹。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -13787,25 +13638,12 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 2,
+        "trapped_count": 1,
         "high_count": 0,
         "watch_count": 1,
-        "bought_during_disposal_count": 3,
-        "total_exposure_wan": 142362,
+        "bought_during_disposal_count": 2,
+        "total_exposure_wan": 5201,
         "positions": [
-          {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 2353,
-            "net_amt_wan": 137161,
-            "buy_lot": 2625,
-            "sell_lot": 272,
-            "buy_days": 13,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "3163",
             "stock_name": "波若威",
@@ -13875,8 +13713,8 @@
                 "pct": 6.8
               }
             ],
-            "disposal_stocks_count": 12,
-            "disposal_amt_ratio": 0.129,
+            "disposal_stocks_count": 11,
+            "disposal_amt_ratio": 0.022,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -14048,11 +13886,11 @@
               "concentration_pct": 33.2,
               "top_industry": "電子零組件業",
               "top_industry_pct": 38.6,
-              "disposal_pct": 0.129,
+              "disposal_pct": 0.022,
               "consistency": 0.639
             }
           },
-          "narrative": "巨人傑 近 16/16 交易日出手 726 次 (297 檔), 風格分布: 隔日沖近似 24% / 當沖 12% / 留倉 64%, 漲停命中 6% (其中 🔒鎖漲停 20%), 前 5 大集中 33%, ⚠️ 處置股部位 13% (12 檔), 📦 連續囤貨 17 檔 (最長 9 天 6173, 6 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/高頻交易。",
+          "narrative": "巨人傑 近 16/16 交易日出手 726 次 (297 檔), 風格分布: 隔日沖近似 24% / 當沖 12% / 留倉 64%, 漲停命中 6% (其中 🔒鎖漲停 20%), 前 5 大集中 33%, ⚠️ 處置股部位 2% (11 檔), 📦 連續囤貨 17 檔 (最長 9 天 6173, 6 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -14106,8 +13944,8 @@
                 "pct": 5.2
               }
             ],
-            "disposal_stocks_count": 14,
-            "disposal_amt_ratio": 0.053,
+            "disposal_stocks_count": 10,
+            "disposal_amt_ratio": 0.029,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -14229,11 +14067,11 @@
               "concentration_pct": 36.2,
               "top_industry": "半導體業",
               "top_industry_pct": 39.0,
-              "disposal_pct": 0.053,
+              "disposal_pct": 0.029,
               "consistency": 0.74
             }
           },
-          "narrative": "巨人傑 近 16/16 交易日出手 707 次 (291 檔), 風格分布: 隔日沖近似 20% / 留倉 74%, 漲停命中 8% (其中 🔒鎖漲停 22%), 前 5 大集中 36%, ⚠️ 處置股部位 5% (14 檔), 📦 連續囤貨 9 檔 (最長 12 天 00881, 3 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/集中投資。",
+          "narrative": "巨人傑 近 16/16 交易日出手 707 次 (291 檔), 風格分布: 隔日沖近似 20% / 留倉 74%, 漲停命中 8% (其中 🔒鎖漲停 22%), 前 5 大集中 36%, ⚠️ 處置股部位 3% (10 檔), 📦 連續囤貨 9 檔 (最長 12 天 00881, 3 檔仍 active)。 主軸: 🔒 鎖漲停/當沖客(declared)/混合進出/集中投資。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -14287,8 +14125,8 @@
                 "pct": 6.0
               }
             ],
-            "disposal_stocks_count": 11,
-            "disposal_amt_ratio": 0.032,
+            "disposal_stocks_count": 8,
+            "disposal_amt_ratio": 0.02,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -14385,11 +14223,11 @@
               "concentration_pct": 28.8,
               "top_industry": "半導體業",
               "top_industry_pct": 45.4,
-              "disposal_pct": 0.032,
+              "disposal_pct": 0.02,
               "consistency": 0.659
             }
           },
-          "narrative": "巨人傑 近 16/16 交易日出手 763 次 (314 檔), 風格分布: 隔日沖近似 27% / 留倉 66%, 漲停命中 3% (其中 🔒鎖漲停 3%), 前 5 大集中 29%, ⚠️ 處置股部位 3% (11 檔), 📦 連續囤貨 6 檔 (最長 9 天 00632R, 1 檔仍 active)。 主軸: 當沖客(declared)/混合進出/風格純粹/高頻交易。",
+          "narrative": "巨人傑 近 16/16 交易日出手 763 次 (314 檔), 風格分布: 隔日沖近似 27% / 留倉 66%, 漲停命中 3% (其中 🔒鎖漲停 3%), 前 5 大集中 29%, ⚠️ 處置股部位 2% (8 檔), 📦 連續囤貨 6 檔 (最長 9 天 00632R, 1 檔仍 active)。 主軸: 當沖客(declared)/混合進出/風格純粹/高頻交易。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -14497,8 +14335,8 @@
             "pct": 8.4
           }
         ],
-        "disposal_stocks_count": 21,
-        "disposal_amt_ratio": 0.088,
+        "disposal_stocks_count": 19,
+        "disposal_amt_ratio": 0.059,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -14970,11 +14808,11 @@
           "concentration_pct": 16.4,
           "top_industry": "電子零組件業",
           "top_industry_pct": 30.5,
-          "disposal_pct": 0.088,
+          "disposal_pct": 0.059,
           "consistency": 0.655
         }
       },
-      "narrative": "蔣承翰 近 16/16 交易日出手 2125 次 (485 檔), 風格分布: 隔日沖近似 26% / 留倉 66%, 漲停命中 11% (其中 🔒鎖漲停 51%), 前 5 大集中 16%, 長線部位 2% (1 檔), ⚠️ 處置股部位 9% (21 檔), 📦 連續囤貨 59 檔 (最長 16 天 2884, 22 檔仍 active)。 主軸: 🔒 鎖漲停/短打型(declared)/隔日沖(verified)/分散布局。",
+      "narrative": "蔣承翰 近 16/16 交易日出手 2125 次 (485 檔), 風格分布: 隔日沖近似 26% / 留倉 66%, 漲停命中 11% (其中 🔒鎖漲停 51%), 前 5 大集中 16%, 長線部位 2% (1 檔), ⚠️ 處置股部位 6% (19 檔), 📦 連續囤貨 59 檔 (最長 16 天 2884, 22 檔仍 active)。 主軸: 🔒 鎖漲停/短打型(declared)/隔日沖(verified)/分散布局。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -15030,24 +14868,37 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 5,
-        "high_count": 3,
-        "watch_count": 2,
-        "bought_during_disposal_count": 8,
-        "total_exposure_wan": 28682,
+        "trapped_count": 6,
+        "high_count": 2,
+        "watch_count": 3,
+        "bought_during_disposal_count": 7,
+        "total_exposure_wan": 26063,
         "positions": [
           {
-            "stock_code": "6213",
-            "stock_name": "聯茂",
+            "stock_code": "2455",
+            "stock_name": "全新",
             "status": "active",
             "risk": "trapped",
-            "net_lots": 375,
-            "net_amt_wan": 13235,
-            "buy_lot": 4628,
-            "sell_lot": 4253,
-            "buy_days": 15,
+            "net_lots": 111,
+            "net_amt_wan": 4118,
+            "buy_lot": 803,
+            "sell_lot": 692,
+            "buy_days": 14,
             "last_buy_date": "20260821",
             "bought_during_disposal": true
+          },
+          {
+            "stock_code": "5314",
+            "stock_name": "世紀*",
+            "status": "active",
+            "risk": "trapped",
+            "net_lots": 1000,
+            "net_amt_wan": 2600,
+            "buy_lot": 1000,
+            "sell_lot": 0,
+            "buy_days": 1,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": false
           },
           {
             "stock_code": "4931",
@@ -15102,49 +14953,10 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "2455",
-            "stock_name": "全新",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 111,
-            "net_amt_wan": 4118,
-            "buy_lot": 803,
-            "sell_lot": 692,
-            "buy_days": 14,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "5314",
-            "stock_name": "世紀*",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 1000,
-            "net_amt_wan": 2600,
-            "buy_lot": 1000,
-            "sell_lot": 0,
-            "buy_days": 1,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": false
-          },
-          {
-            "stock_code": "2493",
-            "stock_name": "揚博",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 76,
-            "net_amt_wan": 1535,
-            "buy_lot": 104,
-            "sell_lot": 28,
-            "buy_days": 4,
-            "last_buy_date": "20260807",
-            "bought_during_disposal": true
-          },
-          {
             "stock_code": "4971",
             "stock_name": "IET-KY",
-            "status": "imminent_2",
-            "risk": "watch",
+            "status": "imminent_1",
+            "risk": "high",
             "net_lots": 16,
             "net_amt_wan": 1038,
             "buy_lot": 484,
@@ -15156,14 +14968,53 @@
           {
             "stock_code": "3625",
             "stock_name": "西勝",
-            "status": "imminent_2",
-            "risk": "watch",
+            "status": "imminent_1",
+            "risk": "high",
             "net_lots": 404,
             "net_amt_wan": 484,
             "buy_lot": 417,
             "sell_lot": 13,
             "buy_days": 1,
             "last_buy_date": "20260820",
+            "bought_during_disposal": false
+          },
+          {
+            "stock_code": "2615",
+            "stock_name": "萬海",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 611,
+            "net_amt_wan": 7544,
+            "buy_lot": 1968,
+            "sell_lot": 1357,
+            "buy_days": 7,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": false
+          },
+          {
+            "stock_code": "6683",
+            "stock_name": "雍智科技",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 19,
+            "net_amt_wan": 2960,
+            "buy_lot": 156,
+            "sell_lot": 137,
+            "buy_days": 8,
+            "last_buy_date": "20260820",
+            "bought_during_disposal": true
+          },
+          {
+            "stock_code": "7751",
+            "stock_name": "竑騰",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 9,
+            "net_amt_wan": 1647,
+            "buy_lot": 18,
+            "sell_lot": 9,
+            "buy_days": 3,
+            "last_buy_date": "20260821",
             "bought_during_disposal": false
           }
         ]
@@ -15208,8 +15059,8 @@
                 "pct": 9.0
               }
             ],
-            "disposal_stocks_count": 18,
-            "disposal_amt_ratio": 0.096,
+            "disposal_stocks_count": 16,
+            "disposal_amt_ratio": 0.06,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -15345,11 +15196,11 @@
               "concentration_pct": 19.1,
               "top_industry": "電子零組件業",
               "top_industry_pct": 32.0,
-              "disposal_pct": 0.096,
+              "disposal_pct": 0.06,
               "consistency": 0.754
             }
           },
-          "narrative": "蔣承翰 近 16/16 交易日出手 679 次 (287 檔), 風格分布: 隔日沖近似 20% / 留倉 75%, 漲停命中 19% (其中 🔒鎖漲停 69%), 前 5 大集中 19%, ⚠️ 處置股部位 10% (18 檔), 📦 連續囤貨 11 檔 (最長 9 天 2383, 4 檔仍 active)。 主軸: 漲停獵手/🔒 鎖漲停/短打型(declared)/隔日沖(verified)。",
+          "narrative": "蔣承翰 近 16/16 交易日出手 679 次 (287 檔), 風格分布: 隔日沖近似 20% / 留倉 75%, 漲停命中 19% (其中 🔒鎖漲停 69%), 前 5 大集中 19%, ⚠️ 處置股部位 6% (16 檔), 📦 連續囤貨 11 檔 (最長 9 天 2383, 4 檔仍 active)。 主軸: 漲停獵手/🔒 鎖漲停/短打型(declared)/隔日沖(verified)。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -15402,8 +15253,8 @@
                 "pct": 11.5
               }
             ],
-            "disposal_stocks_count": 14,
-            "disposal_amt_ratio": 0.09,
+            "disposal_stocks_count": 12,
+            "disposal_amt_ratio": 0.073,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -15517,11 +15368,11 @@
               "concentration_pct": 23.6,
               "top_industry": "半導體業",
               "top_industry_pct": 29.5,
-              "disposal_pct": 0.09,
+              "disposal_pct": 0.073,
               "consistency": 0.578
             }
           },
-          "narrative": "蔣承翰 近 16/16 交易日出手 709 次 (284 檔), 風格分布: 隔日沖近似 31% / 當沖 11% / 留倉 58%, 漲停命中 12% (其中 🔒鎖漲停 13%), 前 5 大集中 24%, 長線部位 11% (1 檔), ⚠️ 處置股部位 9% (14 檔), 📦 連續囤貨 9 檔 (最長 16 天 2884, 1 檔仍 active)。 主軸: 短打型(declared)/隔日沖(verified)/高頻交易/持續進場。",
+          "narrative": "蔣承翰 近 16/16 交易日出手 709 次 (284 檔), 風格分布: 隔日沖近似 31% / 當沖 11% / 留倉 58%, 漲停命中 12% (其中 🔒鎖漲停 13%), 前 5 大集中 24%, 長線部位 11% (1 檔), ⚠️ 處置股部位 7% (12 檔), 📦 連續囤貨 9 檔 (最長 16 天 2884, 1 檔仍 active)。 主軸: 短打型(declared)/隔日沖(verified)/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -15574,8 +15425,8 @@
                 "pct": 13.3
               }
             ],
-            "disposal_stocks_count": 13,
-            "disposal_amt_ratio": 0.038,
+            "disposal_stocks_count": 11,
+            "disposal_amt_ratio": 0.03,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -15703,11 +15554,11 @@
               "concentration_pct": 20.0,
               "top_industry": "半導體業",
               "top_industry_pct": 30.8,
-              "disposal_pct": 0.038,
+              "disposal_pct": 0.03,
               "consistency": 0.639
             }
           },
-          "narrative": "蔣承翰 近 16/16 交易日出手 737 次 (292 檔), 風格分布: 隔日沖近似 27% / 留倉 64%, 漲停命中 3% (其中 🔒鎖漲停 3%), 前 5 大集中 20%, ⚠️ 處置股部位 4% (13 檔), 📦 連續囤貨 11 檔 (最長 10 天 00632R, 3 檔仍 active)。 主軸: 短打型(declared)/隔日沖(verified)/高頻交易/持續進場。",
+          "narrative": "蔣承翰 近 16/16 交易日出手 737 次 (292 檔), 風格分布: 隔日沖近似 27% / 留倉 64%, 漲停命中 3% (其中 🔒鎖漲停 3%), 前 5 大集中 20%, ⚠️ 處置股部位 3% (11 檔), 📦 連續囤貨 11 檔 (最長 10 天 00632R, 3 檔仍 active)。 主軸: 短打型(declared)/隔日沖(verified)/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -15815,8 +15666,8 @@
             "pct": 10.3
           }
         ],
-        "disposal_stocks_count": 9,
-        "disposal_amt_ratio": 0.031,
+        "disposal_stocks_count": 6,
+        "disposal_amt_ratio": 0.024,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -15961,11 +15812,11 @@
           "concentration_pct": 19.5,
           "top_industry": "半導體業",
           "top_industry_pct": 42.0,
-          "disposal_pct": 0.031,
+          "disposal_pct": 0.024,
           "consistency": 0.532
         }
       },
-      "narrative": "大牌分析師 近 16/16 交易日出手 765 次 (282 檔), 風格分布: 隔日沖近似 33% / 當沖 14% / 留倉 53%, 漲停命中 3% (其中 🔒鎖漲停 2%), 前 5 大集中 20%, ⚠️ 處置股部位 3% (9 檔), 📦 連續囤貨 14 檔 (最長 7 天 2327, 1 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "大牌分析師 近 16/16 交易日出手 765 次 (282 檔), 風格分布: 隔日沖近似 33% / 當沖 14% / 留倉 53%, 漲停命中 3% (其中 🔒鎖漲停 2%), 前 5 大集中 20%, ⚠️ 處置股部位 2% (6 檔), 📦 連續囤貨 14 檔 (最長 7 天 2327, 1 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -16021,25 +15872,12 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 2,
+        "trapped_count": 1,
         "high_count": 0,
-        "watch_count": 0,
+        "watch_count": 1,
         "bought_during_disposal_count": 1,
-        "total_exposure_wan": 4507,
+        "total_exposure_wan": 5491,
         "positions": [
-          {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 43,
-            "net_amt_wan": 2949,
-            "buy_lot": 104,
-            "sell_lot": 61,
-            "buy_days": 2,
-            "last_buy_date": "20260813",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "5475",
             "stock_name": "德宏",
@@ -16052,6 +15890,19 @@
             "buy_days": 2,
             "last_buy_date": "20260813",
             "bought_during_disposal": false
+          },
+          {
+            "stock_code": "6683",
+            "stock_name": "雍智科技",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 27,
+            "net_amt_wan": 3933,
+            "buy_lot": 52,
+            "sell_lot": 25,
+            "buy_days": 5,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": true
           }
         ]
       },
@@ -16068,11 +15919,11 @@
             "count": 4
           },
           {
-            "code": "2454",
+            "code": "00981B",
             "count": 4
           },
           {
-            "code": "00981B",
+            "code": "2454",
             "count": 4
           },
           {
@@ -16147,8 +15998,8 @@
             "pct": 15.6
           }
         ],
-        "disposal_stocks_count": 11,
-        "disposal_amt_ratio": 0.049,
+        "disposal_stocks_count": 8,
+        "disposal_amt_ratio": 0.033,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -16278,11 +16129,11 @@
           "concentration_pct": 23.2,
           "top_industry": "半導體業",
           "top_industry_pct": 30.5,
-          "disposal_pct": 0.049,
+          "disposal_pct": 0.033,
           "consistency": 0.858
         }
       },
-      "narrative": "優式資本 近 16/16 交易日出手 621 次 (246 檔), 風格分布: 隔日沖近似 12% / 留倉 86%, 漲停命中 17% (其中 🔒鎖漲停 34%), 前 5 大集中 23%, ⚠️ 處置股部位 5% (11 檔), 📦 連續囤貨 11 檔 (最長 7 天 3008, 2 檔仍 active)。 主軸: 🔒 鎖漲停/風格純粹/高頻交易/持續進場。",
+      "narrative": "優式資本 近 16/16 交易日出手 621 次 (246 檔), 風格分布: 隔日沖近似 12% / 留倉 86%, 漲停命中 17% (其中 🔒鎖漲停 34%), 前 5 大集中 23%, ⚠️ 處置股部位 3% (8 檔), 📦 連續囤貨 11 檔 (最長 7 天 3008, 2 檔仍 active)。 主軸: 🔒 鎖漲停/風格純粹/高頻交易/持續進場。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -16338,25 +16189,12 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 6,
-        "high_count": 1,
+        "trapped_count": 3,
+        "high_count": 0,
         "watch_count": 1,
-        "bought_during_disposal_count": 8,
-        "total_exposure_wan": 134058,
+        "bought_during_disposal_count": 4,
+        "total_exposure_wan": 76509,
         "positions": [
-          {
-            "stock_code": "4979",
-            "stock_name": "華星光",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 684,
-            "net_amt_wan": 40400,
-            "buy_lot": 1007,
-            "sell_lot": 323,
-            "buy_days": 6,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "8033",
             "stock_name": "雷虎",
@@ -16371,16 +16209,16 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
+            "stock_code": "2455",
+            "stock_name": "全新",
             "status": "active",
             "risk": "trapped",
-            "net_lots": 141,
-            "net_amt_wan": 8993,
-            "buy_lot": 220,
-            "sell_lot": 79,
-            "buy_days": 3,
-            "last_buy_date": "20260813",
+            "net_lots": 223,
+            "net_amt_wan": 9075,
+            "buy_lot": 1044,
+            "sell_lot": 821,
+            "buy_days": 6,
+            "last_buy_date": "20260821",
             "bought_during_disposal": true
           },
           {
@@ -16394,45 +16232,6 @@
             "sell_lot": 70,
             "buy_days": 4,
             "last_buy_date": "20260818",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "6213",
-            "stock_name": "聯茂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 144,
-            "net_amt_wan": 6087,
-            "buy_lot": 229,
-            "sell_lot": 85,
-            "buy_days": 3,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "4991",
-            "stock_name": "環宇-KY",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 41,
-            "net_amt_wan": 2069,
-            "buy_lot": 53,
-            "sell_lot": 12,
-            "buy_days": 2,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2455",
-            "stock_name": "全新",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 223,
-            "net_amt_wan": 9075,
-            "buy_lot": 1044,
-            "sell_lot": 821,
-            "buy_days": 6,
-            "last_buy_date": "20260821",
             "bought_during_disposal": true
           },
           {
@@ -16471,11 +16270,11 @@
             "count": 4
           },
           {
-            "code": "2454",
+            "code": "3711",
             "count": 3
           },
           {
-            "code": "3711",
+            "code": "2454",
             "count": 3
           }
         ],
@@ -16497,7 +16296,7 @@
             "count": 6
           },
           {
-            "code": "0050",
+            "code": "00991A",
             "count": 6
           }
         ]
@@ -16542,8 +16341,8 @@
             "pct": 12.0
           }
         ],
-        "disposal_stocks_count": 13,
-        "disposal_amt_ratio": 0.05,
+        "disposal_stocks_count": 10,
+        "disposal_amt_ratio": 0.024,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -16646,11 +16445,11 @@
           "concentration_pct": 21.3,
           "top_industry": "半導體業",
           "top_industry_pct": 36.2,
-          "disposal_pct": 0.05,
+          "disposal_pct": 0.024,
           "consistency": 0.62
         }
       },
-      "narrative": "東億資本 近 16/16 交易日出手 765 次 (285 檔), 風格分布: 隔日沖近似 31% / 留倉 62%, 漲停命中 3% (其中 🔒鎖漲停 7%), 前 5 大集中 21%, ⚠️ 處置股部位 5% (13 檔), 📦 連續囤貨 8 檔 (最長 11 天 00881, 3 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "東億資本 近 16/16 交易日出手 765 次 (285 檔), 風格分布: 隔日沖近似 31% / 留倉 62%, 漲停命中 3% (其中 🔒鎖漲停 7%), 前 5 大集中 21%, ⚠️ 處置股部位 2% (10 檔), 📦 連續囤貨 8 檔 (最長 11 天 00881, 3 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -16706,25 +16505,12 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 2,
+        "trapped_count": 1,
         "high_count": 0,
         "watch_count": 1,
-        "bought_during_disposal_count": 3,
-        "total_exposure_wan": 4523,
+        "bought_during_disposal_count": 2,
+        "total_exposure_wan": 3434,
         "positions": [
-          {
-            "stock_code": "4979",
-            "stock_name": "華星光",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 17,
-            "net_amt_wan": 1089,
-            "buy_lot": 60,
-            "sell_lot": 43,
-            "buy_days": 3,
-            "last_buy_date": "20260813",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "8033",
             "stock_name": "雷虎",
@@ -16796,11 +16582,11 @@
             "count": 8
           },
           {
-            "code": "2454",
+            "code": "2303",
             "count": 7
           },
           {
-            "code": "2303",
+            "code": "2454",
             "count": 7
           }
         ]
@@ -16845,8 +16631,8 @@
             "pct": 13.1
           }
         ],
-        "disposal_stocks_count": 9,
-        "disposal_amt_ratio": 0.133,
+        "disposal_stocks_count": 5,
+        "disposal_amt_ratio": 0.087,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -16976,11 +16762,11 @@
           "concentration_pct": 39.0,
           "top_industry": "半導體業",
           "top_industry_pct": 49.1,
-          "disposal_pct": 0.133,
+          "disposal_pct": 0.087,
           "consistency": 0.708
         }
       },
-      "narrative": "志誠資本 近 16/16 交易日出手 723 次 (307 檔), 風格分布: 隔日沖近似 24% / 留倉 71%, 漲停命中 4% (其中 🔒鎖漲停 10%), 前 5 大集中 39%, ⚠️ 處置股部位 13% (9 檔), 📦 連續囤貨 11 檔 (最長 9 天 3443, 4 檔仍 active)。 主軸: 集中投資/風格純粹/高頻交易/持續進場。",
+      "narrative": "志誠資本 近 16/16 交易日出手 723 次 (307 檔), 風格分布: 隔日沖近似 24% / 留倉 71%, 漲停命中 4% (其中 🔒鎖漲停 10%), 前 5 大集中 39%, ⚠️ 處置股部位 9% (5 檔), 📦 連續囤貨 11 檔 (最長 9 天 3443, 4 檔仍 active)。 主軸: 集中投資/風格純粹/高頻交易/持續進場。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -17036,8 +16822,8 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 0,
-        "high_count": 1,
+        "trapped_count": 1,
+        "high_count": 0,
         "watch_count": 0,
         "bought_during_disposal_count": 1,
         "total_exposure_wan": 2414,
@@ -17045,8 +16831,8 @@
           {
             "stock_code": "2455",
             "stock_name": "全新",
-            "status": "imminent_1",
-            "risk": "high",
+            "status": "active",
+            "risk": "trapped",
             "net_lots": 14,
             "net_amt_wan": 2414,
             "buy_lot": 1462,
@@ -17078,11 +16864,11 @@
             "count": 4
           },
           {
-            "code": "00405A",
+            "code": "009816",
             "count": 3
           },
           {
-            "code": "009816",
+            "code": "2303",
             "count": 3
           }
         ],
@@ -17149,8 +16935,8 @@
             "pct": 9.0
           }
         ],
-        "disposal_stocks_count": 8,
-        "disposal_amt_ratio": 0.024,
+        "disposal_stocks_count": 5,
+        "disposal_amt_ratio": 0.014,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -17302,11 +17088,11 @@
           "concentration_pct": 26.2,
           "top_industry": "半導體業",
           "top_industry_pct": 40.7,
-          "disposal_pct": 0.024,
+          "disposal_pct": 0.014,
           "consistency": 0.612
         }
       },
-      "narrative": "Krenz(再多一位數本人) 近 16/16 交易日出手 752 次 (280 檔), 風格分布: 隔日沖近似 30% / 留倉 61%, 漲停命中 2% (其中 🔒鎖漲停 3%), 前 5 大集中 26%, ⚠️ 處置股部位 2% (8 檔), 📦 連續囤貨 15 檔 (最長 13 天 00881, 6 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "Krenz(再多一位數本人) 近 16/16 交易日出手 752 次 (280 檔), 風格分布: 隔日沖近似 30% / 留倉 61%, 漲停命中 2% (其中 🔒鎖漲停 3%), 前 5 大集中 26%, ⚠️ 處置股部位 1% (5 檔), 📦 連續囤貨 15 檔 (最長 13 天 00881, 6 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -17430,7 +17216,7 @@
             "count": 10
           },
           {
-            "code": "2327",
+            "code": "3712",
             "count": 9
           }
         ]
@@ -17475,8 +17261,8 @@
             "pct": 8.5
           }
         ],
-        "disposal_stocks_count": 9,
-        "disposal_amt_ratio": 0.031,
+        "disposal_stocks_count": 6,
+        "disposal_amt_ratio": 0.021,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -17565,11 +17351,11 @@
           "concentration_pct": 20.8,
           "top_industry": "半導體業",
           "top_industry_pct": 34.3,
-          "disposal_pct": 0.031,
+          "disposal_pct": 0.021,
           "consistency": 0.628
         }
       },
-      "narrative": "林適中 近 16/16 交易日出手 730 次 (292 檔), 風格分布: 隔日沖近似 28% / 留倉 63%, 漲停命中 2% (其中 🔒鎖漲停 7%), 前 5 大集中 21%, ⚠️ 處置股部位 3% (9 檔), 📦 連續囤貨 6 檔 (最長 10 天 00881, 皆已停止)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "林適中 近 16/16 交易日出手 730 次 (292 檔), 風格分布: 隔日沖近似 28% / 留倉 63%, 漲停命中 2% (其中 🔒鎖漲停 7%), 前 5 大集中 21%, ⚠️ 處置股部位 2% (6 檔), 📦 連續囤貨 6 檔 (最長 10 天 00881, 皆已停止)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -17641,15 +17427,15 @@
             "count": 4
           },
           {
-            "code": "6770",
-            "count": 3
-          },
-          {
             "code": "00919",
             "count": 3
           },
           {
-            "code": "2330",
+            "code": "6770",
+            "count": 3
+          },
+          {
+            "code": "009816",
             "count": 3
           }
         ],
@@ -17716,8 +17502,8 @@
             "pct": 9.1
           }
         ],
-        "disposal_stocks_count": 10,
-        "disposal_amt_ratio": 0.034,
+        "disposal_stocks_count": 7,
+        "disposal_amt_ratio": 0.024,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -18023,11 +17809,11 @@
           "concentration_pct": 24.1,
           "top_industry": "半導體業",
           "top_industry_pct": 39.0,
-          "disposal_pct": 0.034,
+          "disposal_pct": 0.024,
           "consistency": 0.639
         }
       },
-      "narrative": "竹科主力分點 近 16/16 交易日出手 1505 次 (395 檔), 風格分布: 隔日沖近似 27% / 留倉 64%, 漲停命中 4% (其中 🔒鎖漲停 4%), 前 5 大集中 24%, 長線部位 0% (1 檔), ⚠️ 處置股部位 3% (10 檔), 📦 連續囤貨 37 檔 (最長 15 天 00632R, 14 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "竹科主力分點 近 16/16 交易日出手 1505 次 (395 檔), 風格分布: 隔日沖近似 27% / 留倉 64%, 漲停命中 4% (其中 🔒鎖漲停 4%), 前 5 大集中 24%, 長線部位 0% (1 檔), ⚠️ 處置股部位 2% (7 檔), 📦 連續囤貨 37 檔 (最長 15 天 00632R, 14 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -18083,49 +17869,36 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 2,
-        "high_count": 1,
-        "watch_count": 0,
-        "bought_during_disposal_count": 3,
-        "total_exposure_wan": 6348,
+        "trapped_count": 1,
+        "high_count": 0,
+        "watch_count": 1,
+        "bought_during_disposal_count": 2,
+        "total_exposure_wan": 3412,
         "positions": [
-          {
-            "stock_code": "4991",
-            "stock_name": "環宇-KY",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 56,
-            "net_amt_wan": 2637,
-            "buy_lot": 116,
-            "sell_lot": 60,
-            "buy_days": 5,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 30,
-            "net_amt_wan": 1751,
-            "buy_lot": 72,
-            "sell_lot": 42,
-            "buy_days": 5,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "2455",
             "stock_name": "全新",
-            "status": "imminent_1",
-            "risk": "high",
+            "status": "active",
+            "risk": "trapped",
             "net_lots": 48,
             "net_amt_wan": 1960,
             "buy_lot": 387,
             "sell_lot": 339,
             "buy_days": 9,
             "last_buy_date": "20260821",
+            "bought_during_disposal": true
+          },
+          {
+            "stock_code": "6683",
+            "stock_name": "雍智科技",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 11,
+            "net_amt_wan": 1452,
+            "buy_lot": 15,
+            "sell_lot": 4,
+            "buy_days": 3,
+            "last_buy_date": "20260814",
             "bought_during_disposal": true
           }
         ]
@@ -18170,8 +17943,8 @@
                 "pct": 9.5
               }
             ],
-            "disposal_stocks_count": 9,
-            "disposal_amt_ratio": 0.043,
+            "disposal_stocks_count": 6,
+            "disposal_amt_ratio": 0.033,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -18306,11 +18079,11 @@
               "concentration_pct": 32.1,
               "top_industry": "半導體業",
               "top_industry_pct": 36.4,
-              "disposal_pct": 0.043,
+              "disposal_pct": 0.033,
               "consistency": 0.699
             }
           },
-          "narrative": "竹科主力分點 近 16/16 交易日出手 732 次 (286 檔), 風格分布: 隔日沖近似 23% / 留倉 70%, 漲停命中 4% (其中 🔒鎖漲停 4%), 前 5 大集中 32%, ⚠️ 處置股部位 4% (9 檔), 📦 連續囤貨 12 檔 (最長 9 天 3217, 2 檔仍 active)。 主軸: 風格純粹/高頻交易/持續進場/📦 連續囤貨。",
+          "narrative": "竹科主力分點 近 16/16 交易日出手 732 次 (286 檔), 風格分布: 隔日沖近似 23% / 留倉 70%, 漲停命中 4% (其中 🔒鎖漲停 4%), 前 5 大集中 32%, ⚠️ 處置股部位 3% (6 檔), 📦 連續囤貨 12 檔 (最長 9 天 3217, 2 檔仍 active)。 主軸: 風格純粹/高頻交易/持續進場/📦 連續囤貨。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -18363,8 +18136,8 @@
                 "pct": 10.5
               }
             ],
-            "disposal_stocks_count": 8,
-            "disposal_amt_ratio": 0.028,
+            "disposal_stocks_count": 5,
+            "disposal_amt_ratio": 0.018,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -18530,11 +18303,11 @@
               "concentration_pct": 23.5,
               "top_industry": "半導體業",
               "top_industry_pct": 40.5,
-              "disposal_pct": 0.028,
+              "disposal_pct": 0.018,
               "consistency": 0.583
             }
           },
-          "narrative": "竹科主力分點 近 16/16 交易日出手 773 次 (279 檔), 風格分布: 隔日沖近似 31% / 當沖 10% / 留倉 58%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 24%, ⚠️ 處置股部位 3% (8 檔), 📦 連續囤貨 17 檔 (最長 13 天 00632R, 7 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+          "narrative": "竹科主力分點 近 16/16 交易日出手 773 次 (279 檔), 風格分布: 隔日沖近似 31% / 當沖 10% / 留倉 58%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 24%, ⚠️ 處置股部位 2% (5 檔), 📦 連續囤貨 17 檔 (最長 13 天 00632R, 7 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -18642,8 +18415,8 @@
             "pct": 7.5
           }
         ],
-        "disposal_stocks_count": 21,
-        "disposal_amt_ratio": 0.044,
+        "disposal_stocks_count": 18,
+        "disposal_amt_ratio": 0.023,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -19067,11 +18840,11 @@
           "concentration_pct": 22.7,
           "top_industry": "半導體業",
           "top_industry_pct": 43.3,
-          "disposal_pct": 0.044,
+          "disposal_pct": 0.023,
           "consistency": 0.665
         }
       },
-      "narrative": "謝明彧大哥(華南永昌) 近 16/16 交易日出手 2189 次 (528 檔), 風格分布: 隔日沖近似 24% / 留倉 66%, 漲停命中 4% (其中 🔒鎖漲停 5%), 前 5 大集中 23%, 長線部位 4% (1 檔), ⚠️ 處置股部位 4% (21 檔), 📦 連續囤貨 53 檔 (最長 15 天 2327, 23 檔仍 active)。 主軸: 混合進出/風格純粹/高頻交易/持續進場。",
+      "narrative": "謝明彧大哥(華南永昌) 近 16/16 交易日出手 2189 次 (528 檔), 風格分布: 隔日沖近似 24% / 留倉 66%, 漲停命中 4% (其中 🔒鎖漲停 5%), 前 5 大集中 23%, 長線部位 4% (1 檔), ⚠️ 處置股部位 2% (18 檔), 📦 連續囤貨 53 檔 (最長 15 天 2327, 23 檔仍 active)。 主軸: 混合進出/風格純粹/高頻交易/持續進場。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -19128,11 +18901,24 @@
       ],
       "disposal_holdings": {
         "trapped_count": 2,
-        "high_count": 2,
-        "watch_count": 0,
-        "bought_during_disposal_count": 4,
-        "total_exposure_wan": 6749,
+        "high_count": 0,
+        "watch_count": 1,
+        "bought_during_disposal_count": 3,
+        "total_exposure_wan": 4821,
         "positions": [
+          {
+            "stock_code": "2455",
+            "stock_name": "全新",
+            "status": "active",
+            "risk": "trapped",
+            "net_lots": 44,
+            "net_amt_wan": 1783,
+            "buy_lot": 193,
+            "sell_lot": 149,
+            "buy_days": 7,
+            "last_buy_date": "20260821",
+            "bought_during_disposal": true
+          },
           {
             "stock_code": "7795",
             "stock_name": "長廣",
@@ -19147,41 +18933,15 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 33,
-            "net_amt_wan": 1355,
-            "buy_lot": 144,
-            "sell_lot": 111,
-            "buy_days": 7,
-            "last_buy_date": "20260820",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2493",
-            "stock_name": "揚博",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 90,
-            "net_amt_wan": 2034,
-            "buy_lot": 191,
-            "sell_lot": 101,
-            "buy_days": 9,
-            "last_buy_date": "20260819",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "2455",
-            "stock_name": "全新",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 44,
-            "net_amt_wan": 1783,
-            "buy_lot": 193,
-            "sell_lot": 149,
-            "buy_days": 7,
+            "stock_code": "6683",
+            "stock_name": "雍智科技",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 13,
+            "net_amt_wan": 1461,
+            "buy_lot": 28,
+            "sell_lot": 15,
+            "buy_days": 6,
             "last_buy_date": "20260821",
             "bought_during_disposal": true
           }
@@ -19227,8 +18987,8 @@
                 "pct": 8.5
               }
             ],
-            "disposal_stocks_count": 15,
-            "disposal_amt_ratio": 0.043,
+            "disposal_stocks_count": 11,
+            "disposal_amt_ratio": 0.03,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -19358,11 +19118,11 @@
               "concentration_pct": 33.7,
               "top_industry": "半導體業",
               "top_industry_pct": 48.3,
-              "disposal_pct": 0.043,
+              "disposal_pct": 0.03,
               "consistency": 0.697
             }
           },
-          "narrative": "謝明彧大哥(華南永昌) 近 16/16 交易日出手 726 次 (301 檔), 風格分布: 隔日沖近似 24% / 留倉 70%, 漲停命中 6% (其中 🔒鎖漲停 6%), 前 5 大集中 34%, ⚠️ 處置股部位 4% (15 檔), 📦 連續囤貨 11 檔 (最長 7 天 00881, 1 檔仍 active)。 主軸: 混合進出/風格純粹/高頻交易/持續進場。",
+          "narrative": "謝明彧大哥(華南永昌) 近 16/16 交易日出手 726 次 (301 檔), 風格分布: 隔日沖近似 24% / 留倉 70%, 漲停命中 6% (其中 🔒鎖漲停 6%), 前 5 大集中 34%, ⚠️ 處置股部位 3% (11 檔), 📦 連續囤貨 11 檔 (最長 7 天 00881, 1 檔仍 active)。 主軸: 混合進出/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -19415,8 +19175,8 @@
                 "pct": 7.7
               }
             ],
-            "disposal_stocks_count": 14,
-            "disposal_amt_ratio": 0.043,
+            "disposal_stocks_count": 10,
+            "disposal_amt_ratio": 0.016,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -19518,11 +19278,11 @@
               "concentration_pct": 26.3,
               "top_industry": "半導體業",
               "top_industry_pct": 42.5,
-              "disposal_pct": 0.043,
+              "disposal_pct": 0.016,
               "consistency": 0.659
             }
           },
-          "narrative": "謝明彧大哥(華南永昌) 近 16/16 交易日出手 748 次 (309 檔), 風格分布: 隔日沖近似 26% / 留倉 66%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 26%, ⚠️ 處置股部位 4% (14 檔), 📦 連續囤貨 7 檔 (最長 7 天 00937B, 皆已停止)。 主軸: 混合進出/風格純粹/高頻交易/持續進場。",
+          "narrative": "謝明彧大哥(華南永昌) 近 16/16 交易日出手 748 次 (309 檔), 風格分布: 隔日沖近似 26% / 留倉 66%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 26%, ⚠️ 處置股部位 2% (10 檔), 📦 連續囤貨 7 檔 (最長 7 天 00937B, 皆已停止)。 主軸: 混合進出/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -19575,8 +19335,8 @@
                 "pct": 8.0
               }
             ],
-            "disposal_stocks_count": 13,
-            "disposal_amt_ratio": 0.046,
+            "disposal_stocks_count": 8,
+            "disposal_amt_ratio": 0.021,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -19681,11 +19441,11 @@
               "concentration_pct": 25.0,
               "top_industry": "半導體業",
               "top_industry_pct": 35.7,
-              "disposal_pct": 0.046,
+              "disposal_pct": 0.021,
               "consistency": 0.64
             }
           },
-          "narrative": "謝明彧大哥(華南永昌) 近 16/16 交易日出手 715 次 (303 檔), 風格分布: 隔日沖近似 23% / 當沖 13% / 留倉 64%, 漲停命中 2% (其中 🔒鎖漲停 2%), 前 5 大集中 25%, ⚠️ 處置股部位 5% (13 檔), 📦 連續囤貨 8 檔 (最長 12 天 2327, 3 檔仍 active)。 主軸: 混合進出/高頻交易/持續進場/📦 連續囤貨。",
+          "narrative": "謝明彧大哥(華南永昌) 近 16/16 交易日出手 715 次 (303 檔), 風格分布: 隔日沖近似 23% / 當沖 13% / 留倉 64%, 漲停命中 2% (其中 🔒鎖漲停 2%), 前 5 大集中 25%, ⚠️ 處置股部位 2% (8 檔), 📦 連續囤貨 8 檔 (最長 12 天 2327, 3 檔仍 active)。 主軸: 混合進出/高頻交易/持續進場/📦 連續囤貨。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -19744,11 +19504,11 @@
             "count": 13
           },
           {
-            "code": "1303",
+            "code": "3711",
             "count": 12
           },
           {
-            "code": "3711",
+            "code": "1303",
             "count": 12
           }
         ]
@@ -19793,8 +19553,8 @@
             "pct": 12.9
           }
         ],
-        "disposal_stocks_count": 13,
-        "disposal_amt_ratio": 0.021,
+        "disposal_stocks_count": 10,
+        "disposal_amt_ratio": 0.012,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -19908,11 +19668,11 @@
           "concentration_pct": 20.4,
           "top_industry": "電子零組件業",
           "top_industry_pct": 27.9,
-          "disposal_pct": 0.021,
+          "disposal_pct": 0.012,
           "consistency": 0.735
         }
       },
-      "narrative": "宋福祥 近 16/16 交易日出手 711 次 (306 檔), 風格分布: 隔日沖近似 23% / 留倉 74%, 漲停命中 3% (其中 🔒鎖漲停 6%), 前 5 大集中 20%, ⚠️ 處置股部位 2% (13 檔), 📦 連續囤貨 9 檔 (最長 6 天 2327, 2 檔仍 active)。 主軸: 風格純粹/高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "宋福祥 近 16/16 交易日出手 711 次 (306 檔), 風格分布: 隔日沖近似 23% / 留倉 74%, 漲停命中 3% (其中 🔒鎖漲停 6%), 前 5 大集中 20%, ⚠️ 處置股部位 1% (10 檔), 📦 連續囤貨 9 檔 (最長 6 天 2327, 2 檔仍 active)。 主軸: 風格純粹/高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -19967,28 +19727,6 @@
           "rotated_from": "未分類"
         }
       ],
-      "disposal_holdings": {
-        "trapped_count": 0,
-        "high_count": 1,
-        "watch_count": 0,
-        "bought_during_disposal_count": 1,
-        "total_exposure_wan": 2286,
-        "positions": [
-          {
-            "stock_code": "2493",
-            "stock_name": "揚博",
-            "status": "imminent_1",
-            "risk": "high",
-            "net_lots": 111,
-            "net_amt_wan": 2286,
-            "buy_lot": 130,
-            "sell_lot": 19,
-            "buy_days": 4,
-            "last_buy_date": "20260818",
-            "bought_during_disposal": true
-          }
-        ]
-      },
       "cross_day": {
         "total_buy_events": 711,
         "confirmed_flips": 134,
@@ -20002,11 +19740,11 @@
             "count": 5
           },
           {
-            "code": "00632R",
+            "code": "3481",
             "count": 3
           },
           {
-            "code": "3481",
+            "code": "00632R",
             "count": 3
           },
           {
@@ -20014,7 +19752,7 @@
             "count": 3
           },
           {
-            "code": "00631L",
+            "code": "00403A",
             "count": 3
           }
         ],
@@ -20081,8 +19819,8 @@
             "pct": 13.2
           }
         ],
-        "disposal_stocks_count": 12,
-        "disposal_amt_ratio": 0.05,
+        "disposal_stocks_count": 10,
+        "disposal_amt_ratio": 0.043,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -20161,11 +19899,11 @@
           "concentration_pct": 22.7,
           "top_industry": "半導體業",
           "top_industry_pct": 40.2,
-          "disposal_pct": 0.05,
+          "disposal_pct": 0.043,
           "consistency": 0.747
         }
       },
-      "narrative": "呂金發 近 16/16 交易日出手 718 次 (324 檔), 風格分布: 隔日沖近似 20% / 留倉 75%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 23%, ⚠️ 處置股部位 5% (12 檔), 📦 連續囤貨 4 檔 (最長 5 天 2454, 2 檔仍 active)。 主軸: 風格純粹/高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "呂金發 近 16/16 交易日出手 718 次 (324 檔), 風格分布: 隔日沖近似 20% / 留倉 75%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 23%, ⚠️ 處置股部位 4% (10 檔), 📦 連續囤貨 4 檔 (最長 5 天 2454, 2 檔仍 active)。 主軸: 風格純粹/高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -20312,8 +20050,8 @@
             "pct": 6.6
           }
         ],
-        "disposal_stocks_count": 14,
-        "disposal_amt_ratio": 0.053,
+        "disposal_stocks_count": 9,
+        "disposal_amt_ratio": 0.032,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -20453,11 +20191,11 @@
           "concentration_pct": 17.6,
           "top_industry": "半導體業",
           "top_industry_pct": 39.8,
-          "disposal_pct": 0.053,
+          "disposal_pct": 0.032,
           "consistency": 0.638
         }
       },
-      "narrative": "陳光裕 近 16/16 交易日出手 744 次 (308 檔), 風格分布: 隔日沖近似 30% / 留倉 64%, 漲停命中 2% (其中 🔒鎖漲停 4%), 前 5 大集中 18%, ⚠️ 處置股部位 5% (14 檔), 📦 連續囤貨 13 檔 (最長 7 天 2492, 4 檔仍 active)。 主軸: 分散布局/高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "陳光裕 近 16/16 交易日出手 744 次 (308 檔), 風格分布: 隔日沖近似 30% / 留倉 64%, 漲停命中 2% (其中 🔒鎖漲停 4%), 前 5 大集中 18%, ⚠️ 處置股部位 3% (9 檔), 📦 連續囤貨 13 檔 (最長 7 天 2492, 4 檔仍 active)。 主軸: 分散布局/高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -20513,22 +20251,22 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 1,
+        "trapped_count": 0,
         "high_count": 0,
-        "watch_count": 0,
+        "watch_count": 1,
         "bought_during_disposal_count": 1,
-        "total_exposure_wan": 1060,
+        "total_exposure_wan": 1224,
         "positions": [
           {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 16,
-            "net_amt_wan": 1060,
-            "buy_lot": 64,
-            "sell_lot": 48,
-            "buy_days": 6,
+            "stock_code": "6683",
+            "stock_name": "雍智科技",
+            "status": "imminent_2",
+            "risk": "watch",
+            "net_lots": 10,
+            "net_amt_wan": 1224,
+            "buy_lot": 14,
+            "sell_lot": 4,
+            "buy_days": 4,
             "last_buy_date": "20260821",
             "bought_during_disposal": true
           }
@@ -20543,19 +20281,19 @@
         "actual_hold_ratio": 0.775,
         "top_flip_stocks": [
           {
-            "code": "00632R",
-            "count": 4
-          },
-          {
             "code": "2308",
             "count": 4
           },
           {
-            "code": "2408",
+            "code": "00632R",
             "count": 4
           },
           {
             "code": "8358",
+            "count": 4
+          },
+          {
+            "code": "2408",
             "count": 4
           },
           {
@@ -20565,19 +20303,19 @@
         ],
         "top_hold_stocks": [
           {
-            "code": "00878",
-            "count": 8
-          },
-          {
             "code": "2317",
             "count": 8
           },
           {
-            "code": "6606",
+            "code": "00878",
             "count": 8
           },
           {
             "code": "00881",
+            "count": 8
+          },
+          {
+            "code": "6606",
             "count": 8
           },
           {
@@ -20626,8 +20364,8 @@
             "pct": 6.9
           }
         ],
-        "disposal_stocks_count": 11,
-        "disposal_amt_ratio": 0.08,
+        "disposal_stocks_count": 8,
+        "disposal_amt_ratio": 0.019,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -20786,11 +20524,11 @@
           "concentration_pct": 25.7,
           "top_industry": "電子零組件業",
           "top_industry_pct": 37.7,
-          "disposal_pct": 0.08,
+          "disposal_pct": 0.019,
           "consistency": 0.6
         }
       },
-      "narrative": "謝孟恭(股癌) 近 16/16 交易日出手 762 次 (269 檔), 風格分布: 隔日沖近似 32% / 留倉 60%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 26%, ⚠️ 處置股部位 8% (11 檔), 📦 連續囤貨 16 檔 (最長 10 天 2327, 4 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "謝孟恭(股癌) 近 16/16 交易日出手 762 次 (269 檔), 風格分布: 隔日沖近似 32% / 留倉 60%, 漲停命中 3% (其中 🔒鎖漲停 5%), 前 5 大集中 26%, ⚠️ 處置股部位 2% (8 檔), 📦 連續囤貨 16 檔 (最長 10 天 2327, 4 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -20846,43 +20584,17 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 2,
-        "high_count": 0,
-        "watch_count": 2,
-        "bought_during_disposal_count": 3,
-        "total_exposure_wan": 13987,
+        "trapped_count": 0,
+        "high_count": 1,
+        "watch_count": 1,
+        "bought_during_disposal_count": 1,
+        "total_exposure_wan": 8814,
         "positions": [
-          {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 52,
-            "net_amt_wan": 3125,
-            "buy_lot": 194,
-            "sell_lot": 142,
-            "buy_days": 5,
-            "last_buy_date": "20260813",
-            "bought_during_disposal": true
-          },
-          {
-            "stock_code": "4991",
-            "stock_name": "環宇-KY",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 47,
-            "net_amt_wan": 2048,
-            "buy_lot": 54,
-            "sell_lot": 7,
-            "buy_days": 2,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "4971",
             "stock_name": "IET-KY",
-            "status": "imminent_2",
-            "risk": "watch",
+            "status": "imminent_1",
+            "risk": "high",
             "net_lots": 137,
             "net_amt_wan": 7685,
             "buy_lot": 155,
@@ -20931,17 +20643,17 @@
             "count": 3
           },
           {
-            "code": "2330",
+            "code": "2317",
             "count": 3
           }
         ],
         "top_hold_stocks": [
           {
-            "code": "00878",
+            "code": "009826",
             "count": 10
           },
           {
-            "code": "009826",
+            "code": "00878",
             "count": 10
           },
           {
@@ -20998,8 +20710,8 @@
             "pct": 11.0
           }
         ],
-        "disposal_stocks_count": 11,
-        "disposal_amt_ratio": 0.023,
+        "disposal_stocks_count": 10,
+        "disposal_amt_ratio": 0.016,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -21130,11 +20842,11 @@
           "concentration_pct": 19.8,
           "top_industry": "半導體業",
           "top_industry_pct": 35.5,
-          "disposal_pct": 0.023,
+          "disposal_pct": 0.016,
           "consistency": 0.582
         }
       },
-      "narrative": "丁凌全 近 16/16 交易日出手 741 次 (295 檔), 風格分布: 隔日沖近似 33% / 留倉 58%, 漲停命中 5% (其中 🔒鎖漲停 7%), 前 5 大集中 20%, ⚠️ 處置股部位 2% (11 檔), 📦 連續囤貨 12 檔 (最長 7 天 00878, 3 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "丁凌全 近 16/16 交易日出手 741 次 (295 檔), 風格分布: 隔日沖近似 33% / 留倉 58%, 漲停命中 5% (其中 🔒鎖漲停 7%), 前 5 大集中 20%, ⚠️ 處置股部位 2% (10 檔), 📦 連續囤貨 12 檔 (最長 7 天 00878, 3 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -21191,29 +20903,16 @@
       ],
       "disposal_holdings": {
         "trapped_count": 1,
-        "high_count": 1,
+        "high_count": 0,
         "watch_count": 0,
-        "bought_during_disposal_count": 1,
-        "total_exposure_wan": 1746,
+        "bought_during_disposal_count": 0,
+        "total_exposure_wan": 666,
         "positions": [
-          {
-            "stock_code": "3026",
-            "stock_name": "禾伸堂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 18,
-            "net_amt_wan": 1080,
-            "buy_lot": 98,
-            "sell_lot": 80,
-            "buy_days": 3,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "5314",
             "stock_name": "世紀*",
-            "status": "imminent_1",
-            "risk": "high",
+            "status": "active",
+            "risk": "trapped",
             "net_lots": 310,
             "net_amt_wan": 666,
             "buy_lot": 310,
@@ -21249,7 +20948,7 @@
             "count": 3
           },
           {
-            "code": "00632R",
+            "code": "3481",
             "count": 3
           }
         ],
@@ -21316,8 +21015,8 @@
             "pct": 6.2
           }
         ],
-        "disposal_stocks_count": 9,
-        "disposal_amt_ratio": 0.065,
+        "disposal_stocks_count": 5,
+        "disposal_amt_ratio": 0.021,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -21433,11 +21132,11 @@
           "concentration_pct": 43.0,
           "top_industry": "半導體業",
           "top_industry_pct": 51.3,
-          "disposal_pct": 0.065,
+          "disposal_pct": 0.021,
           "consistency": 0.792
         }
       },
-      "narrative": "何莎 近 16/16 交易日出手 688 次 (268 檔), 風格分布: 隔日沖近似 16% / 留倉 79%, 漲停命中 5% (其中 🔒鎖漲停 2%), 前 5 大集中 43%, 主攻 半導體業 (51%), ⚠️ 處置股部位 6% (9 檔), 📦 連續囤貨 9 檔 (最長 9 天 1598, 2 檔仍 active)。 主軸: 集中投資/風格純粹/高頻交易/持續進場。",
+      "narrative": "何莎 近 16/16 交易日出手 688 次 (268 檔), 風格分布: 隔日沖近似 16% / 留倉 79%, 漲停命中 5% (其中 🔒鎖漲停 2%), 前 5 大集中 43%, 主攻 半導體業 (51%), ⚠️ 處置股部位 2% (5 檔), 📦 連續囤貨 9 檔 (最長 9 天 1598, 2 檔仍 active)。 主軸: 集中投資/風格純粹/高頻交易/持續進場。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -21509,15 +21208,15 @@
             "count": 4
           },
           {
+            "code": "00991A",
+            "count": 3
+          },
+          {
             "code": "2345",
             "count": 3
           },
           {
             "code": "2409",
-            "count": 3
-          },
-          {
-            "code": "00981A",
             "count": 3
           }
         ],
@@ -21527,15 +21226,15 @@
             "count": 11
           },
           {
-            "code": "1598",
-            "count": 10
-          },
-          {
             "code": "1442",
             "count": 10
           },
           {
             "code": "1459",
+            "count": 10
+          },
+          {
+            "code": "1598",
             "count": 10
           },
           {
@@ -21584,8 +21283,8 @@
             "pct": 9.1
           }
         ],
-        "disposal_stocks_count": 15,
-        "disposal_amt_ratio": 0.04,
+        "disposal_stocks_count": 13,
+        "disposal_amt_ratio": 0.021,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -21898,11 +21597,11 @@
           "concentration_pct": 25.3,
           "top_industry": "半導體業",
           "top_industry_pct": 41.0,
-          "disposal_pct": 0.04,
+          "disposal_pct": 0.021,
           "consistency": 0.553
         }
       },
-      "narrative": "江士勳 近 16/16 交易日出手 1486 次 (388 檔), 風格分布: 隔日沖近似 31% / 當沖 14% / 留倉 55%, 漲停命中 7% (其中 🔒鎖漲停 12%), 前 5 大集中 25%, 長線部位 0% (2 檔), ⚠️ 處置股部位 4% (15 檔), 📦 連續囤貨 38 檔 (最長 15 天 009826, 14 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "江士勳 近 16/16 交易日出手 1486 次 (388 檔), 風格分布: 隔日沖近似 31% / 當沖 14% / 留倉 55%, 漲停命中 7% (其中 🔒鎖漲停 12%), 前 5 大集中 25%, 長線部位 0% (2 檔), ⚠️ 處置股部位 2% (13 檔), 📦 連續囤貨 38 檔 (最長 15 天 009826, 14 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -21958,11 +21657,11 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 4,
-        "high_count": 0,
-        "watch_count": 1,
-        "bought_during_disposal_count": 5,
-        "total_exposure_wan": 14289,
+        "trapped_count": 3,
+        "high_count": 1,
+        "watch_count": 0,
+        "bought_during_disposal_count": 4,
+        "total_exposure_wan": 12033,
         "positions": [
           {
             "stock_code": "3163",
@@ -22004,23 +21703,10 @@
             "bought_during_disposal": true
           },
           {
-            "stock_code": "4991",
-            "stock_name": "環宇-KY",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 49,
-            "net_amt_wan": 2256,
-            "buy_lot": 266,
-            "sell_lot": 217,
-            "buy_days": 7,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
-          {
             "stock_code": "4971",
             "stock_name": "IET-KY",
-            "status": "imminent_2",
-            "risk": "watch",
+            "status": "imminent_1",
+            "risk": "high",
             "net_lots": 61,
             "net_amt_wan": 2656,
             "buy_lot": 120,
@@ -22071,8 +21757,8 @@
                 "pct": 10.8
               }
             ],
-            "disposal_stocks_count": 10,
-            "disposal_amt_ratio": 0.026,
+            "disposal_stocks_count": 8,
+            "disposal_amt_ratio": 0.017,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -22238,11 +21924,11 @@
               "concentration_pct": 26.6,
               "top_industry": "半導體業",
               "top_industry_pct": 41.2,
-              "disposal_pct": 0.026,
+              "disposal_pct": 0.017,
               "consistency": 0.459
             }
           },
-          "narrative": "江士勳 近 16/16 交易日出手 767 次 (272 檔), 風格分布: 隔日沖近似 38% / 當沖 16% / 留倉 46%, 漲停命中 2% (其中 🔒鎖漲停 2%), 前 5 大集中 27%, ⚠️ 處置股部位 3% (10 檔), 📦 連續囤貨 17 檔 (最長 13 天 00881, 5 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
+          "narrative": "江士勳 近 16/16 交易日出手 767 次 (272 檔), 風格分布: 隔日沖近似 38% / 當沖 16% / 留倉 46%, 漲停命中 2% (其中 🔒鎖漲停 2%), 前 5 大集中 27%, ⚠️ 處置股部位 2% (8 檔), 📦 連續囤貨 17 檔 (最長 13 天 00881, 5 檔仍 active)。 主軸: 高頻交易/持續進場/📦 連續囤貨。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -22295,8 +21981,8 @@
                 "pct": 5.3
               }
             ],
-            "disposal_stocks_count": 12,
-            "disposal_amt_ratio": 0.073,
+            "disposal_stocks_count": 11,
+            "disposal_amt_ratio": 0.032,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -22426,11 +22112,11 @@
               "concentration_pct": 26.3,
               "top_industry": "半導體業",
               "top_industry_pct": 40.6,
-              "disposal_pct": 0.073,
+              "disposal_pct": 0.032,
               "consistency": 0.654
             }
           },
-          "narrative": "江士勳 近 16/16 交易日出手 719 次 (283 檔), 風格分布: 隔日沖近似 23% / 當沖 12% / 留倉 65%, 漲停命中 12% (其中 🔒鎖漲停 34%), 前 5 大集中 26%, 長線部位 0% (1 檔), ⚠️ 處置股部位 7% (12 檔), 📦 連續囤貨 11 檔 (最長 15 天 00981B, 7 檔仍 active)。 主軸: 🔒 鎖漲停/風格純粹/高頻交易/持續進場。",
+          "narrative": "江士勳 近 16/16 交易日出手 719 次 (283 檔), 風格分布: 隔日沖近似 23% / 當沖 12% / 留倉 65%, 漲停命中 12% (其中 🔒鎖漲停 34%), 前 5 大集中 26%, 長線部位 0% (1 檔), ⚠️ 處置股部位 3% (11 檔), 📦 連續囤貨 11 檔 (最長 15 天 00981B, 7 檔仍 active)。 主軸: 🔒 鎖漲停/風格純粹/高頻交易/持續進場。",
           "data_sufficiency": {
             "level": "insufficient",
             "label": "樣本不足",
@@ -22455,11 +22141,11 @@
         "actual_hold_ratio": 0.672,
         "top_flip_stocks": [
           {
-            "code": "2454",
+            "code": "2327",
             "count": 11
           },
           {
-            "code": "2327",
+            "code": "2454",
             "count": 11
           },
           {
@@ -22538,8 +22224,8 @@
             "pct": 7.8
           }
         ],
-        "disposal_stocks_count": 14,
-        "disposal_amt_ratio": 0.061,
+        "disposal_stocks_count": 10,
+        "disposal_amt_ratio": 0.03,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -22660,11 +22346,11 @@
           "concentration_pct": 18.5,
           "top_industry": "半導體業",
           "top_industry_pct": 35.8,
-          "disposal_pct": 0.061,
+          "disposal_pct": 0.03,
           "consistency": 0.716
         }
       },
-      "narrative": "劉子豪 近 16/16 交易日出手 704 次 (282 檔), 風格分布: 隔日沖近似 22% / 留倉 72%, 漲停命中 6% (其中 🔒鎖漲停 6%), 前 5 大集中 18%, ⚠️ 處置股部位 6% (14 檔), 📦 連續囤貨 10 檔 (最長 9 天 2327, 5 檔仍 active)。 主軸: 風格純粹/高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "劉子豪 近 16/16 交易日出手 704 次 (282 檔), 風格分布: 隔日沖近似 22% / 留倉 72%, 漲停命中 6% (其中 🔒鎖漲停 6%), 前 5 大集中 18%, ⚠️ 處置股部位 3% (10 檔), 📦 連續囤貨 10 檔 (最長 9 天 2327, 5 檔仍 active)。 主軸: 風格純粹/高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -22719,28 +22405,6 @@
           "rotated_from": "電子零組件業"
         }
       ],
-      "disposal_holdings": {
-        "trapped_count": 1,
-        "high_count": 0,
-        "watch_count": 0,
-        "bought_during_disposal_count": 1,
-        "total_exposure_wan": 1019,
-        "positions": [
-          {
-            "stock_code": "4991",
-            "stock_name": "環宇-KY",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 21,
-            "net_amt_wan": 1019,
-            "buy_lot": 35,
-            "sell_lot": 14,
-            "buy_days": 4,
-            "last_buy_date": "20260820",
-            "bought_during_disposal": true
-          }
-        ]
-      },
       "cross_day": {
         "total_buy_events": 704,
         "confirmed_flips": 138,
@@ -22758,11 +22422,11 @@
             "count": 3
           },
           {
-            "code": "2330",
+            "code": "2317",
             "count": 3
           },
           {
-            "code": "2317",
+            "code": "2330",
             "count": 3
           },
           {
@@ -22776,11 +22440,11 @@
             "count": 10
           },
           {
-            "code": "00406A",
+            "code": "00881",
             "count": 8
           },
           {
-            "code": "00881",
+            "code": "00406A",
             "count": 8
           },
           {
@@ -22833,8 +22497,8 @@
             "pct": 6.4
           }
         ],
-        "disposal_stocks_count": 12,
-        "disposal_amt_ratio": 0.018,
+        "disposal_stocks_count": 10,
+        "disposal_amt_ratio": 0.01,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -22948,11 +22612,11 @@
           "concentration_pct": 30.8,
           "top_industry": "半導體業",
           "top_industry_pct": 46.9,
-          "disposal_pct": 0.018,
+          "disposal_pct": 0.01,
           "consistency": 0.66
         }
       },
-      "narrative": "陳泊澔 近 16/16 交易日出手 758 次 (305 檔), 風格分布: 隔日沖近似 23% / 當沖 11% / 留倉 66%, 漲停命中 3% (其中 🔒鎖漲停 2%), 前 5 大集中 31%, ⚠️ 處置股部位 2% (12 檔), 📦 連續囤貨 9 檔 (最長 9 天 00632R, 3 檔仍 active)。 主軸: 風格純粹/高頻交易/持續進場/📦 連續囤貨。",
+      "narrative": "陳泊澔 近 16/16 交易日出手 758 次 (305 檔), 風格分布: 隔日沖近似 23% / 當沖 11% / 留倉 66%, 漲停命中 3% (其中 🔒鎖漲停 2%), 前 5 大集中 31%, ⚠️ 處置股部位 1% (10 檔), 📦 連續囤貨 9 檔 (最長 9 天 00632R, 3 檔仍 active)。 主軸: 風格純粹/高頻交易/持續進場/📦 連續囤貨。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -23007,28 +22671,6 @@
           "rotated_from": null
         }
       ],
-      "disposal_holdings": {
-        "trapped_count": 1,
-        "high_count": 0,
-        "watch_count": 0,
-        "bought_during_disposal_count": 1,
-        "total_exposure_wan": 2787,
-        "positions": [
-          {
-            "stock_code": "4991",
-            "stock_name": "環宇-KY",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 56,
-            "net_amt_wan": 2787,
-            "buy_lot": 63,
-            "sell_lot": 7,
-            "buy_days": 4,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          }
-        ]
-      },
       "cross_day": {
         "total_buy_events": 757,
         "confirmed_flips": 150,
@@ -23121,8 +22763,8 @@
             "pct": 8.6
           }
         ],
-        "disposal_stocks_count": 11,
-        "disposal_amt_ratio": 0.064,
+        "disposal_stocks_count": 6,
+        "disposal_amt_ratio": 0.019,
         "consecutive_accumulation": {
           "accumulation_stocks": [
             {
@@ -23257,11 +22899,11 @@
           "concentration_pct": 19.9,
           "top_industry": "半導體業",
           "top_industry_pct": 38.6,
-          "disposal_pct": 0.064,
+          "disposal_pct": 0.019,
           "consistency": 0.571
         }
       },
-      "narrative": "嘉義幫 近 16/16 交易日出手 742 次 (283 檔), 風格分布: 隔日沖近似 30% / 當沖 13% / 留倉 57%, 漲停命中 10% (其中 🔒鎖漲停 19%), 前 5 大集中 20%, ⚠️ 處置股部位 6% (11 檔), 📦 連續囤貨 12 檔 (最長 12 天 00881, 2 檔仍 active)。 主軸: 🔒 鎖漲停/短打型(declared)/高頻交易/持續進場。",
+      "narrative": "嘉義幫 近 16/16 交易日出手 742 次 (283 檔), 風格分布: 隔日沖近似 30% / 當沖 13% / 留倉 57%, 漲停命中 10% (其中 🔒鎖漲停 19%), 前 5 大集中 20%, ⚠️ 處置股部位 2% (6 檔), 📦 連續囤貨 12 檔 (最長 12 天 00881, 2 檔仍 active)。 主軸: 🔒 鎖漲停/短打型(declared)/高頻交易/持續進場。",
       "data_sufficiency": {
         "level": "insufficient",
         "label": "樣本不足",
@@ -23317,30 +22959,17 @@
         }
       ],
       "disposal_holdings": {
-        "trapped_count": 1,
-        "high_count": 0,
-        "watch_count": 1,
-        "bought_during_disposal_count": 2,
-        "total_exposure_wan": 8060,
+        "trapped_count": 0,
+        "high_count": 1,
+        "watch_count": 0,
+        "bought_during_disposal_count": 1,
+        "total_exposure_wan": 1024,
         "positions": [
-          {
-            "stock_code": "6213",
-            "stock_name": "聯茂",
-            "status": "active",
-            "risk": "trapped",
-            "net_lots": 150,
-            "net_amt_wan": 7036,
-            "buy_lot": 516,
-            "sell_lot": 366,
-            "buy_days": 8,
-            "last_buy_date": "20260821",
-            "bought_during_disposal": true
-          },
           {
             "stock_code": "4971",
             "stock_name": "IET-KY",
-            "status": "imminent_2",
-            "risk": "watch",
+            "status": "imminent_1",
+            "risk": "high",
             "net_lots": 18,
             "net_amt_wan": 1024,
             "buy_lot": 55,
@@ -23372,7 +23001,7 @@
             "count": 4
           },
           {
-            "code": "3443",
+            "code": "2834",
             "count": 3
           },
           {
@@ -23450,8 +23079,8 @@
       },
       {
         "month": "2026-08",
-        "total_amt_wan": 132956284,
-        "trades_count": 41783,
+        "total_amt_wan": 132993292,
+        "trades_count": 41792,
         "top": [
           {
             "name": "半導體業",
@@ -23510,15 +23139,15 @@
         "delta_pp": -7.4
       },
       {
-        "industry": "電腦及週邊設備業",
-        "prev_pct": 5.5,
-        "curr_pct": 8.5,
-        "delta_pp": 3.0
-      },
-      {
         "industry": "通信網路業",
         "prev_pct": 1.1,
         "curr_pct": 4.1,
+        "delta_pp": 3.0
+      },
+      {
+        "industry": "電腦及週邊設備業",
+        "prev_pct": 5.5,
+        "curr_pct": 8.5,
         "delta_pp": 3.0
       },
       {
@@ -23542,101 +23171,31 @@
   "disposal_holdings_global": {
     "exposures": [
       {
-        "master": "強森",
-        "stock_code": "3026",
-        "stock_name": "禾伸堂",
+        "master": "陳族元",
+        "stock_code": "2455",
+        "stock_name": "全新",
         "status": "active",
         "risk": "trapped",
-        "net_lots": 2567,
-        "net_amt_wan": 151121,
-        "buy_lot": 3243,
-        "sell_lot": 676,
-        "buy_days": 14,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "巨人傑",
-        "stock_code": "3026",
-        "stock_name": "禾伸堂",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 2353,
-        "net_amt_wan": 137161,
-        "buy_lot": 2625,
-        "sell_lot": 272,
+        "net_lots": 1237,
+        "net_amt_wan": 48199,
+        "buy_lot": 2583,
+        "sell_lot": 1346,
         "buy_days": 13,
-        "last_buy_date": "20260821",
+        "last_buy_date": "20260820",
         "bought_during_disposal": true
       },
       {
-        "master": "迷你哥/松山哥",
-        "stock_code": "6213",
-        "stock_name": "聯茂",
+        "master": "林滄海",
+        "stock_code": "2455",
+        "stock_name": "全新",
         "status": "active",
         "risk": "trapped",
-        "net_lots": 2060,
-        "net_amt_wan": 71343,
-        "buy_lot": 3620,
-        "sell_lot": 1560,
-        "buy_days": 9,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "迷你哥/松山哥",
-        "stock_code": "3026",
-        "stock_name": "禾伸堂",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 737,
-        "net_amt_wan": 60657,
-        "buy_lot": 2705,
-        "sell_lot": 1968,
-        "buy_days": 6,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "優式資本",
-        "stock_code": "4979",
-        "stock_name": "華星光",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 684,
-        "net_amt_wan": 40400,
-        "buy_lot": 1007,
-        "sell_lot": 323,
-        "buy_days": 6,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "張濬安(航海王)",
-        "stock_code": "4979",
-        "stock_name": "華星光",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 540,
-        "net_amt_wan": 29181,
-        "buy_lot": 4302,
-        "sell_lot": 3762,
-        "buy_days": 9,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "迷你哥/松山哥",
-        "stock_code": "4979",
-        "stock_name": "華星光",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 107,
-        "net_amt_wan": 22216,
-        "buy_lot": 3696,
-        "sell_lot": 3589,
-        "buy_days": 12,
-        "last_buy_date": "20260821",
+        "net_lots": 1040,
+        "net_amt_wan": 39774,
+        "buy_lot": 1558,
+        "sell_lot": 518,
+        "buy_days": 11,
+        "last_buy_date": "20260820",
         "bought_during_disposal": true
       },
       {
@@ -23654,30 +23213,30 @@
         "bought_during_disposal": true
       },
       {
-        "master": "張濬安(航海王)",
-        "stock_code": "6213",
-        "stock_name": "聯茂",
+        "master": "陳律師",
+        "stock_code": "2455",
+        "stock_name": "全新",
         "status": "active",
         "risk": "trapped",
-        "net_lots": 311,
-        "net_amt_wan": 14078,
-        "buy_lot": 4232,
-        "sell_lot": 3921,
-        "buy_days": 14,
+        "net_lots": 335,
+        "net_amt_wan": 13903,
+        "buy_lot": 720,
+        "sell_lot": 385,
+        "buy_days": 10,
         "last_buy_date": "20260821",
         "bought_during_disposal": true
       },
       {
-        "master": "蔣承翰",
-        "stock_code": "6213",
-        "stock_name": "聯茂",
+        "master": "布哥/n_nchang",
+        "stock_code": "2455",
+        "stock_name": "全新",
         "status": "active",
         "risk": "trapped",
-        "net_lots": 375,
-        "net_amt_wan": 13235,
-        "buy_lot": 4628,
-        "sell_lot": 4253,
-        "buy_days": 15,
+        "net_lots": 296,
+        "net_amt_wan": 11850,
+        "buy_lot": 387,
+        "sell_lot": 91,
+        "buy_days": 5,
         "last_buy_date": "20260821",
         "bought_during_disposal": true
       },
@@ -23697,43 +23256,15 @@
       },
       {
         "master": "優式資本",
-        "stock_code": "3026",
-        "stock_name": "禾伸堂",
+        "stock_code": "2455",
+        "stock_name": "全新",
         "status": "active",
         "risk": "trapped",
-        "net_lots": 141,
-        "net_amt_wan": 8993,
-        "buy_lot": 220,
-        "sell_lot": 79,
-        "buy_days": 3,
-        "last_buy_date": "20260813",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "陳律師",
-        "stock_code": "6213",
-        "stock_name": "聯茂",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 198,
-        "net_amt_wan": 8817,
-        "buy_lot": 462,
-        "sell_lot": 264,
-        "buy_days": 9,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "陳族元",
-        "stock_code": "6213",
-        "stock_name": "聯茂",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 365,
-        "net_amt_wan": 8804,
-        "buy_lot": 2025,
-        "sell_lot": 1660,
-        "buy_days": 15,
+        "net_lots": 223,
+        "net_amt_wan": 9075,
+        "buy_lot": 1044,
+        "sell_lot": 821,
+        "buy_days": 6,
         "last_buy_date": "20260821",
         "bought_during_disposal": true
       },
@@ -23766,34 +23297,6 @@
         "bought_during_disposal": false
       },
       {
-        "master": "嘉義幫",
-        "stock_code": "6213",
-        "stock_name": "聯茂",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 150,
-        "net_amt_wan": 7036,
-        "buy_lot": 516,
-        "sell_lot": 366,
-        "buy_days": 8,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "優式資本",
-        "stock_code": "6213",
-        "stock_name": "聯茂",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 144,
-        "net_amt_wan": 6087,
-        "buy_lot": 229,
-        "sell_lot": 85,
-        "buy_days": 3,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
         "master": "陳律師",
         "stock_code": "8033",
         "stock_name": "雷虎",
@@ -23804,6 +23307,34 @@
         "buy_lot": 506,
         "sell_lot": 239,
         "buy_days": 8,
+        "last_buy_date": "20260821",
+        "bought_during_disposal": true
+      },
+      {
+        "master": "Tradow",
+        "stock_code": "5314",
+        "stock_name": "世紀*",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 2001,
+        "net_amt_wan": 4753,
+        "buy_lot": 2495,
+        "sell_lot": 494,
+        "buy_days": 4,
+        "last_buy_date": "20260821",
+        "bought_during_disposal": false
+      },
+      {
+        "master": "強森",
+        "stock_code": "2455",
+        "stock_name": "全新",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 123,
+        "net_amt_wan": 4571,
+        "buy_lot": 750,
+        "sell_lot": 627,
+        "buy_days": 14,
         "last_buy_date": "20260821",
         "bought_during_disposal": true
       },
@@ -23822,6 +23353,20 @@
         "bought_during_disposal": true
       },
       {
+        "master": "蔣承翰",
+        "stock_code": "2455",
+        "stock_name": "全新",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 111,
+        "net_amt_wan": 4118,
+        "buy_lot": 803,
+        "sell_lot": 692,
+        "buy_days": 14,
+        "last_buy_date": "20260821",
+        "bought_during_disposal": true
+      },
+      {
         "master": "迷你哥/松山哥",
         "stock_code": "3163",
         "stock_name": "波若威",
@@ -23833,20 +23378,6 @@
         "sell_lot": 1405,
         "buy_days": 7,
         "last_buy_date": "20260818",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "陳律師",
-        "stock_code": "4979",
-        "stock_name": "華星光",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 63,
-        "net_amt_wan": 3440,
-        "buy_lot": 1145,
-        "sell_lot": 1082,
-        "buy_days": 15,
-        "last_buy_date": "20260821",
         "bought_during_disposal": true
       },
       {
@@ -23892,62 +23423,6 @@
         "bought_during_disposal": true
       },
       {
-        "master": "迷你哥/松山哥",
-        "stock_code": "4991",
-        "stock_name": "環宇-KY",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 67,
-        "net_amt_wan": 3377,
-        "buy_lot": 390,
-        "sell_lot": 323,
-        "buy_days": 4,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "林滄海",
-        "stock_code": "4991",
-        "stock_name": "環宇-KY",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 72,
-        "net_amt_wan": 3293,
-        "buy_lot": 221,
-        "sell_lot": 149,
-        "buy_days": 6,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "陳律師",
-        "stock_code": "4991",
-        "stock_name": "環宇-KY",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 60,
-        "net_amt_wan": 3241,
-        "buy_lot": 577,
-        "sell_lot": 517,
-        "buy_days": 12,
-        "last_buy_date": "20260821",
-        "bought_during_disposal": true
-      },
-      {
-        "master": "謝孟恭(股癌)",
-        "stock_code": "3026",
-        "stock_name": "禾伸堂",
-        "status": "active",
-        "risk": "trapped",
-        "net_lots": 52,
-        "net_amt_wan": 3125,
-        "buy_lot": 194,
-        "sell_lot": 142,
-        "buy_days": 5,
-        "last_buy_date": "20260813",
-        "bought_during_disposal": true
-      },
-      {
         "master": "布哥/n_nchang",
         "stock_code": "4931",
         "stock_name": "新盛力",
@@ -23960,9 +23435,163 @@
         "buy_days": 3,
         "last_buy_date": "20260818",
         "bought_during_disposal": true
+      },
+      {
+        "master": "林滄海",
+        "stock_code": "3163",
+        "stock_name": "波若威",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 32,
+        "net_amt_wan": 2650,
+        "buy_lot": 115,
+        "sell_lot": 83,
+        "buy_days": 10,
+        "last_buy_date": "20260821",
+        "bought_during_disposal": true
+      },
+      {
+        "master": "江士勳",
+        "stock_code": "8033",
+        "stock_name": "雷虎",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 145,
+        "net_amt_wan": 2612,
+        "buy_lot": 257,
+        "sell_lot": 112,
+        "buy_days": 3,
+        "last_buy_date": "20260817",
+        "bought_during_disposal": true
+      },
+      {
+        "master": "蔣承翰",
+        "stock_code": "5314",
+        "stock_name": "世紀*",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 1000,
+        "net_amt_wan": 2600,
+        "buy_lot": 1000,
+        "sell_lot": 0,
+        "buy_days": 1,
+        "last_buy_date": "20260821",
+        "bought_during_disposal": false
+      },
+      {
+        "master": "志誠資本",
+        "stock_code": "2455",
+        "stock_name": "全新",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 14,
+        "net_amt_wan": 2414,
+        "buy_lot": 1462,
+        "sell_lot": 1448,
+        "buy_days": 8,
+        "last_buy_date": "20260820",
+        "bought_during_disposal": true
+      },
+      {
+        "master": "林滄海",
+        "stock_code": "3498",
+        "stock_name": "陽程",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 139,
+        "net_amt_wan": 2386,
+        "buy_lot": 144,
+        "sell_lot": 5,
+        "buy_days": 1,
+        "last_buy_date": "20260818",
+        "bought_during_disposal": true
+      },
+      {
+        "master": "陳族元",
+        "stock_code": "3498",
+        "stock_name": "陽程",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 140,
+        "net_amt_wan": 2176,
+        "buy_lot": 145,
+        "sell_lot": 5,
+        "buy_days": 2,
+        "last_buy_date": "20260818",
+        "bought_during_disposal": true
+      },
+      {
+        "master": "迷你哥/松山哥",
+        "stock_code": "8033",
+        "stock_name": "雷虎",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 36,
+        "net_amt_wan": 2123,
+        "buy_lot": 1340,
+        "sell_lot": 1304,
+        "buy_days": 2,
+        "last_buy_date": "20260812",
+        "bought_during_disposal": true
+      },
+      {
+        "master": "強森",
+        "stock_code": "7795",
+        "stock_name": "長廣",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 42,
+        "net_amt_wan": 2064,
+        "buy_lot": 89,
+        "sell_lot": 47,
+        "buy_days": 5,
+        "last_buy_date": "20260819",
+        "bought_during_disposal": true
+      },
+      {
+        "master": "竹科主力分點",
+        "stock_code": "2455",
+        "stock_name": "全新",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 48,
+        "net_amt_wan": 1960,
+        "buy_lot": 387,
+        "sell_lot": 339,
+        "buy_days": 9,
+        "last_buy_date": "20260821",
+        "bought_during_disposal": true
+      },
+      {
+        "master": "謝明彧大哥(華南永昌)",
+        "stock_code": "2455",
+        "stock_name": "全新",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 44,
+        "net_amt_wan": 1783,
+        "buy_lot": 193,
+        "sell_lot": 149,
+        "buy_days": 7,
+        "last_buy_date": "20260821",
+        "bought_during_disposal": true
+      },
+      {
+        "master": "民哥",
+        "stock_code": "8033",
+        "stock_name": "雷虎",
+        "status": "active",
+        "risk": "trapped",
+        "net_lots": 97,
+        "net_amt_wan": 1778,
+        "buy_lot": 161,
+        "sell_lot": 64,
+        "buy_days": 3,
+        "last_buy_date": "20260819",
+        "bought_during_disposal": true
       }
     ],
-    "masters_with_exposure": 26,
+    "masters_with_exposure": 23,
     "snapshot_days": 35,
     "note": "持倉 = 窗口內可見淨累積 (TWSE Top30 榜 + 跨券商賣出盲點, 非真實庫存) — 大額命中才列入, 買/賣組成可人眼複核"
   },
@@ -24011,7 +23640,7 @@
         ],
         "alignment": 0.688,
         "co_days": 11,
-        "co_stocks": 267
+        "co_stocks": 266
       },
       {
         "pair": [
@@ -24047,7 +23676,7 @@
         ],
         "alignment": 0.312,
         "co_days": 5,
-        "co_stocks": 148
+        "co_stocks": 147
       }
     ],
     "factions": [
@@ -24112,7 +23741,7 @@
           "count": 10
         },
         {
-          "code": "2327",
+          "code": "3712",
           "count": 9
         }
       ]
@@ -24130,11 +23759,11 @@
           "count": 4
         },
         {
-          "code": "2301",
+          "code": "7750",
           "count": 4
         },
         {
-          "code": "7750",
+          "code": "2301",
           "count": 4
         },
         {
@@ -24164,7 +23793,7 @@
           "count": 7
         },
         {
-          "code": "2883",
+          "code": "009826",
           "count": 6
         }
       ]
@@ -24194,7 +23823,7 @@
           "count": 3
         },
         {
-          "code": "00632R",
+          "code": "3481",
           "count": 3
         }
       ],
@@ -24238,15 +23867,15 @@
           "count": 4
         },
         {
+          "code": "00991A",
+          "count": 3
+        },
+        {
           "code": "2345",
           "count": 3
         },
         {
           "code": "2409",
-          "count": 3
-        },
-        {
-          "code": "00981A",
           "count": 3
         }
       ],
@@ -24256,15 +23885,15 @@
           "count": 11
         },
         {
-          "code": "1598",
-          "count": 10
-        },
-        {
           "code": "1442",
           "count": 10
         },
         {
           "code": "1459",
+          "count": 10
+        },
+        {
+          "code": "1598",
           "count": 10
         },
         {
@@ -24294,11 +23923,11 @@
           "count": 4
         },
         {
-          "code": "2454",
+          "code": "3711",
           "count": 3
         },
         {
-          "code": "3711",
+          "code": "2454",
           "count": 3
         }
       ],
@@ -24320,7 +23949,7 @@
           "count": 6
         },
         {
-          "code": "0050",
+          "code": "00991A",
           "count": 6
         }
       ]
@@ -24342,11 +23971,11 @@
           "count": 3
         },
         {
-          "code": "2330",
+          "code": "2317",
           "count": 3
         },
         {
-          "code": "2317",
+          "code": "2330",
           "count": 3
         },
         {
@@ -24360,11 +23989,11 @@
           "count": 10
         },
         {
-          "code": "00406A",
+          "code": "00881",
           "count": 8
         },
         {
-          "code": "00881",
+          "code": "00406A",
           "count": 8
         },
         {
@@ -24450,7 +24079,7 @@
           "count": 4
         },
         {
-          "code": "3443",
+          "code": "2834",
           "count": 3
         },
         {
@@ -24494,11 +24123,11 @@
           "count": 4
         },
         {
-          "code": "2454",
+          "code": "00981B",
           "count": 4
         },
         {
-          "code": "00981B",
+          "code": "2454",
           "count": 4
         },
         {
@@ -24546,11 +24175,11 @@
           "count": 5
         },
         {
-          "code": "00632R",
+          "code": "3481",
           "count": 3
         },
         {
-          "code": "3481",
+          "code": "00632R",
           "count": 3
         },
         {
@@ -24558,7 +24187,7 @@
           "count": 3
         },
         {
-          "code": "00631L",
+          "code": "00403A",
           "count": 3
         }
       ],
@@ -24658,11 +24287,11 @@
           "count": 3
         },
         {
-          "code": "00631L",
+          "code": "0050",
           "count": 3
         },
         {
-          "code": "0050",
+          "code": "00631L",
           "count": 3
         }
       ],
@@ -24680,11 +24309,11 @@
           "count": 9
         },
         {
-          "code": "2883B",
+          "code": "009826",
           "count": 8
         },
         {
-          "code": "009826",
+          "code": "2883B",
           "count": 8
         }
       ]
@@ -24714,7 +24343,7 @@
           "count": 33
         },
         {
-          "code": "00631L",
+          "code": "3017",
           "count": 32
         }
       ],
@@ -24724,11 +24353,11 @@
           "count": 18
         },
         {
-          "code": "0050",
+          "code": "2834",
           "count": 13
         },
         {
-          "code": "2834",
+          "code": "0050",
           "count": 13
         },
         {
@@ -24814,11 +24443,11 @@
           "count": 4
         },
         {
-          "code": "00405A",
+          "code": "009816",
           "count": 3
         },
         {
-          "code": "009816",
+          "code": "2303",
           "count": 3
         }
       ],
@@ -24888,11 +24517,11 @@
           "count": 8
         },
         {
-          "code": "2454",
+          "code": "2303",
           "count": 7
         },
         {
-          "code": "2303",
+          "code": "2454",
           "count": 7
         }
       ]
@@ -24966,15 +24595,15 @@
           "count": 4
         },
         {
-          "code": "6770",
-          "count": 3
-        },
-        {
           "code": "00919",
           "count": 3
         },
         {
-          "code": "2330",
+          "code": "6770",
+          "count": 3
+        },
+        {
+          "code": "009816",
           "count": 3
         }
       ],
@@ -25062,11 +24691,11 @@
       "actual_hold_ratio": 0.672,
       "top_flip_stocks": [
         {
-          "code": "2454",
+          "code": "2327",
           "count": 11
         },
         {
-          "code": "2327",
+          "code": "2454",
           "count": 11
         },
         {
@@ -25234,17 +24863,17 @@
           "count": 3
         },
         {
-          "code": "2330",
+          "code": "2317",
           "count": 3
         }
       ],
       "top_hold_stocks": [
         {
-          "code": "00878",
+          "code": "009826",
           "count": 10
         },
         {
-          "code": "009826",
+          "code": "00878",
           "count": 10
         },
         {
@@ -25304,11 +24933,11 @@
           "count": 13
         },
         {
-          "code": "1303",
+          "code": "3711",
           "count": 12
         },
         {
-          "code": "3711",
+          "code": "1303",
           "count": 12
         }
       ]
@@ -25374,19 +25003,19 @@
       "actual_hold_ratio": 0.775,
       "top_flip_stocks": [
         {
-          "code": "00632R",
-          "count": 4
-        },
-        {
           "code": "2308",
           "count": 4
         },
         {
-          "code": "2408",
+          "code": "00632R",
           "count": 4
         },
         {
           "code": "8358",
+          "count": 4
+        },
+        {
+          "code": "2408",
           "count": 4
         },
         {
@@ -25396,19 +25025,19 @@
       ],
       "top_hold_stocks": [
         {
-          "code": "00878",
-          "count": 8
-        },
-        {
           "code": "2317",
           "count": 8
         },
         {
-          "code": "6606",
+          "code": "00878",
           "count": 8
         },
         {
           "code": "00881",
+          "count": 8
+        },
+        {
+          "code": "6606",
           "count": 8
         },
         {
@@ -25434,15 +25063,15 @@
           "count": 20
         },
         {
-          "code": "00632R",
-          "count": 19
-        },
-        {
-          "code": "3374",
-          "count": 19
-        },
-        {
           "code": "2303",
+          "count": 19
+        },
+        {
+          "code": "00981A",
+          "count": 19
+        },
+        {
+          "code": "00632R",
           "count": 19
         }
       ],
@@ -25470,12 +25099,12 @@
       ]
     },
     "陳族元": {
-      "total_buy_events": 3645,
-      "confirmed_flips": 1703,
-      "confirmed_holds": 1493,
-      "unknown": 449,
-      "actual_flip_ratio": 0.533,
-      "actual_hold_ratio": 0.467,
+      "total_buy_events": 3654,
+      "confirmed_flips": 1712,
+      "confirmed_holds": 1484,
+      "unknown": 458,
+      "actual_flip_ratio": 0.536,
+      "actual_hold_ratio": 0.464,
       "top_flip_stocks": [
         {
           "code": "2327",
@@ -25884,8 +25513,8 @@
           "陳族元"
         ],
         "buyer_count": 8,
-        "total_buy_amt_wan": 59522,
-        "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 3189 (合計 59,522 萬)"
+        "total_buy_amt_wan": 64467,
+        "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 3189 (合計 64,467 萬)"
       },
       {
         "faction_id": 1,
@@ -25992,8 +25621,8 @@
           "陳族元"
         ],
         "buyer_count": 8,
-        "total_buy_amt_wan": 17108,
-        "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 2634 (合計 17,108 萬)"
+        "total_buy_amt_wan": 17102,
+        "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 2634 (合計 17,102 萬)"
       },
       {
         "faction_id": 1,
@@ -26135,15 +25764,8 @@
         "master": "陳族元",
         "stock_code": "3008",
         "consecutive_days": 16,
-        "total_buy_amt_wan": 711877,
-        "description": "陳族元 連續 16 天加碼 3008 (累計 711,877 萬)"
-      },
-      {
-        "master": "陳族元",
-        "stock_code": "2368",
-        "consecutive_days": 16,
-        "total_buy_amt_wan": 646941,
-        "description": "陳族元 連續 16 天加碼 2368 (累計 646,941 萬)"
+        "total_buy_amt_wan": 709114,
+        "description": "陳族元 連續 16 天加碼 3008 (累計 709,114 萬)"
       },
       {
         "master": "張濬安(航海王)",
@@ -26156,8 +25778,8 @@
         "master": "陳族元",
         "stock_code": "3653",
         "consecutive_days": 16,
-        "total_buy_amt_wan": 595607,
-        "description": "陳族元 連續 16 天加碼 3653 (累計 595,607 萬)"
+        "total_buy_amt_wan": 596709,
+        "description": "陳族元 連續 16 天加碼 3653 (累計 596,709 萬)"
       },
       {
         "master": "張濬安(航海王)",
@@ -26200,6 +25822,13 @@
         "consecutive_days": 16,
         "total_buy_amt_wan": 311639,
         "description": "張濬安(航海王) 連續 16 天加碼 3443 (累計 311,639 萬)"
+      },
+      {
+        "master": "張濬安(航海王)",
+        "stock_code": "00631L",
+        "consecutive_days": 16,
+        "total_buy_amt_wan": 216302,
+        "description": "張濬安(航海王) 連續 16 天加碼 00631L (累計 216,302 萬)"
       }
     ]
   }

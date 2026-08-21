@@ -1,6 +1,6 @@
 {
  "trade_date": "20260821",
- "updated_at": "2026-08-21T22:13:32.354499+08:00",
+ "updated_at": "2026-08-21T23:20:47.262045+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5011,84 +5011,84 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1161,
-   "watch": 86,
+   "healthy": 1176,
+   "watch": 69,
    "high_risk": 6,
    "margin_call": 2,
-   "insufficient_data": 958
+   "insufficient_data": 960
   },
   "high_risk_stocks": [
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 25.1,
+    "ratio": 26.1,
     "risk_level": "margin_call",
     "margin_balance": 6708,
     "today_close": 74.5,
-    "estimated_cost": 495.16
+    "estimated_cost": 475.41
    },
    {
     "code": "5314",
     "name": "世紀*",
-    "ratio": 82.7,
+    "ratio": 84.9,
     "risk_level": "margin_call",
     "margin_balance": 12635,
     "today_close": 26.0,
-    "estimated_cost": 52.39
+    "estimated_cost": 51.05
    },
    {
     "code": "4503",
     "name": "金雨",
-    "ratio": 122.8,
+    "ratio": 125.3,
     "risk_level": "high_risk",
     "margin_balance": 1654,
     "today_close": 24.0,
-    "estimated_cost": 32.57
-   },
-   {
-    "code": "6861",
-    "name": "睿生光電",
-    "ratio": 122.9,
-    "risk_level": "high_risk",
-    "margin_balance": 1783,
-    "today_close": 187.0,
-    "estimated_cost": 253.67
+    "estimated_cost": 31.93
    },
    {
     "code": "4556",
     "name": "旭然",
-    "ratio": 124.5,
+    "ratio": 125.6,
     "risk_level": "high_risk",
     "margin_balance": 626,
     "today_close": 74.2,
-    "estimated_cost": 99.36
+    "estimated_cost": 98.47
    },
    {
     "code": "6890",
     "name": "來億-KY",
-    "ratio": 124.7,
+    "ratio": 125.7,
     "risk_level": "high_risk",
     "margin_balance": 804,
     "today_close": 159.0,
-    "estimated_cost": 212.57
+    "estimated_cost": 210.79
+   },
+   {
+    "code": "6861",
+    "name": "睿生光電",
+    "ratio": 125.9,
+    "risk_level": "high_risk",
+    "margin_balance": 1783,
+    "today_close": 187.0,
+    "estimated_cost": 247.53
    },
    {
     "code": "2483",
     "name": "百容",
-    "ratio": 126.6,
+    "ratio": 127.9,
     "risk_level": "high_risk",
     "margin_balance": 1981,
     "today_close": 36.1,
-    "estimated_cost": 47.52
+    "estimated_cost": 47.03
    },
    {
     "code": "3055",
     "name": "蔚華科",
-    "ratio": 129.6,
+    "ratio": 129.8,
     "risk_level": "high_risk",
     "margin_balance": 6268,
     "today_close": 108.5,
-    "estimated_cost": 139.51
+    "estimated_cost": 139.26
    }
   ],
   "thresholds": {
