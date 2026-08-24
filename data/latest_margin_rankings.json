@@ -1,6 +1,6 @@
 {
  "trade_date": "20260824",
- "updated_at": "2026-08-24T22:15:38.220754+08:00",
+ "updated_at": "2026-08-25T00:31:01.418436+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5008,75 +5008,66 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1161,
-   "watch": 75,
-   "high_risk": 5,
+   "healthy": 1173,
+   "watch": 60,
+   "high_risk": 4,
    "margin_call": 2,
-   "insufficient_data": 970
+   "insufficient_data": 974
   },
   "high_risk_stocks": [
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 26.6,
+    "ratio": 27.8,
     "risk_level": "margin_call",
     "margin_balance": 6717,
     "today_close": 75.9,
-    "estimated_cost": 475.41
+    "estimated_cost": 455.2
    },
    {
     "code": "5314",
     "name": "世紀*",
-    "ratio": 93.4,
+    "ratio": 95.6,
     "risk_level": "margin_call",
     "margin_balance": 12826,
     "today_close": 28.6,
-    "estimated_cost": 51.05
+    "estimated_cost": 49.86
    },
    {
     "code": "4556",
     "name": "旭然",
-    "ratio": 125.8,
+    "ratio": 127.3,
     "risk_level": "high_risk",
     "margin_balance": 635,
     "today_close": 74.3,
-    "estimated_cost": 98.47
-   },
-   {
-    "code": "6861",
-    "name": "睿生光電",
-    "ratio": 126.2,
-    "risk_level": "high_risk",
-    "margin_balance": 1785,
-    "today_close": 187.5,
-    "estimated_cost": 247.53
+    "estimated_cost": 97.24
    },
    {
     "code": "4503",
     "name": "金雨",
-    "ratio": 126.3,
+    "ratio": 128.4,
     "risk_level": "high_risk",
     "margin_balance": 1652,
     "today_close": 24.2,
-    "estimated_cost": 31.93
+    "estimated_cost": 31.41
    },
    {
     "code": "6155",
     "name": "鈞寶",
-    "ratio": 127.5,
+    "ratio": 129.5,
     "risk_level": "high_risk",
     "margin_balance": 3335,
     "today_close": 55.8,
-    "estimated_cost": 72.94
+    "estimated_cost": 71.8
    },
    {
-    "code": "4764",
-    "name": "雙鍵",
-    "ratio": 128.4,
+    "code": "6861",
+    "name": "睿生光電",
+    "ratio": 129.6,
     "risk_level": "high_risk",
-    "margin_balance": 4213,
-    "today_close": 206.5,
-    "estimated_cost": 268.1
+    "margin_balance": 1785,
+    "today_close": 187.5,
+    "estimated_cost": 241.17
    }
   ],
   "thresholds": {
