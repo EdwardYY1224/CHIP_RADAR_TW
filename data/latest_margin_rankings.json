@@ -1,6 +1,6 @@
 {
  "trade_date": "20260825",
- "updated_at": "2026-08-25T22:17:19.372469+08:00",
+ "updated_at": "2026-08-25T23:42:37.083772+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5013,9 +5013,9 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1165,
-   "watch": 79,
-   "high_risk": 3,
+   "healthy": 1175,
+   "watch": 70,
+   "high_risk": 2,
    "margin_call": 2,
    "insufficient_data": 966
   },
@@ -5023,47 +5023,38 @@
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 27.4,
+    "ratio": 28.7,
     "risk_level": "margin_call",
     "margin_balance": 6723,
     "today_close": 74.9,
-    "estimated_cost": 455.2
+    "estimated_cost": 434.4
    },
    {
     "code": "5314",
     "name": "世紀*",
-    "ratio": 105.1,
+    "ratio": 107.8,
     "risk_level": "margin_call",
     "margin_balance": 12361,
     "today_close": 31.45,
-    "estimated_cost": 49.86
+    "estimated_cost": 48.63
    },
    {
     "code": "4556",
     "name": "旭然",
-    "ratio": 123.9,
+    "ratio": 126.0,
     "risk_level": "high_risk",
     "margin_balance": 631,
     "today_close": 72.3,
-    "estimated_cost": 97.24
+    "estimated_cost": 95.64
    },
    {
     "code": "6890",
     "name": "來億-KY",
-    "ratio": 126.1,
+    "ratio": 126.8,
     "risk_level": "high_risk",
     "margin_balance": 816,
     "today_close": 159.5,
-    "estimated_cost": 210.79
-   },
-   {
-    "code": "3609",
-    "name": "三一東林",
-    "ratio": 129.1,
-    "risk_level": "high_risk",
-    "margin_balance": 4076,
-    "today_close": 19.5,
-    "estimated_cost": 25.17
+    "estimated_cost": 209.71
    }
   ],
   "thresholds": {
