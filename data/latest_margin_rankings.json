@@ -1,6 +1,6 @@
 {
  "trade_date": "20260826",
- "updated_at": "2026-08-26T22:16:57.544854+08:00",
+ "updated_at": "2026-08-27T00:22:12.147407+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5012,57 +5012,39 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1179,
-   "watch": 53,
-   "high_risk": 2,
-   "margin_call": 3,
+   "healthy": 1194,
+   "watch": 40,
+   "high_risk": 1,
+   "margin_call": 2,
    "insufficient_data": 978
   },
   "high_risk_stocks": [
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 28.7,
+    "ratio": 30.2,
     "risk_level": "margin_call",
     "margin_balance": 6735,
     "today_close": 74.8,
-    "estimated_cost": 434.4
+    "estimated_cost": 412.86
    },
    {
     "code": "3021",
     "name": "鴻名",
-    "ratio": 117.3,
+    "ratio": 119.3,
     "risk_level": "margin_call",
     "margin_balance": 594,
     "today_close": 20.3,
-    "estimated_cost": 28.84
+    "estimated_cost": 28.37
    },
    {
     "code": "5314",
     "name": "世紀*",
-    "ratio": 118.4,
-    "risk_level": "margin_call",
+    "ratio": 121.1,
+    "risk_level": "high_risk",
     "margin_balance": 12282,
     "today_close": 34.55,
-    "estimated_cost": 48.63
-   },
-   {
-    "code": "4720",
-    "name": "德淵",
-    "ratio": 129.0,
-    "risk_level": "high_risk",
-    "margin_balance": 3183,
-    "today_close": 18.25,
-    "estimated_cost": 23.58
-   },
-   {
-    "code": "3609",
-    "name": "三一東林",
-    "ratio": 129.6,
-    "risk_level": "high_risk",
-    "margin_balance": 4042,
-    "today_close": 19.35,
-    "estimated_cost": 24.88
+    "estimated_cost": 47.56
    }
   ],
   "thresholds": {
