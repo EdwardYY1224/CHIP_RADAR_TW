@@ -1,6 +1,6 @@
 {
  "trade_date": "20260827",
- "updated_at": "2026-08-28T07:11:12.425739+08:00",
+ "updated_at": "2026-08-28T08:07:43.001818+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5015,93 +5015,66 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1610,
-   "watch": 131,
-   "high_risk": 8,
+   "healthy": 1625,
+   "watch": 120,
+   "high_risk": 5,
    "margin_call": 1,
-   "insufficient_data": 465
+   "insufficient_data": 464
   },
   "high_risk_stocks": [
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 29.9,
+    "ratio": 31.6,
     "risk_level": "margin_call",
     "margin_balance": 6704,
     "today_close": 74.1,
-    "estimated_cost": 412.86
+    "estimated_cost": 390.76
    },
    {
     "code": "3021",
     "name": "鴻名",
-    "ratio": 120.7,
+    "ratio": 124.6,
     "risk_level": "high_risk",
     "margin_balance": 599,
     "today_close": 20.55,
-    "estimated_cost": 28.37
+    "estimated_cost": 27.49
    },
    {
     "code": "6862",
     "name": "三集瑞-KY",
-    "ratio": 123.9,
+    "ratio": 125.7,
     "risk_level": "high_risk",
     "margin_balance": 896,
     "today_close": 140.5,
-    "estimated_cost": 189.07
+    "estimated_cost": 186.35
    },
    {
     "code": "4807",
     "name": "日成-KY",
-    "ratio": 126.4,
+    "ratio": 128.1,
     "risk_level": "high_risk",
     "margin_balance": 1135,
     "today_close": 27.65,
-    "estimated_cost": 36.45
-   },
-   {
-    "code": "3447",
-    "name": "展達",
-    "ratio": 126.7,
-    "risk_level": "high_risk",
-    "margin_balance": 1918,
-    "today_close": 27.6,
-    "estimated_cost": 36.31
+    "estimated_cost": 35.96
    },
    {
     "code": "6742",
     "name": "澤米",
-    "ratio": 127.1,
+    "ratio": 128.7,
     "risk_level": "high_risk",
     "margin_balance": 1853,
     "today_close": 45.3,
-    "estimated_cost": 59.39
+    "estimated_cost": 58.65
    },
    {
-    "code": "3528",
-    "name": "安馳",
-    "ratio": 128.2,
+    "code": "3447",
+    "name": "展達",
+    "ratio": 129.5,
     "risk_level": "high_risk",
     "margin_balance": 1918,
-    "today_close": 84.1,
-    "estimated_cost": 109.31
-   },
-   {
-    "code": "2483",
-    "name": "百容",
-    "ratio": 129.2,
-    "risk_level": "high_risk",
-    "margin_balance": 1929,
-    "today_close": 36.45,
-    "estimated_cost": 47.03
-   },
-   {
-    "code": "4556",
-    "name": "旭然",
-    "ratio": 129.7,
-    "risk_level": "high_risk",
-    "margin_balance": 622,
-    "today_close": 73.1,
-    "estimated_cost": 93.91
+    "today_close": 27.6,
+    "estimated_cost": 35.52
    }
   ],
   "thresholds": {

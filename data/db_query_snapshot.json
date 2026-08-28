@@ -510,7 +510,7 @@
     {
      "code": "1303",
      "name": "南亞",
-     "cum_net_wan": 520682,
+     "cum_net_wan": 524359,
      "distinct_traders": 42
     },
     {
@@ -559,7 +559,7 @@
    "rows": [
     {
      "date": "20260827",
-     "row_count": 7566,
+     "row_count": 7584,
      "traders_active": 51,
      "branches_active": 77
     }
@@ -1179,6 +1179,12 @@
     },
     {
      "date": "20260827",
+     "top_master": "永豐天母(老錢)",
+     "day_buy_wan": 84679,
+     "row_count": 99
+    },
+    {
+     "date": "20260827",
      "top_master": "謝明彧大哥(華南永昌)",
      "day_buy_wan": 84230,
      "row_count": 159
@@ -1224,12 +1230,6 @@
      "top_master": "Krenz(再多一位數本人)",
      "day_buy_wan": 64037,
      "row_count": 93
-    },
-    {
-     "date": "20260827",
-     "top_master": "永豐天母(老錢)",
-     "day_buy_wan": 59082,
-     "row_count": 82
     },
     {
      "date": "20260827",
@@ -1363,9 +1363,9 @@
      "code": "00403A",
      "stock_name": "主動統一升級50",
      "distinct_masters": 44,
-     "buy_wan": 185611,
-     "sell_wan": 51588,
-     "net_wan": 134022,
+     "buy_wan": 185617,
+     "sell_wan": 51747,
+     "net_wan": 133869,
      "days_active": 1
     },
     {
@@ -1399,9 +1399,9 @@
      "code": "1303",
      "stock_name": "南亞",
      "distinct_masters": 42,
-     "buy_wan": 1930372,
-     "sell_wan": 1409690,
-     "net_wan": 520682,
+     "buy_wan": 1934470,
+     "sell_wan": 1410110,
+     "net_wan": 524359,
      "days_active": 1
     },
     {
@@ -1453,9 +1453,9 @@
      "code": "00406A",
      "stock_name": "主動中信台灣收益",
      "distinct_masters": 39,
-     "buy_wan": 23990,
-     "sell_wan": 63882,
-     "net_wan": -39892,
+     "buy_wan": 24356,
+     "sell_wan": 64672,
+     "net_wan": -40316,
      "days_active": 1
     },
     {
@@ -1619,8 +1619,8 @@
     {
      "master": "永豐天母(老錢)",
      "active_days": 1,
-     "avg_day_wan": 59083.0,
-     "total_wan": 59082
+     "avg_day_wan": 84680.0,
+     "total_wan": 84679
     },
     {
      "master": "民哥",
