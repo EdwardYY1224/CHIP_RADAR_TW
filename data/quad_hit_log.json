@@ -508,26 +508,158 @@
       "hits": 0,
       "hit_rate": 0.0,
       "mean_change": -3.85
+    },
+    {
+      "date": "20260827",
+      "next_date": "20260828",
+      "q5_direction": "偏多",
+      "q5_confidence": 87.3,
+      "taifex_change": 0.77,
+      "vol_spike_masters": [
+        "竹科主力分點"
+      ],
+      "quad_picks": [
+        {
+          "code": "2303",
+          "name": "聯電",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 9.7,
+          "hit": true,
+          "leader_pct": 0.296,
+          "excess_return": 8.93,
+          "failure_reasons": []
+        },
+        {
+          "code": "6147",
+          "name": "頎邦",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": -2.67,
+          "hit": false,
+          "leader_pct": 0.235,
+          "excess_return": -3.44,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": -0.18,
+          "hit": false,
+          "leader_pct": 0.282,
+          "excess_return": -0.95,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "6239",
+          "name": "力成",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 3.61,
+          "hit": true,
+          "leader_pct": 0.212,
+          "excess_return": 2.84,
+          "failure_reasons": []
+        },
+        {
+          "code": "6274",
+          "name": "台燿",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 3.11,
+          "hit": true,
+          "leader_pct": 0.48,
+          "excess_return": 2.34,
+          "failure_reasons": []
+        },
+        {
+          "code": "6223",
+          "name": "旺矽",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": -1.18,
+          "hit": false,
+          "leader_pct": 0.663,
+          "excess_return": -1.95,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)"
+          ]
+        },
+        {
+          "code": "2324",
+          "name": "仁寶",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": -0.13,
+          "hit": false,
+          "leader_pct": 0.212,
+          "excess_return": -0.9,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 7.57,
+          "hit": true,
+          "leader_pct": 0.384,
+          "excess_return": 6.8,
+          "failure_reasons": []
+        },
+        {
+          "code": "6213",
+          "name": "聯茂",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 3.37,
+          "hit": true,
+          "leader_pct": 0.323,
+          "excess_return": 2.6,
+          "failure_reasons": []
+        }
+      ],
+      "n": 9,
+      "hits": 5,
+      "hit_rate": 0.5556,
+      "mean_change": 2.58
     }
   ],
   "rolling_30d": {
-    "trigger_days": 3,
-    "n": 33,
-    "hits": 6,
-    "hit_rate": 0.1818,
-    "mean_change": -1.96
+    "trigger_days": 4,
+    "n": 42,
+    "hits": 11,
+    "hit_rate": 0.2619,
+    "mean_change": -0.99
   },
   "rolling_all": {
-    "trigger_days": 3,
-    "n": 33,
-    "hits": 6,
-    "hit_rate": 0.1818,
-    "mean_change": -1.96
+    "trigger_days": 4,
+    "n": 42,
+    "hits": 11,
+    "hit_rate": 0.2619,
+    "mean_change": -0.99
   },
   "vs_expected": {
     "expected_hit_rate": 0.789,
-    "actual_hit_rate": 0.1818,
-    "delta_pp": -60.7
+    "actual_hit_rate": 0.2619,
+    "delta_pp": -52.7
   },
-  "updated_at": "2026-08-28T00:51:26.576604"
+  "updated_at": "2026-08-28T23:56:13.620906"
 }
