@@ -1,6 +1,6 @@
 {
  "trade_date": "20260828",
- "updated_at": "2026-08-29T07:55:16.897787+08:00",
+ "updated_at": "2026-08-29T08:21:43.233789+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5016,9 +5016,9 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1628,
-   "watch": 111,
-   "high_risk": 8,
+   "healthy": 1638,
+   "watch": 105,
+   "high_risk": 4,
    "margin_call": 1,
    "insufficient_data": 467
   },
@@ -5026,83 +5026,47 @@
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 31.6,
+    "ratio": 33.5,
     "risk_level": "margin_call",
     "margin_balance": 6660,
     "today_close": 74.2,
-    "estimated_cost": 390.76
+    "estimated_cost": 369.07
    },
    {
     "code": "5314",
     "name": "世紀*",
-    "ratio": 122.1,
+    "ratio": 124.3,
     "risk_level": "high_risk",
     "margin_balance": 10926,
     "today_close": 34.2,
-    "estimated_cost": 46.69
-   },
-   {
-    "code": "3021",
-    "name": "鴻名",
-    "ratio": 123.1,
-    "risk_level": "high_risk",
-    "margin_balance": 594,
-    "today_close": 20.3,
-    "estimated_cost": 27.49
+    "estimated_cost": 45.85
    },
    {
     "code": "6742",
     "name": "澤米",
-    "ratio": 126.6,
+    "ratio": 128.1,
     "risk_level": "high_risk",
     "margin_balance": 1776,
     "today_close": 44.55,
-    "estimated_cost": 58.65
+    "estimated_cost": 57.95
+   },
+   {
+    "code": "3021",
+    "name": "鴻名",
+    "ratio": 128.2,
+    "risk_level": "high_risk",
+    "margin_balance": 594,
+    "today_close": 20.3,
+    "estimated_cost": 26.39
    },
    {
     "code": "4556",
     "name": "旭然",
-    "ratio": 127.3,
+    "ratio": 129.0,
     "risk_level": "high_risk",
     "margin_balance": 623,
     "today_close": 70.6,
-    "estimated_cost": 92.46
-   },
-   {
-    "code": "6862",
-    "name": "三集瑞-KY",
-    "ratio": 128.3,
-    "risk_level": "high_risk",
-    "margin_balance": 886,
-    "today_close": 143.5,
-    "estimated_cost": 186.35
-   },
-   {
-    "code": "3609",
-    "name": "三一東林",
-    "ratio": 128.8,
-    "risk_level": "high_risk",
-    "margin_balance": 4068,
-    "today_close": 18.8,
-    "estimated_cost": 24.33
-   },
-   {
-    "code": "3528",
-    "name": "安馳",
-    "ratio": 129.7,
-    "risk_level": "high_risk",
-    "margin_balance": 1921,
-    "today_close": 83.6,
-    "estimated_cost": 107.45
-   },
-   {
-    "code": "4807",
-    "name": "日成-KY",
-    "ratio": 129.8,
-    "risk_level": "high_risk",
-    "margin_balance": 1122,
-    "today_close": 28.0,
-    "estimated_cost": 35.96
+    "estimated_cost": 91.22
    }
   ],
   "thresholds": {
