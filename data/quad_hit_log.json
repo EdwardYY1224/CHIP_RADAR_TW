@@ -640,26 +640,147 @@
       "hits": 5,
       "hit_rate": 0.5556,
       "mean_change": 2.58
+    },
+    {
+      "date": "20260828",
+      "next_date": "20260831",
+      "q5_direction": "偏多",
+      "q5_confidence": 95,
+      "taifex_change": null,
+      "vol_spike_masters": [
+        "Tradow",
+        "巨人傑",
+        "強森"
+      ],
+      "quad_picks": [
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "matched_masters": [
+            "Tradow",
+            "巨人傑",
+            "強森"
+          ],
+          "next_change_pct": 0.56,
+          "hit": true,
+          "leader_pct": 0.314,
+          "excess_return": null,
+          "failure_reasons": []
+        },
+        {
+          "code": "3189",
+          "name": "景碩",
+          "matched_masters": [
+            "巨人傑",
+            "強森"
+          ],
+          "next_change_pct": -8.9,
+          "hit": false,
+          "leader_pct": 0.411,
+          "excess_return": null,
+          "failure_reasons": [
+            "TAIEX 資料缺, 歸因不全"
+          ]
+        },
+        {
+          "code": "2344",
+          "name": "華邦電",
+          "matched_masters": [
+            "Tradow",
+            "巨人傑",
+            "強森"
+          ],
+          "next_change_pct": 0.55,
+          "hit": true,
+          "leader_pct": 0.199,
+          "excess_return": null,
+          "failure_reasons": []
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "matched_masters": [
+            "巨人傑",
+            "強森"
+          ],
+          "next_change_pct": -0.81,
+          "hit": false,
+          "leader_pct": 0.477,
+          "excess_return": null,
+          "failure_reasons": [
+            "TAIEX 資料缺, 歸因不全"
+          ]
+        },
+        {
+          "code": "8039",
+          "name": "台虹",
+          "matched_masters": [
+            "巨人傑",
+            "強森"
+          ],
+          "next_change_pct": -4.8,
+          "hit": false,
+          "leader_pct": 0.204,
+          "excess_return": null,
+          "failure_reasons": [
+            "TAIEX 資料缺, 歸因不全"
+          ]
+        },
+        {
+          "code": "1303",
+          "name": "南亞",
+          "matched_masters": [
+            "Tradow",
+            "巨人傑",
+            "強森"
+          ],
+          "next_change_pct": 9.98,
+          "hit": true,
+          "leader_pct": 0.266,
+          "excess_return": null,
+          "failure_reasons": []
+        },
+        {
+          "code": "2464",
+          "name": "盟立",
+          "matched_masters": [
+            "Tradow",
+            "巨人傑",
+            "強森"
+          ],
+          "next_change_pct": -5.26,
+          "hit": false,
+          "leader_pct": 0.369,
+          "excess_return": null,
+          "failure_reasons": [
+            "TAIEX 資料缺, 歸因不全"
+          ]
+        }
+      ],
+      "n": 7,
+      "hits": 3,
+      "hit_rate": 0.4286,
+      "mean_change": -1.24
     }
   ],
   "rolling_30d": {
-    "trigger_days": 4,
-    "n": 42,
-    "hits": 11,
-    "hit_rate": 0.2619,
-    "mean_change": -0.99
+    "trigger_days": 5,
+    "n": 49,
+    "hits": 14,
+    "hit_rate": 0.2857,
+    "mean_change": -1.02
   },
   "rolling_all": {
-    "trigger_days": 4,
-    "n": 42,
-    "hits": 11,
-    "hit_rate": 0.2619,
-    "mean_change": -0.99
+    "trigger_days": 5,
+    "n": 49,
+    "hits": 14,
+    "hit_rate": 0.2857,
+    "mean_change": -1.02
   },
   "vs_expected": {
     "expected_hit_rate": 0.789,
-    "actual_hit_rate": 0.2619,
-    "delta_pp": -52.7
+    "actual_hit_rate": 0.2857,
+    "delta_pp": -50.3
   },
-  "updated_at": "2026-08-29T00:22:25.241832"
+  "updated_at": "2026-08-31T19:45:25.539216"
 }
