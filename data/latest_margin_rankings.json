@@ -1,6 +1,6 @@
 {
  "trade_date": "20260831",
- "updated_at": "2026-09-01T04:33:50.728772+08:00",
+ "updated_at": "2026-09-01T05:19:13.565282+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5017,11 +5017,11 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 691,
-   "watch": 32,
-   "high_risk": 0,
-   "margin_call": 1,
-   "insufficient_data": 1491
+   "healthy": 1146,
+   "watch": 40,
+   "high_risk": 2,
+   "margin_call": 2,
+   "insufficient_data": 1025
   },
   "high_risk_stocks": [
    {
@@ -5032,6 +5032,33 @@
     "margin_balance": 6698,
     "today_close": 75.0,
     "estimated_cost": 347.67
+   },
+   {
+    "code": "4747",
+    "name": "強生*",
+    "ratio": 90.7,
+    "risk_level": "margin_call",
+    "margin_balance": 3099,
+    "today_close": 27.35,
+    "estimated_cost": 50.23
+   },
+   {
+    "code": "3609",
+    "name": "三一東林",
+    "ratio": 123.4,
+    "risk_level": "high_risk",
+    "margin_balance": 3957,
+    "today_close": 17.55,
+    "estimated_cost": 23.71
+   },
+   {
+    "code": "4556",
+    "name": "旭然",
+    "ratio": 129.7,
+    "risk_level": "high_risk",
+    "margin_balance": 627,
+    "today_close": 69.8,
+    "estimated_cost": 89.73
    }
   ],
   "thresholds": {
