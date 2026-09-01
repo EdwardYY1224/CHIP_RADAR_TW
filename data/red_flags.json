@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-02T02:06:57.347993+08:00",
+  "generated_at": "2026-09-02T03:02:12.574675+08:00",
   "trade_date": "20260901",
   "pump_suspicion": [
     {
@@ -560,12 +560,28 @@
       "reasoning": "9B2r 買 101 張 vs 7003 賣 110 張 (匹配 92%)"
     }
   ],
-  "distribution": [],
+  "distribution": [
+    {
+      "stock_code": "1326",
+      "stock_name": "台化",
+      "branch_code": "9A9G",
+      "branch_name": "永豐金-天母",
+      "master": "永豐天母(老錢)",
+      "sell_lot": 288,
+      "sell_amt_wan": 2119,
+      "avg_30d_sell_lot": 27.0,
+      "sell_vs_avg_x": 10.7,
+      "recent_5d_limit_up_count": 56,
+      "rule": "C_distribution",
+      "severity": "high",
+      "reasoning": "當日賣 288 張 (30 天均 27 張 × 10.7) + 近 5 天漲停 56 次"
+    }
+  ],
   "summary": {
     "pump_count": 3,
     "wash_count": 30,
-    "distribution_count": 0,
-    "total": 33
+    "distribution_count": 1,
+    "total": 34
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
