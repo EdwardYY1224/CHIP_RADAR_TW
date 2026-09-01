@@ -1,6 +1,6 @@
 {
  "trade_date": "20260901",
- "updated_at": "2026-09-02T01:36:47.873526+08:00",
+ "updated_at": "2026-09-02T02:09:02.732998+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5005,48 +5005,48 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1174,
-   "watch": 31,
+   "healthy": 1183,
+   "watch": 25,
    "high_risk": 2,
    "margin_call": 2,
-   "insufficient_data": 1006
+   "insufficient_data": 1003
   },
   "high_risk_stocks": [
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 35.2,
+    "ratio": 37.6,
     "risk_level": "margin_call",
     "margin_balance": 6915,
     "today_close": 73.5,
-    "estimated_cost": 347.67
+    "estimated_cost": 326.12
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 86.4,
+    "ratio": 87.8,
     "risk_level": "margin_call",
     "margin_balance": 3076,
     "today_close": 26.05,
-    "estimated_cost": 50.23
+    "estimated_cost": 49.43
    },
    {
     "code": "3609",
     "name": "三一東林",
-    "ratio": 126.9,
+    "ratio": 128.6,
     "risk_level": "high_risk",
     "margin_balance": 3928,
     "today_close": 18.05,
-    "estimated_cost": 23.71
+    "estimated_cost": 23.39
    },
    {
     "code": "6862",
     "name": "三集瑞-KY",
-    "ratio": 127.9,
+    "ratio": 129.9,
     "risk_level": "high_risk",
     "margin_balance": 897,
     "today_close": 141.0,
-    "estimated_cost": 183.77
+    "estimated_cost": 180.89
    }
   ],
   "thresholds": {
