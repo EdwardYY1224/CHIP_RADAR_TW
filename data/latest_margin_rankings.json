@@ -1,6 +1,6 @@
 {
  "trade_date": "20260902",
- "updated_at": "2026-09-03T01:24:14.911195+08:00",
+ "updated_at": "2026-09-03T02:14:09.999189+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5004,9 +5004,9 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1180,
-   "watch": 37,
-   "high_risk": 2,
+   "healthy": 1188,
+   "watch": 30,
+   "high_risk": 1,
    "margin_call": 3,
    "insufficient_data": 996
   },
@@ -5014,47 +5014,38 @@
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 37.5,
+    "ratio": 39.9,
     "risk_level": "margin_call",
     "margin_balance": 6733,
     "today_close": 73.4,
-    "estimated_cost": 326.12
+    "estimated_cost": 306.27
    },
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 70.6,
+    "ratio": 71.8,
     "risk_level": "margin_call",
     "margin_balance": 1418,
     "today_close": 2610.0,
-    "estimated_cost": 6157.83
+    "estimated_cost": 6061.5
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 82.9,
+    "ratio": 84.4,
     "risk_level": "margin_call",
     "margin_balance": 3051,
     "today_close": 24.6,
-    "estimated_cost": 49.43
+    "estimated_cost": 48.59
    },
    {
     "code": "3609",
     "name": "三一東林",
-    "ratio": 128.3,
+    "ratio": 129.8,
     "risk_level": "high_risk",
     "margin_balance": 3905,
     "today_close": 18.0,
-    "estimated_cost": 23.39
-   },
-   {
-    "code": "5314",
-    "name": "世紀*",
-    "ratio": 128.7,
-    "risk_level": "high_risk",
-    "margin_balance": 10257,
-    "today_close": 34.2,
-    "estimated_cost": 44.28
+    "estimated_cost": 23.11
    }
   ],
   "thresholds": {
