@@ -761,26 +761,238 @@
       "hits": 3,
       "hit_rate": 0.4286,
       "mean_change": -1.24
+    },
+    {
+      "date": "20260901",
+      "next_date": "20260902",
+      "q5_direction": "偏多",
+      "q5_confidence": 95,
+      "taifex_change": 1.78,
+      "vol_spike_masters": [
+        "Tradow",
+        "巨人傑",
+        "張濬安(航海王)",
+        "陳律師"
+      ],
+      "quad_picks": [
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "matched_masters": [
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": 0.0,
+          "hit": false,
+          "leader_pct": 0.152,
+          "excess_return": -1.78,
+          "failure_reasons": [
+            "flat close (隔日收 = 今日收, 真實現象)"
+          ]
+        },
+        {
+          "code": "2344",
+          "name": "華邦電",
+          "matched_masters": [
+            "Tradow",
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": 1.7,
+          "hit": true,
+          "leader_pct": 0.159,
+          "excess_return": -0.08,
+          "failure_reasons": []
+        },
+        {
+          "code": "6770",
+          "name": "力積電",
+          "matched_masters": [
+            "Tradow",
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": -0.56,
+          "hit": false,
+          "leader_pct": 0.188,
+          "excess_return": -2.34,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "3450",
+          "name": "聯鈞",
+          "matched_masters": [
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": -3.68,
+          "hit": false,
+          "leader_pct": 0.405,
+          "excess_return": -5.46,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "1303",
+          "name": "南亞",
+          "matched_masters": [
+            "Tradow",
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": 1.28,
+          "hit": true,
+          "leader_pct": 0.239,
+          "excess_return": -0.5,
+          "failure_reasons": []
+        },
+        {
+          "code": "6446",
+          "name": "藥華藥",
+          "matched_masters": [
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": -0.38,
+          "hit": false,
+          "leader_pct": 0.513,
+          "excess_return": -2.16,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)",
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "3006",
+          "name": "晶豪科",
+          "matched_masters": [
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": 1.08,
+          "hit": true,
+          "leader_pct": 0.325,
+          "excess_return": -0.7,
+          "failure_reasons": []
+        },
+        {
+          "code": "8299",
+          "name": "群聯",
+          "matched_masters": [
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": -2.82,
+          "hit": false,
+          "leader_pct": 0.317,
+          "excess_return": -4.6,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "1312",
+          "name": "國喬",
+          "matched_masters": [
+            "Tradow",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": -2.56,
+          "hit": false,
+          "leader_pct": 0.241,
+          "excess_return": -4.34,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "8358",
+          "name": "金居",
+          "matched_masters": [
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": -4.37,
+          "hit": false,
+          "leader_pct": 0.241,
+          "excess_return": -6.15,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "2368",
+          "name": "金像電",
+          "matched_masters": [
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": -4.08,
+          "hit": false,
+          "leader_pct": 0.616,
+          "excess_return": -5.86,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)",
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "8046",
+          "name": "南電",
+          "matched_masters": [
+            "Tradow",
+            "巨人傑",
+            "張濬安(航海王)",
+            "陳律師"
+          ],
+          "next_change_pct": -2.04,
+          "hit": false,
+          "leader_pct": 0.572,
+          "excess_return": -3.82,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)",
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        }
+      ],
+      "n": 12,
+      "hits": 3,
+      "hit_rate": 0.25,
+      "mean_change": -1.37
     }
   ],
   "rolling_30d": {
-    "trigger_days": 5,
-    "n": 49,
-    "hits": 14,
-    "hit_rate": 0.2857,
-    "mean_change": -1.02
+    "trigger_days": 6,
+    "n": 61,
+    "hits": 17,
+    "hit_rate": 0.2787,
+    "mean_change": -1.09
   },
   "rolling_all": {
-    "trigger_days": 5,
-    "n": 49,
-    "hits": 14,
-    "hit_rate": 0.2857,
-    "mean_change": -1.02
+    "trigger_days": 6,
+    "n": 61,
+    "hits": 17,
+    "hit_rate": 0.2787,
+    "mean_change": -1.09
   },
   "vs_expected": {
     "expected_hit_rate": 0.789,
-    "actual_hit_rate": 0.2857,
-    "delta_pp": -50.3
+    "actual_hit_rate": 0.2787,
+    "delta_pp": -51.0
   },
-  "updated_at": "2026-09-01T19:05:26.785614"
+  "updated_at": "2026-09-02T17:25:17.253207"
 }
