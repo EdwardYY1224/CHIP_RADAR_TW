@@ -1,6 +1,6 @@
 {
  "trade_date": "20260903",
- "updated_at": "2026-09-04T01:16:39.580594+08:00",
+ "updated_at": "2026-09-04T02:15:37.118165+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5007,75 +5007,57 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1145,
-   "watch": 54,
-   "high_risk": 3,
-   "margin_call": 4,
+   "healthy": 1153,
+   "watch": 48,
+   "high_risk": 2,
+   "margin_call": 3,
    "insufficient_data": 1011
   },
   "high_risk_stocks": [
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 38.4,
+    "ratio": 41.0,
     "risk_level": "margin_call",
     "margin_balance": 6721,
     "today_close": 70.6,
-    "estimated_cost": 306.27
+    "estimated_cost": 286.75
    },
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 68.1,
+    "ratio": 69.2,
     "risk_level": "margin_call",
     "margin_balance": 2078,
     "today_close": 2475.0,
-    "estimated_cost": 6061.5
+    "estimated_cost": 5961.67
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 85.2,
+    "ratio": 86.7,
     "risk_level": "margin_call",
     "margin_balance": 3052,
     "today_close": 24.85,
-    "estimated_cost": 48.59
+    "estimated_cost": 47.75
    },
    {
     "code": "5314",
     "name": "世紀*",
-    "ratio": 118.8,
-    "risk_level": "margin_call",
+    "ratio": 121.3,
+    "risk_level": "high_risk",
     "margin_balance": 10222,
     "today_close": 31.0,
-    "estimated_cost": 43.47
+    "estimated_cost": 42.61
    },
    {
     "code": "2483",
     "name": "百容",
-    "ratio": 122.0,
+    "ratio": 124.2,
     "risk_level": "high_risk",
     "margin_balance": 2112,
     "today_close": 33.5,
-    "estimated_cost": 45.76
-   },
-   {
-    "code": "4556",
-    "name": "旭然",
-    "ratio": 128.8,
-    "risk_level": "high_risk",
-    "margin_balance": 641,
-    "today_close": 66.3,
-    "estimated_cost": 85.81
-   },
-   {
-    "code": "3609",
-    "name": "三一東林",
-    "ratio": 129.8,
-    "risk_level": "high_risk",
-    "margin_balance": 3898,
-    "today_close": 18.0,
-    "estimated_cost": 23.11
+    "estimated_cost": 44.97
    }
   ],
   "thresholds": {
