@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-05T01:56:09.009494+08:00",
+  "generated_at": "2026-09-05T02:45:29.563121+08:00",
   "trade_date": "20260904",
   "pump_suspicion": [
     {
@@ -518,14 +518,14 @@
       "sell_branch_code": "9A9G",
       "sell_master": "永豐天母(老錢)",
       "buy_lot": 106,
-      "sell_lot": 120,
+      "sell_lot": 123,
       "buy_amt_wan": 5130,
       "sell_amt_wan": 5969,
-      "lot_match_ratio": 0.88,
+      "lot_match_ratio": 0.86,
       "same_master": false,
       "rule": "B_wash",
       "severity": "medium",
-      "reasoning": "9A8F 買 106 張 vs 9A9G 賣 120 張 (匹配 88%)"
+      "reasoning": "9A8F 買 106 張 vs 9A9G 賣 123 張 (匹配 86%)"
     },
     {
       "stock_code": "2408",
