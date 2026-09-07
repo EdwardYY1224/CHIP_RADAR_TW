@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T02:31:55.162959+08:00",
+  "generated_at": "2026-09-08T03:02:04.960636+08:00",
   "trade_date": "20260907",
   "pump_suspicion": [
     {
@@ -27,10 +27,10 @@
       "sell_lot": 15068,
       "buy_amt_wan": 243232,
       "daytrade_ratio": 0.87,
-      "amt_vs_median_x": 6.0,
+      "amt_vs_median_x": 4.8,
       "rule": "A_pump",
       "severity": "high",
-      "reasoning": "當沖比 87% (> 70%) + 漲停 + 買金額 243,232 萬 (中位數 40,642 萬 × 6.0)"
+      "reasoning": "當沖比 87% (> 70%) + 漲停 + 買金額 243,232 萬 (中位數 50,255 萬 × 4.8)"
     },
     {
       "stock_code": "8039",
@@ -562,34 +562,19 @@
   ],
   "distribution": [
     {
-      "stock_code": "4979",
-      "stock_name": "華星光",
-      "branch_code": "920F",
-      "branch_name": "凱基-站前",
-      "master": "張濬安(航海王)",
-      "sell_lot": 1736,
-      "sell_amt_wan": 107033,
-      "avg_30d_sell_lot": 179.3,
-      "sell_vs_avg_x": 9.7,
-      "recent_5d_limit_up_count": 48,
+      "stock_code": "2303",
+      "stock_name": "聯電",
+      "branch_code": "9216",
+      "branch_name": "凱基-信義",
+      "master": "林滄海",
+      "sell_lot": 18076,
+      "sell_amt_wan": 257697,
+      "avg_30d_sell_lot": 2934.8,
+      "sell_vs_avg_x": 6.2,
+      "recent_5d_limit_up_count": 74,
       "rule": "C_distribution",
       "severity": "medium",
-      "reasoning": "當日賣 1,736 張 (30 天均 179 張 × 9.7) + 近 5 天漲停 48 次"
-    },
-    {
-      "stock_code": "6669",
-      "stock_name": "緯穎",
-      "branch_code": "8880",
-      "branch_name": "國泰證券",
-      "master": "陳族元",
-      "sell_lot": 682,
-      "sell_amt_wan": 168395,
-      "avg_30d_sell_lot": 112.8,
-      "sell_vs_avg_x": 6.0,
-      "recent_5d_limit_up_count": 51,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 682 張 (30 天均 113 張 × 6.0) + 近 5 天漲停 51 次"
+      "reasoning": "當日賣 18,076 張 (30 天均 2935 張 × 6.2) + 近 5 天漲停 74 次"
     },
     {
       "stock_code": "2454",
@@ -599,57 +584,12 @@
       "master": "陳族元",
       "sell_lot": 230,
       "sell_amt_wan": 106410,
-      "avg_30d_sell_lot": 32.4,
-      "sell_vs_avg_x": 7.1,
+      "avg_30d_sell_lot": 45.6,
+      "sell_vs_avg_x": 5.0,
       "recent_5d_limit_up_count": 62,
       "rule": "C_distribution",
       "severity": "medium",
-      "reasoning": "當日賣 230 張 (30 天均 32 張 × 7.1) + 近 5 天漲停 62 次"
-    },
-    {
-      "stock_code": "4979",
-      "stock_name": "華星光",
-      "branch_code": "9200",
-      "branch_name": "凱基證券",
-      "master": "凱基證券",
-      "sell_lot": 1304,
-      "sell_amt_wan": 79980,
-      "avg_30d_sell_lot": 202.3,
-      "sell_vs_avg_x": 6.4,
-      "recent_5d_limit_up_count": 48,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 1,304 張 (30 天均 202 張 × 6.4) + 近 5 天漲停 48 次"
-    },
-    {
-      "stock_code": "6290",
-      "stock_name": "良維",
-      "branch_code": "9227",
-      "branch_name": "凱基-城中",
-      "master": "蔣承翰",
-      "sell_lot": 253,
-      "sell_amt_wan": 7032,
-      "avg_30d_sell_lot": 29.0,
-      "sell_vs_avg_x": 8.7,
-      "recent_5d_limit_up_count": 18,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 253 張 (30 天均 29 張 × 8.7) + 近 5 天漲停 18 次"
-    },
-    {
-      "stock_code": "6669",
-      "stock_name": "緯穎",
-      "branch_code": "779c",
-      "branch_name": "國票-敦北法人",
-      "master": "優式資本",
-      "sell_lot": 91,
-      "sell_amt_wan": 22466,
-      "avg_30d_sell_lot": 16.0,
-      "sell_vs_avg_x": 5.7,
-      "recent_5d_limit_up_count": 51,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 91 張 (30 天均 16 張 × 5.7) + 近 5 天漲停 51 次"
+      "reasoning": "當日賣 230 張 (30 天均 46 張 × 5.0) + 近 5 天漲停 62 次"
     },
     {
       "stock_code": "2454",
@@ -657,44 +597,14 @@
       "branch_code": "9A9G",
       "branch_name": "永豐金-天母",
       "master": "永豐天母(老錢)",
-      "sell_lot": 224,
+      "sell_lot": 230,
       "sell_amt_wan": 106410,
-      "avg_30d_sell_lot": 26.1,
-      "sell_vs_avg_x": 8.6,
+      "avg_30d_sell_lot": 42.6,
+      "sell_vs_avg_x": 5.4,
       "recent_5d_limit_up_count": 62,
       "rule": "C_distribution",
       "severity": "medium",
-      "reasoning": "當日賣 224 張 (30 天均 26 張 × 8.6) + 近 5 天漲停 62 次"
-    },
-    {
-      "stock_code": "3529",
-      "stock_name": "力旺",
-      "branch_code": "1480",
-      "branch_name": "美商高盛",
-      "master": "高盛",
-      "sell_lot": 1157,
-      "sell_amt_wan": 294932,
-      "avg_30d_sell_lot": 184.9,
-      "sell_vs_avg_x": 6.3,
-      "recent_5d_limit_up_count": 10,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 1,157 張 (30 天均 185 張 × 6.3) + 近 5 天漲停 10 次"
-    },
-    {
-      "stock_code": "2455",
-      "stock_name": "全新",
-      "branch_code": "8960",
-      "branch_name": "香港上海匯豐",
-      "master": "匯豐 HSBC",
-      "sell_lot": 180,
-      "sell_amt_wan": 9047,
-      "avg_30d_sell_lot": 35.0,
-      "sell_vs_avg_x": 5.1,
-      "recent_5d_limit_up_count": 89,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 180 張 (30 天均 35 張 × 5.1) + 近 5 天漲停 89 次"
+      "reasoning": "當日賣 230 張 (30 天均 43 張 × 5.4) + 近 5 天漲停 62 次"
     },
     {
       "stock_code": "6669",
@@ -704,19 +614,19 @@
       "master": "麥格理",
       "sell_lot": 546,
       "sell_amt_wan": 134136,
-      "avg_30d_sell_lot": 65.5,
-      "sell_vs_avg_x": 8.3,
+      "avg_30d_sell_lot": 99.9,
+      "sell_vs_avg_x": 5.5,
       "recent_5d_limit_up_count": 51,
       "rule": "C_distribution",
       "severity": "medium",
-      "reasoning": "當日賣 546 張 (30 天均 66 張 × 8.3) + 近 5 天漲停 51 次"
+      "reasoning": "當日賣 546 張 (30 天均 100 張 × 5.5) + 近 5 天漲停 51 次"
     }
   ],
   "summary": {
     "pump_count": 3,
     "wash_count": 30,
-    "distribution_count": 10,
-    "total": 43
+    "distribution_count": 4,
+    "total": 37
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
