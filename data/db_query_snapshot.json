@@ -504,8 +504,8 @@
     {
      "code": "3167",
      "name": "大量",
-     "cum_net_wan": 335516,
-     "distinct_traders": 39
+     "cum_net_wan": 345740,
+     "distinct_traders": 40
     },
     {
      "code": "6446",
@@ -559,7 +559,7 @@
    "rows": [
     {
      "date": "20260908",
-     "row_count": 7575,
+     "row_count": 7594,
      "traders_active": 51,
      "branches_active": 77
     }
@@ -1125,6 +1125,12 @@
     },
     {
      "date": "20260908",
+     "top_master": "永豐天母(老錢)",
+     "day_buy_wan": 126540,
+     "row_count": 96
+    },
+    {
+     "date": "20260908",
      "top_master": "群益大安(強勢波段)",
      "day_buy_wan": 115821,
      "row_count": 72
@@ -1200,12 +1206,6 @@
      "top_master": "陳泊澔",
      "day_buy_wan": 51072,
      "row_count": 83
-    },
-    {
-     "date": "20260908",
-     "top_master": "永豐天母(老錢)",
-     "day_buy_wan": 47516,
-     "row_count": 77
     },
     {
      "date": "20260908",
@@ -1312,9 +1312,9 @@
      "code": "2409",
      "stock_name": "友達",
      "distinct_masters": 47,
-     "buy_wan": 782401,
-     "sell_wan": 680755,
-     "net_wan": 101646,
+     "buy_wan": 784108,
+     "sell_wan": 681641,
+     "net_wan": 102467,
      "days_active": 1
     },
     {
@@ -1393,9 +1393,9 @@
      "code": "00929",
      "stock_name": "復華台灣科技優息",
      "distinct_masters": 41,
-     "buy_wan": 42737,
-     "sell_wan": 128352,
-     "net_wan": -85615,
+     "buy_wan": 48056,
+     "sell_wan": 128355,
+     "net_wan": -80299,
      "days_active": 1
     },
     {
@@ -1410,10 +1410,10 @@
     {
      "code": "3167",
      "stock_name": "大量",
-     "distinct_masters": 39,
-     "buy_wan": 657064,
-     "sell_wan": 321548,
-     "net_wan": 335516,
+     "distinct_masters": 40,
+     "buy_wan": 669914,
+     "sell_wan": 324174,
+     "net_wan": 345740,
      "days_active": 1
     },
     {
@@ -1595,8 +1595,8 @@
     {
      "master": "永豐天母(老錢)",
      "active_days": 1,
-     "avg_day_wan": 47516.0,
-     "total_wan": 47516
+     "avg_day_wan": 126540.0,
+     "total_wan": 126540
     },
     {
      "master": "民哥",

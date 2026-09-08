@@ -1,6 +1,6 @@
 {
  "trade_date": "20260908",
- "updated_at": "2026-09-09T01:32:47.925394+08:00",
+ "updated_at": "2026-09-09T02:19:36.675161+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5008,66 +5008,66 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1154,
-   "watch": 48,
-   "high_risk": 1,
-   "margin_call": 5,
-   "insufficient_data": 1009
+   "healthy": 1163,
+   "watch": 42,
+   "high_risk": 2,
+   "margin_call": 4,
+   "insufficient_data": 1006
   },
   "high_risk_stocks": [
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 10.2,
+    "ratio": 10.5,
     "risk_level": "margin_call",
     "margin_balance": 105083,
     "today_close": 60.4,
-    "estimated_cost": 990.14
+    "estimated_cost": 955.32
    },
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 48.1,
+    "ratio": 51.9,
     "risk_level": "margin_call",
     "margin_balance": 6610,
     "today_close": 71.7,
-    "estimated_cost": 248.21
+    "estimated_cost": 230.1
    },
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 67.9,
+    "ratio": 69.0,
     "risk_level": "margin_call",
     "margin_balance": 2558,
     "today_close": 2340.0,
-    "estimated_cost": 5747.67
+    "estimated_cost": 5648.5
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 91.2,
+    "ratio": 92.7,
     "risk_level": "margin_call",
     "margin_balance": 3076,
     "today_close": 25.25,
-    "estimated_cost": 46.16
+    "estimated_cost": 45.4
    },
    {
     "code": "2483",
     "name": "百容",
-    "ratio": 118.2,
-    "risk_level": "margin_call",
+    "ratio": 120.4,
+    "risk_level": "high_risk",
     "margin_balance": 2058,
     "today_close": 31.9,
-    "estimated_cost": 44.97
+    "estimated_cost": 44.17
    },
    {
     "code": "4127",
     "name": "天良",
-    "ratio": 128.8,
+    "ratio": 129.5,
     "risk_level": "high_risk",
     "margin_balance": 1098,
     "today_close": 62.0,
-    "estimated_cost": 80.2
+    "estimated_cost": 79.8
    }
   ],
   "thresholds": {
