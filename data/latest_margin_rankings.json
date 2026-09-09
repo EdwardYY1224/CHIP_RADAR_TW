@@ -1,6 +1,6 @@
 {
  "trade_date": "20260909",
- "updated_at": "2026-09-10T01:23:25.099255+08:00",
+ "updated_at": "2026-09-10T02:11:00.207665+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5011,48 +5011,48 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1168,
-   "watch": 40,
+   "healthy": 1031,
+   "watch": 34,
    "high_risk": 0,
    "margin_call": 4,
-   "insufficient_data": 1005
+   "insufficient_data": 1148
   },
   "high_risk_stocks": [
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 9.6,
+    "ratio": 9.9,
     "risk_level": "margin_call",
     "margin_balance": 109215,
     "today_close": 54.9,
-    "estimated_cost": 955.32
+    "estimated_cost": 922.81
    },
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 52.8,
+    "ratio": 57.3,
     "risk_level": "margin_call",
     "margin_balance": 6540,
     "today_close": 72.9,
-    "estimated_cost": 230.1
+    "estimated_cost": 212.17
    },
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 68.6,
+    "ratio": 69.8,
     "risk_level": "margin_call",
     "margin_balance": 2825,
     "today_close": 2325.0,
-    "estimated_cost": 5648.5
+    "estimated_cost": 5554.83
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 92.9,
+    "ratio": 94.6,
     "risk_level": "margin_call",
     "margin_balance": 3102,
     "today_close": 25.3,
-    "estimated_cost": 45.4
+    "estimated_cost": 44.59
    }
   ],
   "thresholds": {

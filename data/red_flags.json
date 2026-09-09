@@ -1,22 +1,7 @@
 {
-  "generated_at": "2026-09-10T01:21:02.425863+08:00",
+  "generated_at": "2026-09-10T02:08:44.917265+08:00",
   "trade_date": "20260909",
   "pump_suspicion": [
-    {
-      "stock_code": "1409",
-      "stock_name": "新纖",
-      "branch_code": "920F",
-      "branch_name": "凱基-站前",
-      "master": "張濬安(航海王)",
-      "buy_lot": 1017,
-      "sell_lot": 871,
-      "buy_amt_wan": 2731,
-      "daytrade_ratio": 0.86,
-      "amt_vs_median_x": 3.0,
-      "rule": "A_pump",
-      "severity": "high",
-      "reasoning": "當沖比 86% (> 70%) + 漲停 + 買金額 2,731 萬 (中位數 896 萬 × 3.0)"
-    },
     {
       "stock_code": "5314",
       "stock_name": "世紀*",
@@ -545,88 +530,12 @@
       "reasoning": "989N 買 63 張 vs 9661 賣 74 張 (匹配 85%)"
     }
   ],
-  "distribution": [
-    {
-      "stock_code": "6426",
-      "stock_name": "統新",
-      "branch_code": "779Z",
-      "branch_name": "國票-安和",
-      "master": "張濬安(航海王)",
-      "sell_lot": 136,
-      "sell_amt_wan": 4154,
-      "avg_30d_sell_lot": 27.0,
-      "sell_vs_avg_x": 5.0,
-      "recent_5d_limit_up_count": 10,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 136 張 (30 天均 27 張 × 5.0) + 近 5 天漲停 10 次"
-    },
-    {
-      "stock_code": "2303",
-      "stock_name": "聯電",
-      "branch_code": "9B2E",
-      "branch_name": "台新-城中",
-      "master": "張濬安(航海王)",
-      "sell_lot": 761,
-      "sell_amt_wan": 10766,
-      "avg_30d_sell_lot": 124.0,
-      "sell_vs_avg_x": 6.1,
-      "recent_5d_limit_up_count": 73,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 761 張 (30 天均 124 張 × 6.1) + 近 5 天漲停 73 次"
-    },
-    {
-      "stock_code": "6907",
-      "stock_name": "雅特力-KY",
-      "branch_code": "7003",
-      "branch_name": "兆豐-台中",
-      "master": "劉子豪",
-      "sell_lot": 102,
-      "sell_amt_wan": 2021,
-      "avg_30d_sell_lot": 9.0,
-      "sell_vs_avg_x": 11.3,
-      "recent_5d_limit_up_count": 5,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 102 張 (30 天均 9 張 × 11.3) + 近 5 天漲停 5 次"
-    },
-    {
-      "stock_code": "4979",
-      "stock_name": "華星光",
-      "branch_code": "918e",
-      "branch_name": "群益金鼎-大安",
-      "master": "群益大安(強勢波段)",
-      "sell_lot": 119,
-      "sell_amt_wan": 7667,
-      "avg_30d_sell_lot": 22.7,
-      "sell_vs_avg_x": 5.2,
-      "recent_5d_limit_up_count": 48,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 119 張 (30 天均 23 張 × 5.2) + 近 5 天漲停 48 次"
-    },
-    {
-      "stock_code": "6510",
-      "stock_name": "精測",
-      "branch_code": "1360",
-      "branch_name": "港商麥格理",
-      "master": "麥格理",
-      "sell_lot": 60,
-      "sell_amt_wan": 22836,
-      "avg_30d_sell_lot": 11.0,
-      "sell_vs_avg_x": 5.5,
-      "recent_5d_limit_up_count": 39,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 60 張 (30 天均 11 張 × 5.5) + 近 5 天漲停 39 次"
-    }
-  ],
+  "distribution": [],
   "summary": {
-    "pump_count": 2,
+    "pump_count": 1,
     "wash_count": 30,
-    "distribution_count": 5,
-    "total": 37
+    "distribution_count": 0,
+    "total": 31
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
