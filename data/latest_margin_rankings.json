@@ -1,6 +1,6 @@
 {
  "trade_date": "20260914",
- "updated_at": "2026-09-15T02:52:08.992529+08:00",
+ "updated_at": "2026-09-15T03:47:43.979068+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5002,75 +5002,75 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1142,
-   "watch": 96,
+   "healthy": 1157,
+   "watch": 78,
    "high_risk": 3,
    "margin_call": 4,
-   "insufficient_data": 972
+   "insufficient_data": 975
   },
   "high_risk_stocks": [
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 10.8,
+    "ratio": 11.2,
     "risk_level": "margin_call",
     "margin_balance": 110759,
     "today_close": 55.8,
-    "estimated_cost": 860.37
-   },
-   {
-    "code": "5904",
-    "name": "寶雅*",
-    "ratio": 69.5,
-    "risk_level": "margin_call",
-    "margin_balance": 6086,
-    "today_close": 72.9,
-    "estimated_cost": 174.83
+    "estimated_cost": 828.57
    },
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 70.5,
+    "ratio": 72.1,
     "risk_level": "margin_call",
     "margin_balance": 2974,
     "today_close": 2270.0,
-    "estimated_cost": 5367.0
+    "estimated_cost": 5245.17
+   },
+   {
+    "code": "5904",
+    "name": "寶雅*",
+    "ratio": 77.8,
+    "risk_level": "margin_call",
+    "margin_balance": 6086,
+    "today_close": 72.9,
+    "estimated_cost": 156.09
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 96.9,
+    "ratio": 98.8,
     "risk_level": "margin_call",
     "margin_balance": 3156,
     "today_close": 25.0,
-    "estimated_cost": 43.0
+    "estimated_cost": 42.19
    },
    {
     "code": "6994",
     "name": "富威電力",
-    "ratio": 121.5,
+    "ratio": 124.3,
     "risk_level": "high_risk",
     "margin_balance": 2984,
     "today_close": 28.0,
-    "estimated_cost": 38.42
+    "estimated_cost": 37.55
    },
    {
     "code": "2442",
     "name": "新美齊",
-    "ratio": 127.3,
+    "ratio": 128.3,
     "risk_level": "high_risk",
     "margin_balance": 4154,
     "today_close": 14.6,
-    "estimated_cost": 19.11
+    "estimated_cost": 18.96
    },
    {
     "code": "8096",
     "name": "擎亞",
-    "ratio": 127.8,
+    "ratio": 129.0,
     "risk_level": "high_risk",
     "margin_balance": 18838,
     "today_close": 86.0,
-    "estimated_cost": 112.11
+    "estimated_cost": 111.15
    }
   ],
   "thresholds": {

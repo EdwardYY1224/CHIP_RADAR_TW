@@ -466,7 +466,7 @@
     {
      "code": "2481",
      "name": "強茂",
-     "cum_net_wan": 214301,
+     "cum_net_wan": 215592,
      "distinct_traders": 40
     },
     {
@@ -539,7 +539,7 @@
    "rows": [
     {
      "date": "20260914",
-     "row_count": 7406,
+     "row_count": 7420,
      "traders_active": 51,
      "branches_active": 77
     }
@@ -1177,15 +1177,15 @@
     },
     {
      "date": "20260914",
-     "top_master": "陳泊澔",
-     "day_buy_wan": 47119,
-     "row_count": 76
+     "top_master": "永豐天母(老錢)",
+     "day_buy_wan": 51239,
+     "row_count": 86
     },
     {
      "date": "20260914",
-     "top_master": "永豐天母(老錢)",
-     "day_buy_wan": 43993,
-     "row_count": 74
+     "top_master": "陳泊澔",
+     "day_buy_wan": 47119,
+     "row_count": 76
     },
     {
      "date": "20260914",
@@ -1349,15 +1349,6 @@
      "days_active": 1
     },
     {
-     "code": "00406A",
-     "stock_name": "主動中信台灣收益",
-     "distinct_masters": 42,
-     "buy_wan": 39097,
-     "sell_wan": 101157,
-     "net_wan": -62059,
-     "days_active": 1
-    },
-    {
      "code": "8358",
      "stock_name": "金居",
      "distinct_masters": 41,
@@ -1367,12 +1358,21 @@
      "days_active": 1
     },
     {
+     "code": "00406A",
+     "stock_name": "主動中信台灣收益",
+     "distinct_masters": 41,
+     "buy_wan": 38972,
+     "sell_wan": 101153,
+     "net_wan": -62180,
+     "days_active": 1
+    },
+    {
      "code": "2481",
      "stock_name": "強茂",
      "distinct_masters": 40,
-     "buy_wan": 456525,
-     "sell_wan": 242223,
-     "net_wan": 214301,
+     "buy_wan": 457609,
+     "sell_wan": 242017,
+     "net_wan": 215592,
      "days_active": 1
     },
     {
@@ -1406,18 +1406,18 @@
      "code": "00685L",
      "stock_name": "群益臺灣加權正2",
      "distinct_masters": 38,
-     "buy_wan": 61603,
-     "sell_wan": 94869,
-     "net_wan": -33266,
+     "buy_wan": 61274,
+     "sell_wan": 94172,
+     "net_wan": -32897,
      "days_active": 1
     },
     {
      "code": "00631L",
      "stock_name": "元大台灣50正2",
      "distinct_masters": 38,
-     "buy_wan": 154222,
-     "sell_wan": 208775,
-     "net_wan": -54553,
+     "buy_wan": 152997,
+     "sell_wan": 206859,
+     "net_wan": -53862,
      "days_active": 1
     },
     {
@@ -1599,8 +1599,8 @@
     {
      "master": "永豐天母(老錢)",
      "active_days": 1,
-     "avg_day_wan": 43994.0,
-     "total_wan": 43993
+     "avg_day_wan": 51239.0,
+     "total_wan": 51239
     },
     {
      "master": "民哥",
