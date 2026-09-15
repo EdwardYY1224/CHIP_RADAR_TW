@@ -1,6 +1,6 @@
 {
  "trade_date": "20260915",
- "updated_at": "2026-09-16T01:54:35.699995+08:00",
+ "updated_at": "2026-09-16T02:40:54.852072+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5008,9 +5008,9 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1147,
-   "watch": 116,
-   "high_risk": 4,
+   "healthy": 1158,
+   "watch": 106,
+   "high_risk": 3,
    "margin_call": 5,
    "insufficient_data": 945
   },
@@ -5018,83 +5018,74 @@
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 10.3,
+    "ratio": 10.8,
     "risk_level": "margin_call",
     "margin_balance": 110832,
     "today_close": 51.4,
-    "estimated_cost": 828.57
+    "estimated_cost": 796.78
    },
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 73.6,
+    "ratio": 75.4,
     "risk_level": "margin_call",
     "margin_balance": 2989,
     "today_close": 2315.0,
-    "estimated_cost": 5245.17
+    "estimated_cost": 5115.5
    },
    {
     "code": "5904",
     "name": "寶雅*",
-    "ratio": 77.9,
+    "ratio": 88.9,
     "risk_level": "margin_call",
     "margin_balance": 6039,
     "today_close": 73.0,
-    "estimated_cost": 156.09
+    "estimated_cost": 136.82
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 96.8,
+    "ratio": 98.8,
     "risk_level": "margin_call",
     "margin_balance": 3155,
     "today_close": 24.5,
-    "estimated_cost": 42.19
+    "estimated_cost": 41.35
    },
    {
     "code": "6994",
     "name": "富威電力",
-    "ratio": 115.8,
+    "ratio": 117.0,
     "risk_level": "margin_call",
     "margin_balance": 2921,
     "today_close": 26.1,
-    "estimated_cost": 37.55
+    "estimated_cost": 37.17
    },
    {
     "code": "4127",
     "name": "天良",
-    "ratio": 125.4,
+    "ratio": 126.4,
     "risk_level": "high_risk",
     "margin_balance": 1196,
     "today_close": 59.0,
-    "estimated_cost": 78.42
+    "estimated_cost": 77.81
    },
    {
     "code": "2442",
     "name": "新美齊",
-    "ratio": 127.0,
+    "ratio": 128.1,
     "risk_level": "high_risk",
     "margin_balance": 4073,
     "today_close": 14.45,
-    "estimated_cost": 18.96
+    "estimated_cost": 18.8
    },
    {
     "code": "3257",
     "name": "虹冠電",
-    "ratio": 127.8,
+    "ratio": 129.8,
     "risk_level": "high_risk",
     "margin_balance": 2284,
     "today_close": 46.6,
-    "estimated_cost": 60.76
-   },
-   {
-    "code": "8096",
-    "name": "擎亞",
-    "ratio": 129.0,
-    "risk_level": "high_risk",
-    "margin_balance": 18677,
-    "today_close": 86.0,
-    "estimated_cost": 111.15
+    "estimated_cost": 59.82
    }
   ],
   "thresholds": {
