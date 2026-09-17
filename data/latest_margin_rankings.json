@@ -1,6 +1,6 @@
 {
  "trade_date": "20260917",
- "updated_at": "2026-09-18T01:52:11.829080+08:00",
+ "updated_at": "2026-09-18T02:44:25.563726+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5006,93 +5006,84 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1165,
-   "watch": 48,
+   "healthy": 1172,
+   "watch": 42,
    "high_risk": 5,
-   "margin_call": 4,
+   "margin_call": 3,
    "insufficient_data": 995
   },
   "high_risk_stocks": [
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 11.8,
+    "ratio": 12.3,
     "risk_level": "margin_call",
     "margin_balance": 109969,
     "today_close": 54.4,
-    "estimated_cost": 765.48
+    "estimated_cost": 734.33
    },
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 71.4,
+    "ratio": 73.5,
     "risk_level": "margin_call",
     "margin_balance": 3492,
     "today_close": 2135.0,
-    "estimated_cost": 4981.83
+    "estimated_cost": 4844.17
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 98.8,
+    "ratio": 101.1,
     "risk_level": "margin_call",
     "margin_balance": 3128,
     "today_close": 24.0,
-    "estimated_cost": 40.47
-   },
-   {
-    "code": "5904",
-    "name": "寶雅*",
-    "ratio": 103.4,
-    "risk_level": "margin_call",
-    "margin_balance": 6013,
-    "today_close": 72.6,
-    "estimated_cost": 117.01
-   },
-   {
-    "code": "5314",
-    "name": "世紀*",
-    "ratio": 122.2,
-    "risk_level": "high_risk",
-    "margin_balance": 14113,
-    "today_close": 27.75,
-    "estimated_cost": 37.83
+    "estimated_cost": 39.56
    },
    {
     "code": "6994",
     "name": "富威電力",
-    "ratio": 122.6,
+    "ratio": 124.5,
     "risk_level": "high_risk",
     "margin_balance": 2945,
     "today_close": 26.75,
-    "estimated_cost": 36.36
+    "estimated_cost": 35.81
    },
    {
-    "code": "2483",
-    "name": "百容",
-    "ratio": 125.1,
+    "code": "5904",
+    "name": "寶雅*",
+    "ratio": 125.0,
     "risk_level": "high_risk",
-    "margin_balance": 2077,
-    "today_close": 32.4,
-    "estimated_cost": 43.17
+    "margin_balance": 6013,
+    "today_close": 72.6,
+    "estimated_cost": 96.8
+   },
+   {
+    "code": "5314",
+    "name": "世紀*",
+    "ratio": 125.8,
+    "risk_level": "high_risk",
+    "margin_balance": 14113,
+    "today_close": 27.75,
+    "estimated_cost": 36.78
    },
    {
     "code": "2442",
     "name": "新美齊",
-    "ratio": 126.7,
+    "ratio": 127.9,
     "risk_level": "high_risk",
     "margin_balance": 4073,
     "today_close": 14.3,
-    "estimated_cost": 18.8
+    "estimated_cost": 18.64
    },
    {
-    "code": "4127",
-    "name": "天良",
-    "ratio": 129.0,
+    "code": "2483",
+    "name": "百容",
+    "ratio": 128.5,
     "risk_level": "high_risk",
-    "margin_balance": 1198,
-    "today_close": 59.6,
-    "estimated_cost": 76.97
+    "margin_balance": 2077,
+    "today_close": 32.4,
+    "estimated_cost": 42.01
    }
   ],
   "thresholds": {
