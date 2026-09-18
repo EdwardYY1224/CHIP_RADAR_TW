@@ -1,6 +1,6 @@
 {
  "trade_date": "20260918",
- "updated_at": "2026-09-19T01:19:51.149246+08:00",
+ "updated_at": "2026-09-19T02:04:32.451066+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5001,57 +5001,39 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1178,
-   "watch": 38,
-   "high_risk": 2,
+   "healthy": 1182,
+   "watch": 34,
+   "high_risk": 0,
    "margin_call": 3,
-   "insufficient_data": 995
+   "insufficient_data": 997
   },
   "high_risk_stocks": [
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 12.4,
+    "ratio": 12.9,
     "risk_level": "margin_call",
     "margin_balance": 110207,
     "today_close": 54.5,
-    "estimated_cost": 734.33
+    "estimated_cost": 706.45
    },
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 73.6,
+    "ratio": 75.7,
     "risk_level": "margin_call",
     "margin_balance": 3433,
     "today_close": 2140.0,
-    "estimated_cost": 4844.17
+    "estimated_cost": 4712.17
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 101.3,
+    "ratio": 103.6,
     "risk_level": "margin_call",
     "margin_balance": 3122,
     "today_close": 24.05,
-    "estimated_cost": 39.56
-   },
-   {
-    "code": "5904",
-    "name": "寶雅*",
-    "ratio": 124.1,
-    "risk_level": "high_risk",
-    "margin_balance": 6063,
-    "today_close": 72.1,
-    "estimated_cost": 96.8
-   },
-   {
-    "code": "6994",
-    "name": "富威電力",
-    "ratio": 129.4,
-    "risk_level": "high_risk",
-    "margin_balance": 2934,
-    "today_close": 27.8,
-    "estimated_cost": 35.81
+    "estimated_cost": 38.7
    }
   ],
   "thresholds": {
