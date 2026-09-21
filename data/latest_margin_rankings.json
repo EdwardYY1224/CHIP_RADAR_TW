@@ -1,6 +1,6 @@
 {
  "trade_date": "20260921",
- "updated_at": "2026-09-22T02:55:52.755287+08:00",
+ "updated_at": "2026-09-22T03:57:06.794497+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5008,8 +5008,8 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1187,
-   "watch": 31,
+   "healthy": 1193,
+   "watch": 25,
    "high_risk": 0,
    "margin_call": 3,
    "insufficient_data": 995
@@ -5018,29 +5018,29 @@
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 12.7,
+    "ratio": 13.2,
     "risk_level": "margin_call",
     "margin_balance": 110334,
     "today_close": 53.8,
-    "estimated_cost": 706.45
+    "estimated_cost": 681.51
    },
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 76.0,
+    "ratio": 78.2,
     "risk_level": "margin_call",
     "margin_balance": 3524,
     "today_close": 2150.0,
-    "estimated_cost": 4712.17
+    "estimated_cost": 4583.5
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 102.3,
+    "ratio": 104.5,
     "risk_level": "margin_call",
     "margin_balance": 3146,
     "today_close": 23.75,
-    "estimated_cost": 38.7
+    "estimated_cost": 37.87
    }
   ],
   "thresholds": {
