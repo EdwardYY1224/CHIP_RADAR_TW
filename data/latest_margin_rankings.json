@@ -1,6 +1,6 @@
 {
  "trade_date": "20260922",
- "updated_at": "2026-09-23T01:53:42.954846+08:00",
+ "updated_at": "2026-09-23T02:29:30.587136+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5014,9 +5014,9 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1179,
-   "watch": 31,
-   "high_risk": 3,
+   "healthy": 1186,
+   "watch": 26,
+   "high_risk": 1,
    "margin_call": 2,
    "insufficient_data": 1001
   },
@@ -5024,47 +5024,29 @@
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 76.9,
+    "ratio": 79.1,
     "risk_level": "margin_call",
     "margin_balance": 3477,
     "today_close": 2115.0,
-    "estimated_cost": 4583.5
+    "estimated_cost": 4456.33
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 103.9,
+    "ratio": 106.2,
     "risk_level": "margin_call",
     "margin_balance": 3166,
     "today_close": 23.6,
-    "estimated_cost": 37.87
+    "estimated_cost": 37.05
    },
    {
     "code": "4127",
     "name": "天良",
-    "ratio": 121.8,
+    "ratio": 123.7,
     "risk_level": "high_risk",
     "margin_balance": 1143,
     "today_close": 54.2,
-    "estimated_cost": 74.19
-   },
-   {
-    "code": "5314",
-    "name": "世紀*",
-    "ratio": 125.7,
-    "risk_level": "high_risk",
-    "margin_balance": 14450,
-    "today_close": 26.15,
-    "estimated_cost": 34.68
-   },
-   {
-    "code": "9136",
-    "name": "巨騰-DR",
-    "ratio": 127.9,
-    "risk_level": "high_risk",
-    "margin_balance": 11489,
-    "today_close": 9.28,
-    "estimated_cost": 12.1
+    "estimated_cost": 73.01
    }
   ],
   "thresholds": {
