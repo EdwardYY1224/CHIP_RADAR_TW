@@ -973,26 +973,173 @@
       "hits": 3,
       "hit_rate": 0.25,
       "mean_change": -1.37
+    },
+    {
+      "date": "20260922",
+      "next_date": "20260923",
+      "q5_direction": "偏多",
+      "q5_confidence": 95,
+      "taifex_change": 0.17,
+      "vol_spike_masters": [
+        "竹科主力分點"
+      ],
+      "quad_picks": [
+        {
+          "code": "3008",
+          "name": "大立光",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": -3.36,
+          "hit": false,
+          "leader_pct": 0.617,
+          "excess_return": -3.53,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)",
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "6669",
+          "name": "緯穎",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": -0.47,
+          "hit": false,
+          "leader_pct": 0.402,
+          "excess_return": -0.64,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "2408",
+          "name": "南亞科",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 3.62,
+          "hit": true,
+          "leader_pct": 0.194,
+          "excess_return": 3.45,
+          "failure_reasons": []
+        },
+        {
+          "code": "3231",
+          "name": "緯創",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": -0.28,
+          "hit": false,
+          "leader_pct": 0.226,
+          "excess_return": -0.45,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "1303",
+          "name": "南亞",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": -1.73,
+          "hit": false,
+          "leader_pct": 0.473,
+          "excess_return": -1.9,
+          "failure_reasons": [
+            "alpha noise (個股無系統性原因)"
+          ]
+        },
+        {
+          "code": "3081",
+          "name": "聯亞",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": -5.13,
+          "hit": false,
+          "leader_pct": 0.28,
+          "excess_return": -5.3,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "1314",
+          "name": "中石化",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 3.09,
+          "hit": true,
+          "leader_pct": 0.216,
+          "excess_return": 2.92,
+          "failure_reasons": []
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 1.63,
+          "hit": true,
+          "leader_pct": 0.289,
+          "excess_return": 1.46,
+          "failure_reasons": []
+        },
+        {
+          "code": "2883",
+          "name": "凱基金",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 0.13,
+          "hit": true,
+          "leader_pct": 0.265,
+          "excess_return": -0.04,
+          "failure_reasons": []
+        },
+        {
+          "code": "3661",
+          "name": "世芯-KY",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 1.21,
+          "hit": true,
+          "leader_pct": 0.259,
+          "excess_return": 1.04,
+          "failure_reasons": []
+        }
+      ],
+      "n": 10,
+      "hits": 5,
+      "hit_rate": 0.5,
+      "mean_change": -0.13
     }
   ],
   "rolling_30d": {
-    "trigger_days": 3,
-    "n": 28,
-    "hits": 11,
-    "hit_rate": 0.3929,
-    "mean_change": -0.07
+    "trigger_days": 4,
+    "n": 38,
+    "hits": 16,
+    "hit_rate": 0.4211,
+    "mean_change": -0.08
   },
   "rolling_all": {
-    "trigger_days": 6,
-    "n": 61,
-    "hits": 17,
-    "hit_rate": 0.2787,
-    "mean_change": -1.09
+    "trigger_days": 7,
+    "n": 71,
+    "hits": 22,
+    "hit_rate": 0.3099,
+    "mean_change": -0.96
   },
   "vs_expected": {
     "expected_hit_rate": 0.789,
-    "actual_hit_rate": 0.2787,
-    "delta_pp": -51.0
+    "actual_hit_rate": 0.3099,
+    "delta_pp": -47.9
   },
-  "updated_at": "2026-09-22T19:25:17.722038"
+  "updated_at": "2026-09-23T18:12:40.833205"
 }
