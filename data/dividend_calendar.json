@@ -15,13 +15,6 @@
    "cash_dividend": null,
    "stock_dividend_pct": 0.0
   },
-  "00713": {
-   "ex_date": "20260921",
-   "name": "元大台灣高息低波",
-   "type": "息",
-   "cash_dividend": 1.25,
-   "stock_dividend_pct": 0.0
-  },
   "00930": {
    "ex_date": "20260923",
    "name": "永豐ESG低碳高息",
@@ -98,6 +91,13 @@
    "type": "權",
    "cash_dividend": 0.0,
    "stock_dividend_pct": 0.00999999
+  },
+  "1727": {
+   "ex_date": "20261013",
+   "name": "中華化",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
   },
   "1808": {
    "ex_date": "20260923",
@@ -207,9 +207,6 @@
    "00939",
    "00984D"
   ],
-  "20260921": [
-   "00713"
-  ],
   "20260923": [
    "00930",
    "1442",
@@ -235,6 +232,9 @@
   "20261012": [
    "1449"
   ],
+  "20261013": [
+   "1727"
+  ],
   "20260929": [
    "2109",
    "7631"
@@ -255,14 +255,6 @@
   ]
  },
  "upcoming_30d": [
-  {
-   "code": "1235",
-   "ex_date": "20260924",
-   "name": "興泰",
-   "type": "權息",
-   "cash_dividend": 0.5,
-   "stock_dividend_pct": 0.04999999
-  },
   {
    "code": "2109",
    "ex_date": "20260929",
@@ -422,8 +414,16 @@
    "type": "權",
    "cash_dividend": 0.0,
    "stock_dividend_pct": 0.00999999
+  },
+  {
+   "code": "1727",
+   "ex_date": "20261013",
+   "name": "中華化",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
   }
  ],
- "fetched_at": "2026-09-24T03:28:42.380084+08:00",
+ "fetched_at": "2026-09-25T03:44:01.932074+08:00",
  "source": "https://www.twse.com.tw/exchangeReport/TWT48U?response=json"
 }

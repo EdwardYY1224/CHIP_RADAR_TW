@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T02:51:12.372625+08:00",
+  "generated_at": "2026-09-25T03:41:43.612000+08:00",
   "trade_date": "20260924",
   "pump_suspicion": [
     {
@@ -528,36 +528,36 @@
     {
       "stock_code": "2409",
       "stock_name": "友達",
-      "buy_branch_code": "9A9g",
-      "buy_master": "陳族元",
-      "sell_branch_code": "779Z",
-      "sell_master": "張濬安(航海王)",
-      "buy_lot": 559,
-      "sell_lot": 522,
-      "buy_amt_wan": 1912,
-      "sell_amt_wan": 1785,
-      "lot_match_ratio": 0.93,
+      "buy_branch_code": "700c",
+      "buy_master": "陳律師",
+      "sell_branch_code": "779u",
+      "sell_master": "宋福祥",
+      "buy_lot": 101,
+      "sell_lot": 103,
+      "buy_amt_wan": 345,
+      "sell_amt_wan": 355,
+      "lot_match_ratio": 0.98,
       "same_master": false,
       "rule": "B_wash",
       "severity": "medium",
-      "reasoning": "9A9g 買 559 張 vs 779Z 賣 522 張 (匹配 93%)"
+      "reasoning": "700c 買 101 張 vs 779u 賣 103 張 (匹配 98%)"
     },
     {
       "stock_code": "2409",
       "stock_name": "友達",
-      "buy_branch_code": "9A9g",
-      "buy_master": "陳族元",
-      "sell_branch_code": "961M",
-      "sell_master": "張濬安(航海王)",
-      "buy_lot": 559,
-      "sell_lot": 747,
-      "buy_amt_wan": 1912,
-      "sell_amt_wan": 2606,
-      "lot_match_ratio": 0.75,
+      "buy_branch_code": "700c",
+      "buy_master": "陳律師",
+      "sell_branch_code": "585Q",
+      "sell_master": "呂金發",
+      "buy_lot": 101,
+      "sell_lot": 93,
+      "buy_amt_wan": 345,
+      "sell_amt_wan": 318,
+      "lot_match_ratio": 0.92,
       "same_master": false,
       "rule": "B_wash",
       "severity": "medium",
-      "reasoning": "9A9g 買 559 張 vs 961M 賣 747 張 (匹配 75%)"
+      "reasoning": "700c 買 101 張 vs 585Q 賣 93 張 (匹配 92%)"
     }
   ],
   "distribution": [
@@ -592,6 +592,21 @@
       "reasoning": "當日賣 230 張 (30 天均 45 張 × 5.1) + 近 5 天漲停 69 次"
     },
     {
+      "stock_code": "1709",
+      "stock_name": "和益",
+      "branch_code": "9A9g",
+      "branch_name": "永豐金-內湖",
+      "master": "陳族元",
+      "sell_lot": 1401,
+      "sell_amt_wan": 6268,
+      "avg_30d_sell_lot": 146.6,
+      "sell_vs_avg_x": 9.6,
+      "recent_5d_limit_up_count": 26,
+      "rule": "C_distribution",
+      "severity": "medium",
+      "reasoning": "當日賣 1,401 張 (30 天均 147 張 × 9.6) + 近 5 天漲停 26 次"
+    },
+    {
       "stock_code": "2368",
       "stock_name": "金像電",
       "branch_code": "9227",
@@ -610,8 +625,8 @@
   "summary": {
     "pump_count": 3,
     "wash_count": 30,
-    "distribution_count": 3,
-    "total": 36
+    "distribution_count": 4,
+    "total": 37
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
