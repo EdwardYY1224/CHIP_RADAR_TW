@@ -1,6 +1,6 @@
 {
  "trade_date": "20260924",
- "updated_at": "2026-09-26T02:09:22.702808+08:00",
+ "updated_at": "2026-09-26T03:02:24.209711+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5007,9 +5007,9 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1658,
-   "watch": 88,
-   "high_risk": 3,
+   "healthy": 1664,
+   "watch": 84,
+   "high_risk": 1,
    "margin_call": 4,
    "insufficient_data": 463
   },
@@ -5058,24 +5058,6 @@
     "margin_balance": 2466,
     "today_close": 109.5,
     "estimated_cost": 142.66
-   },
-   {
-    "code": "2442",
-    "name": "新美齊",
-    "ratio": 129.0,
-    "risk_level": "high_risk",
-    "margin_balance": 4019,
-    "today_close": 14.3,
-    "estimated_cost": 18.48
-   },
-   {
-    "code": "2483",
-    "name": "百容",
-    "ratio": 129.1,
-    "risk_level": "high_risk",
-    "margin_balance": 2020,
-    "today_close": 32.55,
-    "estimated_cost": 42.01
    }
   ],
   "thresholds": {
