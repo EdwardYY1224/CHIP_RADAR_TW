@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T04:54:51.299313+08:00",
+  "generated_at": "2026-09-29T05:32:24.349044+08:00",
   "trade_date": "20260924",
   "pump_suspicion": [
     {
@@ -12,10 +12,10 @@
       "sell_lot": 794,
       "buy_amt_wan": 34541,
       "daytrade_ratio": 0.78,
-      "amt_vs_median_x": 7.4,
+      "amt_vs_median_x": 7.6,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 78% (> 70%) + 漲停 + 買金額 34,541 萬 (中位數 4,655 萬 × 7.4)"
+      "reasoning": "當沖比 78% (> 70%) + 漲停 + 買金額 34,541 萬 (中位數 4,559 萬 × 7.6)"
     },
     {
       "stock_code": "3016",
@@ -27,10 +27,10 @@
       "sell_lot": 1046,
       "buy_amt_wan": 17159,
       "daytrade_ratio": 0.97,
-      "amt_vs_median_x": 5.2,
+      "amt_vs_median_x": 4.4,
       "rule": "A_pump",
       "severity": "high",
-      "reasoning": "當沖比 97% (> 70%) + 漲停 + 買金額 17,159 萬 (中位數 3,327 萬 × 5.2)"
+      "reasoning": "當沖比 97% (> 70%) + 漲停 + 買金額 17,159 萬 (中位數 3,920 萬 × 4.4)"
     },
     {
       "stock_code": "6933",
@@ -534,7 +534,7 @@
       "sell_master": "張濬安(航海王)",
       "buy_lot": 559,
       "sell_lot": 522,
-      "buy_amt_wan": 1912,
+      "buy_amt_wan": 1117,
       "sell_amt_wan": 1785,
       "lot_match_ratio": 0.93,
       "same_master": false,
@@ -551,7 +551,7 @@
       "sell_master": "張濬安(航海王)",
       "buy_lot": 559,
       "sell_lot": 747,
-      "buy_amt_wan": 1912,
+      "buy_amt_wan": 1117,
       "sell_amt_wan": 2606,
       "lot_match_ratio": 0.75,
       "same_master": false,
@@ -592,6 +592,21 @@
       "reasoning": "當日賣 230 張 (30 天均 45 張 × 5.1) + 近 5 天漲停 69 次"
     },
     {
+      "stock_code": "1709",
+      "stock_name": "和益",
+      "branch_code": "9A9g",
+      "branch_name": "永豐金-內湖",
+      "master": "陳族元",
+      "sell_lot": 1441,
+      "sell_amt_wan": 6268,
+      "avg_30d_sell_lot": 146.6,
+      "sell_vs_avg_x": 9.8,
+      "recent_5d_limit_up_count": 26,
+      "rule": "C_distribution",
+      "severity": "medium",
+      "reasoning": "當日賣 1,441 張 (30 天均 147 張 × 9.8) + 近 5 天漲停 26 次"
+    },
+    {
       "stock_code": "2368",
       "stock_name": "金像電",
       "branch_code": "9227",
@@ -610,8 +625,8 @@
   "summary": {
     "pump_count": 3,
     "wash_count": 30,
-    "distribution_count": 3,
-    "total": 36
+    "distribution_count": 4,
+    "total": 37
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
