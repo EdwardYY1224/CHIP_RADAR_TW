@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T03:47:48.093778+08:00",
+  "generated_at": "2026-09-30T04:24:56.948294+08:00",
   "trade_date": "20260929",
   "pump_suspicion": [],
   "wash_trade": [
@@ -19,40 +19,6 @@
       "rule": "B_wash",
       "severity": "medium",
       "reasoning": "920F 買 75 張 vs 9200 賣 106 張 (匹配 71%)"
-    },
-    {
-      "stock_code": "2454",
-      "stock_name": "聯發科",
-      "buy_branch_code": "9A9g",
-      "buy_master": "陳族元",
-      "sell_branch_code": "9200",
-      "sell_master": "凱基證券",
-      "buy_lot": 149,
-      "sell_lot": 106,
-      "buy_amt_wan": 75581,
-      "sell_amt_wan": 51804,
-      "lot_match_ratio": 0.71,
-      "same_master": false,
-      "rule": "B_wash",
-      "severity": "medium",
-      "reasoning": "9A9g 買 149 張 vs 9200 賣 106 張 (匹配 71%)"
-    },
-    {
-      "stock_code": "2454",
-      "stock_name": "聯發科",
-      "buy_branch_code": "9A9g",
-      "buy_master": "陳族元",
-      "sell_branch_code": "9676",
-      "sell_master": "謝孟恭(股癌)",
-      "buy_lot": 149,
-      "sell_lot": 117,
-      "buy_amt_wan": 75581,
-      "sell_amt_wan": 60147,
-      "lot_match_ratio": 0.79,
-      "same_master": false,
-      "rule": "B_wash",
-      "severity": "medium",
-      "reasoning": "9A9g 買 149 張 vs 9676 賣 117 張 (匹配 79%)"
     },
     {
       "stock_code": "2454",
@@ -312,6 +278,57 @@
     {
       "stock_code": "6213",
       "stock_name": "聯茂",
+      "buy_branch_code": "9A9g",
+      "buy_master": "陳族元",
+      "sell_branch_code": "9216",
+      "sell_master": "林滄海",
+      "buy_lot": 53,
+      "sell_lot": 64,
+      "buy_amt_wan": 3241,
+      "sell_amt_wan": 3963,
+      "lot_match_ratio": 0.83,
+      "same_master": false,
+      "rule": "B_wash",
+      "severity": "medium",
+      "reasoning": "9A9g 買 53 張 vs 9216 賣 64 張 (匹配 83%)"
+    },
+    {
+      "stock_code": "6213",
+      "stock_name": "聯茂",
+      "buy_branch_code": "9A9g",
+      "buy_master": "陳族元",
+      "sell_branch_code": "9B18",
+      "sell_master": "蔣承翰",
+      "buy_lot": 53,
+      "sell_lot": 50,
+      "buy_amt_wan": 3241,
+      "sell_amt_wan": 2994,
+      "lot_match_ratio": 0.94,
+      "same_master": false,
+      "rule": "B_wash",
+      "severity": "medium",
+      "reasoning": "9A9g 買 53 張 vs 9B18 賣 50 張 (匹配 94%)"
+    },
+    {
+      "stock_code": "6213",
+      "stock_name": "聯茂",
+      "buy_branch_code": "9A9g",
+      "buy_master": "陳族元",
+      "sell_branch_code": "9A9J",
+      "sell_master": "丁凌全",
+      "buy_lot": 53,
+      "sell_lot": 52,
+      "buy_amt_wan": 3241,
+      "sell_amt_wan": 3221,
+      "lot_match_ratio": 0.98,
+      "same_master": false,
+      "rule": "B_wash",
+      "severity": "medium",
+      "reasoning": "9A9g 買 53 張 vs 9A9J 賣 52 張 (匹配 98%)"
+    },
+    {
+      "stock_code": "6213",
+      "stock_name": "聯茂",
       "buy_branch_code": "9647",
       "buy_master": "竹科主力分點",
       "sell_branch_code": "9216",
@@ -495,47 +512,14 @@
       "rule": "B_wash",
       "severity": "medium",
       "reasoning": "700I 買 68 張 vs 9A9J 賣 52 張 (匹配 76%)"
-    },
-    {
-      "stock_code": "6213",
-      "stock_name": "聯茂",
-      "buy_branch_code": "9A9G",
-      "buy_master": "永豐天母(老錢)",
-      "sell_branch_code": "9216",
-      "sell_master": "林滄海",
-      "buy_lot": 53,
-      "sell_lot": 64,
-      "buy_amt_wan": 3241,
-      "sell_amt_wan": 3963,
-      "lot_match_ratio": 0.83,
-      "same_master": false,
-      "rule": "B_wash",
-      "severity": "medium",
-      "reasoning": "9A9G 買 53 張 vs 9216 賣 64 張 (匹配 83%)"
     }
   ],
-  "distribution": [
-    {
-      "stock_code": "2342",
-      "stock_name": "茂矽",
-      "branch_code": "9A9g",
-      "branch_name": "永豐金-內湖",
-      "master": "陳族元",
-      "sell_lot": 77,
-      "sell_amt_wan": 386,
-      "avg_30d_sell_lot": 15.0,
-      "sell_vs_avg_x": 5.1,
-      "recent_5d_limit_up_count": 9,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 77 張 (30 天均 15 張 × 5.1) + 近 5 天漲停 9 次"
-    }
-  ],
+  "distribution": [],
   "summary": {
     "pump_count": 0,
     "wash_count": 30,
-    "distribution_count": 1,
-    "total": 31
+    "distribution_count": 0,
+    "total": 30
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
