@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T03:57:56.391231+08:00",
+  "generated_at": "2026-10-02T04:42:38.291582+08:00",
   "trade_date": "20261001",
   "pump_suspicion": [
     {
@@ -466,7 +466,7 @@
       "sell_master": "林滄海",
       "buy_lot": 966,
       "sell_lot": 838,
-      "buy_amt_wan": 3700,
+      "buy_amt_wan": 2180,
       "sell_amt_wan": 3301,
       "lot_match_ratio": 0.87,
       "same_master": false,
@@ -483,7 +483,7 @@
       "sell_master": "陳律師",
       "buy_lot": 966,
       "sell_lot": 739,
-      "buy_amt_wan": 3700,
+      "buy_amt_wan": 2180,
       "sell_amt_wan": 2865,
       "lot_match_ratio": 0.77,
       "same_master": false,
@@ -607,21 +607,6 @@
       "reasoning": "當日賣 4,723 張 (30 天均 936 張 × 5.0) + 近 5 天漲停 72 次"
     },
     {
-      "stock_code": "2342",
-      "stock_name": "茂矽",
-      "branch_code": "9A9g",
-      "branch_name": "永豐金-內湖",
-      "master": "陳族元",
-      "sell_lot": 117,
-      "sell_amt_wan": 577,
-      "avg_30d_sell_lot": 15.0,
-      "sell_vs_avg_x": 7.8,
-      "recent_5d_limit_up_count": 9,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 117 張 (30 天均 15 張 × 7.8) + 近 5 天漲停 9 次"
-    },
-    {
       "stock_code": "2409",
       "stock_name": "友達",
       "branch_code": "9B2n",
@@ -670,8 +655,8 @@
   "summary": {
     "pump_count": 3,
     "wash_count": 30,
-    "distribution_count": 7,
-    "total": 40
+    "distribution_count": 6,
+    "total": 39
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
