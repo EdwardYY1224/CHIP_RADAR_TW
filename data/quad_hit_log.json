@@ -1120,26 +1120,106 @@
       "hits": 5,
       "hit_rate": 0.5,
       "mean_change": -0.13
+    },
+    {
+      "date": "20260930",
+      "next_date": "20261001",
+      "q5_direction": "偏多",
+      "q5_confidence": 81.7,
+      "taifex_change": 0.65,
+      "vol_spike_masters": [
+        "布哥/n_nchang"
+      ],
+      "quad_picks": [
+        {
+          "code": "2345",
+          "name": "智邦",
+          "matched_masters": [
+            "布哥/n_nchang"
+          ],
+          "next_change_pct": 7.04,
+          "hit": true,
+          "leader_pct": 0.226,
+          "excess_return": 6.39,
+          "failure_reasons": []
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "matched_masters": [
+            "布哥/n_nchang"
+          ],
+          "next_change_pct": 1.22,
+          "hit": true,
+          "leader_pct": 0.498,
+          "excess_return": 0.57,
+          "failure_reasons": []
+        },
+        {
+          "code": "3026",
+          "name": "禾伸堂",
+          "matched_masters": [
+            "布哥/n_nchang"
+          ],
+          "next_change_pct": 7.71,
+          "hit": true,
+          "leader_pct": 0.309,
+          "excess_return": 7.06,
+          "failure_reasons": []
+        },
+        {
+          "code": "2368",
+          "name": "金像電",
+          "matched_masters": [
+            "布哥/n_nchang"
+          ],
+          "next_change_pct": -2.23,
+          "hit": false,
+          "leader_pct": 0.22,
+          "excess_return": -2.88,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "matched_masters": [
+            "布哥/n_nchang"
+          ],
+          "next_change_pct": -2.49,
+          "hit": false,
+          "leader_pct": 0.279,
+          "excess_return": -3.14,
+          "failure_reasons": [
+            "個股弱勢 (跑輸大盤 >2pp)"
+          ]
+        }
+      ],
+      "n": 5,
+      "hits": 3,
+      "hit_rate": 0.6,
+      "mean_change": 2.25
     }
   ],
   "rolling_30d": {
-    "trigger_days": 2,
-    "n": 22,
-    "hits": 8,
-    "hit_rate": 0.3636,
-    "mean_change": -0.81
+    "trigger_days": 3,
+    "n": 27,
+    "hits": 11,
+    "hit_rate": 0.4074,
+    "mean_change": -0.24
   },
   "rolling_all": {
-    "trigger_days": 7,
-    "n": 71,
-    "hits": 22,
-    "hit_rate": 0.3099,
-    "mean_change": -0.96
+    "trigger_days": 8,
+    "n": 76,
+    "hits": 25,
+    "hit_rate": 0.3289,
+    "mean_change": -0.74
   },
   "vs_expected": {
     "expected_hit_rate": 0.789,
-    "actual_hit_rate": 0.3099,
-    "delta_pp": -47.9
+    "actual_hit_rate": 0.3289,
+    "delta_pp": -46.0
   },
-  "updated_at": "2026-09-30T20:34:15.696361"
+  "updated_at": "2026-10-01T19:09:09.531034"
 }
