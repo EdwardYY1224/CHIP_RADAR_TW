@@ -1203,11 +1203,11 @@
     }
   ],
   "rolling_30d": {
-    "trigger_days": 3,
-    "n": 27,
-    "hits": 11,
-    "hit_rate": 0.4074,
-    "mean_change": -0.24
+    "trigger_days": 2,
+    "n": 15,
+    "hits": 8,
+    "hit_rate": 0.5333,
+    "mean_change": 0.66
   },
   "rolling_all": {
     "trigger_days": 8,
@@ -1221,5 +1221,5 @@
     "actual_hit_rate": 0.3289,
     "delta_pp": -46.0
   },
-  "updated_at": "2026-10-01T20:46:48.308899"
+  "updated_at": "2026-10-02T18:41:28.012216"
 }
