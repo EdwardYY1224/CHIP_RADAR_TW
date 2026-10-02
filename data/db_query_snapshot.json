@@ -292,14 +292,14 @@
      "cum_net_wan": 1734
     },
     {
-     "name": "陳族元",
-     "cum_net_lots": 68,
-     "cum_net_wan": 1697
-    },
-    {
      "name": "江士勳",
      "cum_net_lots": 68,
      "cum_net_wan": 1722
+    },
+    {
+     "name": "陳族元",
+     "cum_net_lots": 67,
+     "cum_net_wan": 1668
     },
     {
      "name": "林滄海",
@@ -362,14 +362,14 @@
      "cum_net_wan": 538
     },
     {
+     "name": "永豐天母(老錢)",
+     "cum_net_lots": 21,
+     "cum_net_wan": 521
+    },
+    {
      "name": "陳泊澔",
      "cum_net_lots": 20,
      "cum_net_wan": 498
-    },
-    {
-     "name": "永豐天母(老錢)",
-     "cum_net_lots": 20,
-     "cum_net_wan": 491
     },
     {
      "name": "大牌分析師",
@@ -431,8 +431,8 @@
     },
     {
      "name": "陳族元",
-     "limit_up_hits": 46,
-     "lu_buy_wan": 354377
+     "limit_up_hits": 43,
+     "lu_buy_wan": 347756
     },
     {
      "name": "陳律師",
@@ -601,14 +601,14 @@
     {
      "master_a": "強森",
      "master_b": "陳族元",
-     "co_buy_count": 1162,
-     "distinct_stocks": 150
+     "co_buy_count": 1154,
+     "distinct_stocks": 146
     },
     {
      "master_a": "陳族元",
      "master_b": "張濬安(航海王)",
-     "co_buy_count": 955,
-     "distinct_stocks": 149
+     "co_buy_count": 954,
+     "distinct_stocks": 147
     },
     {
      "master_a": "強森",
@@ -661,8 +661,8 @@
     {
      "master_a": "林滄海",
      "master_b": "陳族元",
-     "co_buy_count": 641,
-     "distinct_stocks": 143
+     "co_buy_count": 640,
+     "distinct_stocks": 140
     },
     {
      "master_a": "張濬安(航海王)",
@@ -697,8 +697,8 @@
     {
      "master_a": "陳族元",
      "master_b": "陳律師",
-     "co_buy_count": 538,
-     "distinct_stocks": 112
+     "co_buy_count": 540,
+     "distinct_stocks": 110
     },
     {
      "master_a": "強森",
@@ -709,7 +709,7 @@
     {
      "master_a": "陳族元",
      "master_b": "迷你哥/松山哥",
-     "co_buy_count": 507,
+     "co_buy_count": 506,
      "distinct_stocks": 125
     }
    ],
@@ -813,7 +813,7 @@
      "master": "陳族元",
      "code": "4958",
      "stock_name": "臻鼎-KY",
-     "buy_wan": 174455,
+     "buy_wan": 173328,
      "buy_lot": 3111,
      "days": 1
     },
@@ -1036,8 +1036,8 @@
     {
      "date": "20261002",
      "top_master": "陳族元",
-     "day_buy_wan": 1545034,
-     "row_count": 433
+     "day_buy_wan": 1510080,
+     "row_count": 421
     },
     {
      "date": "20261002",
@@ -1191,6 +1191,12 @@
     },
     {
      "date": "20261002",
+     "top_master": "永豐天母(老錢)",
+     "day_buy_wan": 85457,
+     "row_count": 101
+    },
+    {
+     "date": "20261002",
      "top_master": "統一南京(強勢未知)",
      "day_buy_wan": 80559,
      "row_count": 77
@@ -1224,12 +1230,6 @@
      "top_master": "陳泊澔",
      "day_buy_wan": 57671,
      "row_count": 94
-    },
-    {
-     "date": "20261002",
-     "top_master": "永豐天母(老錢)",
-     "day_buy_wan": 50503,
-     "row_count": 89
     },
     {
      "date": "20261002",
@@ -1396,6 +1396,15 @@
      "days_active": 1
     },
     {
+     "code": "6488",
+     "stock_name": "環球晶",
+     "distinct_masters": 41,
+     "buy_wan": 890041,
+     "sell_wan": 802651,
+     "net_wan": 87389,
+     "days_active": 1
+    },
+    {
      "code": "2408",
      "stock_name": "南亞科",
      "distinct_masters": 41,
@@ -1411,15 +1420,6 @@
      "buy_wan": 356526,
      "sell_wan": 143263,
      "net_wan": 213263,
-     "days_active": 1
-    },
-    {
-     "code": "6488",
-     "stock_name": "環球晶",
-     "distinct_masters": 40,
-     "buy_wan": 890041,
-     "sell_wan": 802651,
-     "net_wan": 87389,
      "days_active": 1
     },
     {
@@ -1511,8 +1511,8 @@
     {
      "master": "陳族元",
      "active_days": 1,
-     "avg_day_wan": 1545035.0,
-     "total_wan": 1545034
+     "avg_day_wan": 1510080.0,
+     "total_wan": 1510080
     },
     {
      "master": "陳律師",
@@ -1619,8 +1619,8 @@
     {
      "master": "永豐天母(老錢)",
      "active_days": 1,
-     "avg_day_wan": 50503.0,
-     "total_wan": 50503
+     "avg_day_wan": 85458.0,
+     "total_wan": 85457
     },
     {
      "master": "民哥",
