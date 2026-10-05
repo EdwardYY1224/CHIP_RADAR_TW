@@ -1200,26 +1200,131 @@
       "hits": 3,
       "hit_rate": 0.6,
       "mean_change": 2.25
+    },
+    {
+      "date": "20261002",
+      "next_date": "20261005",
+      "q5_direction": "偏多",
+      "q5_confidence": 81.7,
+      "taifex_change": 0.25,
+      "vol_spike_masters": [
+        "Tradow",
+        "張濬安(航海王)"
+      ],
+      "quad_picks": [
+        {
+          "code": "2330",
+          "name": "台積電",
+          "matched_masters": [
+            "Tradow",
+            "張濬安(航海王)"
+          ],
+          "next_change_pct": 3.0,
+          "hit": true,
+          "leader_pct": 0.368,
+          "excess_return": 2.75,
+          "failure_reasons": []
+        },
+        {
+          "code": "2308",
+          "name": "台達電",
+          "matched_masters": [
+            "Tradow",
+            "張濬安(航海王)"
+          ],
+          "next_change_pct": 6.37,
+          "hit": true,
+          "leader_pct": 0.617,
+          "excess_return": 6.12,
+          "failure_reasons": []
+        },
+        {
+          "code": "6213",
+          "name": "聯茂",
+          "matched_masters": [
+            "Tradow",
+            "張濬安(航海王)"
+          ],
+          "next_change_pct": 9.96,
+          "hit": true,
+          "leader_pct": 0.442,
+          "excess_return": 9.71,
+          "failure_reasons": []
+        },
+        {
+          "code": "3231",
+          "name": "緯創",
+          "matched_masters": [
+            "張濬安(航海王)"
+          ],
+          "next_change_pct": 1.61,
+          "hit": true,
+          "leader_pct": 0.184,
+          "excess_return": 1.36,
+          "failure_reasons": []
+        },
+        {
+          "code": "2317",
+          "name": "鴻海",
+          "matched_masters": [
+            "張濬安(航海王)"
+          ],
+          "next_change_pct": 1.2,
+          "hit": true,
+          "leader_pct": 0.229,
+          "excess_return": 0.95,
+          "failure_reasons": []
+        },
+        {
+          "code": "2454",
+          "name": "聯發科",
+          "matched_masters": [
+            "張濬安(航海王)"
+          ],
+          "next_change_pct": 4.34,
+          "hit": true,
+          "leader_pct": 0.442,
+          "excess_return": 4.09,
+          "failure_reasons": []
+        },
+        {
+          "code": "8996",
+          "name": "高力",
+          "matched_masters": [
+            "Tradow",
+            "張濬安(航海王)"
+          ],
+          "next_change_pct": 5.63,
+          "hit": true,
+          "leader_pct": 0.239,
+          "excess_return": 5.38,
+          "failure_reasons": []
+        }
+      ],
+      "n": 7,
+      "hits": 7,
+      "hit_rate": 1.0,
+      "mean_change": 4.59
     }
   ],
   "rolling_30d": {
-    "trigger_days": 2,
-    "n": 15,
-    "hits": 8,
-    "hit_rate": 0.5333,
-    "mean_change": 0.66
+    "trigger_days": 3,
+    "n": 22,
+    "hits": 15,
+    "hit_rate": 0.6818,
+    "mean_change": 1.91
   },
   "rolling_all": {
-    "trigger_days": 8,
-    "n": 76,
-    "hits": 25,
-    "hit_rate": 0.3289,
-    "mean_change": -0.74
+    "trigger_days": 9,
+    "n": 83,
+    "hits": 32,
+    "hit_rate": 0.3855,
+    "mean_change": -0.3
   },
   "vs_expected": {
     "expected_hit_rate": 0.789,
-    "actual_hit_rate": 0.3289,
-    "delta_pp": -46.0
+    "actual_hit_rate": 0.3855,
+    "delta_pp": -40.4
   },
-  "updated_at": "2026-10-02T20:23:05.967849"
+  "updated_at": "2026-10-05T21:22:51.544302"
 }
