@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T05:22:05.293857+08:00",
+  "generated_at": "2026-10-06T05:48:38.400619+08:00",
   "window_days": 45,
   "trade_date_range": [
     "20260731",
@@ -1964,11 +1964,11 @@
             "count": 37
           },
           {
-            "code": "2308",
+            "code": "6770",
             "count": 33
           },
           {
-            "code": "6770",
+            "code": "2308",
             "count": 33
           }
         ],
@@ -28431,7 +28431,7 @@
             "count": 8
           },
           {
-            "code": "00685L",
+            "code": "2454",
             "count": 7
           }
         ],
@@ -28817,11 +28817,11 @@
             "count": 10
           },
           {
-            "code": "00981A",
+            "code": "009816",
             "count": 8
           },
           {
-            "code": "009816",
+            "code": "00981A",
             "count": 8
           },
           {
@@ -33664,11 +33664,11 @@
             "count": 9
           },
           {
-            "code": "2308",
+            "code": "6770",
             "count": 8
           },
           {
-            "code": "6770",
+            "code": "2308",
             "count": 8
           },
           {
@@ -34990,11 +34990,11 @@
         "daytrade_ratio": 0.04,
         "partial_ratio": 0.158,
         "overnight_ratio": 0.802,
-        "limit_up_hit_ratio": 0.031,
+        "limit_up_hit_ratio": 0.032,
         "concentration_top5_pct": 30.7,
         "consistency": 0.802,
-        "total_buy_amt_wan": 1410631,
-        "limit_up_locked_trades_count": 76,
+        "total_buy_amt_wan": 1410654,
+        "limit_up_locked_trades_count": 77,
         "limit_up_locked_ratio_amt": 0.017,
         "limit_up_locked_ratio_lot": 0.009,
         "long_term_stocks_count": 25,
@@ -35227,7 +35227,7 @@
         "level2_strategy": "一般操作",
         "level3_dna": {
           "locked_pct": 0.017,
-          "limit_up_pct": 0.031,
+          "limit_up_pct": 0.032,
           "concentration_pct": 30.7,
           "top_industry": "半導體業",
           "top_industry_pct": 32.9,
@@ -35312,7 +35312,7 @@
         },
         {
           "month": "2026-10",
-          "total_amt_wan": 66889,
+          "total_amt_wan": 66911,
           "trades_count": 135,
           "top": [
             {
@@ -35325,7 +35325,7 @@
             },
             {
               "name": "光電業",
-              "pct": 16.6
+              "pct": 16.7
             }
           ],
           "rotated": false,
@@ -35401,11 +35401,11 @@
             "count": 8
           },
           {
-            "code": "00631L",
+            "code": "2303",
             "count": 7
           },
           {
-            "code": "2303",
+            "code": "00631L",
             "count": 7
           }
         ],
@@ -38659,7 +38659,7 @@
       },
       {
         "month": "2026-10",
-        "total_amt_wan": 31698537,
+        "total_amt_wan": 31698559,
         "trades_count": 8447,
         "top": [
           {
@@ -39172,7 +39172,7 @@
       }
     ],
     "masters_with_exposure": 27,
-    "snapshot_days": 53,
+    "snapshot_days": 54,
     "note": "持倉 = 窗口內可見淨累積 (TWSE Top30 榜 + 跨券商賣出盲點, 非真實庫存) — 大額命中才列入, 買/賣組成可人眼複核"
   },
   "alliance": {
@@ -39398,7 +39398,7 @@
           "count": 8
         },
         {
-          "code": "00685L",
+          "code": "2454",
           "count": 7
         }
       ],
@@ -39550,11 +39550,11 @@
           "count": 8
         },
         {
-          "code": "00631L",
+          "code": "2303",
           "count": 7
         },
         {
-          "code": "2303",
+          "code": "00631L",
           "count": 7
         }
       ],
@@ -40274,11 +40274,11 @@
           "count": 10
         },
         {
-          "code": "00981A",
+          "code": "009816",
           "count": 8
         },
         {
-          "code": "009816",
+          "code": "00981A",
           "count": 8
         },
         {
@@ -40330,11 +40330,11 @@
           "count": 37
         },
         {
-          "code": "2308",
+          "code": "6770",
           "count": 33
         },
         {
-          "code": "6770",
+          "code": "2308",
           "count": 33
         }
       ],
@@ -40690,11 +40690,11 @@
           "count": 9
         },
         {
-          "code": "2308",
+          "code": "6770",
           "count": 8
         },
         {
-          "code": "6770",
+          "code": "2308",
           "count": 8
         },
         {
