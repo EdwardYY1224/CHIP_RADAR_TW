@@ -1,6 +1,6 @@
 {
  "trade_date": "20261005",
- "updated_at": "2026-10-06T05:48:03.545607+08:00",
+ "updated_at": "2026-10-06T06:26:32.559738+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5016,8 +5016,8 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1709,
-   "watch": 52,
+   "healthy": 1717,
+   "watch": 44,
    "high_risk": 2,
    "margin_call": 3,
    "insufficient_data": 449
@@ -5053,11 +5053,11 @@
    {
     "code": "7740",
     "name": "熙特爾-創",
-    "ratio": 122.6,
+    "ratio": 124.4,
     "risk_level": "high_risk",
     "margin_balance": 2469,
     "today_close": 102.5,
-    "estimated_cost": 139.32
+    "estimated_cost": 137.28
    },
    {
     "code": "4747",

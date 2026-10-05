@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T05:45:48.853377+08:00",
+  "generated_at": "2026-10-06T06:21:43.385443+08:00",
   "trade_date": "20261005",
   "pump_suspicion": [
     {
@@ -494,6 +494,23 @@
     {
       "stock_code": "2303",
       "stock_name": "聯電",
+      "buy_branch_code": "9A9g",
+      "buy_master": "陳族元",
+      "sell_branch_code": "9B2E",
+      "sell_master": "張濬安(航海王)",
+      "buy_lot": 191,
+      "sell_lot": 174,
+      "buy_amt_wan": 2965,
+      "sell_amt_wan": 2714,
+      "lot_match_ratio": 0.91,
+      "same_master": false,
+      "rule": "B_wash",
+      "severity": "medium",
+      "reasoning": "9A9g 買 191 張 vs 9B2E 賣 174 張 (匹配 91%)"
+    },
+    {
+      "stock_code": "2303",
+      "stock_name": "聯電",
       "buy_branch_code": "585c",
       "buy_master": "陳律師",
       "sell_branch_code": "9B2E",
@@ -541,23 +558,6 @@
       "rule": "B_wash",
       "severity": "medium",
       "reasoning": "9A8F 買 414 張 vs 9666 賣 505 張 (匹配 82%)"
-    },
-    {
-      "stock_code": "2303",
-      "stock_name": "聯電",
-      "buy_branch_code": "9A8F",
-      "buy_master": "布哥/n_nchang",
-      "sell_branch_code": "9A9R",
-      "sell_master": "陳律師",
-      "buy_lot": 414,
-      "sell_lot": 587,
-      "buy_amt_wan": 6422,
-      "sell_amt_wan": 9488,
-      "lot_match_ratio": 0.71,
-      "same_master": false,
-      "rule": "B_wash",
-      "severity": "medium",
-      "reasoning": "9A8F 買 414 張 vs 9A9R 賣 587 張 (匹配 71%)"
     }
   ],
   "distribution": [
