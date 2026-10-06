@@ -1305,26 +1305,248 @@
       "hits": 7,
       "hit_rate": 1.0,
       "mean_change": 4.59
+    },
+    {
+      "date": "20261005",
+      "next_date": "20261006",
+      "q5_direction": "偏多",
+      "q5_confidence": 86.3,
+      "taifex_change": null,
+      "vol_spike_masters": [
+        "Tradow",
+        "林滄海",
+        "陳族元"
+      ],
+      "quad_picks": [
+        {
+          "code": "2303",
+          "name": "聯電",
+          "matched_masters": [
+            "Tradow",
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": -3.28,
+          "hit": false,
+          "leader_pct": 0.215,
+          "excess_return": null,
+          "failure_reasons": [
+            "TAIEX 資料缺, 歸因不全"
+          ]
+        },
+        {
+          "code": "2327",
+          "name": "國巨*",
+          "matched_masters": [
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": -0.16,
+          "hit": false,
+          "leader_pct": 0.602,
+          "excess_return": null,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)"
+          ]
+        },
+        {
+          "code": "8039",
+          "name": "台虹",
+          "matched_masters": [
+            "Tradow",
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": -2.64,
+          "hit": false,
+          "leader_pct": 0.231,
+          "excess_return": null,
+          "failure_reasons": [
+            "TAIEX 資料缺, 歸因不全"
+          ]
+        },
+        {
+          "code": "8150",
+          "name": "南茂",
+          "matched_masters": [
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": 2.82,
+          "hit": true,
+          "leader_pct": 0.338,
+          "excess_return": null,
+          "failure_reasons": []
+        },
+        {
+          "code": "2449",
+          "name": "京元電子",
+          "matched_masters": [
+            "Tradow",
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": 1.36,
+          "hit": true,
+          "leader_pct": 0.188,
+          "excess_return": null,
+          "failure_reasons": []
+        },
+        {
+          "code": "6116",
+          "name": "彩晶",
+          "matched_masters": [
+            "Tradow",
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": -2.83,
+          "hit": false,
+          "leader_pct": 0.32,
+          "excess_return": null,
+          "failure_reasons": [
+            "TAIEX 資料缺, 歸因不全"
+          ]
+        },
+        {
+          "code": "6239",
+          "name": "力成",
+          "matched_masters": [
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": 4.37,
+          "hit": true,
+          "leader_pct": 0.218,
+          "excess_return": null,
+          "failure_reasons": []
+        },
+        {
+          "code": "3081",
+          "name": "聯亞",
+          "matched_masters": [
+            "Tradow",
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": -2.67,
+          "hit": false,
+          "leader_pct": 0.653,
+          "excess_return": null,
+          "failure_reasons": [
+            "假共識 (領頭獨佔 ≥50%)"
+          ]
+        },
+        {
+          "code": "2492",
+          "name": "華新科",
+          "matched_masters": [
+            "Tradow",
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": 5.7,
+          "hit": true,
+          "leader_pct": 0.506,
+          "excess_return": null,
+          "failure_reasons": []
+        },
+        {
+          "code": "6488",
+          "name": "環球晶",
+          "matched_masters": [
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": 2.12,
+          "hit": true,
+          "leader_pct": 0.223,
+          "excess_return": null,
+          "failure_reasons": []
+        },
+        {
+          "code": "6147",
+          "name": "頎邦",
+          "matched_masters": [
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": 0.23,
+          "hit": true,
+          "leader_pct": 0.636,
+          "excess_return": null,
+          "failure_reasons": []
+        },
+        {
+          "code": "2409",
+          "name": "友達",
+          "matched_masters": [
+            "Tradow",
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": -4.1,
+          "hit": false,
+          "leader_pct": 0.194,
+          "excess_return": null,
+          "failure_reasons": [
+            "TAIEX 資料缺, 歸因不全"
+          ]
+        },
+        {
+          "code": "3481",
+          "name": "群創",
+          "matched_masters": [
+            "Tradow",
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": -2.29,
+          "hit": false,
+          "leader_pct": 0.237,
+          "excess_return": null,
+          "failure_reasons": [
+            "TAIEX 資料缺, 歸因不全"
+          ]
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "matched_masters": [
+            "林滄海",
+            "陳族元"
+          ],
+          "next_change_pct": 1.86,
+          "hit": true,
+          "leader_pct": 0.344,
+          "excess_return": null,
+          "failure_reasons": []
+        }
+      ],
+      "n": 14,
+      "hits": 7,
+      "hit_rate": 0.5,
+      "mean_change": 0.04
     }
   ],
   "rolling_30d": {
-    "trigger_days": 3,
-    "n": 22,
-    "hits": 15,
-    "hit_rate": 0.6818,
-    "mean_change": 1.91
+    "trigger_days": 4,
+    "n": 36,
+    "hits": 22,
+    "hit_rate": 0.6111,
+    "mean_change": 1.18
   },
   "rolling_all": {
-    "trigger_days": 9,
-    "n": 83,
-    "hits": 32,
-    "hit_rate": 0.3855,
-    "mean_change": -0.3
+    "trigger_days": 10,
+    "n": 97,
+    "hits": 39,
+    "hit_rate": 0.4021,
+    "mean_change": -0.25
   },
   "vs_expected": {
     "expected_hit_rate": 0.789,
-    "actual_hit_rate": 0.3855,
-    "delta_pp": -40.4
+    "actual_hit_rate": 0.4021,
+    "delta_pp": -38.7
   },
-  "updated_at": "2026-10-05T22:27:45.573318"
+  "updated_at": "2026-10-06T19:10:22.767268"
 }
