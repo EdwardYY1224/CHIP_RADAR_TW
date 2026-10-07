@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T04:22:10.766085+08:00",
+  "generated_at": "2026-10-08T04:58:20.264429+08:00",
   "trade_date": "20261007",
   "pump_suspicion": [
     {
@@ -12,25 +12,10 @@
       "sell_lot": 509,
       "buy_amt_wan": 98698,
       "daytrade_ratio": 0.94,
-      "amt_vs_median_x": 13.3,
+      "amt_vs_median_x": 18.1,
       "rule": "A_pump",
       "severity": "high",
-      "reasoning": "當沖比 94% (> 70%) + 漲停 + 買金額 98,698 萬 (中位數 7,437 萬 × 13.3)"
-    },
-    {
-      "stock_code": "4908",
-      "stock_name": "前鼎",
-      "branch_code": "9692",
-      "branch_name": "富邦-嘉義",
-      "master": "嘉義幫",
-      "buy_lot": 306,
-      "sell_lot": 255,
-      "buy_amt_wan": 7713,
-      "daytrade_ratio": 0.83,
-      "amt_vs_median_x": 3.4,
-      "rule": "A_pump",
-      "severity": "medium",
-      "reasoning": "當沖比 83% (> 70%) + 漲停 + 買金額 7,713 萬 (中位數 2,247 萬 × 3.4)"
+      "reasoning": "當沖比 94% (> 70%) + 漲停 + 買金額 98,698 萬 (中位數 5,445 萬 × 18.1)"
     }
   ],
   "wash_trade": [
@@ -469,7 +454,7 @@
       "buy_lot": 184,
       "sell_lot": 160,
       "buy_amt_wan": 5762,
-      "sell_amt_wan": 5024,
+      "sell_amt_wan": 5028,
       "lot_match_ratio": 0.87,
       "same_master": false,
       "rule": "B_wash",
@@ -578,10 +563,10 @@
     }
   ],
   "summary": {
-    "pump_count": 2,
+    "pump_count": 1,
     "wash_count": 30,
     "distribution_count": 2,
-    "total": 34
+    "total": 33
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
