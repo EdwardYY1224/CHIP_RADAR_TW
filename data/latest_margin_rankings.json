@@ -1,6 +1,6 @@
 {
  "trade_date": "20261007",
- "updated_at": "2026-10-08T03:39:27.119928+08:00",
+ "updated_at": "2026-10-08T04:25:04.890477+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5010,48 +5010,48 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1209,
-   "watch": 15,
+   "healthy": 1215,
+   "watch": 10,
    "high_risk": 0,
    "margin_call": 4,
-   "insufficient_data": 989
+   "insufficient_data": 988
   },
   "high_risk_stocks": [
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 16.6,
+    "ratio": 17.8,
     "risk_level": "margin_call",
     "margin_balance": 107946,
     "today_close": 45.3,
-    "estimated_cost": 455.36
+    "estimated_cost": 423.2
    },
    {
     "code": "6669",
     "name": "緯穎",
-    "ratio": 111.7,
+    "ratio": 116.5,
     "risk_level": "margin_call",
     "margin_balance": 4326,
     "today_close": 2240.0,
-    "estimated_cost": 3341.0
+    "estimated_cost": 3205.67
    },
    {
     "code": "4127",
     "name": "天良",
-    "ratio": 115.6,
+    "ratio": 118.3,
     "risk_level": "margin_call",
     "margin_balance": 959,
     "today_close": 42.9,
-    "estimated_cost": 61.87
+    "estimated_cost": 60.45
    },
    {
     "code": "2236",
     "name": "百達-KY",
-    "ratio": 117.6,
+    "ratio": 119.3,
     "risk_level": "margin_call",
     "margin_balance": 12860,
     "today_close": 84.3,
-    "estimated_cost": 119.52
+    "estimated_cost": 117.77
    }
   ],
   "thresholds": {
