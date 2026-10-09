@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T03:53:28.502347+08:00",
+  "generated_at": "2026-10-10T04:29:17.426228+08:00",
   "trade_date": "20261008",
   "pump_suspicion": [
     {
@@ -15,7 +15,7 @@
       "amt_vs_median_x": 3.7,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 77% (> 70%) + 漲停 + 買金額 5,968 萬 (中位數 1,612 萬 × 3.7)"
+      "reasoning": "當沖比 77% (> 70%) + 漲停 + 買金額 5,968 萬 (中位數 1,624 萬 × 3.7)"
     },
     {
       "stock_code": "3624",
@@ -328,34 +328,17 @@
       "stock_name": "南亞",
       "buy_branch_code": "9A9g",
       "buy_master": "陳族元",
-      "sell_branch_code": "9A9R",
-      "sell_master": "陳律師",
-      "buy_lot": 88,
-      "sell_lot": 65,
-      "buy_amt_wan": 2753,
-      "sell_amt_wan": 2028,
-      "lot_match_ratio": 0.74,
-      "same_master": false,
-      "rule": "B_wash",
-      "severity": "medium",
-      "reasoning": "9A9g 買 88 張 vs 9A9R 賣 65 張 (匹配 74%)"
-    },
-    {
-      "stock_code": "1303",
-      "stock_name": "南亞",
-      "buy_branch_code": "9A9g",
-      "buy_master": "陳族元",
       "sell_branch_code": "7000",
       "sell_master": "兆豐證券",
-      "buy_lot": 88,
+      "buy_lot": 95,
       "sell_lot": 108,
       "buy_amt_wan": 2753,
       "sell_amt_wan": 3358,
-      "lot_match_ratio": 0.81,
+      "lot_match_ratio": 0.88,
       "same_master": false,
       "rule": "B_wash",
       "severity": "medium",
-      "reasoning": "9A9g 買 88 張 vs 7000 賣 108 張 (匹配 81%)"
+      "reasoning": "9A9g 買 95 張 vs 7000 賣 108 張 (匹配 88%)"
     },
     {
       "stock_code": "1303",
@@ -543,6 +526,23 @@
       "rule": "B_wash",
       "severity": "medium",
       "reasoning": "9647 買 158 張 vs 984K 賣 211 張 (匹配 75%)"
+    },
+    {
+      "stock_code": "1303",
+      "stock_name": "南亞",
+      "buy_branch_code": "9B18",
+      "buy_master": "蔣承翰",
+      "sell_branch_code": "9216",
+      "sell_master": "林滄海",
+      "buy_lot": 289,
+      "sell_lot": 381,
+      "buy_amt_wan": 9009,
+      "sell_amt_wan": 11823,
+      "lot_match_ratio": 0.76,
+      "same_master": false,
+      "rule": "B_wash",
+      "severity": "medium",
+      "reasoning": "9B18 買 289 張 vs 9216 賣 381 張 (匹配 76%)"
     }
   ],
   "distribution": [
