@@ -1,23 +1,17 @@
 {
-  "date": "20261012",
-  "generated_at": "2026-10-12T22:47:58.339156",
+  "date": "20261013",
+  "generated_at": "2026-10-13T20:08:15.523168",
   "generator": "signal_engine v3.29 MVP (Phase A backtest based)",
-  "headline": "偏多 信心81.7% (高信心) · 3 檔個股關注",
+  "headline": "偏空 信心23.3% (低信心) · 3 檔個股關注",
   "market_direction": {
-    "direction": "偏多",
-    "confidence_pct": 81.7,
-    "net_weight": 0.317,
+    "direction": "偏空",
+    "confidence_pct": 23.3,
+    "net_weight": -0.267,
     "contributing": [
       {
-        "name": "外資現貨",
-        "level": "extreme-bull",
-        "weight": 0.202,
-        "sign": "bull"
-      },
-      {
         "name": "P/C Ratio",
-        "level": "neutral",
-        "weight": -0.118,
+        "level": "bear",
+        "weight": -0.5,
         "sign": "bear"
       },
       {
@@ -34,52 +28,52 @@
       }
     ],
     "ignored": [
+      "外資現貨",
       "外資期貨",
-      "融資熱度",
       "結算日壓力"
     ]
   },
   "top_focus_stocks": [
     {
       "rank": 1,
-      "code": "3008",
-      "name": "大立光",
-      "change_pct": 9.98,
+      "code": "3406",
+      "name": "玉晶光",
+      "change_pct": 9.81,
       "tier": "consensus",
       "master_count": 0,
       "masters": [],
-      "total_buy_amt_K": 13309981,
-      "total_buy_amt_yi": 133.1,
+      "total_buy_amt_K": 4973338,
+      "total_buy_amt_yi": 49.73,
       "confidence_pct": 52,
-      "reason": "0 位 sniper 共識買 (), 漲幅 9.98%, 共淨買 133.1 億",
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.81%, 共淨買 49.73 億",
       "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
     },
     {
       "rank": 2,
-      "code": "2603",
-      "name": "長榮",
-      "change_pct": 9.89,
+      "code": "1312",
+      "name": "國喬",
+      "change_pct": 9.97,
       "tier": "consensus",
       "master_count": 0,
       "masters": [],
-      "total_buy_amt_K": 5295839,
-      "total_buy_amt_yi": 52.96,
+      "total_buy_amt_K": 872328,
+      "total_buy_amt_yi": 8.72,
       "confidence_pct": 52,
-      "reason": "0 位 sniper 共識買 (), 漲幅 9.89%, 共淨買 52.96 億",
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.97%, 共淨買 8.72 億",
       "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
     },
     {
       "rank": 3,
-      "code": "6223",
-      "name": "旺矽",
-      "change_pct": 9.96,
+      "code": "6505",
+      "name": "台塑化",
+      "change_pct": 9.68,
       "tier": "consensus",
       "master_count": 0,
       "masters": [],
-      "total_buy_amt_K": 2748452,
-      "total_buy_amt_yi": 27.48,
+      "total_buy_amt_K": 2016470,
+      "total_buy_amt_yi": 20.16,
       "confidence_pct": 52,
-      "reason": "0 位 sniper 共識買 (), 漲幅 9.96%, 共淨買 27.48 億",
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.68%, 共淨買 20.16 億",
       "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
     }
   ],
