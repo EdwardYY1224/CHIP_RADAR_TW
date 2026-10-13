@@ -1,12 +1,12 @@
 {
   "date": "20261013",
-  "generated_at": "2026-10-13T20:08:15.523168",
+  "generated_at": "2026-10-13T20:38:44.776072",
   "generator": "signal_engine v3.29 MVP (Phase A backtest based)",
-  "headline": "偏空 信心23.3% (低信心) · 3 檔個股關注",
+  "headline": "偏空 信心10% (低信心) · 3 檔個股關注",
   "market_direction": {
     "direction": "偏空",
-    "confidence_pct": 23.3,
-    "net_weight": -0.267,
+    "confidence_pct": 10,
+    "net_weight": -0.417,
     "contributing": [
       {
         "name": "P/C Ratio",
@@ -19,17 +19,13 @@
         "level": "extreme-bull",
         "weight": 0.083,
         "sign": "bull"
-      },
-      {
-        "name": "法人共識",
-        "level": "extreme-bull",
-        "weight": 0.15,
-        "sign": "bull"
       }
     ],
     "ignored": [
       "外資現貨",
       "外資期貨",
+      "融資熱度",
+      "法人共識",
       "結算日壓力"
     ]
   },
