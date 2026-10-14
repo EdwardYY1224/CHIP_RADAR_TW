@@ -1,6 +1,6 @@
 {
  "trade_date": "20261014",
- "updated_at": "2026-10-15T02:16:47.921874+08:00",
+ "updated_at": "2026-10-15T03:05:10.942045+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5015,48 +5015,39 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1196,
-   "watch": 30,
-   "high_risk": 2,
+   "healthy": 1202,
+   "watch": 24,
+   "high_risk": 1,
    "margin_call": 2,
-   "insufficient_data": 988
+   "insufficient_data": 989
   },
   "high_risk_stocks": [
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 20.3,
+    "ratio": 22.7,
     "risk_level": "margin_call",
     "margin_balance": 106552,
     "today_close": 39.4,
-    "estimated_cost": 322.89
+    "estimated_cost": 289.04
    },
    {
     "code": "3230",
     "name": "錦明",
-    "ratio": 117.3,
+    "ratio": 119.0,
     "risk_level": "margin_call",
     "margin_balance": 3681,
     "today_close": 29.2,
-    "estimated_cost": 41.48
+    "estimated_cost": 40.9
    },
    {
     "code": "4127",
     "name": "天良",
-    "ratio": 122.0,
+    "ratio": 124.8,
     "risk_level": "high_risk",
     "margin_balance": 987,
     "today_close": 41.0,
-    "estimated_cost": 56.01
-   },
-   {
-    "code": "6669",
-    "name": "緯穎",
-    "ratio": 127.7,
-    "risk_level": "high_risk",
-    "margin_balance": 4687,
-    "today_close": 2115.0,
-    "estimated_cost": 2761.33
+    "estimated_cost": 54.76
    }
   ],
   "thresholds": {
