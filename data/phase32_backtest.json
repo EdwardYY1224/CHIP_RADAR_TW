@@ -1,39 +1,39 @@
 {
   "summary": {
     "baseline": {
-      "n": 556,
-      "hits": 257,
-      "hit_rate": 0.46223021582733814,
-      "mean_change": 0.36874100719424485,
+      "n": 569,
+      "hits": 265,
+      "hit_rate": 0.46572934973637964,
+      "mean_change": 0.38662565905096685,
       "median_change": 0.0,
-      "days": 49,
+      "days": 50,
       "desc": "全部共識股 (對照)"
     },
     "e_anomaly_only": {
-      "n": 507,
-      "hits": 232,
-      "hit_rate": 0.45759368836291914,
-      "mean_change": 0.27775147928994065,
-      "median_change": -0.13,
-      "days": 44,
+      "n": 520,
+      "hits": 240,
+      "hit_rate": 0.46153846153846156,
+      "mean_change": 0.2995961538461537,
+      "median_change": -0.1,
+      "days": 45,
       "desc": "共識 ∩ ≥1 master 異常 (vol_spike OR new_stocks)"
     },
     "e_volume_spike_only": {
-      "n": 134,
-      "hits": 55,
-      "hit_rate": 0.41044776119402987,
-      "mean_change": -0.37664179104477646,
-      "median_change": -0.47,
-      "days": 14,
+      "n": 147,
+      "hits": 63,
+      "hit_rate": 0.42857142857142855,
+      "mean_change": -0.24149659863945608,
+      "median_change": -0.38,
+      "days": 15,
       "desc": "共識 ∩ ≥1 master volume_spike"
     },
     "e_new_stocks_only": {
-      "n": 507,
-      "hits": 232,
-      "hit_rate": 0.45759368836291914,
-      "mean_change": 0.27775147928994065,
-      "median_change": -0.13,
-      "days": 44,
+      "n": 520,
+      "hits": 240,
+      "hit_rate": 0.46153846153846156,
+      "mean_change": 0.2995961538461537,
+      "median_change": -0.1,
+      "days": 45,
       "desc": "共識 ∩ ≥1 master new_stocks"
     },
     "e_anomaly_q5_bull": {
@@ -555,10 +555,20 @@
       "vol_spike_masters": 0,
       "new_stocks_masters": 13,
       "e_hits": 2
+    },
+    {
+      "date": "20261013",
+      "next": "20261014",
+      "cons": 13,
+      "next_avail": 13,
+      "q5": "偏空",
+      "vol_spike_masters": 2,
+      "new_stocks_masters": 5,
+      "e_hits": 8
     }
   ],
-  "updated_at": "2026-10-13T21:06:08.446197",
-  "window_days": 49,
+  "updated_at": "2026-10-14T18:17:53.902202",
+  "window_days": 50,
   "thresholds": {
     "anomaly_sigma": 2.0,
     "min_history_days": 5,
