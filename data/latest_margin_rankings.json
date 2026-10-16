@@ -1,6 +1,6 @@
 {
  "trade_date": "20261016",
- "updated_at": "2026-10-17T01:37:17.520384+08:00",
+ "updated_at": "2026-10-17T02:35:22.735183+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5003,75 +5003,66 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1140,
-   "watch": 53,
+   "healthy": 1144,
+   "watch": 50,
    "high_risk": 4,
-   "margin_call": 3,
+   "margin_call": 2,
    "insufficient_data": 1018
   },
   "high_risk_stocks": [
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 25.5,
+    "ratio": 29.7,
     "risk_level": "margin_call",
     "margin_balance": 102188,
     "today_close": 38.9,
-    "estimated_cost": 254.17
+    "estimated_cost": 217.97
    },
    {
     "code": "3230",
     "name": "錦明",
-    "ratio": 98.1,
+    "ratio": 99.8,
     "risk_level": "margin_call",
     "margin_balance": 3379,
     "today_close": 23.7,
-    "estimated_cost": 40.28
+    "estimated_cost": 39.58
    },
    {
     "code": "2236",
     "name": "百達-KY",
-    "ratio": 119.4,
-    "risk_level": "margin_call",
+    "ratio": 121.4,
+    "risk_level": "high_risk",
     "margin_balance": 13055,
     "today_close": 80.5,
-    "estimated_cost": 112.39
+    "estimated_cost": 110.54
    },
    {
     "code": "4127",
     "name": "天良",
-    "ratio": 124.3,
+    "ratio": 126.7,
     "risk_level": "high_risk",
     "margin_balance": 991,
     "today_close": 40.05,
-    "estimated_cost": 53.7
-   },
-   {
-    "code": "6669",
-    "name": "緯穎",
-    "ratio": 127.1,
-    "risk_level": "high_risk",
-    "margin_balance": 4967,
-    "today_close": 1845.0,
-    "estimated_cost": 2418.83
-   },
-   {
-    "code": "7740",
-    "name": "熙特爾-創",
-    "ratio": 127.6,
-    "risk_level": "high_risk",
-    "margin_balance": 2757,
-    "today_close": 102.0,
-    "estimated_cost": 133.19
+    "estimated_cost": 52.67
    },
    {
     "code": "6716",
     "name": "應廣",
-    "ratio": 127.9,
+    "ratio": 129.0,
     "risk_level": "high_risk",
     "margin_balance": 1645,
     "today_close": 92.6,
-    "estimated_cost": 120.71
+    "estimated_cost": 119.6
+   },
+   {
+    "code": "7740",
+    "name": "熙特爾-創",
+    "ratio": 129.2,
+    "risk_level": "high_risk",
+    "margin_balance": 2757,
+    "today_close": 102.0,
+    "estimated_cost": 131.55
    }
   ],
   "thresholds": {
