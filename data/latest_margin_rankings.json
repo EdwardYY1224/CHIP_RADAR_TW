@@ -1,6 +1,6 @@
 {
  "trade_date": "20261019",
- "updated_at": "2026-10-20T03:40:44.800653+08:00",
+ "updated_at": "2026-10-20T04:22:32.391665+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5005,57 +5005,66 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1081,
-   "watch": 91,
-   "high_risk": 4,
+   "healthy": 1144,
+   "watch": 80,
+   "high_risk": 5,
    "margin_call": 1,
-   "insufficient_data": 1042
+   "insufficient_data": 989
   },
   "high_risk_stocks": [
    {
     "code": "3230",
     "name": "錦明",
-    "ratio": 89.9,
+    "ratio": 91.7,
     "risk_level": "margin_call",
     "margin_balance": 3289,
     "today_close": 21.35,
-    "estimated_cost": 39.58
+    "estimated_cost": 38.82
    },
    {
     "code": "2236",
     "name": "百達-KY",
-    "ratio": 120.9,
+    "ratio": 122.7,
     "risk_level": "high_risk",
     "margin_balance": 13026,
     "today_close": 80.2,
-    "estimated_cost": 110.54
+    "estimated_cost": 108.98
    },
    {
     "code": "4127",
     "name": "天良",
-    "ratio": 121.0,
+    "ratio": 123.5,
     "risk_level": "high_risk",
     "margin_balance": 1002,
     "today_close": 38.25,
-    "estimated_cost": 52.67
+    "estimated_cost": 51.61
    },
    {
     "code": "6716",
     "name": "應廣",
-    "ratio": 126.4,
+    "ratio": 127.6,
     "risk_level": "high_risk",
     "margin_balance": 1640,
     "today_close": 90.7,
-    "estimated_cost": 119.6
+    "estimated_cost": 118.44
+   },
+   {
+    "code": "6994",
+    "name": "富威電力",
+    "ratio": 128.5,
+    "risk_level": "high_risk",
+    "margin_balance": 2844,
+    "today_close": 24.6,
+    "estimated_cost": 31.91
    },
    {
     "code": "6831",
     "name": "邁科",
-    "ratio": 128.1,
+    "ratio": 129.5,
     "risk_level": "high_risk",
     "margin_balance": 2486,
     "today_close": 407.5,
-    "estimated_cost": 530.05
+    "estimated_cost": 524.43
    }
   ],
   "thresholds": {
