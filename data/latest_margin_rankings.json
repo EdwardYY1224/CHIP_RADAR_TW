@@ -1,6 +1,6 @@
 {
  "trade_date": "20261020",
- "updated_at": "2026-10-21T02:13:53.619993+08:00",
+ "updated_at": "2026-10-21T02:58:51.158400+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5009,39 +5009,39 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1136,
-   "watch": 107,
+   "healthy": 1143,
+   "watch": 98,
    "high_risk": 1,
    "margin_call": 2,
-   "insufficient_data": 974
+   "insufficient_data": 976
   },
   "high_risk_stocks": [
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 28.4,
+    "ratio": 34.3,
     "risk_level": "margin_call",
     "margin_balance": 103187,
     "today_close": 37.2,
-    "estimated_cost": 217.97
+    "estimated_cost": 180.71
    },
    {
     "code": "3230",
     "name": "錦明",
-    "ratio": 100.7,
+    "ratio": 102.4,
     "risk_level": "margin_call",
     "margin_balance": 2302,
     "today_close": 23.45,
-    "estimated_cost": 38.82
+    "estimated_cost": 38.18
    },
    {
     "code": "4127",
     "name": "天良",
-    "ratio": 123.2,
+    "ratio": 125.5,
     "risk_level": "high_risk",
     "margin_balance": 1025,
     "today_close": 38.15,
-    "estimated_cost": 51.61
+    "estimated_cost": 50.68
    }
   ],
   "thresholds": {

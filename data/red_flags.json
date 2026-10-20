@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T02:10:08.013796+08:00",
+  "generated_at": "2026-10-21T02:52:31.787610+08:00",
   "trade_date": "20261020",
   "pump_suspicion": [],
   "wash_trade": [
@@ -514,103 +514,12 @@
       "reasoning": "888A 買 176 張 vs 9300 賣 203 張 (匹配 87%)"
     }
   ],
-  "distribution": [
-    {
-      "stock_code": "5498",
-      "stock_name": "凱崴",
-      "branch_code": "779Z",
-      "branch_name": "國票-安和",
-      "master": "張濬安(航海王)",
-      "sell_lot": 510,
-      "sell_amt_wan": 3276,
-      "avg_30d_sell_lot": 100.0,
-      "sell_vs_avg_x": 5.1,
-      "recent_5d_limit_up_count": 35,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 510 張 (30 天均 100 張 × 5.1) + 近 5 天漲停 35 次"
-    },
-    {
-      "stock_code": "6505",
-      "stock_name": "台塑化",
-      "branch_code": "961M",
-      "branch_name": "富邦-木柵",
-      "master": "張濬安(航海王)",
-      "sell_lot": 246,
-      "sell_amt_wan": 2801,
-      "avg_30d_sell_lot": 25.0,
-      "sell_vs_avg_x": 9.8,
-      "recent_5d_limit_up_count": 77,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 246 張 (30 天均 25 張 × 9.8) + 近 5 天漲停 77 次"
-    },
-    {
-      "stock_code": "1815",
-      "stock_name": "富喬",
-      "branch_code": "9227",
-      "branch_name": "凱基-城中",
-      "master": "蔣承翰",
-      "sell_lot": 2276,
-      "sell_amt_wan": 35813,
-      "avg_30d_sell_lot": 402.0,
-      "sell_vs_avg_x": 5.7,
-      "recent_5d_limit_up_count": 132,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 2,276 張 (30 天均 402 張 × 5.7) + 近 5 天漲停 132 次"
-    },
-    {
-      "stock_code": "3354",
-      "stock_name": "律勝",
-      "branch_code": "9227",
-      "branch_name": "凱基-城中",
-      "master": "蔣承翰",
-      "sell_lot": 1000,
-      "sell_amt_wan": 4889,
-      "avg_30d_sell_lot": 44.0,
-      "sell_vs_avg_x": 22.7,
-      "recent_5d_limit_up_count": 20,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 1,000 張 (30 天均 44 張 × 22.7) + 近 5 天漲停 20 次"
-    },
-    {
-      "stock_code": "4960",
-      "stock_name": "誠美材",
-      "branch_code": "9A9J",
-      "branch_name": "永豐金-板新",
-      "master": "丁凌全",
-      "sell_lot": 212,
-      "sell_amt_wan": 648,
-      "avg_30d_sell_lot": 41.0,
-      "sell_vs_avg_x": 5.2,
-      "recent_5d_limit_up_count": 17,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 212 張 (30 天均 41 張 × 5.2) + 近 5 天漲停 17 次"
-    },
-    {
-      "stock_code": "1301",
-      "stock_name": "台塑",
-      "branch_code": "9359",
-      "branch_name": "華南永昌-中正",
-      "master": "華南永昌中正(未知大哥)",
-      "sell_lot": 1017,
-      "sell_amt_wan": 7578,
-      "avg_30d_sell_lot": 66.3,
-      "sell_vs_avg_x": 15.3,
-      "recent_5d_limit_up_count": 67,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 1,017 張 (30 天均 66 張 × 15.3) + 近 5 天漲停 67 次"
-    }
-  ],
+  "distribution": [],
   "summary": {
     "pump_count": 0,
     "wash_count": 30,
-    "distribution_count": 6,
-    "total": 36
+    "distribution_count": 0,
+    "total": 30
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
