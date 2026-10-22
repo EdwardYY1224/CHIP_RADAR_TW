@@ -1,6 +1,6 @@
 {
  "trade_date": "20261022",
- "updated_at": "2026-10-23T02:11:55.712863+08:00",
+ "updated_at": "2026-10-23T03:02:11.619445+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5010,66 +5010,48 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1115,
-   "watch": 129,
-   "high_risk": 5,
+   "healthy": 1122,
+   "watch": 122,
+   "high_risk": 3,
    "margin_call": 1,
-   "insufficient_data": 971
+   "insufficient_data": 973
   },
   "high_risk_stocks": [
    {
     "code": "6949",
     "name": "沛爾生醫*-創",
-    "ratio": 44.6,
+    "ratio": 64.8,
     "risk_level": "margin_call",
     "margin_balance": 106707,
     "today_close": 37.7,
-    "estimated_cost": 140.84
+    "estimated_cost": 96.94
    },
    {
     "code": "3230",
     "name": "錦明",
-    "ratio": 120.3,
+    "ratio": 121.9,
     "risk_level": "high_risk",
     "margin_balance": 2138,
     "today_close": 27.15,
-    "estimated_cost": 37.63
+    "estimated_cost": 37.12
    },
    {
     "code": "5464",
     "name": "霖宏",
-    "ratio": 124.7,
+    "ratio": 125.3,
     "risk_level": "high_risk",
     "margin_balance": 8640,
     "today_close": 63.8,
-    "estimated_cost": 85.3
+    "estimated_cost": 84.88
    },
    {
     "code": "4127",
     "name": "天良",
-    "ratio": 126.8,
+    "ratio": 128.8,
     "risk_level": "high_risk",
     "margin_balance": 1013,
     "today_close": 37.95,
-    "estimated_cost": 49.89
-   },
-   {
-    "code": "6831",
-    "name": "邁科",
-    "ratio": 128.8,
-    "risk_level": "high_risk",
-    "margin_balance": 2630,
-    "today_close": 395.5,
-    "estimated_cost": 511.82
-   },
-   {
-    "code": "4764",
-    "name": "雙鍵",
-    "ratio": 128.9,
-    "risk_level": "high_risk",
-    "margin_balance": 4785,
-    "today_close": 161.0,
-    "estimated_cost": 208.13
+    "estimated_cost": 49.09
    }
   ],
   "thresholds": {
