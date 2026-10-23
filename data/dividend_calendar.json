@@ -1,5 +1,5 @@
 {
- "count": 25,
+ "count": 22,
  "by_code": {
   "00400A": {
    "ex_date": "20261106",
@@ -15,13 +15,6 @@
    "cash_dividend": null,
    "stock_dividend_pct": 0.0
   },
-  "00408A": {
-   "ex_date": "20261021",
-   "name": "主動第一金優股息",
-   "type": "息",
-   "cash_dividend": 0.21,
-   "stock_dividend_pct": 0.0
-  },
   "0056": {
    "ex_date": "20261022",
    "name": "元大高股息",
@@ -33,19 +26,19 @@
    "ex_date": "20261027",
    "name": "永豐優息存股",
    "type": "息",
-   "cash_dividend": null,
-   "stock_dividend_pct": 0.0
-  },
-  "00929": {
-   "ex_date": "20261021",
-   "name": "復華台灣科技優息",
-   "type": "息",
-   "cash_dividend": 0.38,
+   "cash_dividend": 0.268,
    "stock_dividend_pct": 0.0
   },
   "00939": {
    "ex_date": "20261103",
    "name": "統一台灣高息動能",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
+  "00940": {
+   "ex_date": "20261110",
+   "name": "元大台灣價值高息",
    "type": "息",
    "cash_dividend": null,
    "stock_dividend_pct": 0.0
@@ -78,13 +71,6 @@
    "cash_dividend": null,
    "stock_dividend_pct": 0.0
   },
-  "00991B": {
-   "ex_date": "20261020",
-   "name": "貝萊德A級公司債",
-   "type": "息",
-   "cash_dividend": 0.067,
-   "stock_dividend_pct": 0.0
-  },
   "01007T": {
    "ex_date": "20261119",
    "name": "兆豐國泰R2",
@@ -97,13 +83,6 @@
    "name": "元大金融配息N",
    "type": "息",
    "cash_dividend": 0.4,
-   "stock_dividend_pct": 0.0
-  },
-  "1711": {
-   "ex_date": "20261020",
-   "name": "永光",
-   "type": "權",
-   "cash_dividend": 0.0,
    "stock_dividend_pct": 0.0
   },
   "2025": {
@@ -120,6 +99,13 @@
    "cash_dividend": 0.2,
    "stock_dividend_pct": 0.0
   },
+  "2414": {
+   "ex_date": "20261106",
+   "name": "精技",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
+  },
   "2762": {
    "ex_date": "20261029",
    "name": "世界健身-KY",
@@ -132,13 +118,6 @@
    "name": "牧德",
    "type": "息",
    "cash_dividend": 1.0,
-   "stock_dividend_pct": 0.0
-  },
-  "4155": {
-   "ex_date": "20261020",
-   "name": "訊映",
-   "type": "息",
-   "cash_dividend": 0.3,
    "stock_dividend_pct": 0.0
   },
   "4552": {
@@ -179,16 +158,13 @@
  },
  "by_date": {
   "20261106": [
-   "00400A"
+   "00400A",
+   "2414"
   ],
   "20261103": [
    "00406A",
    "00939",
    "00984D"
-  ],
-  "20261021": [
-   "00408A",
-   "00929"
   ],
   "20261022": [
    "0056"
@@ -196,17 +172,15 @@
   "20261027": [
    "00907"
   ],
+  "20261110": [
+   "00940"
+  ],
   "20261104": [
    "00946",
    "00953B",
    "00985B",
    "020036",
    "8467"
-  ],
-  "20261020": [
-   "00991B",
-   "1711",
-   "4155"
   ],
   "20261119": [
    "01007T"
@@ -230,35 +204,11 @@
  },
  "upcoming_30d": [
   {
-   "code": "0056",
-   "ex_date": "20261022",
-   "name": "元大高股息",
-   "type": "息",
-   "cash_dividend": 1.72,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "2028",
-   "ex_date": "20261023",
-   "name": "威致",
-   "type": "息",
-   "cash_dividend": 0.2,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "6931",
-   "ex_date": "20261023",
-   "name": "青松健康",
-   "type": "息",
-   "cash_dividend": 0.12,
-   "stock_dividend_pct": 0.0
-  },
-  {
    "code": "00907",
    "ex_date": "20261027",
    "name": "永豐優息存股",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.268,
    "stock_dividend_pct": 0.0
   },
   {
@@ -382,6 +332,22 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "2414",
+   "ex_date": "20261106",
+   "name": "精技",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "00940",
+   "ex_date": "20261110",
+   "name": "元大台灣價值高息",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
+  {
    "code": "01007T",
    "ex_date": "20261119",
    "name": "兆豐國泰R2",
@@ -390,6 +356,6 @@
    "stock_dividend_pct": 0.0
   }
  ],
- "fetched_at": "2026-10-22T03:52:48.660553+08:00",
+ "fetched_at": "2026-10-24T02:05:59.756013+08:00",
  "source": "https://www.twse.com.tw/exchangeReport/TWT48U?response=json"
 }

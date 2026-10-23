@@ -455,6 +455,11 @@
      "lu_buy_wan": 492
     },
     {
+     "name": "永豐天母(老錢)",
+     "limit_up_hits": 2,
+     "lu_buy_wan": 185
+    },
+    {
      "name": "民哥",
      "limit_up_hits": 2,
      "lu_buy_wan": 102
@@ -463,11 +468,6 @@
      "name": "強森",
      "limit_up_hits": 2,
      "lu_buy_wan": 2389
-    },
-    {
-     "name": "張濬安(航海王)",
-     "limit_up_hits": 2,
-     "lu_buy_wan": 1348
     }
    ],
    "row_count": 10,
@@ -504,8 +504,8 @@
     {
      "code": "1101",
      "name": "台泥",
-     "cum_net_wan": 107895,
-     "distinct_traders": 43
+     "cum_net_wan": 108001,
+     "distinct_traders": 42
     },
     {
      "code": "7769",
@@ -528,8 +528,8 @@
     {
      "code": "2891",
      "name": "中信金",
-     "cum_net_wan": 68970,
-     "distinct_traders": 17
+     "cum_net_wan": 67996,
+     "distinct_traders": 18
     },
     {
      "code": "3045",
@@ -559,7 +559,7 @@
    "rows": [
     {
      "date": "20261022",
-     "row_count": 7484,
+     "row_count": 7500,
      "traders_active": 51,
      "branches_active": 77
     }
@@ -1087,8 +1087,14 @@
     },
     {
      "date": "20261022",
+     "top_master": "永豐天母(老錢)",
+     "day_buy_wan": 78275,
+     "row_count": 96
+    },
+    {
+     "date": "20261022",
      "top_master": "華南永昌中正(未知大哥)",
-     "day_buy_wan": 75955,
+     "day_buy_wan": 75988,
      "row_count": 82
     },
     {
@@ -1107,12 +1113,6 @@
      "date": "20261022",
      "top_master": "兆豐北高雄(強勢地緣)",
      "day_buy_wan": 65544,
-     "row_count": 80
-    },
-    {
-     "date": "20261022",
-     "top_master": "永豐天母(老錢)",
-     "day_buy_wan": 60655,
      "row_count": 80
     },
     {
@@ -1250,9 +1250,9 @@
      "code": "00406A",
      "stock_name": "主動中信台灣收益",
      "distinct_masters": 45,
-     "buy_wan": 155656,
-     "sell_wan": 488587,
-     "net_wan": -332931,
+     "buy_wan": 155875,
+     "sell_wan": 488280,
+     "net_wan": -332405,
      "days_active": 1
     },
     {
@@ -1292,21 +1292,21 @@
      "days_active": 1
     },
     {
-     "code": "1101",
-     "stock_name": "台泥",
-     "distinct_masters": 43,
-     "buy_wan": 190558,
-     "sell_wan": 82662,
-     "net_wan": 107895,
-     "days_active": 1
-    },
-    {
      "code": "3037",
      "stock_name": "欣興",
      "distinct_masters": 42,
      "buy_wan": 989883,
      "sell_wan": 960081,
      "net_wan": 29801,
+     "days_active": 1
+    },
+    {
+     "code": "1101",
+     "stock_name": "台泥",
+     "distinct_masters": 42,
+     "buy_wan": 190479,
+     "sell_wan": 82477,
+     "net_wan": 108001,
      "days_active": 1
     },
     {
@@ -1322,9 +1322,9 @@
      "code": "00403A",
      "stock_name": "主動統一升級50",
      "distinct_masters": 42,
-     "buy_wan": 86658,
-     "sell_wan": 112333,
-     "net_wan": -25675,
+     "buy_wan": 86485,
+     "sell_wan": 112285,
+     "net_wan": -25799,
      "days_active": 1
     },
     {
@@ -1367,9 +1367,9 @@
      "code": "00929",
      "stock_name": "復華台灣科技優息",
      "distinct_masters": 39,
-     "buy_wan": 42680,
-     "sell_wan": 120100,
-     "net_wan": -77419,
+     "buy_wan": 44331,
+     "sell_wan": 120071,
+     "net_wan": -75740,
      "days_active": 1
     }
    ],
@@ -1449,8 +1449,8 @@
     {
      "master": "華南永昌中正(未知大哥)",
      "active_days": 1,
-     "avg_day_wan": 75955.0,
-     "total_wan": 75955
+     "avg_day_wan": 75989.0,
+     "total_wan": 75988
     },
     {
      "master": "花旗環球",
@@ -1515,8 +1515,8 @@
     {
      "master": "永豐天母(老錢)",
      "active_days": 1,
-     "avg_day_wan": 60655.0,
-     "total_wan": 60655
+     "avg_day_wan": 78275.0,
+     "total_wan": 78275
     },
     {
      "master": "民哥",
