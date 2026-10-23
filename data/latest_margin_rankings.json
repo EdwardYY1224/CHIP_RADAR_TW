@@ -1,6 +1,6 @@
 {
  "trade_date": "20261022",
- "updated_at": "2026-10-24T02:05:13.954267+08:00",
+ "updated_at": "2026-10-24T02:53:40.894825+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5008,8 +5008,8 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1581,
-   "watch": 175,
+   "healthy": 1586,
+   "watch": 170,
    "high_risk": 4,
    "margin_call": 1,
    "insufficient_data": 460
@@ -5043,15 +5043,6 @@
     "estimated_cost": 84.88
    },
    {
-    "code": "9136",
-    "name": "巨騰-DR",
-    "ratio": 127.2,
-    "risk_level": "high_risk",
-    "margin_balance": 11187,
-    "today_close": 7.68,
-    "estimated_cost": 10.06
-   },
-   {
     "code": "4127",
     "name": "天良",
     "ratio": 128.8,
@@ -5059,6 +5050,15 @@
     "margin_balance": 1013,
     "today_close": 37.95,
     "estimated_cost": 49.09
+   },
+   {
+    "code": "9136",
+    "name": "巨騰-DR",
+    "ratio": 129.1,
+    "risk_level": "high_risk",
+    "margin_balance": 11187,
+    "today_close": 7.68,
+    "estimated_cost": 9.91
    }
   ],
   "thresholds": {
