@@ -1,6 +1,6 @@
 {
  "trade_date": "20261028",
- "updated_at": "2026-10-29T03:09:01.810974+08:00",
+ "updated_at": "2026-10-29T04:12:07.891710+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -5002,48 +5002,48 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 1192,
-   "watch": 75,
+   "healthy": 1202,
+   "watch": 68,
    "high_risk": 2,
    "margin_call": 2,
-   "insufficient_data": 950
+   "insufficient_data": 947
   },
   "high_risk_stocks": [
    {
     "code": "6873",
     "name": "泓德能源",
-    "ratio": 111.1,
+    "ratio": 112.9,
     "risk_level": "margin_call",
     "margin_balance": 3435,
     "today_close": 46.55,
-    "estimated_cost": 69.84
+    "estimated_cost": 68.71
    },
    {
     "code": "3230",
     "name": "錦明",
-    "ratio": 115.0,
+    "ratio": 116.8,
     "risk_level": "margin_call",
     "margin_balance": 1880,
     "today_close": 25.25,
-    "estimated_cost": 36.59
+    "estimated_cost": 36.03
    },
    {
     "code": "5464",
     "name": "霖宏",
-    "ratio": 124.4,
+    "ratio": 125.3,
     "risk_level": "high_risk",
     "margin_balance": 8474,
     "today_close": 63.0,
-    "estimated_cost": 84.43
+    "estimated_cost": 83.77
    },
    {
     "code": "4127",
     "name": "天良",
-    "ratio": 126.6,
+    "ratio": 129.0,
     "risk_level": "high_risk",
     "margin_balance": 1008,
     "today_close": 36.65,
-    "estimated_cost": 48.23
+    "estimated_cost": 47.36
    }
   ],
   "thresholds": {
