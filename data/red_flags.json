@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T03:50:17.254363+08:00",
+  "generated_at": "2026-10-31T04:20:26.122594+08:00",
   "trade_date": "20261030",
   "pump_suspicion": [],
   "wash_trade": [
@@ -261,6 +261,23 @@
     {
       "stock_code": "0050",
       "stock_name": "元大台灣50",
+      "buy_branch_code": "9A9g",
+      "buy_master": "陳族元",
+      "sell_branch_code": "984K",
+      "sell_master": "強森",
+      "buy_lot": 364,
+      "sell_lot": 314,
+      "buy_amt_wan": 3796,
+      "sell_amt_wan": 3296,
+      "lot_match_ratio": 0.86,
+      "same_master": false,
+      "rule": "B_wash",
+      "severity": "medium",
+      "reasoning": "9A9g 買 364 張 vs 984K 賣 314 張 (匹配 86%)"
+    },
+    {
+      "stock_code": "0050",
+      "stock_name": "元大台灣50",
       "buy_branch_code": "9B2r",
       "buy_master": "強森",
       "sell_branch_code": "984K",
@@ -395,6 +412,23 @@
       "reasoning": "9692 買 327 張 vs 984K 賣 314 張 (匹配 96%)"
     },
     {
+      "stock_code": "0050",
+      "stock_name": "元大台灣50",
+      "buy_branch_code": "9A9G",
+      "buy_master": "永豐天母(老錢)",
+      "sell_branch_code": "984K",
+      "sell_master": "強森",
+      "buy_lot": 364,
+      "sell_lot": 314,
+      "buy_amt_wan": 3796,
+      "sell_amt_wan": 3296,
+      "lot_match_ratio": 0.86,
+      "same_master": false,
+      "rule": "B_wash",
+      "severity": "medium",
+      "reasoning": "9A9G 買 364 張 vs 984K 賣 314 張 (匹配 86%)"
+    },
+    {
       "stock_code": "1815",
       "stock_name": "富喬",
       "buy_branch_code": "9B25",
@@ -478,40 +512,6 @@
       "rule": "B_wash",
       "severity": "medium",
       "reasoning": "9666 買 267 張 vs 888A 賣 341 張 (匹配 78%)"
-    },
-    {
-      "stock_code": "1815",
-      "stock_name": "富喬",
-      "buy_branch_code": "9666",
-      "buy_master": "民哥",
-      "sell_branch_code": "585U",
-      "sell_master": "統一南京(強勢未知)",
-      "buy_lot": 267,
-      "sell_lot": 200,
-      "buy_amt_wan": 3379,
-      "sell_amt_wan": 2534,
-      "lot_match_ratio": 0.75,
-      "same_master": false,
-      "rule": "B_wash",
-      "severity": "medium",
-      "reasoning": "9666 買 267 張 vs 585U 賣 200 張 (匹配 75%)"
-    },
-    {
-      "stock_code": "1815",
-      "stock_name": "富喬",
-      "buy_branch_code": "9309",
-      "buy_master": "林滄海",
-      "sell_branch_code": "961M",
-      "sell_master": "張濬安(航海王)",
-      "buy_lot": 100,
-      "sell_lot": 98,
-      "buy_amt_wan": 1262,
-      "sell_amt_wan": 1254,
-      "lot_match_ratio": 0.98,
-      "same_master": false,
-      "rule": "B_wash",
-      "severity": "medium",
-      "reasoning": "9309 買 100 張 vs 961M 賣 98 張 (匹配 98%)"
     }
   ],
   "distribution": [],
