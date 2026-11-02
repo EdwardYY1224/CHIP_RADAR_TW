@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T06:29:36.520533+08:00",
+  "generated_at": "2026-11-03T07:02:12.198971+08:00",
   "trade_date": "20261102",
   "pump_suspicion": [],
   "wash_trade": [
@@ -514,73 +514,12 @@
       "reasoning": "700V 買 148 張 vs 779c 賣 197 張 (匹配 75%)"
     }
   ],
-  "distribution": [
-    {
-      "stock_code": "1201",
-      "stock_name": "味全",
-      "branch_code": "779W",
-      "branch_name": "國票-彰化",
-      "master": "民哥",
-      "sell_lot": 107,
-      "sell_amt_wan": 146,
-      "avg_30d_sell_lot": 10.0,
-      "sell_vs_avg_x": 10.7,
-      "recent_5d_limit_up_count": 7,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 107 張 (30 天均 10 張 × 10.7) + 近 5 天漲停 7 次"
-    },
-    {
-      "stock_code": "3455",
-      "stock_name": "由田",
-      "branch_code": "9B2r",
-      "branch_name": "台新-城東",
-      "master": "強森",
-      "sell_lot": 182,
-      "sell_amt_wan": 4090,
-      "avg_30d_sell_lot": 23.0,
-      "sell_vs_avg_x": 7.9,
-      "recent_5d_limit_up_count": 5,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 182 張 (30 天均 23 張 × 7.9) + 近 5 天漲停 5 次"
-    },
-    {
-      "stock_code": "4960",
-      "stock_name": "誠美材",
-      "branch_code": "9B2n",
-      "branch_name": "台新-西松",
-      "master": "巨人傑",
-      "sell_lot": 592,
-      "sell_amt_wan": 1830,
-      "avg_30d_sell_lot": 22.0,
-      "sell_vs_avg_x": 26.9,
-      "recent_5d_limit_up_count": 19,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 592 張 (30 天均 22 張 × 26.9) + 近 5 天漲停 19 次"
-    },
-    {
-      "stock_code": "6456",
-      "stock_name": "GIS-KY",
-      "branch_code": "9874",
-      "branch_name": "元大-雙和",
-      "master": "東億資本",
-      "sell_lot": 219,
-      "sell_amt_wan": 2117,
-      "avg_30d_sell_lot": 30.0,
-      "sell_vs_avg_x": 7.3,
-      "recent_5d_limit_up_count": 22,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 219 張 (30 天均 30 張 × 7.3) + 近 5 天漲停 22 次"
-    }
-  ],
+  "distribution": [],
   "summary": {
     "pump_count": 0,
     "wash_count": 30,
-    "distribution_count": 4,
-    "total": 34
+    "distribution_count": 0,
+    "total": 30
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
