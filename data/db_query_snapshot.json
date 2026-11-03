@@ -528,7 +528,7 @@
     {
      "code": "2618",
      "name": "長榮航",
-     "cum_net_wan": 62759,
+     "cum_net_wan": 62933,
      "distinct_traders": 33
     },
     {
@@ -559,7 +559,7 @@
    "rows": [
     {
      "date": "20261103",
-     "row_count": 7461,
+     "row_count": 7479,
      "traders_active": 51,
      "branches_active": 77
     }
@@ -601,14 +601,14 @@
     {
      "master_a": "強森",
      "master_b": "陳族元",
-     "co_buy_count": 1184,
-     "distinct_stocks": 142
+     "co_buy_count": 1204,
+     "distinct_stocks": 146
     },
     {
      "master_a": "陳族元",
      "master_b": "張濬安(航海王)",
-     "co_buy_count": 1009,
-     "distinct_stocks": 133
+     "co_buy_count": 1021,
+     "distinct_stocks": 135
     },
     {
      "master_a": "強森",
@@ -641,6 +641,12 @@
      "distinct_stocks": 117
     },
     {
+     "master_a": "林滄海",
+     "master_b": "陳族元",
+     "co_buy_count": 721,
+     "distinct_stocks": 126
+    },
+    {
      "master_a": "強森",
      "master_b": "蔣承翰",
      "co_buy_count": 720,
@@ -653,15 +659,15 @@
      "distinct_stocks": 110
     },
     {
-     "master_a": "林滄海",
-     "master_b": "陳族元",
-     "co_buy_count": 714,
-     "distinct_stocks": 127
-    },
-    {
      "master_a": "張濬安(航海王)",
      "master_b": "陳律師",
      "co_buy_count": 685,
+     "distinct_stocks": 106
+    },
+    {
+     "master_a": "陳族元",
+     "master_b": "陳律師",
+     "co_buy_count": 611,
      "distinct_stocks": 106
     },
     {
@@ -669,12 +675,6 @@
      "master_b": "迷你哥/松山哥",
      "co_buy_count": 604,
      "distinct_stocks": 111
-    },
-    {
-     "master_a": "陳族元",
-     "master_b": "陳律師",
-     "co_buy_count": 604,
-     "distinct_stocks": 105
     },
     {
      "master_a": "張濬安(航海王)",
@@ -697,20 +697,20 @@
     {
      "master_a": "陳族元",
      "master_b": "迷你哥/松山哥",
-     "co_buy_count": 531,
+     "co_buy_count": 542,
      "distinct_stocks": 112
+    },
+    {
+     "master_a": "陳族元",
+     "master_b": "巨人傑",
+     "co_buy_count": 512,
+     "distinct_stocks": 99
     },
     {
      "master_a": "強森",
      "master_b": "江士勳",
      "co_buy_count": 507,
      "distinct_stocks": 89
-    },
-    {
-     "master_a": "強森",
-     "master_b": "竹科主力分點",
-     "co_buy_count": 504,
-     "distinct_stocks": 93
     }
    ],
    "row_count": 20,
@@ -876,8 +876,8 @@
     {
      "date": "20261103",
      "top_master": "陳族元",
-     "day_buy_wan": 1296678,
-     "row_count": 411
+     "day_buy_wan": 1306404,
+     "row_count": 425
     },
     {
      "date": "20261103",
@@ -1212,9 +1212,9 @@
      "code": "2303",
      "stock_name": "聯電",
      "distinct_masters": 44,
-     "buy_wan": 730351,
-     "sell_wan": 1026400,
-     "net_wan": -296048,
+     "buy_wan": 731587,
+     "sell_wan": 1026667,
+     "net_wan": -295080,
      "days_active": 1
     },
     {
@@ -1239,9 +1239,9 @@
      "code": "00403A",
      "stock_name": "主動統一升級50",
      "distinct_masters": 44,
-     "buy_wan": 81660,
-     "sell_wan": 188684,
-     "net_wan": -107024,
+     "buy_wan": 81543,
+     "sell_wan": 188701,
+     "net_wan": -107158,
      "days_active": 1
     },
     {
@@ -1351,8 +1351,8 @@
     {
      "master": "陳族元",
      "active_days": 1,
-     "avg_day_wan": 1296678.0,
-     "total_wan": 1296678
+     "avg_day_wan": 1306404.0,
+     "total_wan": 1306404
     },
     {
      "master": "陳律師",

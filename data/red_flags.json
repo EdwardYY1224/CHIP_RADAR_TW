@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T04:50:27.556766+08:00",
+  "generated_at": "2026-11-04T05:30:51.035920+08:00",
   "trade_date": "20261103",
   "pump_suspicion": [],
   "wash_trade": [
@@ -544,28 +544,13 @@
       "rule": "C_distribution",
       "severity": "medium",
       "reasoning": "當日賣 87 張 (30 天均 16 張 × 5.6) + 近 5 天漲停 36 次"
-    },
-    {
-      "stock_code": "3443",
-      "stock_name": "創意",
-      "branch_code": "9A9G",
-      "branch_name": "永豐金-天母",
-      "master": "永豐天母(老錢)",
-      "sell_lot": 50,
-      "sell_amt_wan": 33973,
-      "avg_30d_sell_lot": 2.6,
-      "sell_vs_avg_x": 19.2,
-      "recent_5d_limit_up_count": 52,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 50 張 (30 天均 3 張 × 19.2) + 近 5 天漲停 52 次"
     }
   ],
   "summary": {
     "pump_count": 0,
     "wash_count": 30,
-    "distribution_count": 3,
-    "total": 33
+    "distribution_count": 2,
+    "total": 32
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }

@@ -1,6 +1,6 @@
 {
   "date": "20261103",
-  "generated_at": "2026-11-04T04:53:05.724214+08:00",
+  "generated_at": "2026-11-04T05:34:13.472172+08:00",
   "anomalies": [
     {
       "master": "宋福祥",
@@ -337,6 +337,26 @@
         }
       ],
       "description": "陳律師 今日買進 4 檔新標的 (過去從沒買過)"
+    },
+    {
+      "master": "陳族元",
+      "type": "new_stocks",
+      "count": 3,
+      "top_new": [
+        {
+          "code": "6467",
+          "buy_amt_wan": 3918
+        },
+        {
+          "code": "009804",
+          "buy_amt_wan": 214
+        },
+        {
+          "code": "00946",
+          "buy_amt_wan": 118
+        }
+      ],
+      "description": "陳族元 今日買進 3 檔新標的 (過去從沒買過)"
     }
   ],
   "consensus": [
@@ -607,8 +627,8 @@
         "陳族元"
       ],
       "buyer_count": 8,
-      "total_buy_amt_wan": 44246,
-      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 2303 (合計 44,246 萬)"
+      "total_buy_amt_wan": 45482,
+      "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 2303 (合計 45,482 萬)"
     },
     {
       "faction_id": 1,
@@ -772,8 +792,8 @@
       "master": "陳族元",
       "stock_code": "00919",
       "consecutive_days": 63,
-      "total_buy_amt_wan": 202553,
-      "description": "陳族元 連續 63 天加碼 00919 (累計 202,553 萬)"
+      "total_buy_amt_wan": 202861,
+      "description": "陳族元 連續 63 天加碼 00919 (累計 202,861 萬)"
     },
     {
       "master": "強森",
@@ -849,9 +869,9 @@
       "master": "陳族元",
       "stock_code": "4958",
       "consecutive_days": 42,
-      "total_buy_amt_wan": 1064084,
-      "description": "陳族元 連續 42 天加碼 4958 (累計 1,064,084 萬)"
+      "total_buy_amt_wan": 1067185,
+      "description": "陳族元 連續 42 天加碼 4958 (累計 1,067,185 萬)"
     }
   ],
-  "summary": "20261103 實戰信號: 16 異常行為 / 15 派系共識 / 15 連續加碼"
+  "summary": "20261103 實戰信號: 17 異常行為 / 15 派系共識 / 15 連續加碼"
 }
