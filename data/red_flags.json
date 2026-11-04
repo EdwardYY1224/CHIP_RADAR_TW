@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T05:06:09.184237+08:00",
+  "generated_at": "2026-11-05T05:39:27.371133+08:00",
   "trade_date": "20261104",
   "pump_suspicion": [],
   "wash_trade": [
@@ -78,15 +78,15 @@
       "buy_master": "陳族元",
       "sell_branch_code": "989N",
       "sell_master": "強森",
-      "buy_lot": 181,
+      "buy_lot": 178,
       "sell_lot": 142,
       "buy_amt_wan": 4928,
       "sell_amt_wan": 3862,
-      "lot_match_ratio": 0.78,
+      "lot_match_ratio": 0.8,
       "same_master": false,
       "rule": "B_wash",
       "severity": "medium",
-      "reasoning": "9A9g 買 181 張 vs 989N 賣 142 張 (匹配 78%)"
+      "reasoning": "9A9g 買 178 張 vs 989N 賣 142 張 (匹配 80%)"
     },
     {
       "stock_code": "1303",
@@ -95,15 +95,15 @@
       "buy_master": "陳族元",
       "sell_branch_code": "8563",
       "sell_master": "大牌分析師",
-      "buy_lot": 181,
+      "buy_lot": 178,
       "sell_lot": 172,
       "buy_amt_wan": 4928,
       "sell_amt_wan": 4646,
-      "lot_match_ratio": 0.95,
+      "lot_match_ratio": 0.97,
       "same_master": false,
       "rule": "B_wash",
       "severity": "medium",
-      "reasoning": "9A9g 買 181 張 vs 8563 賣 172 張 (匹配 95%)"
+      "reasoning": "9A9g 買 178 張 vs 8563 賣 172 張 (匹配 97%)"
     },
     {
       "stock_code": "1303",
