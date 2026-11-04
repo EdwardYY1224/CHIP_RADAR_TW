@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-05T04:38:03.208393+08:00",
+  "generated_at": "2026-11-05T05:06:09.184237+08:00",
   "trade_date": "20261104",
   "pump_suspicion": [],
   "wash_trade": [
@@ -516,66 +516,6 @@
   ],
   "distribution": [
     {
-      "stock_code": "6415",
-      "stock_name": "矽力*-KY",
-      "branch_code": "9216",
-      "branch_name": "凱基-信義",
-      "master": "林滄海",
-      "sell_lot": 421,
-      "sell_amt_wan": 18879,
-      "avg_30d_sell_lot": 36.0,
-      "sell_vs_avg_x": 11.7,
-      "recent_5d_limit_up_count": 31,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 421 張 (30 天均 36 張 × 11.7) + 近 5 天漲停 31 次"
-    },
-    {
-      "stock_code": "2455",
-      "stock_name": "全新",
-      "branch_code": "779Z",
-      "branch_name": "國票-安和",
-      "master": "張濬安(航海王)",
-      "sell_lot": 666,
-      "sell_amt_wan": 25105,
-      "avg_30d_sell_lot": 131.9,
-      "sell_vs_avg_x": 5.1,
-      "recent_5d_limit_up_count": 31,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 666 張 (30 天均 132 張 × 5.1) + 近 5 天漲停 31 次"
-    },
-    {
-      "stock_code": "3455",
-      "stock_name": "由田",
-      "branch_code": "779Z",
-      "branch_name": "國票-安和",
-      "master": "張濬安(航海王)",
-      "sell_lot": 564,
-      "sell_amt_wan": 10684,
-      "avg_30d_sell_lot": 59.5,
-      "sell_vs_avg_x": 9.5,
-      "recent_5d_limit_up_count": 5,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 564 張 (30 天均 60 張 × 9.5) + 近 5 天漲停 5 次"
-    },
-    {
-      "stock_code": "3443",
-      "stock_name": "創意",
-      "branch_code": "9A9g",
-      "branch_name": "永豐金-內湖",
-      "master": "陳族元",
-      "sell_lot": 68,
-      "sell_amt_wan": 48574,
-      "avg_30d_sell_lot": 10.3,
-      "sell_vs_avg_x": 6.6,
-      "recent_5d_limit_up_count": 52,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 68 張 (30 天均 10 張 × 6.6) + 近 5 天漲停 52 次"
-    },
-    {
       "stock_code": "3105",
       "stock_name": "穩懋",
       "branch_code": "9B2n",
@@ -583,49 +523,19 @@
       "master": "巨人傑",
       "sell_lot": 487,
       "sell_amt_wan": 24389,
-      "avg_30d_sell_lot": 27.9,
-      "sell_vs_avg_x": 17.5,
-      "recent_5d_limit_up_count": 133,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 487 張 (30 天均 28 張 × 17.5) + 近 5 天漲停 133 次"
-    },
-    {
-      "stock_code": "3455",
-      "stock_name": "由田",
-      "branch_code": "9227",
-      "branch_name": "凱基-城中",
-      "master": "蔣承翰",
-      "sell_lot": 387,
-      "sell_amt_wan": 7905,
-      "avg_30d_sell_lot": 32.5,
-      "sell_vs_avg_x": 11.9,
-      "recent_5d_limit_up_count": 5,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 387 張 (30 天均 32 張 × 11.9) + 近 5 天漲停 5 次"
-    },
-    {
-      "stock_code": "6415",
-      "stock_name": "矽力*-KY",
-      "branch_code": "1360",
-      "branch_name": "港商麥格理",
-      "master": "麥格理",
-      "sell_lot": 370,
-      "sell_amt_wan": 16772,
-      "avg_30d_sell_lot": 72.0,
-      "sell_vs_avg_x": 5.1,
-      "recent_5d_limit_up_count": 31,
+      "avg_30d_sell_lot": 73.8,
+      "sell_vs_avg_x": 6.6,
+      "recent_5d_limit_up_count": 74,
       "rule": "C_distribution",
       "severity": "medium",
-      "reasoning": "當日賣 370 張 (30 天均 72 張 × 5.1) + 近 5 天漲停 31 次"
+      "reasoning": "當日賣 487 張 (30 天均 74 張 × 6.6) + 近 5 天漲停 74 次"
     }
   ],
   "summary": {
     "pump_count": 0,
     "wash_count": 30,
-    "distribution_count": 7,
-    "total": 37
+    "distribution_count": 1,
+    "total": 31
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
