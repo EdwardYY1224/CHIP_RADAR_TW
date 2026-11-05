@@ -1,5 +1,5 @@
 {
- "count": 54,
+ "count": 55,
  "by_code": {
   "00400A": {
    "ex_date": "20261106",
@@ -372,6 +372,13 @@
    "cash_dividend": 0.0,
    "stock_dividend_pct": 0.0
   },
+  "6924": {
+   "ex_date": "20261119",
+   "name": "榮惠-KY創",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
+  },
   "8467": {
    "ex_date": "20261104",
    "name": "波力-KY",
@@ -455,7 +462,8 @@
    "8467"
   ],
   "20261119": [
-   "01007T"
+   "01007T",
+   "6924"
   ]
  },
  "upcoming_30d": [
@@ -780,6 +788,14 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "6924",
+   "ex_date": "20261119",
+   "name": "榮惠-KY創",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
+  },
+  {
    "code": "0051",
    "ex_date": "20261120",
    "name": "元大中型100",
@@ -828,6 +844,6 @@
    "stock_dividend_pct": 0.0
   }
  ],
- "fetched_at": "2026-11-05T04:41:10.023316+08:00",
+ "fetched_at": "2026-11-06T04:54:49.418666+08:00",
  "source": "https://www.twse.com.tw/exchangeReport/TWT48U?response=json"
 }
