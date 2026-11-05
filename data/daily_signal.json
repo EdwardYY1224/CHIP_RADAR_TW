@@ -1,15 +1,21 @@
 {
   "date": "20261105",
-  "generated_at": "2026-11-05T20:53:59.730154",
+  "generated_at": "2026-11-05T21:28:33.075519",
   "generator": "signal_engine v3.29 MVP (Phase A backtest based)",
-  "headline": "中性 信心50.0% (低信心) · 3 檔個股關注",
+  "headline": "偏多 信心70.2% (高信心) · 3 檔個股關注",
   "market_direction": {
-    "direction": "中性",
-    "confidence_pct": 50.0,
-    "net_weight": 0.0,
-    "contributing": [],
+    "direction": "偏多",
+    "confidence_pct": 70.2,
+    "net_weight": 0.202,
+    "contributing": [
+      {
+        "name": "外資現貨",
+        "level": "extreme-bull",
+        "weight": 0.202,
+        "sign": "bull"
+      }
+    ],
     "ignored": [
-      "外資現貨",
       "外資期貨",
       "P/C Ratio",
       "分點漲停",
