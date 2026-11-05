@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-06T05:28:33.048803+08:00",
+  "updated_at": "2026-11-06T05:45:28.936416+08:00",
   "count": 60,
   "history": [
     {
@@ -3363,17 +3363,17 @@
       ],
       "taiex_index": 42948.91,
       "taiex_change_pct": -4.39,
-      "next_day_change_pct": null
+      "next_day_change_pct": -3.2
     },
     {
       "date": "20261105",
-      "score": 54,
+      "score": 39,
       "signals": [
         {
           "name": "外資現貨",
-          "score": 20,
-          "level": "extreme-bull",
-          "value": 126058
+          "score": 0,
+          "level": "extreme-bear",
+          "value": -502525
         },
         {
           "name": "外資期貨",
@@ -3404,8 +3404,8 @@
           "score": 10,
           "level": "neutral",
           "value": {
-            "foreign_net": 126058,
-            "trust_net": -646
+            "foreign_net": -502525,
+            "trust_net": 87009
           }
         },
         {
@@ -3418,8 +3418,8 @@
           }
         }
       ],
-      "taiex_index": null,
-      "taiex_change_pct": null,
+      "taiex_index": 41574.72,
+      "taiex_change_pct": -3.2,
       "next_day_change_pct": null
     }
   ],
