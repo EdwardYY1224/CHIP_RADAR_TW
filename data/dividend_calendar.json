@@ -1,5 +1,5 @@
 {
- "count": 48,
+ "count": 49,
  "by_code": {
   "00400A": {
    "ex_date": "20261106",
@@ -302,6 +302,13 @@
    "cash_dividend": 0.215313,
    "stock_dividend_pct": 0.0
   },
+  "1707": {
+   "ex_date": "20261230",
+   "name": "葡萄王",
+   "type": "息",
+   "cash_dividend": 1.9,
+   "stock_dividend_pct": 0.0
+  },
   "2344": {
    "ex_date": "20261118",
    "name": "華邦電",
@@ -404,6 +411,9 @@
   "20261119": [
    "01007T",
    "6924"
+  ],
+  "20261230": [
+   "1707"
   ]
  },
  "upcoming_30d": [
@@ -776,6 +786,6 @@
    "stock_dividend_pct": 0.0
   }
  ],
- "fetched_at": "2026-11-07T05:20:43.742761+08:00",
+ "fetched_at": "2026-11-10T07:38:27.438733+08:00",
  "source": "https://www.twse.com.tw/exchangeReport/TWT48U?response=json"
 }
