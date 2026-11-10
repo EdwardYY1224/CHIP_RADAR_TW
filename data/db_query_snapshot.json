@@ -307,6 +307,11 @@
      "cum_net_wan": -278
     },
     {
+     "name": "永豐天母(老錢)",
+     "cum_net_lots": -19,
+     "cum_net_wan": -438
+    },
+    {
      "name": "丁凌全",
      "cum_net_lots": -27,
      "cum_net_wan": -649
@@ -397,7 +402,7 @@
      "cum_net_wan": -76178
     }
    ],
-   "row_count": 28,
+   "row_count": 29,
    "truncated": false
   },
   "5": {
@@ -476,20 +481,20 @@
     {
      "code": "1802",
      "name": "台玻",
-     "cum_net_wan": 403572,
+     "cum_net_wan": 403444,
      "distinct_traders": 44
     },
     {
      "code": "1303",
      "name": "南亞",
-     "cum_net_wan": 326864,
+     "cum_net_wan": 326077,
      "distinct_traders": 46
     },
     {
      "code": "3661",
      "name": "世芯-KY",
-     "cum_net_wan": 248983,
-     "distinct_traders": 40
+     "cum_net_wan": 248514,
+     "distinct_traders": 41
     },
     {
      "code": "3167",
@@ -500,13 +505,13 @@
     {
      "code": "2454",
      "name": "聯發科",
-     "cum_net_wan": 133175,
+     "cum_net_wan": 138578,
      "distinct_traders": 48
     },
     {
      "code": "3037",
      "name": "欣興",
-     "cum_net_wan": 124285,
+     "cum_net_wan": 123762,
      "distinct_traders": 41
     },
     {
@@ -524,14 +529,14 @@
     {
      "code": "3189",
      "name": "景碩",
-     "cum_net_wan": 99472,
+     "cum_net_wan": 97372,
      "distinct_traders": 35
     },
     {
-     "code": "2408",
-     "name": "南亞科",
-     "cum_net_wan": 76894,
-     "distinct_traders": 39
+     "code": "6456",
+     "name": "GIS-KY",
+     "cum_net_wan": 75223,
+     "distinct_traders": 20
     }
    ],
    "row_count": 10,
@@ -549,7 +554,7 @@
    "rows": [
     {
      "date": "20261110",
-     "row_count": 7504,
+     "row_count": 7489,
      "traders_active": 51,
      "branches_active": 77
     }
@@ -1169,12 +1174,6 @@
     },
     {
      "date": "20261110",
-     "top_master": "永豐天母(老錢)",
-     "day_buy_wan": 83321,
-     "row_count": 90
-    },
-    {
-     "date": "20261110",
      "top_master": "竹科強勢地緣",
      "day_buy_wan": 83284,
      "row_count": 89
@@ -1190,6 +1189,12 @@
      "top_master": "謝明彧大哥(華南永昌)",
      "day_buy_wan": 79176,
      "row_count": 149
+    },
+    {
+     "date": "20261110",
+     "top_master": "永豐天母(老錢)",
+     "day_buy_wan": 64544,
+     "row_count": 80
     },
     {
      "date": "20261110",
@@ -1290,54 +1295,54 @@
      "code": "2454",
      "stock_name": "聯發科",
      "distinct_masters": 48,
-     "buy_wan": 3709329,
-     "sell_wan": 3576154,
-     "net_wan": 133175,
+     "buy_wan": 3716199,
+     "sell_wan": 3577620,
+     "net_wan": 138578,
      "days_active": 1
     },
     {
      "code": "2330",
      "stock_name": "台積電",
-     "distinct_masters": 47,
-     "buy_wan": 4976638,
-     "sell_wan": 5486341,
-     "net_wan": -509702,
+     "distinct_masters": 48,
+     "buy_wan": 4980796,
+     "sell_wan": 5493554,
+     "net_wan": -512757,
      "days_active": 1
     },
     {
      "code": "1303",
      "stock_name": "南亞",
      "distinct_masters": 46,
-     "buy_wan": 1506173,
-     "sell_wan": 1179308,
-     "net_wan": 326864,
+     "buy_wan": 1505641,
+     "sell_wan": 1179563,
+     "net_wan": 326077,
+     "days_active": 1
+    },
+    {
+     "code": "3711",
+     "stock_name": "日月光投控",
+     "distinct_masters": 44,
+     "buy_wan": 1089374,
+     "sell_wan": 1216749,
+     "net_wan": -127374,
      "days_active": 1
     },
     {
      "code": "1802",
      "stock_name": "台玻",
      "distinct_masters": 44,
-     "buy_wan": 648106,
-     "sell_wan": 244534,
-     "net_wan": 403572,
+     "buy_wan": 647264,
+     "sell_wan": 243820,
+     "net_wan": 403444,
      "days_active": 1
     },
     {
      "code": "00981A",
      "stock_name": "主動統一台股增長",
      "distinct_masters": 44,
-     "buy_wan": 436010,
-     "sell_wan": 432253,
-     "net_wan": 3757,
-     "days_active": 1
-    },
-    {
-     "code": "3711",
-     "stock_name": "日月光投控",
-     "distinct_masters": 43,
-     "buy_wan": 1089021,
-     "sell_wan": 1216266,
-     "net_wan": -127244,
+     "buy_wan": 435299,
+     "sell_wan": 432448,
+     "net_wan": 2851,
      "days_active": 1
     },
     {
@@ -1352,46 +1357,55 @@
     {
      "code": "6274",
      "stock_name": "台燿",
-     "distinct_masters": 42,
-     "buy_wan": 620343,
-     "sell_wan": 679516,
-     "net_wan": -59173,
+     "distinct_masters": 41,
+     "buy_wan": 618162,
+     "sell_wan": 678414,
+     "net_wan": -60252,
      "days_active": 1
     },
     {
-     "code": "2327",
-     "stock_name": "國巨*",
-     "distinct_masters": 42,
-     "buy_wan": 867962,
-     "sell_wan": 1151781,
-     "net_wan": -283819,
+     "code": "3661",
+     "stock_name": "世芯-KY",
+     "distinct_masters": 41,
+     "buy_wan": 955851,
+     "sell_wan": 707337,
+     "net_wan": 248514,
      "days_active": 1
     },
     {
      "code": "3037",
      "stock_name": "欣興",
      "distinct_masters": 41,
-     "buy_wan": 1344300,
-     "sell_wan": 1220014,
-     "net_wan": 124285,
+     "buy_wan": 1344423,
+     "sell_wan": 1220661,
+     "net_wan": 123762,
      "days_active": 1
     },
     {
      "code": "2383",
      "stock_name": "台光電",
      "distinct_masters": 41,
-     "buy_wan": 1300243,
-     "sell_wan": 1446521,
-     "net_wan": -146278,
+     "buy_wan": 1299865,
+     "sell_wan": 1442150,
+     "net_wan": -142285,
+     "days_active": 1
+    },
+    {
+     "code": "2327",
+     "stock_name": "國巨*",
+     "distinct_masters": 41,
+     "buy_wan": 865637,
+     "sell_wan": 1148630,
+     "net_wan": -282992,
      "days_active": 1
     },
     {
      "code": "1815",
      "stock_name": "富喬",
      "distinct_masters": 41,
-     "buy_wan": 478339,
-     "sell_wan": 684819,
-     "net_wan": -206479,
+     "buy_wan": 478401,
+     "sell_wan": 684879,
+     "net_wan": -206477,
      "days_active": 1
     },
     {
@@ -1404,21 +1418,12 @@
      "days_active": 1
     },
     {
-     "code": "3661",
-     "stock_name": "世芯-KY",
-     "distinct_masters": 40,
-     "buy_wan": 955477,
-     "sell_wan": 706494,
-     "net_wan": 248983,
-     "days_active": 1
-    },
-    {
      "code": "3443",
      "stock_name": "創意",
      "distinct_masters": 40,
-     "buy_wan": 1214075,
-     "sell_wan": 1285505,
-     "net_wan": -71429,
+     "buy_wan": 1209091,
+     "sell_wan": 1280937,
+     "net_wan": -71845,
      "days_active": 1
     },
     {
@@ -1434,9 +1439,9 @@
      "code": "2408",
      "stock_name": "南亞科",
      "distinct_masters": 39,
-     "buy_wan": 783058,
-     "sell_wan": 706164,
-     "net_wan": 76894,
+     "buy_wan": 780900,
+     "sell_wan": 706496,
+     "net_wan": 74404,
      "days_active": 1
     },
     {
@@ -1452,7 +1457,7 @@
      "code": "00406A",
      "stock_name": "主動中信台灣收益",
      "distinct_masters": 39,
-     "buy_wan": 75168,
+     "buy_wan": 75169,
      "sell_wan": 149129,
      "net_wan": -73960,
      "days_active": 1
@@ -1461,9 +1466,9 @@
      "code": "3008",
      "stock_name": "大立光",
      "distinct_masters": 38,
-     "buy_wan": 947353,
-     "sell_wan": 1199916,
-     "net_wan": -252562,
+     "buy_wan": 949860,
+     "sell_wan": 1203026,
+     "net_wan": -253165,
      "days_active": 1
     }
    ],
@@ -1609,8 +1614,8 @@
     {
      "master": "永豐天母(老錢)",
      "active_days": 1,
-     "avg_day_wan": 83321.0,
-     "total_wan": 83321
+     "avg_day_wan": 64545.0,
+     "total_wan": 64544
     },
     {
      "master": "民哥",
