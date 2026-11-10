@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-10T07:35:24.265429+08:00",
+  "generated_at": "2026-11-10T08:08:12.756284+08:00",
   "trade_date": "20261109",
   "pump_suspicion": [
     {
@@ -42,10 +42,10 @@
       "sell_lot": 21867,
       "buy_amt_wan": 79731,
       "daytrade_ratio": 0.79,
-      "amt_vs_median_x": 48.5,
+      "amt_vs_median_x": 45.3,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 79% (> 70%) + 漲停 + 買金額 79,731 萬 (中位數 1,644 萬 × 48.5)"
+      "reasoning": "當沖比 79% (> 70%) + 漲停 + 買金額 79,731 萬 (中位數 1,759 萬 × 45.3)"
     },
     {
       "stock_code": "6488",
@@ -454,34 +454,34 @@
       "stock_name": "聯電",
       "buy_branch_code": "9A9g",
       "buy_master": "陳族元",
-      "sell_branch_code": "9B2n",
-      "sell_master": "巨人傑",
-      "buy_lot": 103,
-      "sell_lot": 122,
+      "sell_branch_code": "779Z",
+      "sell_master": "張濬安(航海王)",
+      "buy_lot": 243,
+      "sell_lot": 224,
       "buy_amt_wan": 992,
-      "sell_amt_wan": 1180,
-      "lot_match_ratio": 0.84,
+      "sell_amt_wan": 2142,
+      "lot_match_ratio": 0.92,
       "same_master": false,
       "rule": "B_wash",
       "severity": "medium",
-      "reasoning": "9A9g 買 103 張 vs 9B2n 賣 122 張 (匹配 84%)"
+      "reasoning": "9A9g 買 243 張 vs 779Z 賣 224 張 (匹配 92%)"
     },
     {
       "stock_code": "2303",
       "stock_name": "聯電",
       "buy_branch_code": "9A9g",
       "buy_master": "陳族元",
-      "sell_branch_code": "9A9S",
-      "sell_master": "蔣承翰",
-      "buy_lot": 103,
-      "sell_lot": 140,
+      "sell_branch_code": "9A9J",
+      "sell_master": "丁凌全",
+      "buy_lot": 243,
+      "sell_lot": 315,
       "buy_amt_wan": 992,
-      "sell_amt_wan": 1358,
-      "lot_match_ratio": 0.74,
+      "sell_amt_wan": 3048,
+      "lot_match_ratio": 0.77,
       "same_master": false,
       "rule": "B_wash",
       "severity": "medium",
-      "reasoning": "9A9g 買 103 張 vs 9A9S 賣 140 張 (匹配 74%)"
+      "reasoning": "9A9g 買 243 張 vs 9A9J 賣 315 張 (匹配 77%)"
     },
     {
       "stock_code": "2303",
