@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T05:44:52.591554+08:00",
+  "generated_at": "2026-11-12T06:29:28.725905+08:00",
   "window_days": 69,
   "trade_date_range": [
     "20260731",
@@ -2274,7 +2274,7 @@
             "count": 56
           },
           {
-            "code": "00631L",
+            "code": "2344",
             "count": 51
           }
         ],
@@ -9497,29 +9497,29 @@
         "swing"
       ],
       "operation_metrics": {
-        "trades_count": 15776,
-        "unique_stocks": 927,
+        "trades_count": 15767,
+        "unique_stocks": 924,
         "daytrade_ratio": 0.048,
         "partial_ratio": 0.22,
-        "overnight_ratio": 0.733,
-        "limit_up_hit_ratio": 0.06,
+        "overnight_ratio": 0.732,
+        "limit_up_hit_ratio": 0.059,
         "concentration_top5_pct": 25.8,
-        "consistency": 0.733,
-        "total_buy_amt_wan": 88252959,
-        "limit_up_locked_trades_count": 851,
-        "limit_up_locked_ratio_amt": 0.079,
+        "consistency": 0.732,
+        "total_buy_amt_wan": 88231508,
+        "limit_up_locked_trades_count": 843,
+        "limit_up_locked_ratio_amt": 0.078,
         "limit_up_locked_ratio_lot": 0.056,
-        "long_term_stocks_count": 211,
+        "long_term_stocks_count": 210,
         "long_term_amt_ratio": 0.943,
         "decay_applied": true,
         "decay_half_life": 20,
         "top_industry": "半導體業",
-        "top_industry_pct": 37.4,
+        "top_industry_pct": 37.5,
         "industry_count": 35,
         "top3_industries": [
           {
             "name": "半導體業",
-            "pct": 37.4
+            "pct": 37.5
           },
           {
             "name": "電子零組件業",
@@ -9552,7 +9552,7 @@
               "stock_code": "00878",
               "max_consecutive_days": 40,
               "latest_date": "20261111",
-              "total_buy_amt": 3623158.0,
+              "total_buy_amt": 3625000.0,
               "is_active": true
             },
             {
@@ -9615,14 +9615,14 @@
               "stock_code": "00406A",
               "max_consecutive_days": 29,
               "latest_date": "20261111",
-              "total_buy_amt": 1400244.0,
+              "total_buy_amt": 1402672.0,
               "is_active": true
             },
             {
               "stock_code": "00953B",
               "max_consecutive_days": 29,
               "latest_date": "20261111",
-              "total_buy_amt": 927638.0,
+              "total_buy_amt": 925322.0,
               "is_active": false
             },
             {
@@ -9643,7 +9643,7 @@
               "stock_code": "00981A",
               "max_consecutive_days": 25,
               "latest_date": "20261111",
-              "total_buy_amt": 3585887.0,
+              "total_buy_amt": 3581834.0,
               "is_active": true
             },
             {
@@ -9769,7 +9769,7 @@
               "stock_code": "2409",
               "max_consecutive_days": 18,
               "latest_date": "20261111",
-              "total_buy_amt": 4110048.0,
+              "total_buy_amt": 4120878.0,
               "is_active": true
             },
             {
@@ -9825,14 +9825,14 @@
               "stock_code": "2324",
               "max_consecutive_days": 15,
               "latest_date": "20261111",
-              "total_buy_amt": 1527202.0,
+              "total_buy_amt": 1527701.0,
               "is_active": false
             },
             {
               "stock_code": "00929",
               "max_consecutive_days": 15,
               "latest_date": "20261111",
-              "total_buy_amt": 697560.0,
+              "total_buy_amt": 696812.0,
               "is_active": true
             },
             {
@@ -9902,7 +9902,7 @@
               "stock_code": "6770",
               "max_consecutive_days": 14,
               "latest_date": "20261111",
-              "total_buy_amt": 3487540.0,
+              "total_buy_amt": 3491635.0,
               "is_active": false
             },
             {
@@ -9993,7 +9993,7 @@
               "stock_code": "3026",
               "max_consecutive_days": 12,
               "latest_date": "20261111",
-              "total_buy_amt": 8263152.0,
+              "total_buy_amt": 8144220.0,
               "is_active": false
             },
             {
@@ -10034,8 +10034,8 @@
             {
               "stock_code": "8039",
               "max_consecutive_days": 11,
-              "latest_date": "20261111",
-              "total_buy_amt": 3814188.0,
+              "latest_date": "20261110",
+              "total_buy_amt": 3806924.0,
               "is_active": false
             },
             {
@@ -10349,8 +10349,8 @@
             {
               "stock_code": "3036",
               "max_consecutive_days": 7,
-              "latest_date": "20261111",
-              "total_buy_amt": 2641065.0,
+              "latest_date": "20261109",
+              "total_buy_amt": 2621471.0,
               "is_active": false
             },
             {
@@ -10447,8 +10447,8 @@
             {
               "stock_code": "2834",
               "max_consecutive_days": 7,
-              "latest_date": "20261110",
-              "total_buy_amt": 99218.0,
+              "latest_date": "20261111",
+              "total_buy_amt": 99815.0,
               "is_active": false
             },
             {
@@ -10468,8 +10468,8 @@
             {
               "stock_code": "00415A",
               "max_consecutive_days": 7,
-              "latest_date": "20261110",
-              "total_buy_amt": 37230.0,
+              "latest_date": "20261111",
+              "total_buy_amt": 37473.0,
               "is_active": false
             },
             {
@@ -10520,13 +10520,6 @@
               "latest_date": "20261111",
               "total_buy_amt": 1376027.0,
               "is_active": false
-            },
-            {
-              "stock_code": "2891",
-              "max_consecutive_days": 6,
-              "latest_date": "20261111",
-              "total_buy_amt": 1266180.0,
-              "is_active": true
             },
             {
               "stock_code": "2880",
@@ -10676,13 +10669,6 @@
               "is_active": false
             },
             {
-              "stock_code": "1802",
-              "max_consecutive_days": 5,
-              "latest_date": "20261111",
-              "total_buy_amt": 1665633.0,
-              "is_active": false
-            },
-            {
               "stock_code": "1560",
               "max_consecutive_days": 5,
               "latest_date": "20261111",
@@ -10690,10 +10676,24 @@
               "is_active": false
             },
             {
+              "stock_code": "1802",
+              "max_consecutive_days": 5,
+              "latest_date": "20261111",
+              "total_buy_amt": 1641779.0,
+              "is_active": false
+            },
+            {
               "stock_code": "00865B",
               "max_consecutive_days": 5,
               "latest_date": "20261109",
               "total_buy_amt": 1448425.0,
+              "is_active": false
+            },
+            {
+              "stock_code": "2891",
+              "max_consecutive_days": 5,
+              "latest_date": "20261110",
+              "total_buy_amt": 1264163.0,
               "is_active": false
             },
             {
@@ -10839,8 +10839,8 @@
             {
               "stock_code": "1718",
               "max_consecutive_days": 5,
-              "latest_date": "20261103",
-              "total_buy_amt": 88304.0,
+              "latest_date": "20261111",
+              "total_buy_amt": 89258.0,
               "is_active": false
             },
             {
@@ -10881,7 +10881,7 @@
         "active_days": 69,
         "total_window_days": 69,
         "active_days_ratio": 1.0,
-        "avg_trades_per_active_day": 228.6,
+        "avg_trades_per_active_day": 228.5,
         "weekday_distribution": {
           "週一": 13,
           "週二": 15,
@@ -10918,16 +10918,16 @@
         },
         "level2_strategy": "長線分散持股",
         "level3_dna": {
-          "locked_pct": 0.079,
-          "limit_up_pct": 0.06,
+          "locked_pct": 0.078,
+          "limit_up_pct": 0.059,
           "concentration_pct": 25.8,
           "top_industry": "半導體業",
-          "top_industry_pct": 37.4,
+          "top_industry_pct": 37.5,
           "disposal_pct": 0.05,
-          "consistency": 0.733
+          "consistency": 0.732
         }
       },
-      "narrative": "陳族元 近 69/69 交易日出手 15776 次 (927 檔), 風格分布: 隔日沖近似 22% / 留倉 73%, 漲停命中 6% (其中 🔒鎖漲停 8%), 前 5 大集中 26%, 長線部位 94% (211 檔), ⚠️ 處置股部位 5% (11 檔), 📦 連續囤貨 191 檔 (最長 40 天 0050, 43 檔仍 active)。 主軸: 📈 長線持有/隔日沖(verified)/風格純粹/高頻交易。",
+      "narrative": "陳族元 近 69/69 交易日出手 15767 次 (924 檔), 風格分布: 隔日沖近似 22% / 留倉 73%, 漲停命中 6% (其中 🔒鎖漲停 8%), 前 5 大集中 26%, 長線部位 94% (210 檔), ⚠️ 處置股部位 5% (11 檔), 📦 連續囤貨 191 檔 (最長 40 天 0050, 42 檔仍 active)。 主軸: 📈 長線持有/隔日沖(verified)/風格純粹/高頻交易。",
       "data_sufficiency": {
         "level": "full",
         "label": "充足",
@@ -11025,8 +11025,8 @@
         },
         {
           "month": "2026-11",
-          "total_amt_wan": 10998334,
-          "trades_count": 1827,
+          "total_amt_wan": 10976882,
+          "trades_count": 1818,
           "top": [
             {
               "name": "半導體業",
@@ -11034,7 +11034,7 @@
             },
             {
               "name": "電子零組件業",
-              "pct": 23.8
+              "pct": 23.7
             },
             {
               "name": "未分類",
@@ -11122,10 +11122,10 @@
             "stock_name": "廣豐",
             "status": "imminent_2",
             "risk": "watch",
-            "net_lots": 159,
+            "net_lots": 160,
             "net_amt_wan": 349,
-            "buy_lot": 393,
-            "sell_lot": 234,
+            "buy_lot": 395,
+            "sell_lot": 235,
             "buy_days": 3,
             "last_buy_date": "20261111",
             "bought_during_disposal": false
@@ -12858,41 +12858,41 @@
             "swing"
           ],
           "operation_metrics": {
-            "trades_count": 3467,
-            "unique_stocks": 596,
-            "daytrade_ratio": 0.061,
-            "partial_ratio": 0.234,
-            "overnight_ratio": 0.705,
-            "limit_up_hit_ratio": 0.043,
-            "concentration_top5_pct": 25.8,
-            "consistency": 0.705,
-            "total_buy_amt_wan": 5156055,
-            "limit_up_locked_trades_count": 189,
-            "limit_up_locked_ratio_amt": 0.066,
-            "limit_up_locked_ratio_lot": 0.057,
-            "long_term_stocks_count": 64,
-            "long_term_amt_ratio": 0.691,
+            "trades_count": 3458,
+            "unique_stocks": 591,
+            "daytrade_ratio": 0.064,
+            "partial_ratio": 0.235,
+            "overnight_ratio": 0.7,
+            "limit_up_hit_ratio": 0.038,
+            "concentration_top5_pct": 26.2,
+            "consistency": 0.7,
+            "total_buy_amt_wan": 5134604,
+            "limit_up_locked_trades_count": 181,
+            "limit_up_locked_ratio_amt": 0.055,
+            "limit_up_locked_ratio_lot": 0.05,
+            "long_term_stocks_count": 63,
+            "long_term_amt_ratio": 0.688,
             "decay_applied": true,
             "decay_half_life": 20,
             "top_industry": "半導體業",
-            "top_industry_pct": 37.5,
+            "top_industry_pct": 38.2,
             "industry_count": 33,
             "top3_industries": [
               {
                 "name": "半導體業",
-                "pct": 37.5
+                "pct": 38.2
               },
               {
                 "name": "電子零組件業",
-                "pct": 25.1
+                "pct": 24.5
               },
               {
                 "name": "未分類",
-                "pct": 12.0
+                "pct": 12.1
               }
             ],
             "disposal_stocks_count": 9,
-            "disposal_amt_ratio": 0.038,
+            "disposal_amt_ratio": 0.039,
             "consecutive_accumulation": {
               "accumulation_stocks": [
                 {
@@ -12917,6 +12917,13 @@
                   "is_active": false
                 },
                 {
+                  "stock_code": "00406A",
+                  "max_consecutive_days": 10,
+                  "latest_date": "20261111",
+                  "total_buy_amt": 199159.0,
+                  "is_active": true
+                },
+                {
                   "stock_code": "009816",
                   "max_consecutive_days": 10,
                   "latest_date": "20261109",
@@ -12926,15 +12933,8 @@
                 {
                   "stock_code": "00981A",
                   "max_consecutive_days": 9,
-                  "latest_date": "20261111",
-                  "total_buy_amt": 263314.0,
-                  "is_active": false
-                },
-                {
-                  "stock_code": "00406A",
-                  "max_consecutive_days": 9,
-                  "latest_date": "20261109",
-                  "total_buy_amt": 196731.0,
+                  "latest_date": "20261110",
+                  "total_buy_amt": 259261.0,
                   "is_active": false
                 },
                 {
@@ -12966,6 +12966,13 @@
                   "is_active": false
                 },
                 {
+                  "stock_code": "00878",
+                  "max_consecutive_days": 8,
+                  "latest_date": "20261111",
+                  "total_buy_amt": 51355.0,
+                  "is_active": true
+                },
+                {
                   "stock_code": "00927",
                   "max_consecutive_days": 8,
                   "latest_date": "20261104",
@@ -12991,13 +12998,6 @@
                   "max_consecutive_days": 7,
                   "latest_date": "20261109",
                   "total_buy_amt": 366398.0,
-                  "is_active": false
-                },
-                {
-                  "stock_code": "00878",
-                  "max_consecutive_days": 7,
-                  "latest_date": "20261110",
-                  "total_buy_amt": 49513.0,
                   "is_active": false
                 },
                 {
@@ -13031,8 +13031,8 @@
                 {
                   "stock_code": "8039",
                   "max_consecutive_days": 6,
-                  "latest_date": "20261111",
-                  "total_buy_amt": 824834.0,
+                  "latest_date": "20261110",
+                  "total_buy_amt": 817570.0,
                   "is_active": false
                 },
                 {
@@ -13059,8 +13059,8 @@
                 {
                   "stock_code": "3036",
                   "max_consecutive_days": 6,
-                  "latest_date": "20261111",
-                  "total_buy_amt": 223355.0,
+                  "latest_date": "20260909",
+                  "total_buy_amt": 203761.0,
                   "is_active": false
                 },
                 {
@@ -13073,8 +13073,8 @@
                 {
                   "stock_code": "00953B",
                   "max_consecutive_days": 6,
-                  "latest_date": "20261111",
-                  "total_buy_amt": 95952.0,
+                  "latest_date": "20261102",
+                  "total_buy_amt": 93636.0,
                   "is_active": false
                 },
                 {
@@ -13136,8 +13136,8 @@
                 {
                   "stock_code": "2409",
                   "max_consecutive_days": 5,
-                  "latest_date": "20261110",
-                  "total_buy_amt": 375677.0,
+                  "latest_date": "20261111",
+                  "total_buy_amt": 386507.0,
                   "is_active": false
                 },
                 {
@@ -13151,7 +13151,7 @@
                   "stock_code": "00929",
                   "max_consecutive_days": 5,
                   "latest_date": "20261111",
-                  "total_buy_amt": 207970.0,
+                  "total_buy_amt": 207222.0,
                   "is_active": true
                 },
                 {
@@ -13213,7 +13213,7 @@
             "active_days": 69,
             "total_window_days": 69,
             "active_days_ratio": 1.0,
-            "avg_trades_per_active_day": 50.2,
+            "avg_trades_per_active_day": 50.1,
             "weekday_distribution": {
               "週一": 13,
               "週二": 15,
@@ -13250,16 +13250,16 @@
             },
             "level2_strategy": "長線分散持股",
             "level3_dna": {
-              "locked_pct": 0.066,
-              "limit_up_pct": 0.043,
-              "concentration_pct": 25.8,
+              "locked_pct": 0.055,
+              "limit_up_pct": 0.038,
+              "concentration_pct": 26.2,
               "top_industry": "半導體業",
-              "top_industry_pct": 37.5,
-              "disposal_pct": 0.038,
-              "consistency": 0.705
+              "top_industry_pct": 38.2,
+              "disposal_pct": 0.039,
+              "consistency": 0.7
             }
           },
-          "narrative": "陳族元 近 69/69 交易日出手 3467 次 (596 檔), 風格分布: 隔日沖近似 23% / 留倉 70%, 漲停命中 4% (其中 🔒鎖漲停 7%), 前 5 大集中 26%, 長線部位 69% (64 檔), ⚠️ 處置股部位 4% (9 檔), 📦 連續囤貨 44 檔 (最長 16 天 00918, 1 檔仍 active)。 主軸: 📈 長線持有/隔日沖(verified)/風格純粹/高頻交易。",
+          "narrative": "陳族元 近 69/69 交易日出手 3458 次 (591 檔), 風格分布: 隔日沖近似 24% / 留倉 70%, 漲停命中 4% (其中 🔒鎖漲停 6%), 前 5 大集中 26%, 長線部位 69% (63 檔), ⚠️ 處置股部位 4% (9 檔), 📦 連續囤貨 44 檔 (最長 16 天 00918, 3 檔仍 active)。 主軸: 📈 長線持有/隔日沖(verified)/風格純粹/高頻交易。",
           "data_sufficiency": {
             "level": "full",
             "label": "充足",
@@ -13276,10 +13276,10 @@
       },
       "per_branch_count": 5,
       "cross_day": {
-        "total_buy_events": 15768,
-        "confirmed_flips": 7383,
-        "confirmed_holds": 6783,
-        "unknown": 1602,
+        "total_buy_events": 15759,
+        "confirmed_flips": 7376,
+        "confirmed_holds": 6790,
+        "unknown": 1593,
         "actual_flip_ratio": 0.521,
         "actual_hold_ratio": 0.479,
         "top_flip_stocks": [
@@ -29844,11 +29844,11 @@
             "count": 63
           },
           {
-            "code": "00631L",
+            "code": "2454",
             "count": 60
           },
           {
-            "code": "2454",
+            "code": "00631L",
             "count": 60
           },
           {
@@ -31650,11 +31650,11 @@
             "count": 14
           },
           {
-            "code": "00631L",
+            "code": "2408",
             "count": 14
           },
           {
-            "code": "2408",
+            "code": "00631L",
             "count": 14
           },
           {
@@ -35302,7 +35302,7 @@
             "count": 27
           },
           {
-            "code": "6770",
+            "code": "2454",
             "count": 27
           }
         ],
@@ -38695,11 +38695,11 @@
             "count": 27
           },
           {
-            "code": "2454",
+            "code": "6418",
             "count": 25
           },
           {
-            "code": "6418",
+            "code": "2454",
             "count": 25
           },
           {
@@ -40654,11 +40654,11 @@
             "count": 30
           },
           {
-            "code": "0050",
+            "code": "00919",
             "count": 28
           },
           {
-            "code": "00919",
+            "code": "0050",
             "count": 28
           }
         ]
@@ -41138,11 +41138,11 @@
             "count": 11
           },
           {
-            "code": "00631L",
+            "code": "00632R",
             "count": 10
           },
           {
-            "code": "00632R",
+            "code": "00631L",
             "count": 10
           }
         ],
@@ -45089,8 +45089,8 @@
       },
       {
         "month": "2026-11",
-        "total_amt_wan": 67171916,
-        "trades_count": 22196,
+        "total_amt_wan": 67150465,
+        "trades_count": 22187,
         "top": [
           {
             "name": "半導體業",
@@ -45617,7 +45617,7 @@
         ],
         "alignment": 1.0,
         "co_days": 69,
-        "co_stocks": 551
+        "co_stocks": 552
       },
       {
         "pair": [
@@ -45953,11 +45953,11 @@
           "count": 30
         },
         {
-          "code": "0050",
+          "code": "00919",
           "count": 28
         },
         {
-          "code": "00919",
+          "code": "0050",
           "count": 28
         }
       ]
@@ -45983,11 +45983,11 @@
           "count": 11
         },
         {
-          "code": "00631L",
+          "code": "00632R",
           "count": 10
         },
         {
-          "code": "00632R",
+          "code": "00631L",
           "count": 10
         }
       ],
@@ -46157,11 +46157,11 @@
           "count": 27
         },
         {
-          "code": "2454",
+          "code": "6418",
           "count": 25
         },
         {
-          "code": "6418",
+          "code": "2454",
           "count": 25
         },
         {
@@ -46599,11 +46599,11 @@
           "count": 14
         },
         {
-          "code": "00631L",
+          "code": "2408",
           "count": 14
         },
         {
-          "code": "2408",
+          "code": "00631L",
           "count": 14
         },
         {
@@ -46767,7 +46767,7 @@
           "count": 56
         },
         {
-          "code": "00631L",
+          "code": "2344",
           "count": 51
         }
       ],
@@ -46871,7 +46871,7 @@
           "count": 27
         },
         {
-          "code": "6770",
+          "code": "2454",
           "count": 27
         }
       ],
@@ -46915,11 +46915,11 @@
           "count": 63
         },
         {
-          "code": "00631L",
+          "code": "2454",
           "count": 60
         },
         {
-          "code": "2454",
+          "code": "00631L",
           "count": 60
         },
         {
@@ -47211,10 +47211,10 @@
       ]
     },
     "陳族元": {
-      "total_buy_events": 15768,
-      "confirmed_flips": 7383,
-      "confirmed_holds": 6783,
-      "unknown": 1602,
+      "total_buy_events": 15759,
+      "confirmed_flips": 7376,
+      "confirmed_holds": 6790,
+      "unknown": 1593,
       "actual_flip_ratio": 0.521,
       "actual_hold_ratio": 0.479,
       "top_flip_stocks": [
@@ -47701,8 +47701,8 @@
           "陳族元"
         ],
         "buyer_count": 8,
-        "total_buy_amt_wan": 32205,
-        "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 6770 (合計 32,205 萬)"
+        "total_buy_amt_wan": 32615,
+        "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 6770 (合計 32,615 萬)"
       },
       {
         "faction_id": 1,
@@ -47782,8 +47782,8 @@
           "陳族元"
         ],
         "buyer_count": 8,
-        "total_buy_amt_wan": 7033,
-        "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 00878 (合計 7,033 萬)"
+        "total_buy_amt_wan": 7217,
+        "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 00878 (合計 7,217 萬)"
       },
       {
         "faction_id": 1,
@@ -47809,8 +47809,8 @@
           "陳族元"
         ],
         "buyer_count": 8,
-        "total_buy_amt_wan": 3671,
-        "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 2324 (合計 3,671 萬)"
+        "total_buy_amt_wan": 3721,
+        "description": "派系1 共識: 巨人傑/張濬安(航海王)/強森/林滄海/民哥/蔣承翰/迷你哥/松山哥/陳族元 同買 2324 (合計 3,721 萬)"
       },
       {
         "faction_id": 1,
@@ -47859,8 +47859,8 @@
         "master": "陳族元",
         "stock_code": "00878",
         "consecutive_days": 69,
-        "total_buy_amt_wan": 362316,
-        "description": "陳族元 連續 69 天加碼 00878 (累計 362,316 萬)"
+        "total_buy_amt_wan": 362500,
+        "description": "陳族元 連續 69 天加碼 00878 (累計 362,500 萬)"
       },
       {
         "master": "陳族元",
@@ -47880,8 +47880,8 @@
         "master": "陳族元",
         "stock_code": "00406A",
         "consecutive_days": 58,
-        "total_buy_amt_wan": 138107,
-        "description": "陳族元 連續 58 天加碼 00406A (累計 138,107 萬)"
+        "total_buy_amt_wan": 138349,
+        "description": "陳族元 連續 58 天加碼 00406A (累計 138,349 萬)"
       },
       {
         "master": "張濬安(航海王)",
