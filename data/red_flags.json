@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-13T05:43:29.501324+08:00",
+  "generated_at": "2026-11-13T06:04:45.614058+08:00",
   "trade_date": "20261112",
   "pump_suspicion": [
     {
@@ -12,10 +12,10 @@
       "sell_lot": 10673,
       "buy_amt_wan": 132454,
       "daytrade_ratio": 0.82,
-      "amt_vs_median_x": 20.8,
+      "amt_vs_median_x": 64.3,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 82% (> 70%) + 漲停 + 買金額 132,454 萬 (中位數 6,369 萬 × 20.8)"
+      "reasoning": "當沖比 82% (> 70%) + 漲停 + 買金額 132,454 萬 (中位數 2,060 萬 × 64.3)"
     }
   ],
   "wash_trade": [
@@ -620,43 +620,13 @@
       "rule": "C_distribution",
       "severity": "medium",
       "reasoning": "當日賣 752 張 (30 天均 143 張 × 5.2) + 近 5 天漲停 183 次"
-    },
-    {
-      "stock_code": "2454",
-      "stock_name": "聯發科",
-      "branch_code": "9A9G",
-      "branch_name": "永豐金-天母",
-      "master": "永豐天母(老錢)",
-      "sell_lot": 75,
-      "sell_amt_wan": 6068,
-      "avg_30d_sell_lot": 10.9,
-      "sell_vs_avg_x": 6.9,
-      "recent_5d_limit_up_count": 67,
-      "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 75 張 (30 天均 11 張 × 6.9) + 近 5 天漲停 67 次"
-    },
-    {
-      "stock_code": "1802",
-      "stock_name": "台玻",
-      "branch_code": "9A9G",
-      "branch_name": "永豐金-天母",
-      "master": "永豐天母(老錢)",
-      "sell_lot": 2811,
-      "sell_amt_wan": 2881,
-      "avg_30d_sell_lot": 162.9,
-      "sell_vs_avg_x": 17.3,
-      "recent_5d_limit_up_count": 183,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 2,811 張 (30 天均 163 張 × 17.3) + 近 5 天漲停 183 次"
     }
   ],
   "summary": {
     "pump_count": 1,
     "wash_count": 30,
-    "distribution_count": 8,
-    "total": 39
+    "distribution_count": 6,
+    "total": 37
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
