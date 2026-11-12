@@ -1,5 +1,5 @@
 {
- "count": 51,
+ "count": 52,
  "by_code": {
   "00401A": {
    "ex_date": "20261113",
@@ -68,7 +68,7 @@
    "ex_date": "20261116",
    "name": "台新投等債15+",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.35,
    "stock_dividend_pct": 0.0
   },
   "00850": {
@@ -82,7 +82,7 @@
    "ex_date": "20261117",
    "name": "國泰永續高股息",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 1.25,
    "stock_dividend_pct": 0.0
   },
   "00891": {
@@ -152,7 +152,7 @@
    "ex_date": "20261116",
    "name": "台新永續高息中小",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.16,
    "stock_dividend_pct": 0.0
   },
   "00938": {
@@ -160,13 +160,6 @@
    "name": "凱基優選30",
    "type": "息",
    "cash_dividend": null,
-   "stock_dividend_pct": 0.0
-  },
-  "00940": {
-   "ex_date": "20261110",
-   "name": "元大台灣價值高息",
-   "type": "息",
-   "cash_dividend": 0.06,
    "stock_dividend_pct": 0.0
   },
   "00943": {
@@ -201,7 +194,7 @@
    "ex_date": "20261116",
    "name": "台新日本半導體",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 2.0,
    "stock_dividend_pct": 0.0
   },
   "00952": {
@@ -222,7 +215,7 @@
    "ex_date": "20261116",
    "name": "台新AI優息動能",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.08,
    "stock_dividend_pct": 0.0
   },
   "00963": {
@@ -249,6 +242,13 @@
   "00980A": {
    "ex_date": "20261117",
    "name": "主動野村臺灣優選",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
+  "009817": {
+   "ex_date": "20261126",
+   "name": "國泰日本不動產",
    "type": "息",
    "cash_dividend": null,
    "stock_dividend_pct": 0.0
@@ -319,6 +319,13 @@
   "2646": {
    "ex_date": "20261207",
    "name": "星宇航空",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
+  },
+  "3706": {
+   "ex_date": "20261127",
+   "name": "神達",
    "type": "權",
    "cash_dividend": 0.0,
    "stock_dividend_pct": 0.0
@@ -416,8 +423,8 @@
    "00930",
    "6655"
   ],
-  "20261110": [
-   "00940"
+  "20261126": [
+   "009817"
   ],
   "20261119": [
    "01007T",
@@ -431,6 +438,9 @@
   ],
   "20261207": [
    "2646"
+  ],
+  "20261127": [
+   "3706"
   ],
   "20261204": [
    "7780"
@@ -450,7 +460,7 @@
    "ex_date": "20261116",
    "name": "台新投等債15+",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.35,
    "stock_dividend_pct": 0.0
   },
   {
@@ -458,7 +468,7 @@
    "ex_date": "20261116",
    "name": "台新永續高息中小",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.16,
    "stock_dividend_pct": 0.0
   },
   {
@@ -466,7 +476,7 @@
    "ex_date": "20261116",
    "name": "台新日本半導體",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 2.0,
    "stock_dividend_pct": 0.0
   },
   {
@@ -474,7 +484,7 @@
    "ex_date": "20261116",
    "name": "台新AI優息動能",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.08,
    "stock_dividend_pct": 0.0
   },
   {
@@ -514,7 +524,7 @@
    "ex_date": "20261117",
    "name": "國泰永續高股息",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 1.25,
    "stock_dividend_pct": 0.0
   },
   {
@@ -806,6 +816,22 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "009817",
+   "ex_date": "20261126",
+   "name": "國泰日本不動產",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "3706",
+   "ex_date": "20261127",
+   "name": "神達",
+   "type": "權",
+   "cash_dividend": 0.0,
+   "stock_dividend_pct": 0.0
+  },
+  {
    "code": "1437",
    "ex_date": "20261203",
    "name": "勤益控",
@@ -830,6 +856,6 @@
    "stock_dividend_pct": 0.0
   }
  ],
- "fetched_at": "2026-11-12T05:44:56.722451+08:00",
+ "fetched_at": "2026-11-13T05:47:04.771220+08:00",
  "source": "https://www.twse.com.tw/exchangeReport/TWT48U?response=json"
 }
