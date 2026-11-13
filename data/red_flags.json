@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:10:16.249739+08:00",
+  "generated_at": "2026-11-14T05:48:08.349411+08:00",
   "trade_date": "20261113",
   "pump_suspicion": [
     {
@@ -27,10 +27,10 @@
       "sell_lot": 441,
       "buy_amt_wan": 1172,
       "daytrade_ratio": 0.94,
-      "amt_vs_median_x": 4.5,
+      "amt_vs_median_x": 5.6,
       "rule": "A_pump",
       "severity": "high",
-      "reasoning": "當沖比 94% (> 70%) + 漲停 + 買金額 1,172 萬 (中位數 261 萬 × 4.5)"
+      "reasoning": "當沖比 94% (> 70%) + 漲停 + 買金額 1,172 萬 (中位數 211 萬 × 5.6)"
     },
     {
       "stock_code": "3105",
