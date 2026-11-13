@@ -1,6 +1,6 @@
 {
  "trade_date": "20261113",
- "updated_at": "2026-11-14T04:43:05.094754+08:00",
+ "updated_at": "2026-11-14T05:13:56.948578+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -4994,282 +4994,282 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 819,
-   "watch": 394,
-   "high_risk": 33,
-   "margin_call": 10,
+   "healthy": 845,
+   "watch": 375,
+   "high_risk": 28,
+   "margin_call": 8,
    "insufficient_data": 975
   },
   "high_risk_stocks": [
    {
     "code": "2467",
     "name": "志聖",
-    "ratio": 108.7,
+    "ratio": 110.4,
     "risk_level": "margin_call",
     "margin_balance": 1745,
     "today_close": 307.0,
-    "estimated_cost": 470.73
+    "estimated_cost": 463.67
    },
    {
     "code": "5464",
     "name": "霖宏",
-    "ratio": 112.2,
+    "ratio": 114.6,
     "risk_level": "margin_call",
     "margin_balance": 2343,
     "today_close": 46.5,
-    "estimated_cost": 69.08
+    "estimated_cost": 67.63
    },
    {
     "code": "6274",
     "name": "台燿",
-    "ratio": 115.4,
+    "ratio": 116.8,
     "risk_level": "margin_call",
     "margin_balance": 14639,
     "today_close": 974.0,
-    "estimated_cost": 1407.2
+    "estimated_cost": 1390.17
    },
    {
     "code": "6584",
     "name": "南俊國際",
-    "ratio": 115.8,
+    "ratio": 117.8,
     "risk_level": "margin_call",
     "margin_balance": 1497,
     "today_close": 309.0,
-    "estimated_cost": 444.88
+    "estimated_cost": 437.08
    },
    {
     "code": "3376",
     "name": "新日興",
-    "ratio": 116.2,
+    "ratio": 117.8,
     "risk_level": "margin_call",
     "margin_balance": 9954,
     "today_close": 108.0,
-    "estimated_cost": 154.92
+    "estimated_cost": 152.8
    },
    {
     "code": "6196",
     "name": "帆宣",
-    "ratio": 118.1,
+    "ratio": 119.3,
     "risk_level": "margin_call",
     "margin_balance": 1491,
     "today_close": 397.0,
-    "estimated_cost": 560.37
+    "estimated_cost": 554.77
    },
    {
     "code": "3026",
     "name": "禾伸堂",
-    "ratio": 118.4,
+    "ratio": 119.9,
     "risk_level": "margin_call",
     "margin_balance": 8544,
     "today_close": 512.0,
-    "estimated_cost": 720.88
+    "estimated_cost": 711.42
    },
    {
     "code": "4747",
     "name": "強生*",
-    "ratio": 118.6,
+    "ratio": 120.0,
     "risk_level": "margin_call",
     "margin_balance": 967,
     "today_close": 15.75,
-    "estimated_cost": 22.14
+    "estimated_cost": 21.88
    },
    {
     "code": "3189",
     "name": "景碩",
-    "ratio": 119.1,
-    "risk_level": "margin_call",
+    "ratio": 120.3,
+    "risk_level": "high_risk",
     "margin_balance": 13396,
     "today_close": 668.0,
-    "estimated_cost": 934.97
-   },
-   {
-    "code": "3363",
-    "name": "上詮",
-    "ratio": 119.3,
-    "risk_level": "margin_call",
-    "margin_balance": 5993,
-    "today_close": 376.5,
-    "estimated_cost": 525.77
+    "estimated_cost": 925.4
    },
    {
     "code": "6449",
     "name": "鈺邦",
-    "ratio": 120.0,
+    "ratio": 121.1,
     "risk_level": "high_risk",
     "margin_balance": 2498,
     "today_close": 155.0,
-    "estimated_cost": 215.23
+    "estimated_cost": 213.37
+   },
+   {
+    "code": "3363",
+    "name": "上詮",
+    "ratio": 121.5,
+    "risk_level": "high_risk",
+    "margin_balance": 5993,
+    "today_close": 376.5,
+    "estimated_cost": 516.58
    },
    {
     "code": "6488",
     "name": "環球晶",
-    "ratio": 120.2,
+    "ratio": 121.7,
     "risk_level": "high_risk",
     "margin_balance": 9021,
     "today_close": 630.0,
-    "estimated_cost": 873.23
-   },
-   {
-    "code": "4764",
-    "name": "雙鍵",
-    "ratio": 120.6,
-    "risk_level": "high_risk",
-    "margin_balance": 3072,
-    "today_close": 125.0,
-    "estimated_cost": 172.78
+    "estimated_cost": 862.73
    },
    {
     "code": "7788",
     "name": "松川精密",
-    "ratio": 121.0,
+    "ratio": 122.4,
     "risk_level": "high_risk",
     "margin_balance": 2084,
     "today_close": 197.5,
-    "estimated_cost": 272.12
+    "estimated_cost": 269.03
    },
    {
-    "code": "2360",
-    "name": "致茂",
-    "ratio": 122.5,
+    "code": "4764",
+    "name": "雙鍵",
+    "ratio": 122.6,
     "risk_level": "high_risk",
-    "margin_balance": 1299,
-    "today_close": 1400.0,
-    "estimated_cost": 1904.67
-   },
-   {
-    "code": "3037",
-    "name": "欣興",
-    "ratio": 122.8,
-    "risk_level": "high_risk",
-    "margin_balance": 34775,
-    "today_close": 785.0,
-    "estimated_cost": 1065.3
+    "margin_balance": 3072,
+    "today_close": 125.0,
+    "estimated_cost": 169.98
    },
    {
     "code": "2428",
     "name": "興勤",
-    "ratio": 122.9,
+    "ratio": 124.1,
     "risk_level": "high_risk",
     "margin_balance": 2215,
     "today_close": 180.0,
-    "estimated_cost": 244.13
+    "estimated_cost": 241.78
    },
    {
-    "code": "2233",
-    "name": "宇隆",
-    "ratio": 123.1,
+    "code": "2360",
+    "name": "致茂",
+    "ratio": 124.2,
     "risk_level": "high_risk",
-    "margin_balance": 1796,
-    "today_close": 113.0,
-    "estimated_cost": 153.04
+    "margin_balance": 1299,
+    "today_close": 1400.0,
+    "estimated_cost": 1878.5
+   },
+   {
+    "code": "3037",
+    "name": "欣興",
+    "ratio": 124.3,
+    "risk_level": "high_risk",
+    "margin_balance": 34775,
+    "today_close": 785.0,
+    "estimated_cost": 1052.63
    },
    {
     "code": "6187",
     "name": "萬潤",
-    "ratio": 123.9,
+    "ratio": 125.1,
     "risk_level": "high_risk",
     "margin_balance": 2049,
     "today_close": 953.0,
-    "estimated_cost": 1281.6
+    "estimated_cost": 1269.7
+   },
+   {
+    "code": "2233",
+    "name": "宇隆",
+    "ratio": 125.7,
+    "risk_level": "high_risk",
+    "margin_balance": 1796,
+    "today_close": 113.0,
+    "estimated_cost": 149.77
    },
    {
     "code": "3532",
     "name": "台勝科",
-    "ratio": 124.0,
+    "ratio": 125.7,
     "risk_level": "high_risk",
     "margin_balance": 4328,
     "today_close": 295.0,
-    "estimated_cost": 396.5
+    "estimated_cost": 391.2
    },
    {
     "code": "5439",
     "name": "高技",
-    "ratio": 124.1,
+    "ratio": 125.8,
     "risk_level": "high_risk",
     "margin_balance": 6680,
     "today_close": 164.0,
-    "estimated_cost": 220.27
+    "estimated_cost": 217.3
    },
    {
     "code": "5274",
     "name": "信驊",
-    "ratio": 124.5,
+    "ratio": 126.4,
     "risk_level": "high_risk",
     "margin_balance": 174,
     "today_close": 12000.0,
-    "estimated_cost": 16064.83
+    "estimated_cost": 15818.33
    },
    {
     "code": "5386",
     "name": "青雲",
-    "ratio": 124.8,
+    "ratio": 126.6,
     "risk_level": "high_risk",
     "margin_balance": 1735,
     "today_close": 182.5,
-    "estimated_cost": 243.65
-   },
-   {
-    "code": "3230",
-    "name": "錦明",
-    "ratio": 125.5,
-    "risk_level": "high_risk",
-    "margin_balance": 1692,
-    "today_close": 22.1,
-    "estimated_cost": 29.35
-   },
-   {
-    "code": "2305",
-    "name": "全友",
-    "ratio": 125.8,
-    "risk_level": "high_risk",
-    "margin_balance": 4697,
-    "today_close": 41.4,
-    "estimated_cost": 54.85
+    "estimated_cost": 240.23
    },
    {
     "code": "3455",
     "name": "由田",
-    "ratio": 126.2,
+    "ratio": 127.5,
     "risk_level": "high_risk",
     "margin_balance": 4860,
     "today_close": 187.5,
-    "estimated_cost": 247.67
-   },
-   {
-    "code": "2072",
-    "name": "世紀能源",
-    "ratio": 126.3,
-    "risk_level": "high_risk",
-    "margin_balance": 447,
-    "today_close": 98.4,
-    "estimated_cost": 129.88
+    "estimated_cost": 245.02
    },
    {
     "code": "6197",
     "name": "佳必琪",
-    "ratio": 126.6,
+    "ratio": 127.7,
     "risk_level": "high_risk",
     "margin_balance": 5191,
     "today_close": 238.0,
-    "estimated_cost": 313.38
+    "estimated_cost": 310.65
    },
    {
-    "code": "8043",
-    "name": "蜜望實",
-    "ratio": 127.2,
+    "code": "2305",
+    "name": "全友",
+    "ratio": 128.0,
     "risk_level": "high_risk",
-    "margin_balance": 4135,
-    "today_close": 95.0,
-    "estimated_cost": 124.52
+    "margin_balance": 4697,
+    "today_close": 41.4,
+    "estimated_cost": 53.93
    },
    {
     "code": "6213",
     "name": "聯茂",
-    "ratio": 127.6,
+    "ratio": 128.1,
     "risk_level": "high_risk",
     "margin_balance": 19169,
     "today_close": 533.0,
-    "estimated_cost": 696.4
+    "estimated_cost": 693.5
+   },
+   {
+    "code": "2072",
+    "name": "世紀能源",
+    "ratio": 128.2,
+    "risk_level": "high_risk",
+    "margin_balance": 447,
+    "today_close": 98.4,
+    "estimated_cost": 127.94
+   },
+   {
+    "code": "3230",
+    "name": "錦明",
+    "ratio": 128.3,
+    "risk_level": "high_risk",
+    "margin_balance": 1692,
+    "today_close": 22.1,
+    "estimated_cost": 28.7
+   },
+   {
+    "code": "8043",
+    "name": "蜜望實",
+    "ratio": 128.4,
+    "risk_level": "high_risk",
+    "margin_balance": 4135,
+    "today_close": 95.0,
+    "estimated_cost": 123.3
    }
   ],
   "thresholds": {
