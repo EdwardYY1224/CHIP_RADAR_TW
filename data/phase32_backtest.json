@@ -1,81 +1,71 @@
 {
   "summary": {
     "baseline": {
-      "n": 675,
-      "hits": 288,
-      "hit_rate": 0.4266666666666667,
-      "mean_change": -0.3703259259259261,
-      "median_change": -0.42,
+      "n": 672,
+      "hits": 289,
+      "hit_rate": 0.43005952380952384,
+      "mean_change": -0.4078125000000002,
+      "median_change": -0.41,
       "days": 59,
       "desc": "全部共識股 (對照)"
     },
     "e_anomaly_only": {
-      "n": 675,
-      "hits": 288,
-      "hit_rate": 0.4266666666666667,
-      "mean_change": -0.3703259259259261,
-      "median_change": -0.42,
+      "n": 672,
+      "hits": 289,
+      "hit_rate": 0.43005952380952384,
+      "mean_change": -0.4078125000000002,
+      "median_change": -0.41,
       "days": 59,
       "desc": "共識 ∩ ≥1 master 異常 (vol_spike OR new_stocks)"
     },
     "e_volume_spike_only": {
-      "n": 197,
-      "hits": 86,
-      "hit_rate": 0.4365482233502538,
-      "mean_change": -0.5360913705583756,
-      "median_change": -0.45,
+      "n": 194,
+      "hits": 87,
+      "hit_rate": 0.4484536082474227,
+      "mean_change": -0.6685051546391753,
+      "median_change": -0.38,
       "days": 20,
       "desc": "共識 ∩ ≥1 master volume_spike"
     },
     "e_new_stocks_only": {
-      "n": 675,
-      "hits": 288,
-      "hit_rate": 0.4266666666666667,
-      "mean_change": -0.3703259259259261,
-      "median_change": -0.42,
+      "n": 672,
+      "hits": 289,
+      "hit_rate": 0.43005952380952384,
+      "mean_change": -0.4078125000000002,
+      "median_change": -0.41,
       "days": 59,
       "desc": "共識 ∩ ≥1 master new_stocks"
     },
     "e_anomaly_q5_bull": {
-      "n": 320,
-      "hits": 142,
-      "hit_rate": 0.44375,
-      "mean_change": -0.03853124999999995,
-      "median_change": -0.31,
+      "n": 317,
+      "hits": 143,
+      "hit_rate": 0.45110410094637227,
+      "mean_change": -0.11485804416403775,
+      "median_change": -0.28,
       "days": 29,
       "desc": "共識 ∩ Q5 偏多 ∩ ≥1 master 異常 (3 訊號)"
     },
     "e_vol_spike_q5_bull": {
-      "n": 77,
-      "hits": 33,
-      "hit_rate": 0.42857142857142855,
-      "mean_change": -0.12220779220779203,
-      "median_change": -0.28,
+      "n": 74,
+      "hits": 34,
+      "hit_rate": 0.4594594594594595,
+      "mean_change": -0.45256756756756766,
+      "median_change": -0.16,
       "days": 8,
       "desc": "共識 ∩ Q5 偏多 ∩ ≥1 master volume_spike (嚴格 3 訊號)"
     },
     "q5_bull_only": {
-      "n": 320,
-      "hits": 142,
-      "hit_rate": 0.44375,
-      "mean_change": -0.03853124999999995,
-      "median_change": -0.31,
+      "n": 317,
+      "hits": 143,
+      "hit_rate": 0.45110410094637227,
+      "mean_change": -0.11485804416403775,
+      "median_change": -0.28,
       "days": 29,
       "desc": "共識 ∩ Q5 偏多 (Phase 3.1 對比)"
     }
   },
   "best": [],
   "per_day": [
-    {
-      "date": "20260817",
-      "next": "20260818",
-      "cons": 13,
-      "next_avail": 13,
-      "q5": "偏多",
-      "vol_spike_masters": 2,
-      "new_stocks_masters": 12,
-      "e_hits": 0
-    },
     {
       "date": "20260818",
       "next": "20260819",
@@ -655,9 +645,19 @@
       "vol_spike_masters": 0,
       "new_stocks_masters": 11,
       "e_hits": 6
+    },
+    {
+      "date": "20261113",
+      "next": "20261116",
+      "cons": 10,
+      "next_avail": 10,
+      "q5": "偏多",
+      "vol_spike_masters": 1,
+      "new_stocks_masters": 12,
+      "e_hits": 1
     }
   ],
-  "updated_at": "2026-11-13T21:52:15.379344",
+  "updated_at": "2026-11-16T23:06:38.723367",
   "window_days": 59,
   "thresholds": {
     "anomaly_sigma": 2.0,
