@@ -1,11 +1,11 @@
 {
- "count": 56,
+ "count": 58,
  "by_code": {
-  "00401A": {
-   "ex_date": "20261113",
-   "name": "主動摩根台灣鑫收",
+  "00406A": {
+   "ex_date": "20261202",
+   "name": "主動中信台灣收益",
    "type": "息",
-   "cash_dividend": 0.138,
+   "cash_dividend": null,
    "stock_dividend_pct": 0.0
   },
   "0051": {
@@ -190,6 +190,13 @@
    "cash_dividend": 0.097,
    "stock_dividend_pct": 0.0
   },
+  "00946": {
+   "ex_date": "20261203",
+   "name": "群益科技高息成長",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
   "00949": {
    "ex_date": "20261118",
    "name": "復華日本龍頭",
@@ -330,6 +337,13 @@
    "cash_dividend": 1.9,
    "stock_dividend_pct": 0.0
   },
+  "1817": {
+   "ex_date": "20261221",
+   "name": "凱撒衛",
+   "type": "息",
+   "cash_dividend": 1.8,
+   "stock_dividend_pct": 0.0
+  },
   "2344": {
    "ex_date": "20261118",
    "name": "華邦電",
@@ -395,8 +409,8 @@
   }
  },
  "by_date": {
-  "20261113": [
-   "00401A"
+  "20261202": [
+   "00406A"
   ],
   "20261120": [
    "0051",
@@ -455,6 +469,11 @@
    "00939",
    "00984D"
   ],
+  "20261203": [
+   "00946",
+   "020038",
+   "1437"
+  ],
   "20261126": [
    "009817"
   ],
@@ -462,12 +481,11 @@
    "01007T",
    "6924"
   ],
-  "20261203": [
-   "020038",
-   "1437"
-  ],
   "20261230": [
    "1707"
+  ],
+  "20261221": [
+   "1817"
   ],
   "20261130": [
    "2543"
@@ -483,206 +501,6 @@
   ]
  },
  "upcoming_30d": [
-  {
-   "code": "006208",
-   "ex_date": "20261117",
-   "name": "富邦台50",
-   "type": "息",
-   "cash_dividend": 3.88,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00690",
-   "ex_date": "20261117",
-   "name": "兆豐藍籌30",
-   "type": "息",
-   "cash_dividend": 2.0,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00692",
-   "ex_date": "20261117",
-   "name": "富邦公司治理",
-   "type": "息",
-   "cash_dividend": 1.721,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00730",
-   "ex_date": "20261117",
-   "name": "富邦臺灣優質高息",
-   "type": "息",
-   "cash_dividend": 0.11,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00878",
-   "ex_date": "20261117",
-   "name": "國泰永續高股息",
-   "type": "息",
-   "cash_dividend": 1.25,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00891",
-   "ex_date": "20261117",
-   "name": "中信關鍵半導體",
-   "type": "息",
-   "cash_dividend": 1.55,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00892",
-   "ex_date": "20261117",
-   "name": "富邦台灣半導體",
-   "type": "息",
-   "cash_dividend": 4.0,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00894",
-   "ex_date": "20261117",
-   "name": "中信小資高價30",
-   "type": "息",
-   "cash_dividend": 1.0,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00900",
-   "ex_date": "20261117",
-   "name": "富邦特選高股息30",
-   "type": "息",
-   "cash_dividend": 0.075,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00932",
-   "ex_date": "20261117",
-   "name": "兆豐永續高息等權",
-   "type": "息",
-   "cash_dividend": 0.23,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00934",
-   "ex_date": "20261117",
-   "name": "中信成長高股息",
-   "type": "息",
-   "cash_dividend": 0.5,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00938",
-   "ex_date": "20261117",
-   "name": "凱基優選30",
-   "type": "息",
-   "cash_dividend": 0.35,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00943",
-   "ex_date": "20261117",
-   "name": "兆豐電子高息等權",
-   "type": "息",
-   "cash_dividend": 0.35,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00944",
-   "ex_date": "20261117",
-   "name": "野村趨勢動能高息",
-   "type": "息",
-   "cash_dividend": 0.109,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00945B",
-   "ex_date": "20261117",
-   "name": "凱基美國非投等債",
-   "type": "息",
-   "cash_dividend": 0.097,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00952",
-   "ex_date": "20261117",
-   "name": "凱基台灣AI50",
-   "type": "息",
-   "cash_dividend": 0.12,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00961",
-   "ex_date": "20261117",
-   "name": "FT臺灣永續高息",
-   "type": "息",
-   "cash_dividend": 0.09,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00963",
-   "ex_date": "20261117",
-   "name": "中信全球高股息",
-   "type": "息",
-   "cash_dividend": 0.1,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00964",
-   "ex_date": "20261117",
-   "name": "中信亞太高股息",
-   "type": "息",
-   "cash_dividend": 0.2,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "009808",
-   "ex_date": "20261117",
-   "name": "華南永昌優選50",
-   "type": "息",
-   "cash_dividend": 0.76,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00980A",
-   "ex_date": "20261117",
-   "name": "主動野村臺灣優選",
-   "type": "息",
-   "cash_dividend": 0.688,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00981T",
-   "ex_date": "20261117",
-   "name": "平衡凱基雙核收息",
-   "type": "息",
-   "cash_dividend": 0.082,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00982A",
-   "ex_date": "20261117",
-   "name": "主動群益台灣強棒",
-   "type": "息",
-   "cash_dividend": 0.78,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00982D",
-   "ex_date": "20261117",
-   "name": "主動富邦動態入息",
-   "type": "息",
-   "cash_dividend": 0.052,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00983D",
-   "ex_date": "20261117",
-   "name": "主動富邦複合收益",
-   "type": "息",
-   "cash_dividend": 0.061,
-   "stock_dividend_pct": 0.0
-  },
   {
    "code": "00731",
    "ex_date": "20261118",
@@ -852,6 +670,22 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "00406A",
+   "ex_date": "20261202",
+   "name": "主動中信台灣收益",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "00946",
+   "ex_date": "20261203",
+   "name": "群益科技高息成長",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
+  {
    "code": "020038",
    "ex_date": "20261203",
    "name": "元大ESG配息N",
@@ -884,6 +718,6 @@
    "stock_dividend_pct": 0.0
   }
  ],
- "fetched_at": "2026-11-17T07:06:11.513380+08:00",
+ "fetched_at": "2026-11-18T07:24:22.484000+08:00",
  "source": "https://www.twse.com.tw/exchangeReport/TWT48U?response=json"
 }
