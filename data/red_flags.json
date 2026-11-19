@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T06:34:35.085548+08:00",
+  "generated_at": "2026-11-20T06:55:31.728307+08:00",
   "trade_date": "20261119",
   "pump_suspicion": [],
   "wash_trade": [
@@ -312,23 +312,6 @@
     {
       "stock_code": "0050",
       "stock_name": "元大台灣50",
-      "buy_branch_code": "9A9G",
-      "buy_master": "永豐天母(老錢)",
-      "sell_branch_code": "984K",
-      "sell_master": "強森",
-      "buy_lot": 389,
-      "sell_lot": 500,
-      "buy_amt_wan": 3553,
-      "sell_amt_wan": 4596,
-      "lot_match_ratio": 0.78,
-      "same_master": false,
-      "rule": "B_wash",
-      "severity": "medium",
-      "reasoning": "9A9G 買 389 張 vs 984K 賣 500 張 (匹配 78%)"
-    },
-    {
-      "stock_code": "0050",
-      "stock_name": "元大台灣50",
       "buy_branch_code": "1650",
       "buy_master": "瑞銀",
       "sell_branch_code": "9600",
@@ -512,6 +495,23 @@
       "rule": "B_wash",
       "severity": "medium",
       "reasoning": "9658 買 2772 張 vs 9359 賣 2482 張 (匹配 90%)"
+    },
+    {
+      "stock_code": "00631L",
+      "stock_name": "元大台灣50正2",
+      "buy_branch_code": "9309",
+      "buy_master": "林滄海",
+      "sell_branch_code": "700c",
+      "sell_master": "陳律師",
+      "buy_lot": 238,
+      "sell_lot": 268,
+      "buy_amt_wan": 615,
+      "sell_amt_wan": 684,
+      "lot_match_ratio": 0.89,
+      "same_master": false,
+      "rule": "B_wash",
+      "severity": "medium",
+      "reasoning": "9309 買 238 張 vs 700c 賣 268 張 (匹配 89%)"
     }
   ],
   "distribution": [
