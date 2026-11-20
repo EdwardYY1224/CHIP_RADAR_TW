@@ -1,6 +1,6 @@
 {
  "trade_date": "20261120",
- "updated_at": "2026-11-21T06:09:10.279136+08:00",
+ "updated_at": "2026-11-21T06:32:46.654823+08:00",
  "margin_rankings": {
   "top_margin_buy": [
    {
@@ -4970,10 +4970,10 @@
   "method": "market_estimate_30d_avg_close",
   "caveat": "市場估算非個人帳戶 — 個人實際維持率需查券商系統 (整戶計算+真實成本)",
   "counts": {
-   "healthy": 439,
-   "watch": 657,
-   "high_risk": 280,
-   "margin_call": 398,
+   "healthy": 449,
+   "watch": 656,
+   "high_risk": 278,
+   "margin_call": 391,
    "insufficient_data": 460
   },
   "high_risk_stocks": [
@@ -5005,15 +5005,6 @@
     "estimated_cost": 640.37
    },
    {
-    "code": "2467",
-    "name": "志聖",
-    "ratio": 85.0,
-    "risk_level": "margin_call",
-    "margin_balance": 1324,
-    "today_close": 218.0,
-    "estimated_cost": 427.55
-   },
-   {
     "code": "2726",
     "name": "雅茗-KY",
     "ratio": 85.4,
@@ -5021,6 +5012,15 @@
     "margin_balance": 157,
     "today_close": 3.54,
     "estimated_cost": 6.9
+   },
+   {
+    "code": "2467",
+    "name": "志聖",
+    "ratio": 87.2,
+    "risk_level": "margin_call",
+    "margin_balance": 1324,
+    "today_close": 218.0,
+    "estimated_cost": 416.85
    },
    {
     "code": "4542",
@@ -5041,15 +5041,6 @@
     "estimated_cost": 350.22
    },
    {
-    "code": "2305",
-    "name": "全友",
-    "ratio": 89.3,
-    "risk_level": "margin_call",
-    "margin_balance": 3089,
-    "today_close": 26.85,
-    "estimated_cost": 50.11
-   },
-   {
     "code": "6187",
     "name": "萬潤",
     "ratio": 89.7,
@@ -5066,6 +5057,15 @@
     "margin_balance": 3332,
     "today_close": 122.0,
     "estimated_cost": 222.83
+   },
+   {
+    "code": "2305",
+    "name": "全友",
+    "ratio": 91.2,
+    "risk_level": "margin_call",
+    "margin_balance": 3089,
+    "today_close": 26.85,
+    "estimated_cost": 49.06
    },
    {
     "code": "2360",
@@ -5185,15 +5185,6 @@
     "estimated_cost": 334.28
    },
    {
-    "code": "4722",
-    "name": "國精化",
-    "ratio": 93.8,
-    "risk_level": "margin_call",
-    "margin_balance": 3081,
-    "today_close": 96.3,
-    "estimated_cost": 171.12
-   },
-   {
     "code": "5228",
     "name": "鈺鎧",
     "ratio": 94.0,
@@ -5201,15 +5192,6 @@
     "margin_balance": 460,
     "today_close": 28.7,
     "estimated_cost": 50.88
-   },
-   {
-    "code": "3229",
-    "name": "晟鈦",
-    "ratio": 94.0,
-    "risk_level": "margin_call",
-    "margin_balance": 476,
-    "today_close": 27.8,
-    "estimated_cost": 49.3
    },
    {
     "code": "3605",
@@ -5230,15 +5212,6 @@
     "estimated_cost": 946.27
    },
    {
-    "code": "3504",
-    "name": "揚明光",
-    "ratio": 94.6,
-    "risk_level": "margin_call",
-    "margin_balance": 2349,
-    "today_close": 40.25,
-    "estimated_cost": 70.9
-   },
-   {
     "code": "8039",
     "name": "台虹",
     "ratio": 94.8,
@@ -5246,6 +5219,33 @@
     "margin_balance": 13923,
     "today_close": 137.5,
     "estimated_cost": 241.82
+   },
+   {
+    "code": "6196",
+    "name": "帆宣",
+    "ratio": 95.3,
+    "risk_level": "margin_call",
+    "margin_balance": 1136,
+    "today_close": 291.0,
+    "estimated_cost": 509.12
+   },
+   {
+    "code": "5386",
+    "name": "青雲",
+    "ratio": 95.5,
+    "risk_level": "margin_call",
+    "margin_balance": 1189,
+    "today_close": 124.0,
+    "estimated_cost": 216.4
+   },
+   {
+    "code": "4722",
+    "name": "國精化",
+    "ratio": 95.5,
+    "risk_level": "margin_call",
+    "margin_balance": 3081,
+    "today_close": 96.3,
+    "estimated_cost": 167.98
    }
   ],
   "thresholds": {
