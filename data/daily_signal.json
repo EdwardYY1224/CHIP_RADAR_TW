@@ -1,35 +1,83 @@
 {
-  "date": "20261119",
-  "generated_at": "2026-11-19T22:58:34.831722",
+  "date": "20261120",
+  "generated_at": "2026-11-20T21:17:32.388607",
   "generator": "signal_engine v3.29 MVP (Phase A backtest based)",
-  "headline": "中性 信心47.7% (低信心) · 0 檔個股關注",
+  "headline": "偏多 信心92.1% (高信心) · 3 檔個股關注",
   "market_direction": {
-    "direction": "中性",
-    "confidence_pct": 47.7,
-    "net_weight": -0.023,
+    "direction": "偏多",
+    "confidence_pct": 92.1,
+    "net_weight": 0.421,
     "contributing": [
       {
-        "name": "法人共識",
-        "level": "extreme-bear",
-        "weight": -0.056,
-        "sign": "bear"
+        "name": "外資現貨",
+        "level": "extreme-bull",
+        "weight": 0.202,
+        "sign": "bull"
+      },
+      {
+        "name": "分點漲停",
+        "level": "extreme-bull",
+        "weight": 0.083,
+        "sign": "bull"
       },
       {
         "name": "結算日壓力",
-        "level": "extreme-bull",
-        "weight": 0.033,
+        "level": "bull",
+        "weight": 0.136,
         "sign": "bull"
       }
     ],
     "ignored": [
-      "外資現貨",
       "外資期貨",
       "P/C Ratio",
-      "分點漲停",
-      "融資熱度"
+      "融資熱度",
+      "法人共識"
     ]
   },
-  "top_focus_stocks": [],
+  "top_focus_stocks": [
+    {
+      "rank": 1,
+      "code": "2468",
+      "name": "華經",
+      "change_pct": 9.86,
+      "tier": "consensus",
+      "master_count": 0,
+      "masters": [],
+      "total_buy_amt_K": 397525,
+      "total_buy_amt_yi": 3.98,
+      "confidence_pct": 52,
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.86%, 共淨買 3.98 億",
+      "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
+    },
+    {
+      "rank": 2,
+      "code": "7765",
+      "name": "中華資安",
+      "change_pct": 9.89,
+      "tier": "consensus",
+      "master_count": 0,
+      "masters": [],
+      "total_buy_amt_K": 45892,
+      "total_buy_amt_yi": 0.46,
+      "confidence_pct": 52,
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.89%, 共淨買 0.46 億",
+      "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
+    },
+    {
+      "rank": 3,
+      "code": "2471",
+      "name": "資通",
+      "change_pct": 9.98,
+      "tier": "consensus",
+      "master_count": 0,
+      "masters": [],
+      "total_buy_amt_K": 27587,
+      "total_buy_amt_yi": 0.28,
+      "confidence_pct": 52,
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.98%, 共淨買 0.28 億",
+      "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
+    }
+  ],
   "killed_signals": {
     "外資期貨等效大台淨 OI": {
       "reason": "1 年 backtest 96% 樣本歸到偏空/極空, 全年外資長期淨空, 反指標假設失效",
