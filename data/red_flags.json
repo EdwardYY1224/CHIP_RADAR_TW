@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T07:10:35.594122+08:00",
+  "generated_at": "2026-11-25T07:46:36.650532+08:00",
   "trade_date": "20261124",
   "pump_suspicion": [
     {
@@ -742,19 +742,19 @@
   ],
   "distribution": [
     {
-      "stock_code": "2328",
-      "stock_name": "廣宇",
-      "branch_code": "9216",
-      "branch_name": "凱基-信義",
-      "master": "林滄海",
-      "sell_lot": 169,
-      "sell_amt_wan": 673,
-      "avg_30d_sell_lot": 20.0,
-      "sell_vs_avg_x": 8.4,
-      "recent_5d_limit_up_count": 6,
+      "stock_code": "00981A",
+      "stock_name": "主動統一台股增長",
+      "branch_code": "9100",
+      "branch_name": "群益金鼎證券",
+      "master": "張濬安(航海王)",
+      "sell_lot": 395505,
+      "sell_amt_wan": 871205,
+      "avg_30d_sell_lot": 34276.5,
+      "sell_vs_avg_x": 11.5,
+      "recent_5d_limit_up_count": 72,
       "rule": "C_distribution",
-      "severity": "medium",
-      "reasoning": "當日賣 169 張 (30 天均 20 張 × 8.4) + 近 5 天漲停 6 次"
+      "severity": "high",
+      "reasoning": "當日賣 395,505 張 (30 天均 34277 張 × 11.5) + 近 5 天漲停 72 次"
     },
     {
       "stock_code": "00991A",
@@ -764,12 +764,72 @@
       "master": "張濬安(航海王)",
       "sell_lot": 204395,
       "sell_amt_wan": 252632,
-      "avg_30d_sell_lot": 3365.8,
-      "sell_vs_avg_x": 60.7,
-      "recent_5d_limit_up_count": 38,
+      "avg_30d_sell_lot": 23468.7,
+      "sell_vs_avg_x": 8.7,
+      "recent_5d_limit_up_count": 98,
+      "rule": "C_distribution",
+      "severity": "medium",
+      "reasoning": "當日賣 204,395 張 (30 天均 23469 張 × 8.7) + 近 5 天漲停 98 次"
+    },
+    {
+      "stock_code": "00403A",
+      "stock_name": "主動統一升級50",
+      "branch_code": "9100",
+      "branch_name": "群益金鼎證券",
+      "master": "張濬安(航海王)",
+      "sell_lot": 160882,
+      "sell_amt_wan": 128341,
+      "avg_30d_sell_lot": 22063.5,
+      "sell_vs_avg_x": 7.3,
+      "recent_5d_limit_up_count": 73,
+      "rule": "C_distribution",
+      "severity": "medium",
+      "reasoning": "當日賣 160,882 張 (30 天均 22064 張 × 7.3) + 近 5 天漲停 73 次"
+    },
+    {
+      "stock_code": "00981A",
+      "stock_name": "主動統一台股增長",
+      "branch_code": "9217",
+      "branch_name": "凱基-松山",
+      "master": "迷你哥/松山哥",
+      "sell_lot": 28195,
+      "sell_amt_wan": 62069,
+      "avg_30d_sell_lot": 4218.6,
+      "sell_vs_avg_x": 6.7,
+      "recent_5d_limit_up_count": 72,
+      "rule": "C_distribution",
+      "severity": "medium",
+      "reasoning": "當日賣 28,195 張 (30 天均 4219 張 × 6.7) + 近 5 天漲停 72 次"
+    },
+    {
+      "stock_code": "00981A",
+      "stock_name": "主動統一台股增長",
+      "branch_code": "9200",
+      "branch_name": "凱基證券",
+      "master": "凱基證券",
+      "sell_lot": 159087,
+      "sell_amt_wan": 350626,
+      "avg_30d_sell_lot": 15609.3,
+      "sell_vs_avg_x": 10.2,
+      "recent_5d_limit_up_count": 72,
       "rule": "C_distribution",
       "severity": "high",
-      "reasoning": "當日賣 204,395 張 (30 天均 3366 張 × 60.7) + 近 5 天漲停 38 次"
+      "reasoning": "當日賣 159,087 張 (30 天均 15609 張 × 10.2) + 近 5 天漲停 72 次"
+    },
+    {
+      "stock_code": "00403A",
+      "stock_name": "主動統一升級50",
+      "branch_code": "9200",
+      "branch_name": "凱基證券",
+      "master": "凱基證券",
+      "sell_lot": 150050,
+      "sell_amt_wan": 120422,
+      "avg_30d_sell_lot": 13735.9,
+      "sell_vs_avg_x": 10.9,
+      "recent_5d_limit_up_count": 73,
+      "rule": "C_distribution",
+      "severity": "high",
+      "reasoning": "當日賣 150,050 張 (30 天均 13736 張 × 10.9) + 近 5 天漲停 73 次"
     },
     {
       "stock_code": "00991A",
@@ -779,12 +839,12 @@
       "master": "凱基證券",
       "sell_lot": 50000,
       "sell_amt_wan": 61800,
-      "avg_30d_sell_lot": 2553.7,
-      "sell_vs_avg_x": 19.6,
-      "recent_5d_limit_up_count": 38,
+      "avg_30d_sell_lot": 8484.5,
+      "sell_vs_avg_x": 5.9,
+      "recent_5d_limit_up_count": 98,
       "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 50,000 張 (30 天均 2554 張 × 19.6) + 近 5 天漲停 38 次"
+      "severity": "medium",
+      "reasoning": "當日賣 50,000 張 (30 天均 8484 張 × 5.9) + 近 5 天漲停 98 次"
     },
     {
       "stock_code": "00991A",
@@ -794,49 +854,34 @@
       "master": "富邦證券",
       "sell_lot": 124560,
       "sell_amt_wan": 153935,
-      "avg_30d_sell_lot": 5432.4,
-      "sell_vs_avg_x": 22.9,
-      "recent_5d_limit_up_count": 38,
+      "avg_30d_sell_lot": 11702.3,
+      "sell_vs_avg_x": 10.6,
+      "recent_5d_limit_up_count": 98,
       "rule": "C_distribution",
       "severity": "high",
-      "reasoning": "當日賣 124,560 張 (30 天均 5432 張 × 22.9) + 近 5 天漲停 38 次"
+      "reasoning": "當日賣 124,560 張 (30 天均 11702 張 × 10.6) + 近 5 天漲停 98 次"
     },
     {
-      "stock_code": "2468",
-      "stock_name": "華經",
-      "branch_code": "913Y",
-      "branch_name": "群益金鼎-館前",
-      "master": "江士勳",
-      "sell_lot": 679,
-      "sell_amt_wan": 4669,
-      "avg_30d_sell_lot": 53.0,
-      "sell_vs_avg_x": 12.8,
-      "recent_5d_limit_up_count": 12,
+      "stock_code": "00981A",
+      "stock_name": "主動統一台股增長",
+      "branch_code": "9227",
+      "branch_name": "凱基-城中",
+      "master": "蔣承翰",
+      "sell_lot": 79531,
+      "sell_amt_wan": 174851,
+      "avg_30d_sell_lot": 14092.1,
+      "sell_vs_avg_x": 5.6,
+      "recent_5d_limit_up_count": 72,
       "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 679 張 (30 天均 53 張 × 12.8) + 近 5 天漲停 12 次"
-    },
-    {
-      "stock_code": "2303",
-      "stock_name": "聯電",
-      "branch_code": "980K",
-      "branch_name": "元大-竹科",
-      "master": "竹科強勢地緣",
-      "sell_lot": 4451,
-      "sell_amt_wan": 43221,
-      "avg_30d_sell_lot": 127.5,
-      "sell_vs_avg_x": 34.9,
-      "recent_5d_limit_up_count": 61,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 4,451 張 (30 天均 128 張 × 34.9) + 近 5 天漲停 61 次"
+      "severity": "medium",
+      "reasoning": "當日賣 79,531 張 (30 天均 14092 張 × 5.6) + 近 5 天漲停 72 次"
     }
   ],
   "summary": {
     "pump_count": 15,
     "wash_count": 30,
-    "distribution_count": 6,
-    "total": 51
+    "distribution_count": 9,
+    "total": 54
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
