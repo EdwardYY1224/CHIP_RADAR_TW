@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T08:59:58.397113+08:00",
+  "generated_at": "2026-11-24T10:01:38.485770+08:00",
   "trade_date": "20261123",
   "pump_suspicion": [
     {
@@ -87,10 +87,10 @@
       "sell_lot": 1236,
       "buy_amt_wan": 1964,
       "daytrade_ratio": 0.71,
-      "amt_vs_median_x": 4.9,
+      "amt_vs_median_x": 4.6,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 71% (> 70%) + 漲停 + 買金額 1,964 萬 (中位數 397 萬 × 4.9)"
+      "reasoning": "當沖比 71% (> 70%) + 漲停 + 買金額 1,964 萬 (中位數 423 萬 × 4.6)"
     },
     {
       "stock_code": "2454",
@@ -794,49 +794,34 @@
       "master": "強森",
       "sell_lot": 53,
       "sell_amt_wan": 18989,
-      "avg_30d_sell_lot": 7.3,
-      "sell_vs_avg_x": 7.2,
-      "recent_5d_limit_up_count": 61,
+      "avg_30d_sell_lot": 10.1,
+      "sell_vs_avg_x": 5.2,
+      "recent_5d_limit_up_count": 110,
       "rule": "C_distribution",
       "severity": "medium",
-      "reasoning": "當日賣 53 張 (30 天均 7 張 × 7.2) + 近 5 天漲停 61 次"
+      "reasoning": "當日賣 53 張 (30 天均 10 張 × 5.2) + 近 5 天漲停 110 次"
     },
     {
-      "stock_code": "6949",
-      "stock_name": "沛爾*-創",
-      "branch_code": "9B2n",
-      "branch_name": "台新-西松",
-      "master": "巨人傑",
-      "sell_lot": 1086,
-      "sell_amt_wan": 3996,
-      "avg_30d_sell_lot": 68.5,
-      "sell_vs_avg_x": 15.9,
-      "recent_5d_limit_up_count": 10,
-      "rule": "C_distribution",
-      "severity": "high",
-      "reasoning": "當日賣 1,086 張 (30 天均 68 張 × 15.9) + 近 5 天漲停 10 次"
-    },
-    {
-      "stock_code": "3305",
-      "stock_name": "昇貿",
-      "branch_code": "585Q",
-      "branch_name": "統一-三多",
-      "master": "呂金發",
-      "sell_lot": 130,
-      "sell_amt_wan": 1100,
-      "avg_30d_sell_lot": 24.0,
-      "sell_vs_avg_x": 5.4,
-      "recent_5d_limit_up_count": 2,
+      "stock_code": "6213",
+      "stock_name": "聯茂",
+      "branch_code": "1360",
+      "branch_name": "港商麥格理",
+      "master": "麥格理",
+      "sell_lot": 1310,
+      "sell_amt_wan": 44791,
+      "avg_30d_sell_lot": 184.4,
+      "sell_vs_avg_x": 7.1,
+      "recent_5d_limit_up_count": 40,
       "rule": "C_distribution",
       "severity": "medium",
-      "reasoning": "當日賣 130 張 (30 天均 24 張 × 5.4) + 近 5 天漲停 2 次"
+      "reasoning": "當日賣 1,310 張 (30 天均 184 張 × 7.1) + 近 5 天漲停 40 次"
     }
   ],
   "summary": {
     "pump_count": 18,
     "wash_count": 30,
-    "distribution_count": 3,
-    "total": 51
+    "distribution_count": 2,
+    "total": 50
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
