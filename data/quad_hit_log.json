@@ -1181,26 +1181,142 @@
       "hits": 1,
       "hit_rate": 0.1,
       "mean_change": -7.41
+    },
+    {
+      "date": "20261123",
+      "next_date": "20261124",
+      "q5_direction": "偏多",
+      "q5_confidence": 95,
+      "taifex_change": 8.99,
+      "vol_spike_masters": [
+        "竹科主力分點",
+        "蔣承翰"
+      ],
+      "quad_picks": [
+        {
+          "code": "3443",
+          "name": "創意",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 9.96,
+          "hit": true,
+          "leader_pct": 0.359,
+          "excess_return": 0.97,
+          "failure_reasons": []
+        },
+        {
+          "code": "2330",
+          "name": "台積電",
+          "matched_masters": [
+            "竹科主力分點",
+            "蔣承翰"
+          ],
+          "next_change_pct": 9.85,
+          "hit": true,
+          "leader_pct": 0.309,
+          "excess_return": 0.86,
+          "failure_reasons": []
+        },
+        {
+          "code": "3008",
+          "name": "大立光",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 9.94,
+          "hit": true,
+          "leader_pct": 0.374,
+          "excess_return": 0.95,
+          "failure_reasons": []
+        },
+        {
+          "code": "2317",
+          "name": "鴻海",
+          "matched_masters": [
+            "竹科主力分點",
+            "蔣承翰"
+          ],
+          "next_change_pct": 9.95,
+          "hit": true,
+          "leader_pct": 0.212,
+          "excess_return": 0.96,
+          "failure_reasons": []
+        },
+        {
+          "code": "3481",
+          "name": "群創",
+          "matched_masters": [
+            "竹科主力分點"
+          ],
+          "next_change_pct": 9.92,
+          "hit": true,
+          "leader_pct": 0.292,
+          "excess_return": 0.93,
+          "failure_reasons": []
+        },
+        {
+          "code": "3711",
+          "name": "日月光投控",
+          "matched_masters": [
+            "竹科主力分點",
+            "蔣承翰"
+          ],
+          "next_change_pct": 9.96,
+          "hit": true,
+          "leader_pct": 0.223,
+          "excess_return": 0.97,
+          "failure_reasons": []
+        },
+        {
+          "code": "2383",
+          "name": "台光電",
+          "matched_masters": [
+            "蔣承翰"
+          ],
+          "next_change_pct": 9.87,
+          "hit": true,
+          "leader_pct": 0.558,
+          "excess_return": 0.88,
+          "failure_reasons": []
+        },
+        {
+          "code": "2002",
+          "name": "中鋼",
+          "matched_masters": [
+            "蔣承翰"
+          ],
+          "next_change_pct": 4.15,
+          "hit": true,
+          "leader_pct": 0.312,
+          "excess_return": -4.84,
+          "failure_reasons": []
+        }
+      ],
+      "n": 8,
+      "hits": 8,
+      "hit_rate": 1.0,
+      "mean_change": 9.2
     }
   ],
   "rolling_30d": {
-    "trigger_days": 1,
-    "n": 10,
-    "hits": 1,
-    "hit_rate": 0.1,
-    "mean_change": -7.41
+    "trigger_days": 2,
+    "n": 18,
+    "hits": 9,
+    "hit_rate": 0.5,
+    "mean_change": -0.03
   },
   "rolling_all": {
-    "trigger_days": 8,
-    "n": 74,
-    "hits": 34,
-    "hit_rate": 0.4595,
-    "mean_change": -0.45
+    "trigger_days": 9,
+    "n": 82,
+    "hits": 42,
+    "hit_rate": 0.5122,
+    "mean_change": 0.49
   },
   "vs_expected": {
     "expected_hit_rate": 0.789,
-    "actual_hit_rate": 0.4595,
-    "delta_pp": -33.0
+    "actual_hit_rate": 0.5122,
+    "delta_pp": -27.7
   },
-  "updated_at": "2026-11-24T02:54:23.929699"
+  "updated_at": "2026-11-24T23:16:04.986629"
 }
