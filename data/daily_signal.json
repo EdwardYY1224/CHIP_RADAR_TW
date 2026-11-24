@@ -1,12 +1,12 @@
 {
-  "date": "20261120",
-  "generated_at": "2026-11-20T22:32:52.025855",
+  "date": "20261123",
+  "generated_at": "2026-11-24T01:05:28.664572",
   "generator": "signal_engine v3.29 MVP (Phase A backtest based)",
-  "headline": "偏多 信心92.1% (高信心) · 3 檔個股關注",
+  "headline": "偏多 信心95% (高信心) · 3 檔個股關注",
   "market_direction": {
     "direction": "偏多",
-    "confidence_pct": 92.1,
-    "net_weight": 0.421,
+    "confidence_pct": 95,
+    "net_weight": 0.481,
     "contributing": [
       {
         "name": "外資現貨",
@@ -21,60 +21,60 @@
         "sign": "bull"
       },
       {
-        "name": "結算日壓力",
+        "name": "融資熱度",
         "level": "bull",
-        "weight": 0.136,
+        "weight": 0.196,
         "sign": "bull"
       }
     ],
     "ignored": [
       "外資期貨",
       "P/C Ratio",
-      "融資熱度",
-      "法人共識"
+      "法人共識",
+      "結算日壓力"
     ]
   },
   "top_focus_stocks": [
     {
       "rank": 1,
-      "code": "2468",
-      "name": "華經",
-      "change_pct": 9.86,
+      "code": "2383",
+      "name": "台光電",
+      "change_pct": 9.96,
       "tier": "consensus",
       "master_count": 0,
       "masters": [],
-      "total_buy_amt_K": 397525,
-      "total_buy_amt_yi": 3.98,
+      "total_buy_amt_K": 7112673,
+      "total_buy_amt_yi": 71.13,
       "confidence_pct": 52,
-      "reason": "0 位 sniper 共識買 (), 漲幅 9.86%, 共淨買 3.98 億",
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.96%, 共淨買 71.13 億",
       "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
     },
     {
       "rank": 2,
-      "code": "7765",
-      "name": "中華資安",
-      "change_pct": 9.89,
+      "code": "2308",
+      "name": "台達電",
+      "change_pct": 10.0,
       "tier": "consensus",
       "master_count": 0,
       "masters": [],
-      "total_buy_amt_K": 45892,
-      "total_buy_amt_yi": 0.46,
+      "total_buy_amt_K": 11524651,
+      "total_buy_amt_yi": 115.25,
       "confidence_pct": 52,
-      "reason": "0 位 sniper 共識買 (), 漲幅 9.89%, 共淨買 0.46 億",
+      "reason": "0 位 sniper 共識買 (), 漲幅 10.0%, 共淨買 115.25 億",
       "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
     },
     {
       "rank": 3,
-      "code": "2471",
-      "name": "資通",
-      "change_pct": 9.98,
+      "code": "6274",
+      "name": "台燿",
+      "change_pct": 9.95,
       "tier": "consensus",
       "master_count": 0,
       "masters": [],
-      "total_buy_amt_K": 27587,
-      "total_buy_amt_yi": 0.28,
+      "total_buy_amt_K": 4262453,
+      "total_buy_amt_yi": 42.62,
       "confidence_pct": 52,
-      "reason": "0 位 sniper 共識買 (), 漲幅 9.98%, 共淨買 0.28 億",
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.95%, 共淨買 42.62 億",
       "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
     }
   ],

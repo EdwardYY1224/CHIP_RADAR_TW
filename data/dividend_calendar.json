@@ -1,6 +1,13 @@
 {
- "count": 27,
+ "count": 28,
  "by_code": {
+  "00400A": {
+   "ex_date": "20261208",
+   "name": "主動國泰動能高息",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
   "00406A": {
    "ex_date": "20261202",
    "name": "主動中信台灣收益",
@@ -92,13 +99,6 @@
    "cash_dividend": null,
    "stock_dividend_pct": 0.0
   },
-  "01007T": {
-   "ex_date": "20261119",
-   "name": "兆豐國泰R2",
-   "type": "息",
-   "cash_dividend": 0.215313,
-   "stock_dividend_pct": 0.0
-  },
   "020038": {
    "ex_date": "20261203",
    "name": "元大ESG配息N",
@@ -162,6 +162,13 @@
    "cash_dividend": 0.0,
    "stock_dividend_pct": 0.0
   },
+  "4414": {
+   "ex_date": "20261208",
+   "name": "如興",
+   "type": "息",
+   "cash_dividend": 0.00915,
+   "stock_dividend_pct": 0.0
+  },
   "4562": {
    "ex_date": "20261120",
    "name": "穎漢",
@@ -169,18 +176,18 @@
    "cash_dividend": 0.0,
    "stock_dividend_pct": 0.0
   },
+  "6277": {
+   "ex_date": "20261208",
+   "name": "宏正",
+   "type": "息",
+   "cash_dividend": 2.3,
+   "stock_dividend_pct": 0.0
+  },
   "6655": {
    "ex_date": "20261124",
    "name": "科定",
    "type": "息",
    "cash_dividend": 2.6,
-   "stock_dividend_pct": 0.0
-  },
-  "6924": {
-   "ex_date": "20261119",
-   "name": "榮惠-KY創",
-   "type": "權",
-   "cash_dividend": 0.0,
    "stock_dividend_pct": 0.0
   },
   "7780": {
@@ -192,6 +199,11 @@
   }
  },
  "by_date": {
+  "20261208": [
+   "00400A",
+   "4414",
+   "6277"
+  ],
   "20261202": [
    "00406A"
   ],
@@ -220,10 +232,6 @@
   ],
   "20261126": [
    "009817"
-  ],
-  "20261119": [
-   "01007T",
-   "6924"
   ],
   "20261230": [
    "1707"
@@ -392,6 +400,30 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "00400A",
+   "ex_date": "20261208",
+   "name": "主動國泰動能高息",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "4414",
+   "ex_date": "20261208",
+   "name": "如興",
+   "type": "息",
+   "cash_dividend": 0.00915,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "6277",
+   "ex_date": "20261208",
+   "name": "宏正",
+   "type": "息",
+   "cash_dividend": 2.3,
+   "stock_dividend_pct": 0.0
+  },
+  {
    "code": "1817",
    "ex_date": "20261221",
    "name": "凱撒衛",
@@ -400,6 +432,6 @@
    "stock_dividend_pct": 0.0
   }
  ],
- "fetched_at": "2026-11-21T06:09:54.238261+08:00",
+ "fetched_at": "2026-11-24T09:06:18.102084+08:00",
  "source": "https://www.twse.com.tw/exchangeReport/TWT48U?response=json"
 }
