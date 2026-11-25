@@ -1,5 +1,5 @@
 {
- "count": 28,
+ "count": 26,
  "by_code": {
   "00400A": {
    "ex_date": "20261208",
@@ -13,34 +13,6 @@
    "name": "主動中信台灣收益",
    "type": "息",
    "cash_dividend": null,
-   "stock_dividend_pct": 0.0
-  },
-  "0051": {
-   "ex_date": "20261120",
-   "name": "元大中型100",
-   "type": "息",
-   "cash_dividend": 4.5,
-   "stock_dividend_pct": 0.0
-  },
-  "0055": {
-   "ex_date": "20261120",
-   "name": "元大MSCI金融",
-   "type": "息",
-   "cash_dividend": 2.7,
-   "stock_dividend_pct": 0.0
-  },
-  "00771": {
-   "ex_date": "20261120",
-   "name": "元大US高息特別股",
-   "type": "息",
-   "cash_dividend": 0.21,
-   "stock_dividend_pct": 0.0
-  },
-  "00850": {
-   "ex_date": "20261120",
-   "name": "元大臺灣ESG永續",
-   "type": "息",
-   "cash_dividend": 1.0,
    "stock_dividend_pct": 0.0
   },
   "00901": {
@@ -64,6 +36,13 @@
    "cash_dividend": null,
    "stock_dividend_pct": 0.0
   },
+  "00940": {
+   "ex_date": "20261210",
+   "name": "元大台灣價值高息",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
   "00946": {
    "ex_date": "20261203",
    "name": "群益科技高息成長",
@@ -82,7 +61,7 @@
    "ex_date": "20261126",
    "name": "國泰日本不動產",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.33,
    "stock_dividend_pct": 0.0
   },
   "00984D": {
@@ -169,11 +148,11 @@
    "cash_dividend": 0.00915,
    "stock_dividend_pct": 0.0
   },
-  "4562": {
-   "ex_date": "20261120",
-   "name": "穎漢",
-   "type": "權",
-   "cash_dividend": 0.0,
+  "4912": {
+   "ex_date": "20261208",
+   "name": "聯德控股-KY",
+   "type": "息",
+   "cash_dividend": 1.0,
    "stock_dividend_pct": 0.0
   },
   "6277": {
@@ -181,6 +160,13 @@
    "name": "宏正",
    "type": "息",
    "cash_dividend": 2.3,
+   "stock_dividend_pct": 0.0
+  },
+  "6438": {
+   "ex_date": "20261210",
+   "name": "迅得",
+   "type": "息",
+   "cash_dividend": 3.0,
    "stock_dividend_pct": 0.0
   },
   "6655": {
@@ -202,17 +188,11 @@
   "20261208": [
    "00400A",
    "4414",
+   "4912",
    "6277"
   ],
   "20261202": [
    "00406A"
-  ],
-  "20261120": [
-   "0051",
-   "0055",
-   "00771",
-   "00850",
-   "4562"
   ],
   "20261124": [
    "00901",
@@ -222,6 +202,10 @@
   "20261201": [
    "00939",
    "00984D"
+  ],
+  "20261210": [
+   "00940",
+   "6438"
   ],
   "20261203": [
    "00946",
@@ -256,35 +240,11 @@
  },
  "upcoming_30d": [
   {
-   "code": "00901",
-   "ex_date": "20261124",
-   "name": "永豐智能車供應鏈",
-   "type": "息",
-   "cash_dividend": 7.0,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "00930",
-   "ex_date": "20261124",
-   "name": "永豐ESG低碳高息",
-   "type": "息",
-   "cash_dividend": 0.75,
-   "stock_dividend_pct": 0.0
-  },
-  {
-   "code": "6655",
-   "ex_date": "20261124",
-   "name": "科定",
-   "type": "息",
-   "cash_dividend": 2.6,
-   "stock_dividend_pct": 0.0
-  },
-  {
    "code": "009817",
    "ex_date": "20261126",
    "name": "國泰日本不動產",
    "type": "息",
-   "cash_dividend": null,
+   "cash_dividend": 0.33,
    "stock_dividend_pct": 0.0
   },
   {
@@ -416,11 +376,35 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "4912",
+   "ex_date": "20261208",
+   "name": "聯德控股-KY",
+   "type": "息",
+   "cash_dividend": 1.0,
+   "stock_dividend_pct": 0.0
+  },
+  {
    "code": "6277",
    "ex_date": "20261208",
    "name": "宏正",
    "type": "息",
    "cash_dividend": 2.3,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "00940",
+   "ex_date": "20261210",
+   "name": "元大台灣價值高息",
+   "type": "息",
+   "cash_dividend": null,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "6438",
+   "ex_date": "20261210",
+   "name": "迅得",
+   "type": "息",
+   "cash_dividend": 3.0,
    "stock_dividend_pct": 0.0
   },
   {
@@ -432,6 +416,6 @@
    "stock_dividend_pct": 0.0
   }
  ],
- "fetched_at": "2026-11-24T09:06:18.102084+08:00",
+ "fetched_at": "2026-11-26T06:45:16.428696+08:00",
  "source": "https://www.twse.com.tw/exchangeReport/TWT48U?response=json"
 }
