@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T07:46:36.650532+08:00",
+  "generated_at": "2026-11-25T08:16:27.871918+08:00",
   "trade_date": "20261124",
   "pump_suspicion": [
     {
@@ -72,10 +72,10 @@
       "sell_lot": 92,
       "buy_amt_wan": 26681,
       "daytrade_ratio": 0.77,
-      "amt_vs_median_x": 8.7,
+      "amt_vs_median_x": 8.5,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 77% (> 70%) + 漲停 + 買金額 26,681 萬 (中位數 3,058 萬 × 8.7)"
+      "reasoning": "當沖比 77% (> 70%) + 漲停 + 買金額 26,681 萬 (中位數 3,134 萬 × 8.5)"
     },
     {
       "stock_code": "2382",
@@ -138,6 +138,21 @@
       "reasoning": "當沖比 79% (> 70%) + 漲停 + 買金額 57,094 萬 (中位數 5,980 萬 × 9.5)"
     },
     {
+      "stock_code": "2317",
+      "stock_name": "鴻海",
+      "branch_code": "1470",
+      "branch_name": "台灣摩根士丹利",
+      "master": "摩根士丹利",
+      "buy_lot": 684,
+      "sell_lot": 518,
+      "buy_amt_wan": 15493,
+      "daytrade_ratio": 0.76,
+      "amt_vs_median_x": 3.9,
+      "rule": "A_pump",
+      "severity": "medium",
+      "reasoning": "當沖比 76% (> 70%) + 漲停 + 買金額 15,493 萬 (中位數 3,989 萬 × 3.9)"
+    },
+    {
       "stock_code": "2330",
       "stock_name": "台積電",
       "branch_code": "8440",
@@ -147,10 +162,10 @@
       "sell_lot": 316,
       "buy_amt_wan": 84963,
       "daytrade_ratio": 0.83,
-      "amt_vs_median_x": 27.8,
+      "amt_vs_median_x": 27.1,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 83% (> 70%) + 漲停 + 買金額 84,963 萬 (中位數 3,058 萬 × 27.8)"
+      "reasoning": "當沖比 83% (> 70%) + 漲停 + 買金額 84,963 萬 (中位數 3,134 萬 × 27.1)"
     },
     {
       "stock_code": "2882",
@@ -192,10 +207,10 @@
       "sell_lot": 2502,
       "buy_amt_wan": 12157,
       "daytrade_ratio": 0.75,
-      "amt_vs_median_x": 14.8,
+      "amt_vs_median_x": 20.6,
       "rule": "A_pump",
       "severity": "medium",
-      "reasoning": "當沖比 75% (> 70%) + 漲停 + 買金額 12,157 萬 (中位數 820 萬 × 14.8)"
+      "reasoning": "當沖比 75% (> 70%) + 漲停 + 買金額 12,157 萬 (中位數 589 萬 × 20.6)"
     },
     {
       "stock_code": "009828",
@@ -878,10 +893,10 @@
     }
   ],
   "summary": {
-    "pump_count": 15,
+    "pump_count": 16,
     "wash_count": 30,
     "distribution_count": 9,
-    "total": 54
+    "total": 55
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }

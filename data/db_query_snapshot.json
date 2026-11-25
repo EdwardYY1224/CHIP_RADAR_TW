@@ -297,6 +297,11 @@
      "cum_net_wan": 2325
     },
     {
+     "name": "永豐天母(老錢)",
+     "cum_net_lots": 94,
+     "cum_net_wan": 2129
+    },
+    {
      "name": "匯豐 HSBC",
      "cum_net_lots": 40,
      "cum_net_wan": 912
@@ -375,11 +380,6 @@
      "name": "華南永昌中正(未知大哥)",
      "cum_net_lots": -10,
      "cum_net_wan": -222
-    },
-    {
-     "name": "永豐天母(老錢)",
-     "cum_net_lots": -12,
-     "cum_net_wan": -269
     },
     {
      "name": "統一南京(強勢未知)",
@@ -516,14 +516,14 @@
     {
      "code": "2886",
      "name": "兆豐金",
-     "cum_net_wan": 98205,
-     "distinct_traders": 33
+     "cum_net_wan": 98128,
+     "distinct_traders": 34
     },
     {
      "code": "2610",
      "name": "華航",
-     "cum_net_wan": 80411,
-     "distinct_traders": 25
+     "cum_net_wan": 80377,
+     "distinct_traders": 26
     },
     {
      "code": "8299",
@@ -534,7 +534,7 @@
     {
      "code": "2317",
      "name": "鴻海",
-     "cum_net_wan": 58358,
+     "cum_net_wan": 60756,
      "distinct_traders": 44
     },
     {
@@ -559,7 +559,7 @@
    "rows": [
     {
      "date": "20261124",
-     "row_count": 6895,
+     "row_count": 6913,
      "traders_active": 51,
      "branches_active": 77
     }
@@ -1149,6 +1149,12 @@
     },
     {
      "date": "20261124",
+     "top_master": "永豐天母(老錢)",
+     "day_buy_wan": 65434,
+     "row_count": 76
+    },
+    {
+     "date": "20261124",
      "top_master": "大牌分析師",
      "day_buy_wan": 62796,
      "row_count": 68
@@ -1176,12 +1182,6 @@
      "top_master": "嘉義幫",
      "day_buy_wan": 39757,
      "row_count": 74
-    },
-    {
-     "date": "20261124",
-     "top_master": "永豐天母(老錢)",
-     "day_buy_wan": 35174,
-     "row_count": 63
     },
     {
      "date": "20261124",
@@ -1300,9 +1300,9 @@
      "code": "2330",
      "stock_name": "台積電",
      "distinct_masters": 48,
-     "buy_wan": 1001737,
-     "sell_wan": 1437059,
-     "net_wan": -435322,
+     "buy_wan": 1024409,
+     "sell_wan": 1437655,
+     "net_wan": -413246,
      "days_active": 1
     },
     {
@@ -1336,9 +1336,9 @@
      "code": "2317",
      "stock_name": "鴻海",
      "distinct_masters": 44,
-     "buy_wan": 167992,
-     "sell_wan": 109634,
-     "net_wan": 58358,
+     "buy_wan": 170234,
+     "sell_wan": 109478,
+     "net_wan": 60756,
      "days_active": 1
     },
     {
@@ -1390,9 +1390,9 @@
      "code": "00631L",
      "stock_name": "元大台灣50正2",
      "distinct_masters": 38,
-     "buy_wan": 83551,
-     "sell_wan": 78664,
-     "net_wan": 4887,
+     "buy_wan": 83357,
+     "sell_wan": 78537,
+     "net_wan": 4819,
      "days_active": 1
     },
     {
@@ -1441,6 +1441,24 @@
      "days_active": 1
     },
     {
+     "code": "009816",
+     "stock_name": "凱基台灣TOP50",
+     "distinct_masters": 35,
+     "buy_wan": 14322,
+     "sell_wan": 12036,
+     "net_wan": 2286,
+     "days_active": 1
+    },
+    {
+     "code": "2886",
+     "stock_name": "兆豐金",
+     "distinct_masters": 34,
+     "buy_wan": 247091,
+     "sell_wan": 148963,
+     "net_wan": 98128,
+     "days_active": 1
+    },
+    {
      "code": "2603",
      "stock_name": "長榮",
      "distinct_masters": 34,
@@ -1456,24 +1474,6 @@
      "buy_wan": 861475,
      "sell_wan": 562857,
      "net_wan": 298618,
-     "days_active": 1
-    },
-    {
-     "code": "009828",
-     "stock_name": "中信台日韓PCB",
-     "distinct_masters": 34,
-     "buy_wan": 22171,
-     "sell_wan": 35788,
-     "net_wan": -13617,
-     "days_active": 1
-    },
-    {
-     "code": "009816",
-     "stock_name": "凱基台灣TOP50",
-     "distinct_masters": 34,
-     "buy_wan": 14294,
-     "sell_wan": 11948,
-     "net_wan": 2345,
      "days_active": 1
     }
    ],
@@ -1619,8 +1619,8 @@
     {
      "master": "永豐天母(老錢)",
      "active_days": 1,
-     "avg_day_wan": 35174.0,
-     "total_wan": 35174
+     "avg_day_wan": 65435.0,
+     "total_wan": 65434
     },
     {
      "master": "民哥",
