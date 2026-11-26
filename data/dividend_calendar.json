@@ -1,5 +1,5 @@
 {
- "count": 26,
+ "count": 25,
  "by_code": {
   "00400A": {
    "ex_date": "20261208",
@@ -13,20 +13,6 @@
    "name": "主動中信台灣收益",
    "type": "息",
    "cash_dividend": null,
-   "stock_dividend_pct": 0.0
-  },
-  "00901": {
-   "ex_date": "20261124",
-   "name": "永豐智能車供應鏈",
-   "type": "息",
-   "cash_dividend": 7.0,
-   "stock_dividend_pct": 0.0
-  },
-  "00930": {
-   "ex_date": "20261124",
-   "name": "永豐ESG低碳高息",
-   "type": "息",
-   "cash_dividend": 0.75,
    "stock_dividend_pct": 0.0
   },
   "00939": {
@@ -106,6 +92,13 @@
    "cash_dividend": 1.8,
    "stock_dividend_pct": 0.0
   },
+  "2330": {
+   "ex_date": "20261210",
+   "name": "台積電",
+   "type": "息",
+   "cash_dividend": 7.000001,
+   "stock_dividend_pct": 0.0
+  },
   "2345": {
    "ex_date": "20261204",
    "name": "智邦",
@@ -169,11 +162,11 @@
    "cash_dividend": 3.0,
    "stock_dividend_pct": 0.0
   },
-  "6655": {
-   "ex_date": "20261124",
-   "name": "科定",
+  "6994": {
+   "ex_date": "20261211",
+   "name": "富威電力",
    "type": "息",
-   "cash_dividend": 2.6,
+   "cash_dividend": 0.6067,
    "stock_dividend_pct": 0.0
   },
   "7780": {
@@ -194,17 +187,13 @@
   "20261202": [
    "00406A"
   ],
-  "20261124": [
-   "00901",
-   "00930",
-   "6655"
-  ],
   "20261201": [
    "00939",
    "00984D"
   ],
   "20261210": [
    "00940",
+   "2330",
    "6438"
   ],
   "20261203": [
@@ -236,17 +225,12 @@
   ],
   "20261127": [
    "3706"
+  ],
+  "20261211": [
+   "6994"
   ]
  },
  "upcoming_30d": [
-  {
-   "code": "009817",
-   "ex_date": "20261126",
-   "name": "國泰日本不動產",
-   "type": "息",
-   "cash_dividend": 0.33,
-   "stock_dividend_pct": 0.0
-  },
   {
    "code": "3706",
    "ex_date": "20261127",
@@ -400,11 +384,27 @@
    "stock_dividend_pct": 0.0
   },
   {
+   "code": "2330",
+   "ex_date": "20261210",
+   "name": "台積電",
+   "type": "息",
+   "cash_dividend": 7.000001,
+   "stock_dividend_pct": 0.0
+  },
+  {
    "code": "6438",
    "ex_date": "20261210",
    "name": "迅得",
    "type": "息",
    "cash_dividend": 3.0,
+   "stock_dividend_pct": 0.0
+  },
+  {
+   "code": "6994",
+   "ex_date": "20261211",
+   "name": "富威電力",
+   "type": "息",
+   "cash_dividend": 0.6067,
    "stock_dividend_pct": 0.0
   },
   {
@@ -416,6 +416,6 @@
    "stock_dividend_pct": 0.0
   }
  ],
- "fetched_at": "2026-11-26T06:45:16.428696+08:00",
+ "fetched_at": "2026-11-27T07:27:22.378352+08:00",
  "source": "https://www.twse.com.tw/exchangeReport/TWT48U?response=json"
 }
