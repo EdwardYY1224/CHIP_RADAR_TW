@@ -1,85 +1,70 @@
 {
-  "date": "20261126",
-  "generated_at": "2026-11-27T00:13:24.259426",
+  "date": "20261127",
+  "generated_at": "2026-11-27T22:10:14.087911",
   "generator": "signal_engine v3.29 MVP (Phase A backtest based)",
-  "headline": "偏多 信心95% (高信心) · 3 檔個股關注",
+  "headline": "中性 信心58.3% (低信心) · 3 檔個股關注",
   "market_direction": {
-    "direction": "偏多",
-    "confidence_pct": 95,
-    "net_weight": 0.631,
+    "direction": "中性",
+    "confidence_pct": 58.3,
+    "net_weight": 0.083,
     "contributing": [
-      {
-        "name": "外資現貨",
-        "level": "extreme-bull",
-        "weight": 0.202,
-        "sign": "bull"
-      },
       {
         "name": "分點漲停",
         "level": "extreme-bull",
         "weight": 0.083,
         "sign": "bull"
-      },
-      {
-        "name": "融資熱度",
-        "level": "bull",
-        "weight": 0.196,
-        "sign": "bull"
-      },
-      {
-        "name": "法人共識",
-        "level": "extreme-bull",
-        "weight": 0.15,
-        "sign": "bull"
       }
     ],
     "ignored": [
+      "外資現貨",
       "外資期貨",
       "P/C Ratio",
+      "融資熱度",
+      "法人共識",
       "結算日壓力"
     ]
   },
   "top_focus_stocks": [
     {
       "rank": 1,
-      "code": "6213",
-      "name": "聯茂",
-      "change_pct": 10.0,
+      "code": "2313",
+      "name": "華通",
+      "change_pct": 9.82,
       "tier": "consensus",
       "master_count": 0,
       "masters": [],
-      "total_buy_amt_K": 868954,
-      "total_buy_amt_yi": 8.69,
+      "total_buy_amt_K": 3786022,
+      "total_buy_amt_yi": 37.86,
       "confidence_pct": 52,
-      "reason": "0 位 sniper 共識買 (), 漲幅 10.0%, 共淨買 8.69 億",
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.82%, 共淨買 37.86 億",
       "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
     },
     {
       "rank": 2,
-      "code": "2368",
-      "name": "金像電",
-      "change_pct": 9.94,
+      "code": "2413",
+      "name": "環科",
+      "change_pct": 9.98,
       "tier": "consensus",
       "master_count": 0,
       "masters": [],
-      "total_buy_amt_K": 1510239,
-      "total_buy_amt_yi": 15.1,
+      "total_buy_amt_K": 125403,
+      "total_buy_amt_yi": 1.25,
       "confidence_pct": 52,
-      "reason": "0 位 sniper 共識買 (), 漲幅 9.94%, 共淨買 15.1 億",
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.98%, 共淨買 1.25 億",
       "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
     },
     {
       "rank": 3,
-      "code": "3037",
-      "name": "欣興",
-      "change_pct": 9.91,
+      "code": "6152",
+      "name": "百一",
+      "change_pct": 9.9,
       "tier": "consensus",
       "master_count": 0,
       "masters": [],
-      "total_buy_amt_K": 4615096,
-      "total_buy_amt_yi": 46.15,
+      "total_buy_amt_K": 5156,
+      "total_buy_amt_yi": 0.05,
       "confidence_pct": 52,
-      "reason": "0 位 sniper 共識買 (), 漲幅 9.91%, 共淨買 46.15 億",
+      "reason": "0 位 sniper 共識買 (), 漲幅 9.9%, 共淨買 0.05 億",
       "action": "明早開盤關注強勢續攻,若沒開高可分批進場"
     }
   ],
