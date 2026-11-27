@@ -342,6 +342,11 @@
      "cum_net_wan": -160
     },
     {
+     "name": "永豐天母(老錢)",
+     "cum_net_lots": -8,
+     "cum_net_wan": -184
+    },
+    {
      "name": "布哥/n_nchang",
      "cum_net_lots": -8,
      "cum_net_wan": -157
@@ -380,11 +385,6 @@
      "name": "謝孟恭(股癌)",
      "cum_net_lots": -25,
      "cum_net_wan": -547
-    },
-    {
-     "name": "永豐天母(老錢)",
-     "cum_net_lots": -26,
-     "cum_net_wan": -184
     },
     {
      "name": "兆豐北高雄(強勢地緣)",
@@ -498,7 +498,7 @@
     {
      "code": "2313",
      "name": "華通",
-     "cum_net_wan": 187245,
+     "cum_net_wan": 185979,
      "distinct_traders": 40
     },
     {
@@ -534,8 +534,8 @@
     {
      "code": "2890",
      "name": "永豐金",
-     "cum_net_wan": 122790,
-     "distinct_traders": 30
+     "cum_net_wan": 122832,
+     "distinct_traders": 31
     },
     {
      "code": "2881",
@@ -559,7 +559,7 @@
    "rows": [
     {
      "date": "20261127",
-     "row_count": 7389,
+     "row_count": 7375,
      "traders_active": 51,
      "branches_active": 77
     }
@@ -1191,12 +1191,6 @@
     },
     {
      "date": "20261127",
-     "top_master": "永豐天母(老錢)",
-     "day_buy_wan": 42384,
-     "row_count": 93
-    },
-    {
-     "date": "20261127",
      "top_master": "嘉義幫",
      "day_buy_wan": 40896,
      "row_count": 79
@@ -1206,6 +1200,12 @@
      "top_master": "劉子豪",
      "day_buy_wan": 38383,
      "row_count": 75
+    },
+    {
+     "date": "20261127",
+     "top_master": "永豐天母(老錢)",
+     "day_buy_wan": 33334,
+     "row_count": 77
     },
     {
      "date": "20261127",
@@ -1399,9 +1399,9 @@
      "code": "2313",
      "stock_name": "華通",
      "distinct_masters": 40,
-     "buy_wan": 572228,
-     "sell_wan": 384982,
-     "net_wan": 187245,
+     "buy_wan": 571873,
+     "sell_wan": 385894,
+     "net_wan": 185979,
      "days_active": 1
     },
     {
@@ -1435,9 +1435,9 @@
      "code": "00631L",
      "stock_name": "元大台灣50正2",
      "distinct_masters": 39,
-     "buy_wan": 327325,
-     "sell_wan": 320701,
-     "net_wan": 6624,
+     "buy_wan": 326576,
+     "sell_wan": 317706,
+     "net_wan": 8869,
      "days_active": 1
     },
     {
@@ -1453,9 +1453,9 @@
      "code": "00685L",
      "stock_name": "群益臺灣加權正2",
      "distinct_masters": 38,
-     "buy_wan": 122764,
-     "sell_wan": 83537,
-     "net_wan": 39227,
+     "buy_wan": 122616,
+     "sell_wan": 83499,
+     "net_wan": 39117,
      "days_active": 1
     },
     {
@@ -1471,9 +1471,9 @@
      "code": "2409",
      "stock_name": "友達",
      "distinct_masters": 37,
-     "buy_wan": 61281,
-     "sell_wan": 90173,
-     "net_wan": -28891,
+     "buy_wan": 61361,
+     "sell_wan": 90175,
+     "net_wan": -28814,
      "days_active": 1
     }
    ],
@@ -1619,8 +1619,8 @@
     {
      "master": "永豐天母(老錢)",
      "active_days": 1,
-     "avg_day_wan": 42385.0,
-     "total_wan": 42384
+     "avg_day_wan": 33335.0,
+     "total_wan": 33334
     },
     {
      "master": "民哥",

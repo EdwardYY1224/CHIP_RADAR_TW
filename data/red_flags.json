@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T07:03:27.566004+08:00",
+  "generated_at": "2026-11-28T07:53:45.594184+08:00",
   "trade_date": "20261127",
   "pump_suspicion": [
     {
@@ -12,10 +12,10 @@
       "sell_lot": 5079,
       "buy_amt_wan": 100269,
       "daytrade_ratio": 0.93,
-      "amt_vs_median_x": 10.2,
+      "amt_vs_median_x": 9.8,
       "rule": "A_pump",
       "severity": "high",
-      "reasoning": "當沖比 93% (> 70%) + 漲停 + 買金額 100,269 萬 (中位數 9,820 萬 × 10.2)"
+      "reasoning": "當沖比 93% (> 70%) + 漲停 + 買金額 100,269 萬 (中位數 10,255 萬 × 9.8)"
     }
   ],
   "wash_trade": [
@@ -605,13 +605,28 @@
       "rule": "C_distribution",
       "severity": "medium",
       "reasoning": "當日賣 251 張 (30 天均 34 張 × 7.3) + 近 5 天漲停 63 次"
+    },
+    {
+      "stock_code": "00991A",
+      "stock_name": "主動復華未來50",
+      "branch_code": "9A9G",
+      "branch_name": "永豐金-天母",
+      "master": "永豐天母(老錢)",
+      "sell_lot": 10058,
+      "sell_amt_wan": 12426,
+      "avg_30d_sell_lot": 1830.7,
+      "sell_vs_avg_x": 5.5,
+      "recent_5d_limit_up_count": 98,
+      "rule": "C_distribution",
+      "severity": "medium",
+      "reasoning": "當日賣 10,058 張 (30 天均 1831 張 × 5.5) + 近 5 天漲停 98 次"
     }
   ],
   "summary": {
     "pump_count": 1,
     "wash_count": 30,
-    "distribution_count": 5,
-    "total": 36
+    "distribution_count": 6,
+    "total": 37
   },
   "disclaimer": "本模組僅標嫌疑 flag, 非定罪. 結果不代表實際違法行為 (合法策略也可能觸發). 任何後續行動由用戶自負."
 }
